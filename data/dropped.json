@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-10T23:23:50+08:00",
- "count": 110,
+ "updated_at": "2026-10-11T05:50:49+08:00",
+ "count": 113,
  "policy": {
   "min_stars": 5,
   "min_description_chars": 40
@@ -40,7 +40,7 @@
    "description_chars": 39,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-10T18:58:53+08:00",
-   "last_seen_dropped": "2026-10-10T23:23:50+08:00"
+   "last_seen_dropped": "2026-10-11T05:50:49+08:00"
   },
   {
    "at": "2026-10-09T20:58:12+08:00",
@@ -151,6 +151,18 @@
    "last_seen_dropped": "2026-10-05T00:18:59+08:00"
   },
   {
+   "at": "2026-10-11T05:50:47+08:00",
+   "id": "gh:EYoung21/Claude-Code-Sidechat-Mod",
+   "name": "EYoung21/Claude-Code-Sidechat-Mod",
+   "url": "https://github.com/EYoung21/Claude-Code-Sidechat-Mod",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-10-11T05:50:47+08:00",
+   "last_seen_dropped": "2026-10-11T05:50:49+08:00"
+  },
+  {
    "at": "2026-10-04T22:03:03+08:00",
    "id": "gh:FunnyQ/cc-plugins",
    "name": "FunnyQ/cc-plugins",
@@ -195,7 +207,7 @@
    "description_chars": 18,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-05T08:10:00+08:00",
-   "last_seen_dropped": "2026-10-10T21:11:51+08:00"
+   "last_seen_dropped": "2026-10-11T05:50:49+08:00"
   },
   {
    "at": "2026-10-04T22:04:33+08:00",
@@ -267,7 +279,7 @@
    "description_chars": 28,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-10T16:48:16+08:00",
-   "last_seen_dropped": "2026-10-10T23:23:50+08:00"
+   "last_seen_dropped": "2026-10-11T05:50:49+08:00"
   },
   {
    "at": "2026-10-04T22:03:03+08:00",
@@ -328,6 +340,18 @@
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-05T05:54:46+08:00",
    "last_seen_dropped": "2026-10-05T05:54:48+08:00"
+  },
+  {
+   "at": "2026-10-11T05:50:47+08:00",
+   "id": "gh:Mmathieus/claude-code-statusline",
+   "name": "Mmathieus/claude-code-statusline",
+   "url": "https://github.com/Mmathieus/claude-code-statusline",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-10-11T05:50:47+08:00",
+   "last_seen_dropped": "2026-10-11T05:50:49+08:00"
   },
   {
    "at": "2026-10-05T01:24:38+08:00",
@@ -570,6 +594,18 @@
    "last_seen_dropped": "2026-10-05T12:41:53+08:00"
   },
   {
+   "at": "2026-10-11T05:50:47+08:00",
+   "id": "gh:classA19/claude-skills-and-mods",
+   "name": "classA19/claude-skills-and-mods",
+   "url": "https://github.com/classA19/claude-skills-and-mods",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-10-11T05:50:47+08:00",
+   "last_seen_dropped": "2026-10-11T05:50:49+08:00"
+  },
+  {
    "at": "2026-10-06T20:14:21+08:00",
    "id": "gh:coderPerseus/dsh-hub",
    "name": "coderPerseus/dsh-hub",
@@ -603,7 +639,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-04T22:03:03+08:00",
-   "last_seen_dropped": "2026-10-10T23:23:50+08:00"
+   "last_seen_dropped": "2026-10-11T05:50:49+08:00"
   },
   {
    "at": "2026-10-04T22:04:33+08:00",
@@ -699,7 +735,7 @@
    "description_chars": 28,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-09T16:31:11+08:00",
-   "last_seen_dropped": "2026-10-10T23:23:50+08:00"
+   "last_seen_dropped": "2026-10-11T05:50:49+08:00"
   },
   {
    "at": "2026-10-09T16:31:11+08:00",
@@ -735,7 +771,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-07T07:52:50+08:00",
-   "last_seen_dropped": "2026-10-10T23:23:50+08:00"
+   "last_seen_dropped": "2026-10-11T05:50:49+08:00"
   },
   {
    "at": "2026-10-05T00:33:04+08:00",
@@ -1226,7 +1262,7 @@
    "description_chars": 30,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-05T00:33:04+08:00",
-   "last_seen_dropped": "2026-10-10T18:58:54+08:00"
+   "last_seen_dropped": "2026-10-11T05:50:49+08:00"
   },
   {
    "at": "2026-10-04T22:03:03+08:00",
@@ -1250,7 +1286,7 @@
    "description_chars": 35,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-08T10:39:21+08:00",
-   "last_seen_dropped": "2026-10-10T23:23:50+08:00"
+   "last_seen_dropped": "2026-10-11T05:50:49+08:00"
   },
   {
    "at": "2026-10-06T02:13:19+08:00",

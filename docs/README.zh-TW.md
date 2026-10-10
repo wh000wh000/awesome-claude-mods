@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/entries-599-0d9488" alt="entries">
+  <img src="https://img.shields.io/badge/entries-617-0d9488" alt="entries">
   <img src="https://img.shields.io/badge/languages-20-1f6feb" alt="languages">
   <img src="https://img.shields.io/badge/refresh-every%202h-16a34a" alt="refresh">
   <a href="../LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="MIT"></a>
@@ -18,8 +18,8 @@
 <p align="center"><sub><a href="../README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <b>繁體中文</b> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.ru.md">Русский</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.vi.md">Tiếng Việt</a> · <a href="README.th.md">ไทย</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.pl.md">Polski</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.uk.md">Українська</a></sub></p>
 
 > [!NOTE]
-> **即時索引** · 上次同步: `2026-10-10T23:31:01+08:00` (UTC+8)
-> · 條目: **599** · 最新更新新增項目: **0** · 實作語言: **12**
+> **即時索引** · 上次同步: `2026-10-11T05:58:46+08:00` (UTC+8)
+> · 條目: **617** · 最新更新新增項目: **0** · 實作語言: **10**
 
 <sub>以下每個條目都經過自動收集、篩選與再次核查。這裡沒有任何付費置入。</sub>
 
@@ -34,20 +34,20 @@
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/anthropics--claude-code-action/b852b554eaf6a231.jpg" width="100%" alt="anthropics/claude-code-action">
 <b>🏛️ <a href="https://github.com/anthropics/claude-code-action">anthropics/claude-code-action</a></b>
-<sub>⭐9463 · TypeScript · ✅ official</sub>
+<sub>⭐9466 · TypeScript · ✅ official</sub>
 </td>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/hamzafer--claude-code-mods/c683a5d95e78d920.png" width="100%" alt="hamzafer/claude-code-mods">
-<b>🧩 <a href="https://github.com/hamzafer/claude-code-mods">hamzafer/claude-code-mods</a></b>
-<sub>⭐178 · TypeScript · 👁️ observed</sub>
-<sub>Claude Code mods：基於 hooks 建立的外掛，可在提示上方即時加入行、守衛、面板與遊戲。Context bar、使用量計量器、Codex review watch、Markdown 預覽、Spotify 正在播放等。</sub>
+<img src="https://raw.githubusercontent.com/alexgreensh/token-optimizer/main/skills/token-optimizer/assets/dashboard-demo.gif" width="100%" alt="alexgreensh/token-optimizer">
+<b>🧩 <a href="https://github.com/alexgreensh/token-optimizer">alexgreensh/token-optimizer</a></b>
+<sub>⭐2532 · Python · 👁️ observed</sub>
+<sub>Find the ghost tokens. Fix them. Survive compaction. Avoid context quality decay.</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/ruvnet--ruflo/86b2691275e30a26.jpg" width="100%" alt="ruvnet/ruflo">
 <b>🧵 <a href="https://github.com/ruvnet/ruflo">ruvnet/ruflo</a></b>
-<sub>⭐74252 · TypeScript · 👁️ observed</sub>
+<sub>⭐74280 · TypeScript · 👁️ observed</sub>
 <sub>🌊 原始代理人框架。部署智慧型多玩家群集、協調自主工作流程，並建構對話式 AI 系統。具備自適應記憶、自我學習智慧、聯邦、向量 RAG 整合，以及原生支援 Claude Code / Codex / Hermes 和許多其他工具</sub>
 </td>
 <td width="50%" valign="top">
@@ -61,9 +61,9 @@
 
 - [什麼是 Claude Code 模組](#什麼是-claude-code-模組)
 - [條目分級方式](#條目分級方式)
-- [官方：Anthropic 自有的程式碼儲存庫與版本發行說明](#官方anthropic-自有的程式碼儲存庫與版本發行說明) — **17**
-- [模組：使用模組功能建立](#模組使用模組功能建立) — **467**
-- [DSH 與 Cordis 外掛生態系](#dsh-與-cordis-外掛生態系) — **104**
+- [官方：Anthropic 自有的程式碼儲存庫與版本發行說明](#官方anthropic-自有的程式碼儲存庫與版本發行說明) — **16**
+- [模組：使用模組功能建立](#模組使用模組功能建立) — **493**
+- [DSH 與 Cordis 外掛生態系](#dsh-與-cordis-外掛生態系) — **97**
 - [文章、討論與影片](#文章討論與影片) — **11**
 - [按實作語言分類的專案](#按實作語言分類的專案)
 
@@ -93,7 +93,7 @@ Claude Code 在 2.1.287 版加入了 **模組**：這類擴充功能能比外掛
 Anthropic 自有的 Claude Code 程式碼儲存庫，以及定義模組介面的版本發行內容。直接閱讀來源，而非摘要整理。
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code">anthropics/claude-code</a></b> · ⭐150006 · TypeScript · ✅ official · 0 天</summary>
+<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code">anthropics/claude-code</a></b> · ⭐150059 · TypeScript · ✅ official · 1 天</summary>
 
 ##### 📝 Summary
 
@@ -113,14 +113,14 @@ Claude Code 是一款駐留在終端機中的代理式編碼工具，能理解�
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **150006** |
+| Stars        | **150059** |
 | Last push    | 2026-10-09 |
 | First listed | 2026-10-04 |
 
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code-action">anthropics/claude-code-action</a></b> · ⭐9463 · TypeScript · ✅ official · 0 天</summary>
+<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code-action">anthropics/claude-code-action</a></b> · ⭐9466 · TypeScript · ✅ official · 1 天</summary>
 
 ##### 📝 Summary
 
@@ -138,7 +138,7 @@ No upstream description was published.
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **9463**   |
+| Stars        | **9466**   |
 | Last push    | 2026-10-09 |
 | First listed | 2026-10-04 |
 
@@ -152,7 +152,7 @@ No upstream description was published.
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/anthropics/claude-agent-sdk-python">anthropics/claude-agent-sdk-python</a></b> · ⭐8243 · Python · ✅ official · 0 天</summary>
+<summary>🏛️ <b><a href="https://github.com/anthropics/claude-agent-sdk-python">anthropics/claude-agent-sdk-python</a></b> · ⭐8244 · Python · ✅ official · 1 天</summary>
 
 ##### 📝 Summary
 
@@ -170,14 +170,14 @@ No upstream description was published.
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **8243**   |
+| Stars        | **8244**   |
 | Last push    | 2026-10-09 |
 | First listed | 2026-10-04 |
 
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code-security-review">anthropics/claude-code-security-review</a></b> · ⭐6331 · Python · ✅ official · 240 天</summary>
+<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code-security-review">anthropics/claude-code-security-review</a></b> · ⭐6335 · Python · ✅ official · 241 天</summary>
 
 ##### 📝 Summary
 
@@ -195,14 +195,14 @@ No upstream description was published.
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **6331**   |
+| Stars        | **6335**   |
 | Last push    | 2026-02-11 |
 | First listed | 2026-10-04 |
 
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/anthropics/claude-agent-sdk-typescript">anthropics/claude-agent-sdk-typescript</a></b> · ⭐1797 · Shell · ✅ official · 0 天</summary>
+<summary>🏛️ <b><a href="https://github.com/anthropics/claude-agent-sdk-typescript">anthropics/claude-agent-sdk-typescript</a></b> · ⭐1799 · Shell · ✅ official · 1 天</summary>
 
 ##### 📝 Summary
 
@@ -220,14 +220,14 @@ No upstream description was published.
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **1797**   |
+| Stars        | **1799**   |
 | Last push    | 2026-10-09 |
 | First listed | 2026-10-04 |
 
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/anthropics/model-cards">anthropics/model-cards</a></b> · ⭐24 · ✅ official · 308 天</summary>
+<summary>🏛️ <b><a href="https://github.com/anthropics/model-cards">anthropics/model-cards</a></b> · ⭐25 · ✅ official · 309 天</summary>
 
 ##### 📝 Summary
 
@@ -244,7 +244,7 @@ Claude Model Cards 的補充材料
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **24**     |
+| Stars        | **25**     |
 | Last push    | 2025-12-05 |
 | First listed | 2026-10-05 |
 
@@ -383,38 +383,6 @@ Claude Model Cards 的補充材料
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/see-stack/claude-code-mods">see-stack/claude-code-mods</a></b> · TypeScript · 👁️ observed · 0 天</summary>
-
-##### 📝 Summary
-
-See Stack 官方 Claude Code Mods：互動式內容列、語音播放器與終端機工具。
-
-##### 📌 Basic facts
-
-| Field    | Value                                              |
-| -------- | -------------------------------------------------- |
-| Category | `官方：Anthropic 自有的程式碼儲存庫與版本發行說明` |
-| Evidence | `其自身文字提到模組 API，或宣告具備模組功能`       |
-| 語言     | TypeScript                                         |
-
-##### 📊 Data
-
-| Metric       | Value      |
-| ------------ | ---------- |
-| Stars        | **0**      |
-| Last push    | 2026-10-10 |
-| First listed | 2026-10-10 |
-
----
-
-<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/see-stack--claude-code-mods/6cbb21cab871f393.gif" width="100%" alt="see-stack/claude-code-mods screenshot"></td>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/see-stack--claude-code-mods/6cbb21cab871f393.gif" width="100%" alt="see-stack/claude-code-mods animation"><br><sub>動畫錄影</sub></td>
-</tr></table>
-
-</details>
-
-<details>
 <summary>🏛️ <b><a href="https://github.com/PerryLink/dsh-mcp-panel">PerryLink/dsh-mcp-panel</a></b> · ⭐74 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Summary
@@ -453,7 +421,7 @@ See Stack 官方 Claude Code Mods：互動式內容列、語音播放器與終�
 
 ##### 📝 Summary
 
-this is a launcher for the official DeepSeek Harness. no modifications it just launches what DeepSeek develops.
+這是官方 DeepSeek Harness 的啟動器。不進行任何修改，只會啟動 DeepSeek 開發的內容。
 
 ##### 📌 Basic facts
 
@@ -497,13 +465,49 @@ this is a launcher for the official DeepSeek Harness. no modifications it just l
 此處的每個項目都展現了使用 Claude Code 在 2.1.287 中取得的功能的證據：它透過 `ui.render` 繪製內容、擁有窗格、區段或卡片、讀取 `$.ui.selection()`、使用 `agent.spawn` 產生隊友，或明確表示自己是模組。
 
 <details>
-<summary>🧩 <b><a href="https://github.com/karanb192/awesome-claude-code-mods">karanb192/awesome-claude-code-mods</a></b> · ⭐460 · JavaScript · 👁️ observed · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/alexgreensh/token-optimizer">alexgreensh/token-optimizer</a></b> · ⭐2532 · Python · 👁️ observed · 0 天</summary>
+
+##### 📝 Summary
+
+Find the ghost tokens. Fix them. Survive compaction. Avoid context quality decay.
+
+##### 📌 Basic facts
+
+| Field    | Value                                        |
+| -------- | -------------------------------------------- |
+| Category | `模組：使用模組功能建立`                     |
+| Evidence | `其自身文字提到模組 API，或宣告具備模組功能` |
+| 語言     | Python                                       |
+
+##### 📊 Data
+
+| Metric       | Value      |
+| ------------ | ---------- |
+| Stars        | **2532**   |
+| Last push    | 2026-10-10 |
+| First listed | 2026-10-11 |
+
+🏷 `agentskills` · `claude-code` · `claude-code-mod` · `claude-code-skill` · `claude-plugin` · `codex` · `context-engineering` · `context-window`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/alexgreensh/token-optimizer/main/skills/token-optimizer/assets/dashboard-demo.gif" width="100%" alt="alexgreensh/token-optimizer screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/alexgreensh/token-optimizer/main/skills/token-optimizer/assets/dashboard-demo.gif" width="100%" alt="alexgreensh/token-optimizer animation"><br><sub>動畫錄影</sub></td>
+</tr></table>
+
+<sub>由於未宣告允許重新散布的授權條款，資產以熱連結方式載入自上游儲存庫。</sub>
+
+</details>
+
+<details>
+<summary>🧩 <b><a href="https://github.com/karanb192/awesome-claude-code-mods">karanb192/awesome-claude-code-mods</a></b> · ⭐467 · JavaScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 Summary
 
 公開 Claude Code 模組（函式 Hooks）的社群目錄，從 GitHub 掃描，並列出每個模組可以讀取、寫入、執行或透過網路傳送的內容。瀏覽 https://mods.aidojo.si/
 
-<sub>🔧 在程式碼中找到使用處: `data/seeds.txt`, `data/duplicates.txt`, `README.md`, `contributing.md`</sub>
+<sub>🔧 在程式碼中找到使用處: `data/seeds.txt`, `data/duplicates.txt`, `data/repos.txt`</sub>
 
 ##### 📌 Basic facts
 
@@ -517,7 +521,7 @@ this is a launcher for the official DeepSeek Harness. no modifications it just l
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **460**    |
+| Stars        | **467**    |
 | Last push    | 2026-10-10 |
 | First listed | 2026-10-04 |
 
@@ -526,13 +530,13 @@ this is a launcher for the official DeepSeek Harness. no modifications it just l
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/hamzafer/claude-code-mods">hamzafer/claude-code-mods</a></b> · ⭐178 · TypeScript · 👁️ observed · 1 天</summary>
+<summary>🧩 <b><a href="https://github.com/hamzafer/claude-code-mods">hamzafer/claude-code-mods</a></b> · ⭐181 · TypeScript · 👁️ observed · 1 天</summary>
 
 ##### 📝 Summary
 
 Claude Code mods：基於 hooks 建立的外掛，可在提示上方即時加入行、守衛、面板與遊戲。Context bar、使用量計量器、Codex review watch、Markdown 預覽、Spotify 正在播放等。
 
-<sub>🔧 在程式碼中找到使用處: `mods/next-steps/hooks/register.tsx`, `mods/agent-radar/hooks/register.tsx`, `mods/review-watch/hooks/register.tsx`</sub>
+<sub>🔧 在程式碼中找到使用處: `mods/next-steps/hooks/register.tsx`, `mods/agent-radar/hooks/register.tsx`</sub>
 
 ##### 📌 Basic facts
 
@@ -546,7 +550,7 @@ Claude Code mods：基於 hooks 建立的外掛，可在提示上方即時加入
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **178**    |
+| Stars        | **181**    |
 | Last push    | 2026-10-09 |
 | First listed | 2026-10-04 |
 
@@ -562,11 +566,81 @@ Claude Code mods：基於 hooks 建立的外掛，可在提示上方即時加入
 </details>
 
 <details>
+<summary>🧩 <b><a href="https://github.com/karanb192/cache-tax">karanb192/cache-tax</a></b> · ⭐115 · TypeScript · 👁️ observed · 6 天</summary>
+
+##### 📝 Summary
+
+在休息期間保持 Claude Code 的提示詞快取溫熱，並在冷啟動傳送前顯示預估成本。
+
+##### 📌 Basic facts
+
+| Field    | Value                                        |
+| -------- | -------------------------------------------- |
+| Category | `模組：使用模組功能建立`                     |
+| Evidence | `其自身文字提到模組 API，或宣告具備模組功能` |
+| 語言     | TypeScript                                   |
+
+##### 📊 Data
+
+| Metric       | Value      |
+| ------------ | ---------- |
+| Stars        | **115**    |
+| Last push    | 2026-10-04 |
+| First listed | 2026-10-10 |
+
+🏷 `claude-code` · `claude-code-plugin` · `claude-mods` · `function-hooks` · `prompt-caching`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/karanb192--cache-tax/9ba5b1dbc9440791.png" width="100%" alt="karanb192/cache-tax screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/karanb192--cache-tax/e1a7cdd41b0efd1b.gif" width="100%" alt="karanb192/cache-tax animation"><br><sub>動畫錄影 · <a href="https://raw.githubusercontent.com/karanb192/cache-tax/main/docs/assets/cache-cost-explainer.mp4">開啟影片</a></sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧩 <b><a href="https://github.com/HeyCubit/effortless">HeyCubit/effortless</a></b> · ⭐106 · HTML · 👁️ observed · 0 天</summary>
+
+##### 📝 Summary
+
+Claude Code mod: picks the reasoning effort for every prompt, shows the prompt cache and context, and hands off or compacts in one click
+
+<sub>🔧 在程式碼中找到使用處: `docs/agent-panel/PLAN.md`, `hooks/register.tsx`</sub>
+
+##### 📌 Basic facts
+
+| Field    | Value                                        |
+| -------- | -------------------------------------------- |
+| Category | `模組：使用模組功能建立`                     |
+| Evidence | `其自身文字提到模組 API，或宣告具備模組功能` |
+| 語言     | HTML                                         |
+
+##### 📊 Data
+
+| Metric       | Value      |
+| ------------ | ---------- |
+| Stars        | **106**    |
+| Last push    | 2026-10-10 |
+| First listed | 2026-10-11 |
+
+🏷 `ai-tools` · `anthropic` · `claude` · `claude-code` · `claude-code-plugin` · `developer-tools` · `prompt-caching`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/heycubit--effortless/ad0a6472f7a34cd7.png" width="100%" alt="HeyCubit/effortless screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/heycubit--effortless/fcef2f9593961020.gif" width="100%" alt="HeyCubit/effortless animation"><br><sub>動畫錄影</sub></td>
+</tr></table>
+
+</details>
+
+<details>
 <summary>🧩 <b><a href="https://github.com/awss1i/assay">awss1i/assay</a></b> · ⭐104 · HTML · 👁️ observed · 0 天</summary>
 
 ##### 📝 Summary
 
-一款由浏览器驱动、用于网页的确定性 QA 工具。无需撰写测试，也不需要 LLM。
+An agent-native QA CLI for web pages. Deterministic, no tests to write, no LLM.
 
 ##### 📌 Basic facts
 
@@ -589,41 +663,7 @@ Claude Code mods：基於 hooks 建立的外掛，可在提示上方即時加入
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/karanb192/cache-tax">karanb192/cache-tax</a></b> · ⭐104 · TypeScript · 👁️ observed · 6 天</summary>
-
-##### 📝 Summary
-
-在休息期間保持 Claude Code 的提示詞快取溫熱，並在冷啟動傳送前顯示預估成本。
-
-##### 📌 Basic facts
-
-| Field    | Value                                        |
-| -------- | -------------------------------------------- |
-| Category | `模組：使用模組功能建立`                     |
-| Evidence | `其自身文字提到模組 API，或宣告具備模組功能` |
-| 語言     | TypeScript                                   |
-
-##### 📊 Data
-
-| Metric       | Value      |
-| ------------ | ---------- |
-| Stars        | **104**    |
-| Last push    | 2026-10-04 |
-| First listed | 2026-10-10 |
-
-🏷 `claude-code` · `claude-code-plugin` · `claude-mods` · `function-hooks` · `prompt-caching`
-
----
-
-<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/karanb192--cache-tax/9ba5b1dbc9440791.png" width="100%" alt="karanb192/cache-tax screenshot"></td>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/karanb192--cache-tax/e1a7cdd41b0efd1b.gif" width="100%" alt="karanb192/cache-tax animation"><br><sub>動畫錄影 · <a href="https://raw.githubusercontent.com/karanb192/cache-tax/main/docs/assets/cache-cost-explainer.mp4">開啟影片</a></sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧩 <b><a href="https://github.com/hellosverre/claude-skins">hellosverre/claude-skins</a></b> · ⭐79 · TypeScript · 👁️ observed · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/hellosverre/claude-skins">hellosverre/claude-skins</a></b> · ⭐88 · TypeScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 Summary
 
@@ -641,7 +681,7 @@ Claude Code 的外觀：帶有圖示的工具列、diff、表格與 Mermaid 圖�
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **79**     |
+| Stars        | **88**     |
 | Last push    | 2026-10-10 |
 | First listed | 2026-10-10 |
 
@@ -657,7 +697,7 @@ Claude Code 的外觀：帶有圖示的工具列、diff、表格與 Mermaid 圖�
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/Tickloop/claude-mods">Tickloop/claude-mods</a></b> · ⭐77 · TypeScript · 👁️ observed · 1 天</summary>
+<summary>🧩 <b><a href="https://github.com/Tickloop/claude-mods">Tickloop/claude-mods</a></b> · ⭐77 · TypeScript · 👁️ observed · 2 天</summary>
 
 ##### 📝 Summary
 
@@ -682,7 +722,41 @@ claude code 模組集合
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/darrell-tw/darrelltw-mods">darrell-tw/darrelltw-mods</a></b> · ⭐65 · HTML · 👁️ observed · 4 天</summary>
+<summary>🧩 <b><a href="https://github.com/NahumLitvin/prismantis">NahumLitvin/prismantis</a></b> · ⭐74 · TypeScript · 👁️ observed · 0 天</summary>
+
+##### 📝 Summary
+
+Colorful, themeable Claude Code replies: tables, code, diagrams, charts and tool rows in 15 themes, with copy buttons. A Claude Code mod.
+
+##### 📌 Basic facts
+
+| Field    | Value                                        |
+| -------- | -------------------------------------------- |
+| Category | `模組：使用模組功能建立`                     |
+| Evidence | `其自身文字提到模組 API，或宣告具備模組功能` |
+| 語言     | TypeScript                                   |
+
+##### 📊 Data
+
+| Metric       | Value      |
+| ------------ | ---------- |
+| Stars        | **74**     |
+| Last push    | 2026-10-10 |
+| First listed | 2026-10-11 |
+
+🏷 `claude-code` · `claude-code-mod` · `claude-code-plugin` · `markdown` · `mermaid` · `terminal` · `theme`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/nahumlitvin--prismantis/f6e44059e77434b4.png" width="100%" alt="NahumLitvin/prismantis screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/nahumlitvin--prismantis/9df6377936558503.gif" width="100%" alt="NahumLitvin/prismantis animation"><br><sub>動畫錄影</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧩 <b><a href="https://github.com/darrell-tw/darrelltw-mods">darrell-tw/darrelltw-mods</a></b> · ⭐65 · HTML · 👁️ observed · 5 天</summary>
 
 ##### 📝 Summary
 
@@ -707,7 +781,7 @@ Darrell Wang 製作的 Claude Code mods — 提示詞上方的頻段，不佔用
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/scasella/claude-flightdeck">scasella/claude-flightdeck</a></b> · ⭐58 · TypeScript · 👁️ observed · 7 天</summary>
+<summary>🧩 <b><a href="https://github.com/scasella/claude-flightdeck">scasella/claude-flightdeck</a></b> · ⭐59 · TypeScript · 👁️ observed · 8 天</summary>
 
 ##### 📝 Summary
 
@@ -725,7 +799,7 @@ Darrell Wang 製作的 Claude Code mods — 提示詞上方的頻段，不佔用
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **58**     |
+| Stars        | **59**     |
 | Last push    | 2026-10-02 |
 | First listed | 2026-10-10 |
 
@@ -770,34 +844,7 @@ Darrell Wang 製作的 Claude Code mods — 提示詞上方的頻段，不佔用
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/whyashthakker/awesome-claude-code-mods">whyashthakker/awesome-claude-code-mods</a></b> · ⭐44 · TypeScript · 👁️ observed · 7 天</summary>
-
-##### 📝 Summary
-
-可與 Claude Code 搭配使用的 100 多個 mods 集合。
-
-##### 📌 Basic facts
-
-| Field    | Value                                        |
-| -------- | -------------------------------------------- |
-| Category | `模組：使用模組功能建立`                     |
-| Evidence | `其自身文字提到模組 API，或宣告具備模組功能` |
-| 語言     | TypeScript                                   |
-
-##### 📊 Data
-
-| Metric       | Value      |
-| ------------ | ---------- |
-| Stars        | **44**     |
-| Last push    | 2026-10-03 |
-| First listed | 2026-10-04 |
-
-🏷 `claude` · `claude-code` · `claude-code-mod` · `claude-code-mods` · `claude-code-plugin`
-
-</details>
-
-<details>
-<summary>🧩 <b><a href="https://github.com/zycck/claude-mods">zycck/claude-mods</a></b> · ⭐44 · TypeScript · 👁️ observed · 1 天</summary>
+<summary>🧩 <b><a href="https://github.com/zycck/claude-mods">zycck/claude-mods</a></b> · ⭐45 · TypeScript · 👁️ observed · 2 天</summary>
 
 ##### 📝 Summary
 
@@ -815,7 +862,7 @@ Claude Code 模組：提示上方的即時計畫進度列
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **44**     |
+| Stars        | **45**     |
 | Last push    | 2026-10-08 |
 | First listed | 2026-10-04 |
 
@@ -825,35 +872,6 @@ Claude Code 模組：提示上方的即時計畫進度列
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/zycck--claude-mods/49f09d1600b02c7a.gif" width="100%" alt="zycck/claude-mods screenshot"></td>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/zycck--claude-mods/25f4230871cb30f6.gif" width="100%" alt="zycck/claude-mods animation"><br><sub>動畫錄影 · <a href="https://raw.githubusercontent.com/zycck/claude-mods/main/media/plan-progress.mp4">開啟影片</a></sub></td>
 </tr></table>
-
-</details>
-
-<details>
-<summary>🧩 <b><a href="https://github.com/karanb192/claude-code-mods">karanb192/claude-code-mods</a></b> · ⭐40 · JavaScript · 👁️ observed · 7 天</summary>
-
-##### 📝 Summary
-
-Claude Mods 及其建置工具：先是 builder skill，接著是 mods
-
-<sub>🔧 在程式碼中找到使用處: `plugins/mod-builder/skills/mod-builder/references/migrate.md`, `plugins/mod-builder/skills/mod-builder/references/nouns.md`</sub>
-
-##### 📌 Basic facts
-
-| Field    | Value                                        |
-| -------- | -------------------------------------------- |
-| Category | `模組：使用模組功能建立`                     |
-| Evidence | `其自身文字提到模組 API，或宣告具備模組功能` |
-| 語言     | JavaScript                                   |
-
-##### 📊 Data
-
-| Metric       | Value      |
-| ------------ | ---------- |
-| Stars        | **40**     |
-| Last push    | 2026-10-03 |
-| First listed | 2026-10-04 |
-
-🏷 `claude` · `claude-code` · `claude-code-plugin` · `claude-mods` · `function-hooks` · `prompt-caching`
 
 </details>
 
@@ -892,7 +910,7 @@ Claude Mods 及其建置工具：先是 builder skill，接著是 mods
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/oikon48/prompt-rail">oikon48/prompt-rail</a></b> · ⭐26 · TypeScript · 👁️ observed · 7 天</summary>
+<summary>🧩 <b><a href="https://github.com/oikon48/prompt-rail">oikon48/prompt-rail</a></b> · ⭐27 · TypeScript · 👁️ observed · 7 天</summary>
 
 ##### 📝 Summary
 
@@ -910,7 +928,7 @@ Claude Mods 及其建置工具：先是 builder skill，接著是 mods
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **26**     |
+| Stars        | **27**     |
 | Last push    | 2026-10-03 |
 | First listed | 2026-10-04 |
 
@@ -921,6 +939,40 @@ Claude Mods 及其建置工具：先是 builder skill，接著是 mods
 <table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/oikon48--prompt-rail/d6ee96dd984886df.png" width="100%" alt="oikon48/prompt-rail screenshot"></td>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/oikon48--prompt-rail/87309761ea9d1f19.gif" width="100%" alt="oikon48/prompt-rail animation"><br><sub>動畫錄影</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧩 <b><a href="https://github.com/NovusEdge/glowup">NovusEdge/glowup</a></b> · ⭐23 · TypeScript · 👁️ observed · 0 天</summary>
+
+##### 📝 Summary
+
+A glow-up for Claude Code: a live cockpit pane, shareable themes, and a pixel pet that acts out what Claude is doing
+
+##### 📌 Basic facts
+
+| Field    | Value                                        |
+| -------- | -------------------------------------------- |
+| Category | `模組：使用模組功能建立`                     |
+| Evidence | `其自身文字提到模組 API，或宣告具備模組功能` |
+| 語言     | TypeScript                                   |
+
+##### 📊 Data
+
+| Metric       | Value      |
+| ------------ | ---------- |
+| Stars        | **23**     |
+| Last push    | 2026-10-10 |
+| First listed | 2026-10-11 |
+
+🏷 `ai-coding` · `anthropic` · `claude` · `claude-code` · `claude-code-mod` · `developer-tools` · `eye-candy` · `terminal`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/novusedge--glowup/52396333a085f3d5.gif" width="100%" alt="NovusEdge/glowup screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/novusedge--glowup/4905ed24c2c755ad.gif" width="100%" alt="NovusEdge/glowup animation"><br><sub>動畫錄影</sub></td>
 </tr></table>
 
 </details>
@@ -994,7 +1046,7 @@ Claude Code 模组：21 种风格，以及一整套可在需要时开启的功�
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/promptadvisers/claude-mods-starter-kit">promptadvisers/claude-mods-starter-kit</a></b> · ⭐19 · JavaScript · 👁️ observed · 7 天</summary>
+<summary>🧩 <b><a href="https://github.com/promptadvisers/claude-mods-starter-kit">promptadvisers/claude-mods-starter-kit</a></b> · ⭐20 · JavaScript · 👁️ observed · 8 天</summary>
 
 ##### 📝 Summary
 
@@ -1012,7 +1064,7 @@ Claude Code 模组：21 种风格，以及一整套可在需要时开启的功�
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **19**     |
+| Stars        | **20**     |
 | Last push    | 2026-10-02 |
 | First listed | 2026-10-04 |
 
@@ -1128,6 +1180,42 @@ Claude Code 模組：在提示詞上方的單一列中顯示 token 中的上下�
 </details>
 
 <details>
+<summary>🧩 <b><a href="https://github.com/OneWave-AI/claude-code-mods">OneWave-AI/claude-code-mods</a></b> · ⭐11 · TypeScript · 👁️ observed · 7 天</summary>
+
+##### 📝 Summary
+
+Claude Code 的十個開源模組：即時窗格、橫幅、狀態列與工具呼叫防護。燃燒計、發射代碼、工作階段結束、頭目戰、程式碼寵物及更多功能。
+
+<sub>🔧 在程式碼中找到使用處: `swarm/README.md`</sub>
+
+##### 📌 Basic facts
+
+| Field    | Value                                        |
+| -------- | -------------------------------------------- |
+| Category | `模組：使用模組功能建立`                     |
+| Evidence | `其自身文字提到模組 API，或宣告具備模組功能` |
+| 語言     | TypeScript                                   |
+
+##### 📊 Data
+
+| Metric       | Value      |
+| ------------ | ---------- |
+| Stars        | **11**     |
+| Last push    | 2026-10-03 |
+| First listed | 2026-10-04 |
+
+🏷 `anthropic` · `claude` · `claude-code` · `claude-code-mods` · `claude-code-plugins`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/onewave-ai--claude-code-mods/763e0352f43b1cbc.png" width="100%" alt="OneWave-AI/claude-code-mods screenshot"></td>
+<td align="center" valign="top"><sub>尚未發布媒體</sub></td>
+</tr></table>
+
+</details>
+
+<details>
 <summary>🧩 <b><a href="https://github.com/promptadvisers/claude-mods-computer-use-threads">promptadvisers/claude-mods-computer-use-threads</a></b> · ⭐11 · JavaScript · 👁️ observed · 5 天</summary>
 
 ##### 📝 Summary
@@ -1194,43 +1282,7 @@ Claude Code 模組：在提示詞上方的單一列中顯示 token 中的上下�
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/OneWave-AI/claude-code-mods">OneWave-AI/claude-code-mods</a></b> · ⭐10 · TypeScript · 👁️ observed · 7 天</summary>
-
-##### 📝 Summary
-
-Claude Code 的十個開源模組：即時窗格、橫幅、狀態列與工具呼叫防護。燃燒計、發射代碼、工作階段結束、頭目戰、程式碼寵物及更多功能。
-
-<sub>🔧 在程式碼中找到使用處: `swarm/README.md`</sub>
-
-##### 📌 Basic facts
-
-| Field    | Value                                        |
-| -------- | -------------------------------------------- |
-| Category | `模組：使用模組功能建立`                     |
-| Evidence | `其自身文字提到模組 API，或宣告具備模組功能` |
-| 語言     | TypeScript                                   |
-
-##### 📊 Data
-
-| Metric       | Value      |
-| ------------ | ---------- |
-| Stars        | **10**     |
-| Last push    | 2026-10-03 |
-| First listed | 2026-10-04 |
-
-🏷 `anthropic` · `claude` · `claude-code` · `claude-code-mods` · `claude-code-plugins`
-
----
-
-<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/onewave-ai--claude-code-mods/763e0352f43b1cbc.png" width="100%" alt="OneWave-AI/claude-code-mods screenshot"></td>
-<td align="center" valign="top"><sub>尚未發布媒體</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧩 <b><a href="https://github.com/deepsteve/deepsteve">deepsteve/deepsteve</a></b> · ⭐9 · JavaScript · 👁️ observed · 1 天</summary>
+<summary>🧩 <b><a href="https://github.com/deepsteve/deepsteve">deepsteve/deepsteve</a></b> · ⭐9 · JavaScript · 👁️ observed · 2 天</summary>
 
 ##### 📝 Summary
 
@@ -1330,6 +1382,42 @@ KOZMOS——適用於 Claude Code 的即時視覺化模組（CLI + 桌面）：�
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/az9713--claude-mod-pack/7889282e792ed11e.png" width="100%" alt="az9713/claude-mod-pack screenshot"></td>
 <td align="center" valign="top"><sub>尚未發布媒體</sub></td>
 </tr></table>
+
+</details>
+
+<details>
+<summary>🧩 <b><a href="https://github.com/Arunjay4213/claude-mods">Arunjay4213/claude-mods</a></b> · ⭐7 · TypeScript · 👁️ observed · 25 天</summary>
+
+##### 📝 Summary
+
+以模組形式建立的 Claude Code 工作階段追蹤器：內容視窗、計畫配額消耗率、每回合成本
+
+##### 📌 Basic facts
+
+| Field    | Value                                        |
+| -------- | -------------------------------------------- |
+| Category | `模組：使用模組功能建立`                     |
+| Evidence | `其自身文字提到模組 API，或宣告具備模組功能` |
+| 語言     | TypeScript                                   |
+
+##### 📊 Data
+
+| Metric       | Value      |
+| ------------ | ---------- |
+| Stars        | **7**      |
+| Last push    | 2026-09-15 |
+| First listed | 2026-10-04 |
+
+🏷 `claude-code` · `claude-code-plugin` · `claude-mods` · `developer-tools` · `function-hooks` · `terminal`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/Arunjay4213/claude-mods/main/docs/demo.gif" width="100%" alt="Arunjay4213/claude-mods screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/Arunjay4213/claude-mods/main/docs/demo.gif" width="100%" alt="Arunjay4213/claude-mods animation"><br><sub>動畫錄影</sub></td>
+</tr></table>
+
+<sub>由於未宣告允許重新散布的授權條款，資產以熱連結方式載入自上游儲存庫。</sub>
 
 </details>
 
@@ -1466,43 +1554,7 @@ Claude Code 的模組：為終端機 UI 新增即時窗格與行為的函式鉤�
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/Arunjay4213/claude-mods">Arunjay4213/claude-mods</a></b> · ⭐6 · TypeScript · 👁️ observed · 24 天</summary>
-
-##### 📝 Summary
-
-以模組形式建立的 Claude Code 工作階段追蹤器：內容視窗、計畫配額消耗率、每回合成本
-
-##### 📌 Basic facts
-
-| Field    | Value                                        |
-| -------- | -------------------------------------------- |
-| Category | `模組：使用模組功能建立`                     |
-| Evidence | `其自身文字提到模組 API，或宣告具備模組功能` |
-| 語言     | TypeScript                                   |
-
-##### 📊 Data
-
-| Metric       | Value      |
-| ------------ | ---------- |
-| Stars        | **6**      |
-| Last push    | 2026-09-15 |
-| First listed | 2026-10-04 |
-
-🏷 `claude-code` · `claude-code-plugin` · `claude-mods` · `developer-tools` · `function-hooks` · `terminal`
-
----
-
-<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/Arunjay4213/claude-mods/main/docs/demo.gif" width="100%" alt="Arunjay4213/claude-mods screenshot"></td>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/Arunjay4213/claude-mods/main/docs/demo.gif" width="100%" alt="Arunjay4213/claude-mods animation"><br><sub>動畫錄影</sub></td>
-</tr></table>
-
-<sub>由於未宣告允許重新散布的授權條款，資產以熱連結方式載入自上游儲存庫。</sub>
-
-</details>
-
-<details>
-<summary>🧩 <b><a href="https://github.com/markneonin/paneline">markneonin/paneline</a></b> · ⭐6 · TypeScript · 👁️ observed · 3 天</summary>
+<summary>🧩 <b><a href="https://github.com/markneonin/paneline">markneonin/paneline</a></b> · ⭐6 · TypeScript · 👁️ observed · 4 天</summary>
 
 ##### 📝 Summary
 
@@ -1536,89 +1588,21 @@ Claude Code mod（外掛），新增含有 Activity、Files、Agents、Context �
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/mishgoldenberg/claude-mods">mishgoldenberg/claude-mods</a></b> · ⭐6 · TypeScript · 👁️ observed · 3 天</summary>
+<summary><b>此分類中的更多項目</b> <sub>· 459</sub></summary>
 
-##### 📝 Summary
-
-適用於 Claude Code 的面板、防護措施與生活品質模組：內容、使用量、即時活動、通知、安全規則、提示教練、命令中心。
-
-##### 📌 Basic facts
-
-| Field    | Value                                        |
-| -------- | -------------------------------------------- |
-| Category | `模組：使用模組功能建立`                     |
-| Evidence | `其自身文字提到模組 API，或宣告具備模組功能` |
-| 語言     | TypeScript                                   |
-
-##### 📊 Data
-
-| Metric       | Value      |
-| ------------ | ---------- |
-| Stars        | **6**      |
-| Last push    | 2026-10-06 |
-| First listed | 2026-10-04 |
-
-🏷 `ai-agents` · `ai-safety` · `anthropic` · `claude` · `claude-code` · `claude-code-plugins` · `developer-tools` · `llm`
-
----
-
-<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/mishgoldenberg--claude-mods/9458e91720f67521.gif" width="100%" alt="mishgoldenberg/claude-mods screenshot"></td>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/mishgoldenberg--claude-mods/9458e91720f67521.gif" width="100%" alt="mishgoldenberg/claude-mods animation"><br><sub>動畫錄影</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧩 <b><a href="https://github.com/leopiney/wolfbud-claude-mod">leopiney/wolfbud-claude-mod</a></b> · ⭐5 · TypeScript · 👁️ observed · 1 天</summary>
-
-##### 📝 Summary
-
-Claude Code 的語音協作者。與由 ElevenLabs conversational AI 驅動的 3D 狼人討論事情；當你同意後，它會將提示傳送給 Claude，並在 Claude 完成時出聲通知。
-
-##### 📌 Basic facts
-
-| Field    | Value                                        |
-| -------- | -------------------------------------------- |
-| Category | `模組：使用模組功能建立`                     |
-| Evidence | `其自身文字提到模組 API，或宣告具備模組功能` |
-| 語言     | TypeScript                                   |
-
-##### 📊 Data
-
-| Metric       | Value      |
-| ------------ | ---------- |
-| Stars        | **5**      |
-| Last push    | 2026-10-08 |
-| First listed | 2026-10-10 |
-
-🏷 `ai-agents` · `anthropic` · `claude` · `claude-code` · `claude-code-hooks` · `claude-code-mods` · `claude-code-plugin` · `claude-mods`
-
----
-
-<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/leopiney/wolfbud-claude-mod/main/assets/banner.png" width="100%" alt="leopiney/wolfbud-claude-mod screenshot"></td>
-<td align="center" valign="top"><sub>尚未發布媒體</sub></td>
-</tr></table>
-
-<sub>由於未宣告允許重新散布的授權條款，資產以熱連結方式載入自上游儲存庫。</sub>
-
-</details>
-
-<details>
-<summary><b>此分類中的更多項目</b> <sub>· 433</sub></summary>
-
+- [whyashthakker/awesome-claude-code-mods](https://github.com/whyashthakker/awesome-claude-code-mods) - 可與 Claude Code 搭配使用的 100 多個 mods 集合.
+- [karanb192/claude-code-mods](https://github.com/karanb192/claude-code-mods) - Claude Mods 及其建置工具：先是 builder skill，接著是 mods。
 - [ucsandman/claude-harness](https://github.com/ucsandman/claude-harness) - 我每天執行的 Claude Code harness，自第一天起便以此名稱發布，如今與 ucsandman/Agnostic-AI 使用相同的儲存庫：防護…
 - [kagamiurayama/claude-code-roof-mod](https://github.com/kagamiurayama/claude-code-roof-mod) - 使用 Claude Mods 為 Claude Code 換屋頂：不修改二進位檔，將系統提示與英文提醒替換成你自己的文字（2.1.287+）。
 - [nateherkai/claude-code-mods](https://github.com/nateherkai/claude-code-mods) - 四個 Claude Code mods：Cache Keeper、Recording Mode、Goal Meter 和 Collision Guard。
-- [kakha13/claude](https://github.com/kakha13/claude) - 在 Claude 讀取前修正並翻譯你的提示詞的 Claude Code mods。
 - [Hangghost/learning-hacker-claude-mod](https://github.com/Hangghost/learning-hacker-claude-mod) - Learning Hacker 的 Claude Code 模組：把代理程式的運作畫成看得懂的東西。
+- [kakha13/claude](https://github.com/kakha13/claude) - 在 Claude 讀取前修正並翻譯你的提示詞的 Claude Code mods。
 - [xuanji86/claude-agentpane](https://github.com/xuanji86/claude-agentpane) - Claude Code 的側邊窗格：工作階段執行的子代理程式、各自正在做的事、其權杖，以及只需點擊即可查看的對話.
+- [nvr0x5/claude-deck](https://github.com/nvr0x5/claude-deck) - Claude Code 的驾驶舱：就在提示词上方显示即时计划列、子智能体列、带重置倒数的使用限制、模型路由与迷你桌宠。CLI 与 Desktop.
 - [AgriciDaniel/claude-mods-brain](https://github.com/AgriciDaniel/claude-mods-brain) - 關於 Claude Code 模組、其運作方式、建立方式，以及安裝前檢查方法的附來源 Obsidian 知識庫.
 - [BeLazy167/claude-mods-skill](https://github.com/BeLazy167/claude-mods-skill) - 教導 Claude Code agents 建構 Claude Mods（function-hook plugins）的 Skill，附 starter…
 - [letswritetw/claude-mod-open-todos](https://github.com/letswritetw/claude-mod-open-todos) - Claude Desktop（Code 分頁）側欄面板：列出你所有 Claude Code session 中未完成與進行中的待辦，依專案分組.
 - [nekyialabs/claude-code-toolkit](https://github.com/nekyialabs/claude-code-toolkit) - 來自 Nekyia Labs 的 Claude Code mods 與技能，由生活在持久化家園中的 AI 建置並日常使用。
-- [nvr0x5/claude-deck](https://github.com/nvr0x5/claude-deck) - Claude Code 的驾驶舱：就在提示词上方显示即时计划列、子智能体列、带重置倒数的使用限制、模型路由与迷你桌宠。CLI 与 Desktop.
 - [KilimcininKorOglu/claude-code-mods](https://github.com/KilimcininKorOglu/claude-code-mods) - 用於 Claude Code 的 Claude Mods（function-hooks plugins）.
 - [letswritetw/claude-mod-token-usage](https://github.com/letswritetw/claude-mod-token-usage) - Claude Desktop（Code 分頁）輸入框上方的用量條：5h / 7d 額度、token 用量、花費.
 - [omarcevi/claudemods](https://github.com/omarcevi/claudemods) - 社群 Claude mods、插件與技能，可從單一市場安裝。
@@ -1628,22 +1612,25 @@ Claude Code 的語音協作者。與由 ElevenLabs conversational AI 驅動的 3
 - [xuanji86/claude-statuspane](https://github.com/xuanji86/claude-statuspane) - 適用於 Claude Code 的浮動狀態卡——模型、上下文、速率限制、費用、分支——另附可由任何腳本或 mod 提供資料的進度 API.
 - [danyuchn/claude-mods](https://github.com/danyuchn/claude-mods) - Claude Code 模組：在你分享螢幕時，screen-guard 會遮蔽名稱與機密；cache-panel 會在提示快取即將失效前提醒你.
 - [magidandrew/cx](https://github.com/magidandrew/cx) - Claude Code Extensions。解鎖 Claude 的完整威力.
-- [xuanji86/claude-mdview](https://github.com/xuanji86/claude-mdview) - 讀取 Claude Code 命名的 markdown 檔案，並在工作階段旁呈現；指向任何區塊即可讓 Claude 編輯它。一個 Claude Code 模組.
+- [mishgoldenberg/claude-mods](https://github.com/mishgoldenberg/claude-mods) - 適用於 Claude Code 的面板、防護措施與生活品質模組：內容、使用量、即時活動、通知、安全規則、提示教練、命令中心.
 - [ofeklevy11/claude-code-hud](https://github.com/ofeklevy11/claude-code-hud) - 提示框上方的兩個 Claude Code 模組：內容視窗量表、5 小時限制、提示時鐘和工作階段費用。
+- [Shuffzord/RoadRaven](https://github.com/Shuffzord/RoadRaven) - Your plan, watching itself. Local desktop roadmap tree that Claude Code and any…
+- [xuanji86/claude-mdview](https://github.com/xuanji86/claude-mdview) - 讀取 Claude Code 命名的 markdown 檔案，並在工作階段旁呈現；指向任何區塊即可讓 Claude 編輯它。一個 Claude Code 模組.
+- [leopiney/wolfbud-claude-mod](https://github.com/leopiney/wolfbud-claude-mod) - Claude Code 的語音協作者。與由 ElevenLabs conversational AI 驅動的 3D 狼人討論事情；當你同意後，它會將提示傳送給…
 - [borabiricik/claude-mods](https://github.com/borabiricik/claude-mods) - Claude Code 模組：typing-speed，具備每次提示統計的即時打字速度計。
+- [charimsma/dopa-mode](https://github.com/charimsma/dopa-mode) - Claude Code 的煙火：每次按鍵、工具呼叫、提交和通過的測試，都會在提示上方化為盲文煙火升起。Claude Code 模組.
 - [DrishtantKaushal/AwesomeClaudeCodeMods](https://github.com/DrishtantKaushal/AwesomeClaudeCodeMods) - 探索 Claude Code mods、外掛和擴充功能，包含動畫示範、分類清單和直接原始碼連結。由 FindMods.dev 驅動.
 - [galElmalah/claude-mods](https://github.com/galElmalah/claude-mods) - Claude Code 模組：在逐字稿中內嵌繪製 mermaid 圖表。
 - [ha-ptt0601/cc-mods](https://github.com/ha-ptt0601/cc-mods) - 小型 Claude Code mods（function-hook 外掛程式）：session-switcher 等。
 - [hahmjuntae/claude-mods-image-preview](https://github.com/hahmjuntae/claude-mods-image-preview) - Claude Code mod：在提示上方顯示貼上的圖片縮圖，適用於任何終端機。
-- [joonhyukyim/redpen](https://github.com/joonhyukyim/redpen) - Redpen is a Claude Code mod for reviewing what Claude changed, line by line, in…
+- [HMarzban/claude-mod](https://github.com/HMarzban/claude-mod) - See what your next Claude Code message costs: a live band above the prompt with…
 - [LeeHigma0201/claude-code-mods](https://github.com/LeeHigma0201/claude-code-mods) - Claude Code 模組：mod-scout（尋找您最常使用的模組）、usage-meter、check-ledger、resume-nudge。
 - [Nongfsq/frank-claude-cockpit](https://github.com/Nongfsq/frank-claude-cockpit) - 用於同時執行多個工作階段的兩個 Claude Code 模組：提示上方的內容卡片，以及聊天旁的工作階段窗格.
-- [scodge-24/workface](https://github.com/scodge-24/workface) - Claude Code mod: control autocompaction content from the TUI natively.
+- [scodge-24/workface](https://github.com/scodge-24/workface) - Claude Code mod：直接從 TUI 原生控制自動壓縮內容.
 - [VedantAndhale/claude-pro-kit](https://github.com/VedantAndhale/claude-pro-kit) - 讓 Claude Pro 方案持續更久：Claude Code 模組，提供精確的使用量 HUD、更短的 shell 輸出，以及不重複讀取檔案.
-- [charimsma/dopa-mode](https://github.com/charimsma/dopa-mode) - Claude Code 的煙火：每次按鍵、工具呼叫、提交和通過的測試，都會在提示上方化為盲文煙火升起。Claude Code 模組.
+- [Antreas-Strb/glanceflow](https://github.com/Antreas-Strb/glanceflow) - GlanceFlow for Claude Code：在 prompt 上方顯示計畫、進度以及 Claude 何時需要你的平靜 checklist.
 - [claude-code-mods/best-claude-code-mods](https://github.com/claude-code-mods/best-claude-code-mods) - 最佳 Claude Code Mods：精選、已驗證、已釘選。一次 /plugin marketplace add，43 個 mods.
 - [dominicrico/jev-router](https://github.com/dominicrico/jev-router) - Claude Code 插件：自動 Claude model routing.
-- [drkokorev/cockpit-for-claude](https://github.com/drkokorev/cockpit-for-claude) - Claude Code 的即時儀表板：上下文、速率限制、成本、子代理程式、工具、差異和測試，另有危險指令防護.
 - [FynnXland/fynn-mods](https://github.com/FynnXland/fynn-mods) - Claude Code 的六個 mods：動態 Clawd 吉祥物、用量限制與提示快取列、傳送前訊息檢查器、快速回覆、待辦佇列和成本帳本.
 - [Hula-Hoop-AI/supermods](https://github.com/Hula-Hoop-AI/supermods) - Claude Code mods 市集：代理迴圈的逐步除錯器、Git 帳戶提示、工作樹狀態列等.
 - [Jhonatan-de-Souza/ClaudeMods](https://github.com/Jhonatan-de-Souza/ClaudeMods) - Claude Code mods：Claude 工具選單、Zen 模式、終端機主題、工作量與模式控制項。
@@ -1657,13 +1644,13 @@ Claude Code 的語音協作者。與由 ElevenLabs conversational AI 驅動的 3
 - [yash-gadodia/claude-mods](https://github.com/yash-gadodia/claude-mods) - 讓代理保持可靠的 Claude Code mods——守護範圍、驗證部署，並在提示上方繪製工作階段的 function hooks.
 - [alexcz-a11y/claude-mods](https://github.com/alexcz-a11y/claude-mods) - 我的 Claude Code mods 集合，每個目錄一個 mod。
 - [Ankitrai97/rai-claude-mods](https://github.com/Ankitrai97/rai-claude-mods) - 五個免費的 Claude Code mods：Simple Mode、Usage Tally、Context Handoff、Inbox Alerts 和…
-- [Antreas-Strb/glanceflow](https://github.com/Antreas-Strb/glanceflow) - GlanceFlow for Claude Code：在 prompt 上方顯示計畫、進度以及 Claude 何時需要你的平靜 checklist.
-- [ayagmar/claude-modmgr](https://github.com/ayagmar/claude-modmgr) - modmgr：探索、檢視、切換及更新 Claude Code mods。
+- [arviaja/token-watch](https://github.com/arviaja/token-watch) - Claude Code mod：顯示此 Mac 上工作階段的 token 使用量、計畫限制和快取溫度。
+- [Boom-Vitt/boombignose-mods](https://github.com/Boom-Vitt/boombignose-mods) - Claude Code mods: context bar, agents panel, PDPA blur。
 - [CodyAMaughan/meme-factory](https://github.com/CodyAMaughan/meme-factory) - 剛出廠。Claude Code 模組：要求製作迷因，同時繼續工作。草稿會在側邊面板中產生；挑選、混搭、核准並發布到 Slack.
 - [DarioFontanel/claude-code-mods](https://github.com/DarioFontanel/claude-code-mods) - Claude Code 模組：提示快取列、後續步驟、快速按鈕和修改重播 — 可從市集安裝。
 - [estruyf/claude-stats-mod](https://github.com/estruyf/claude-stats-mod) - 一個 Claude Code 模組，在提示上方的列中繪製你的使用量限制和支出.
-- [griches/installguard](https://github.com/griches/installguard) - Claude Code mod：在 Claude 安裝每個新套件之前先查詢它，並在你的答案中擱置虛構名稱、仿冒套件名稱和幾天前的版本。
-- [hellosverre/mod-store](https://github.com/hellosverre/mod-store) - An app store for Claude Code mods, inside Claude Code: /mods to browse, search…
+- [gecm0/skill-router-mod](https://github.com/gecm0/skill-router-mod) - skill-router 模組：Jev 會挑選並載入每個提示所需的技能.
+- [hellosverre/mod-store](https://github.com/hellosverre/mod-store) - Claude Code mod 的應用程式商店，位於 Claude Code 內：輸入 /mods 即可瀏覽、搜尋並安裝 2,700 個 mod，或要求…
 - [herman925/925-cc-plugins](https://github.com/herman925/925-cc-plugins) - Herman 的 Claude Code mods（市集 herman-mods）。
 - [homieyangg/claude-code-mods](https://github.com/homieyangg/claude-code-mods) - Claude Code 模組：規劃進度列、記錄 Claude 留在執行中的項目，以及對工具輸出進行權杖遮罩。
 - [ice-lfernandes/claude-code-mods](https://github.com/ice-lfernandes/claude-code-mods) - 日常 UX 用的 Claude Code mods：plan limits、context，以及 agent 正在做什麼。
@@ -1682,12 +1669,14 @@ Claude Code 的語音協作者。與由 ElevenLabs conversational AI 驅動的 3
 - [vynnlee/mods](https://github.com/vynnlee/mods) - vynnlee 製作的 Claude Code 模組。每個模組一個資料夾，可從單一市場安裝.
 - [yodakeisuke/claudelingo](https://github.com/yodakeisuke/claudelingo) - 使用 Claude Code 工作時學習外語。
 - [20alexl/windvane](https://github.com/20alexl/windvane) - 替你照看漫長的 Claude Code 工作階段：監看內容填滿、草擬檢查點、在適當時機壓縮，並恢復工作。每個子代理程式都有規則，也有專案記憶.
-- [Akash001uts/claude-mods](https://github.com/Akash001uts/claude-mods) - Claude Code 模組：內容視窗列與自動內容交接。
+- [akerskuuug/claude-mods](https://github.com/akerskuuug/claude-mods) - Claude Code mod: usage, limits, branch and model around the prompt。
+- [AlexeyHRDesign/colorwheel](https://github.com/AlexeyHRDesign/colorwheel) - 在 Claude Code Desktop 中提供主題化回覆、全寬圖表，以及一眼即可掌握的內容與限制.
 - [alexlifexyz/p3c-guard](https://github.com/alexlifexyz/p3c-guard) - Agent 撰寫 Java 時，違反阿里 Java 規約（p3c）的程式碼無法寫入磁碟.
-- [andrewbakercloudscale/claude-code-cost-sidebar](https://github.com/andrewbakercloudscale/claude-code-cost-sidebar) - Live cost, token and context usage sidebar for Claude Code: a mod that shows…
-- [arviaja/token-watch](https://github.com/arviaja/token-watch) - Claude Code mod：顯示此 Mac 上工作階段的 token 使用量、計畫限制和快取溫度。
+- [andrewbakercloudscale/claude-code-cost-sidebar](https://github.com/andrewbakercloudscale/claude-code-cost-sidebar) - Claude Code 的即時成本、token 與上下文使用量側邊欄：一個在工作階段內顯示每回合成本、快取命中率、消耗速率及 30 天支出的 mod.
 - [ben-rogerson/claude-counter-strike](https://github.com/ben-rogerson/claude-counter-strike) - 適用於 Claude Code 的 Counter-Strike 1.6 無線電通話——部署時顯示「Fire in the…
 - [burnrate-ai/burnrate](https://github.com/burnrate-ai/burnrate) - 查看並放慢 Claude Code 消耗你的 Claude.ai 限制的速度 — 一個 Claude Code mod：即時限制帶、快取看門狗、限制煞車。
+- [CalvoSeko/claude-factory-mod](https://github.com/CalvoSeko/claude-factory-mod) - agent-graph: a Claude Code mod for designing and running graphs of agents…
+- [cephalofoil/kitt](https://github.com/cephalofoil/kitt) - Herdr setup + Claude Code mods for product dev work。
 - [chenyuxiaojin/cyxj-notch](https://github.com/chenyuxiaojin/cyxj-notch) - macOS 的缺口儀表板，適用於 Claude Code：使用量限制、開啟的工作階段、任務進度、提示快取倒數和待辦事項——由五個 Claude Code…
 - [chrisluo5311/squad-chat](https://github.com/chrisluo5311/squad-chat) - Claude 正在烹調。和你的 squad 聊天。朋友在線上，就在你的 Claude Code 工作階段旁邊。零 tokens，零洩漏給 Claude.
 - [danielpg95/modster-hunter](https://github.com/danielpg95/modster-hunter) - Claude Code 模組：在 Claude 工作時，於閒置遊戲中捕捉像素藝術 Modsters.
@@ -1699,27 +1688,27 @@ Claude Code 的語音協作者。與由 ElevenLabs conversational AI 驅動的 3
 - [enhki/claude-mods](https://github.com/enhki/claude-mods) - 適用於 Terminal 與桌面應用程式的小型 Claude Code mods。
 - [Exdenta/ambient-spanish](https://github.com/Exdenta/ambient-spanish) - Claude CLI skill + mod，可在代理回覆中加入西班牙文單字。
 - [Fazzani/claude-mods](https://github.com/Fazzani/claude-mods) - Claude Mods。
-- [gecm0/skill-router-mod](https://github.com/gecm0/skill-router-mod) - skill-router 模組：Jev 會挑選並載入每個提示所需的技能.
-- [gregdotca/claude-mods](https://github.com/gregdotca/claude-mods) - Greg Chetcuti 製作的 Claude Code mods。包含 the-machine，會將 Claude Code 重新設計為 Person…
+- [gregdotca/ccmod-the-machine](https://github.com/gregdotca/ccmod-the-machine) - A Claude Code mod that restyles it as The Machine from Person of Interest.
+- [hellosverre/smart-compact](https://github.com/hellosverre/smart-compact) - Claude Code 模組：在適當時機壓縮（提交後、測試通過後、提示快取即將過期前），或在 Claude 要求時壓縮。
 - [HyunjunJeon/claude-workflow-mods](https://github.com/HyunjunJeon/claude-workflow-mods) - dag-workflow：Claude Code 模組，用於強制執行並驗證子代理程式的 DAG 工作流程，附帶即時 DAG 面板。
-- [Jianyuuuuu/claude-code-feishu-mod](https://github.com/Jianyuuuuu/claude-code-feishu-mod) - 從 Feishu/Lark 與 Claude Code 聊天——使用 lark-cli 的 Claude Code 模組。
-- [JimmySadek/claude-code-tint-mod](https://github.com/JimmySadek/claude-code-tint-mod) - Claude Code mod（CC tint mod）：依每個 repository 為每個 window 上色、為你所在的 window 加上外圈、為你的…
-- [joeVenner/claude-code-mods](https://github.com/joeVenner/claude-code-mods) - A community directory of Claude Code mods, plugins, skills, agents, hooks and…
+- [i-harsha-reddy/naruto-mod](https://github.com/i-harsha-reddy/naruto-mod) - A pixel-art Naruto companion for Claude Code: 20 ninja, 60 jutsu, performed…
+- [ibrahimkobeissy/claude-mods](https://github.com/ibrahimkobeissy/claude-mods) - Open-source mods for Claude Code: panes, status lines, toasts, tool guards and…
+- [joeVenner/claude-code-mods](https://github.com/joeVenner/claude-code-mods) - Claude Code mod、外掛、技能、代理、hooks 與 MCP 伺服器的社群目錄。每個項目都連結至其來源.
 - [jonyfs/astrolabe](https://github.com/jonyfs/astrolabe) - 🧭 Claude Code mod：工作階段狀態、即時 Spec Kit 進度與用量視窗治理。
 - [kongyo2/context-view](https://github.com/kongyo2/context-view) - 將內容視窗作為提示上方的一列，採用 Claude Code 繪製自身量表的方式呈現.
+- [koslowskyj/tdd-mod](https://github.com/koslowskyj/tdd-mod) - Experimental Claude Code mod that enforces test-driven development: on coding…
 - [KyongSik-Yoon/cc-desktop-mod](https://github.com/KyongSik-Yoon/cc-desktop-mod) - 讓 Claude Code 終端機 UI 看起來像 Claude 桌面應用程式的 Claude Code 外掛程式（模組）：提示氣泡、Markdown…
 - [lorenzh/rabe](https://github.com/lorenzh/rabe) - 查看 Claude Code 在背景執行的內容：子代理、Codex 工作、shell、監控器、cron 工作與工作流程.
 - [m4cd4r4/clear-resume](https://github.com/m4cd4r4/clear-resume) - 清除聊天，保留工作。Claude Code plugin + relay mod：Claude 會儲存一段簡短交接、清除內容，並自行在新的 context…
-- [magiccreator-ai/awesome-claude-code-mods](https://github.com/magiccreator-ai/awesome-claude-code-mods) - 精選的 Claude Code 模組、原作者示範、公開儲存庫與安裝資源.
-- [mangow314/mango-mods](https://github.com/mangow314/mango-mods) - 個人 Claude Code 模組（函式掛鉤外掛）：上下文交接、儲存庫帳本、輪到你時的檢查清單、離開收據。
+- [manuacl/claude-mods](https://github.com/manuacl/claude-mods) - Personal Claude Code mods: otto-hud, Otto the octopus with context weather and…
 - [meganemura/pull-request-pane](https://github.com/meganemura/pull-request-pane) - 一個 Claude Mod，在逐字稿旁的面板中顯示工作階段的 GitHub pull requests：將描述引用到提示框中，查看檢查和審查狀態。
-- [nevermemo/token-watch](https://github.com/nevermemo/token-watch) - 將使用量與內容視窗以細條形式顯示在 Claude Code 提示詞上方。一個 Claude Code 模組.
 - [NMenzel/claude-devtools-mod](https://github.com/NMenzel/claude-devtools-mod) - Claude DevTools：用於偵錯 Claude Code 工具呼叫的偵錯器.
 - [NotRedFox/NotRedFoxs-Claude-skills](https://github.com/NotRedFox/NotRedFoxs-Claude-skills) - Claude Code skills：文件查證器、程式碼稽核器、錯誤記憶記錄、mod 等.
 - [ondrhn/sharpprompt](https://github.com/ondrhn/sharpprompt) - Claude Code mod，會在你傳送粗略提示前將其改寫成清楚的提示。讀取你的提示和對話，除此之外不讀取任何內容.
 - [rezzminator/buddy](https://github.com/rezzminator/buddy) - Claude Code 好幫手外掛：位於提示詞上方、會記住你的規則並標示 Claude 捷徑的 ASCII 夥伴。
 - [rezzminator/tool-visibility-controller](https://github.com/rezzminator/tool-visibility-controller) - 適用於每個代理工具可見性的 Claude Code 插件——依照每個迴圈隱藏並拒絕子代理、技能、MCP 與內建工具。
 - [roma-vibe/jev-governor](https://github.com/roma-vibe/jev-governor) - Claude Code mod：由 Jev 引導的模型／工作量路由、逐字保留的內容壓縮，以及輸出截短，讓長時間工作階段更省成本。
+- [samfrmr/barmkin-mod](https://github.com/samfrmr/barmkin-mod) - Claude Code mods: security layer for Claude Code - secret redaction…
 - [seanrobertwright/claude-mods](https://github.com/seanrobertwright/claude-mods) - Claude Code mods 集合.
 - [Sennjen/claude-sdlc](https://github.com/Sennjen/claude-sdlc) - Claude Code plugin 與 mod：一個 AI-native SDLC。
 - [SeongGwangJu/k-mods](https://github.com/SeongGwangJu/k-mods) - 精彩的 Claude Code 模組合集 | Claude Code 模組合集.
@@ -1727,86 +1716,86 @@ Claude Code 的語音協作者。與由 ElevenLabs conversational AI 驅動的 3
 - [Singh-AP/awesome-claude-mods](https://github.com/Singh-AP/awesome-claude-mods) - 🧩 經過測試、可用單一指令安裝的 Claude Code 模組：YOLO 模式的防護機制、即時成本與內容、面板、寵物等。另附精選的最佳社群模組清單.
 - [Spardutti/claude-mods](https://github.com/Spardutti/claude-mods) - Claude Code 模組：適用於日常工作的即時面板與 hooks。
 - [tanujarun/it-speaks](https://github.com/tanujarun/it-speaks) - It Speaks：一個 Claude Code mod，可依要求用本機開源 Kokoro TTS 聲音朗讀 Claude 的回覆與你的提示.
-- [thangvofastboy/claude-mods](https://github.com/thangvofastboy/claude-mods)
 - [TroyJLorents-GH/mod-squad](https://github.com/TroyJLorents-GH/mod-squad) - Claude Code mods：用於即時窗格、成本感知模型路由和安全防護的小型外掛程式。用一個命令從 marketplace 安裝.
 - [valeryia-piatrova/token-hamster](https://github.com/valeryia-piatrova/token-hamster) - 🐹 Claude Code mod 與 plugin：用量監視器、token 追蹤器與狀態列.
 - [Verinoda-Labs/verinoda-symbiosis](https://github.com/Verinoda-Labs/verinoda-symbiosis) - Verinoda + Claude Code，攜手合作：Verinoda 搭配 verinoda-live，這是一個 Claude Code…
-- [vumichien/claude-code-mods-kit](https://github.com/vumichien/claude-code-mods-kit) - 三個免費的 Claude Code 模組：從工具結果中隱藏 .env 值、監看遠端主機的記憶體、測量 Markdown 草稿。
+- [VictorGambarini/jev-mod](https://github.com/VictorGambarini/jev-mod) - A Claude Code mod that hands the small decisions to a cheap decision model…
 - [y-hirakaw/claude-code-mods](https://github.com/y-hirakaw/claude-code-mods) - Claude Code mods。touch-map：以樹狀圖和活動地圖查看 Claude 列出、讀取、編輯或建立了哪些檔案.
 - [Yanir-R/catchup](https://github.com/Yanir-R/catchup) - 一個 Claude Code 模組，以簡明英文摘要你尚未閱讀的代理程式訊息。執行 /catchup、輸入 &#x27;brief me&#x27;，或按下按鈕.
-- [0xBADC0FFEE/claude-code-mods](https://github.com/0xBADC0FFEE/claude-code-mods) - 以函式 hooks 建構的 Claude Code 模組：外掛程式市場。
-- [abdurrahimagca/claude-statusbar](https://github.com/abdurrahimagca/claude-statusbar) - Claude Code mod: a compact status row with context, rate limit, cache…
+- [zchee/claude-code-mods](https://github.com/zchee/claude-code-mods)
+- [AbyssCN/claude-lead-harness](https://github.com/AbyssCN/claude-lead-harness) - Claude Code mods + cheap-executor driver: one Claude session as lead, MiniMax…
+- [afterever/claude-mods](https://github.com/afterever/claude-mods) - Claude Code mods by afterever (plugin marketplace)。
+- [ajkatom/claude-mods](https://github.com/ajkatom/claude-mods)
 - [Aler1x/claude-cat](https://github.com/Aler1x/claude-cat) - Claude Code 提示上方的動畫盲文貓。
-- [AlexeyHRDesign/colorwheel](https://github.com/AlexeyHRDesign/colorwheel) - 在 Claude Code Desktop 中提供主題化回覆、全寬圖表，以及一眼即可掌握的內容與限制.
 - [alinaqi/mixture-of-models-claude-mod](https://github.com/alinaqi/mixture-of-models-claude-mod) - Claude Code 模組：透過子 Claude Code 將低成本工作分派給 GLM/Kimi，將關鍵工作保留在你的訂閱中。移植自 Maggy.
 - [aloki-alok/omni-cat](https://github.com/aloki-alok/omni-cat) - Claude Code 提示上方的一隻像素貓，會執行 OmniDimension 語音代理程式測試通話。Claude Code 模組.
 - [ambervdberg/smartcompact](https://github.com/ambervdberg/smartcompact) - 一個 Claude Code 模組，會選擇適當時機進行壓縮，以保持上下文視窗較小.
 - [an80sPWNstar/claude-mods](https://github.com/an80sPWNstar/claude-mods) - Claude Code 的 Claude 模組：token-meter（工作階段權杖、Claude 與本機 LLMs 的比較，搭配 Pac-Man 內容迷宮）。
 - [anderson-spider/claude-mods](https://github.com/anderson-spider/claude-mods) - anderson-spider 製作的 Claude Code 外掛程式市集。
-- [androidZzT/claude-trading-mods](https://github.com/androidZzT/claude-trading-mods) - 用於從終端機觀察市場的 Claude Code 模組：帶有趨勢與產業熱力圖的 A 股／港股／美股窗格。
-- [AnnihilationWizard/chrome-close](https://github.com/AnnihilationWizard/chrome-close) - A Claude Code mod that allows one headless Chrome at a time and flags the…
-- [AnnihilationWizard/quiet-diffs](https://github.com/AnnihilationWizard/quiet-diffs) - A Claude Code mod that shows file edits as one-line summaries instead of full…
+- [ankits3a/cache-keeper](https://github.com/ankits3a/cache-keeper) - Claude Code mod: prompt-cache band, keep-warm, handoff judge trial。
+- [antonisPanos/claude-mods](https://github.com/antonisPanos/claude-mods)
 - [aott33/model-router](https://github.com/aott33/model-router) - 一個 Claude Code 模組，會在每個子代理程式啟動前為其選擇模型，並顯示每個模型的成本.
 - [arthurglaizal/quiet-token-bar](https://github.com/arthurglaizal/quiet-token-bar) - 一個 Claude Code mod：用一行安靜顯示你的上下文視窗，在重要之前保持灰色.
 - [Ashley-Pettit/lgtm-flash](https://github.com/Ashley-Pettit/lgtm-flash) - 每次程式碼變更後，LGTM Lines 飛船都會航行經過——一個 Claude Code mod。
 - [Ashley-Pettit/villager-hp](https://github.com/Ashley-Pettit/villager-hp) - 將你的 Claude 使用量限制呈現為動畫村民生命值卡片——一個 Claude Code mod。
 - [AskTinNguyen/ather-mods](https://github.com/AskTinNguyen/ather-mods) - S2 團隊的 Claude Code mods（ather marketplace）。
+- [astrosteveo/plain-english](https://github.com/astrosteveo/plain-english) - A Claude Code mod that makes Claude write plain English and flags its usual…
 - [Atanur/deskfit](https://github.com/Atanur/deskfit) - 在 Claude 工作時進行短訓練：每日目標、連勝、徽章與可選排行榜。一個 Claude Code mod.
 - [aycandv/claude-usage-meter](https://github.com/aycandv/claude-usage-meter) - Claude Code 的用量看板：各模型花費（今日、本週、本月、全部時間）與每週上限預測.
+- [bastianfuchs/claude-code-cache-warm](https://github.com/bastianfuchs/claude-code-cache-warm) - Claude Code mod that shows the prompt-cache countdown in the footer and keeps…
 - [benjaminr/nowplaying](https://github.com/benjaminr/nowplaying) - Claude Code 的 Now Playing mod：在提示上方顯示 Apple Music 與 Spotify，包含封面圖、控制項與 Up next…
 - [bennewton999/claude-code-mods](https://github.com/bennewton999/claude-code-mods) - 五個用於同時執行多個工作階段的 Claude Code mods：fleet board、PR-to-production…
 - [Berkay2002/berkays-mods](https://github.com/Berkay2002/berkays-mods) - 適用於協調器與工作執行緒工作階段的 Claude Code 模組。
 - [bhargava-gumpula/claude-mods](https://github.com/bhargava-gumpula/claude-mods) - Claude Code 模組：使用量列、聊天名單、/cube、/handoff、提示清理。
-- [bilal-psd/skills](https://github.com/bilal-psd/skills) - 我的 Claude Code 模組與技能，作為外掛程式市場。
-- [Blind3y3Design/agents-panel](https://github.com/Blind3y3Design/agents-panel) - Claude Code 模組：顯示每個子代理程式的即時面板，包括模型、努力程度、內容、權杖、成本和時間，並為每個角色配上一隻螃蟹.
 - [broening/claude-mods](https://github.com/broening/claude-mods) - Claude Code 模組：快取時鐘、影響範圍、建議、工作清單、烤架。
 - [C-M-Jones/suggestion-spotlight](https://github.com/C-M-Jones/suggestion-spotlight) - Claude Code 模組：Suggestion Spotlight 顯示 Claude 的下一個建議提示所指向的內容.
 - [Carismarkus/clowl](https://github.com/Carismarkus/clowl) - 只是給你的 Claude Code 的一隻貓頭鷹。
 - [cdeust/claude-mods](https://github.com/cdeust/claude-mods) - 適用於 ai-architect.tools harness 的 Claude Code 模組：每個模組專注一項關注點，透過相依性共享狀態。
 - [cGradying/claude-code-cockpit](https://github.com/cGradying/claude-code-cockpit) - 單行 Claude Code 頻帶（快取倒數、上下文、限制、下一項任務）加上七個社群模組，以單一外掛安裝，預設保持安靜.
 - [ChaseWNorton/claude-doom](https://github.com/ChaseWNorton/claude-doom) - 原版 Doom 引擎搭配 Freedoom，可在 Claude Code 內遊玩。Mac Apple Silicon alpha.
-- [cmorss/claude-mods](https://github.com/cmorss/claude-mods) - Claude Code mods for git worktrees: /terminal and /worktree-files open a…
-- [comertial/comertial-mods](https://github.com/comertial/comertial-mods) - Claude Code mods for real Engineers。
-- [CookPiu/token-almanac](https://github.com/CookPiu/token-almanac) - Claude Code 模組：使用量限制計量器、重設倒數、工作階段與整台機器的 token 統計，以及根據你自身歷史記錄調整的容量估算。
-- [crisguitar/claude-mods](https://github.com/crisguitar/claude-mods)
+- [cmorss/claude-mods](https://github.com/cmorss/claude-mods) - 用於 git worktree 的 Claude Code 模組：/terminal 和 /worktree-files 會在對話運作的 worktree…
+- [comertial/comertial-mods](https://github.com/comertial/comertial-mods) - 給真正工程師的 Claude Code 模組。
 - [d3nims/d3nim-claude-mods](https://github.com/d3nims/d3nim-claude-mods) - d3nim 團隊專用的 Claude Code 模組（usage-meter：藍色火焰／梗犬使用量列）。
+- [David-AP-TON618/claude-explain](https://github.com/David-AP-TON618/claude-explain) - Claude Code mod: /explain re-renders an answer as controlled language (STE), a…
 - [davidurco/cc-tamagotchi](https://github.com/davidurco/cc-tamagotchi) - 住在 Claude Code 內的 Tamagotchi：它會孵化、吃掉 Claude 寫的程式碼、留下 bugs，並成長為八種成體之一.
 - [DazzleML/claude-bookmarks](https://github.com/DazzleML/claude-bookmarks) - Claude Code 終端機對話中的書籤與 vim 風格標記：醒目顯示一行、標記它，再跳回該處.
+- [degterev/swiftui-preview-mod](https://github.com/degterev/swiftui-preview-mod) - Claude Code mod: SwiftUI previews rendered by Xcode, shown in a terminal pane。
 - [delexw/codyssey](https://github.com/delexw/codyssey) - 將每個 Claude Code…
+- [derekwden-droid/message-timestamps](https://github.com/derekwden-droid/message-timestamps) - Claude Code mod: shows the time on each prompt and reply in the terminal and…
 - [devohmycode/ccmods](https://github.com/devohmycode/ccmods) - 以函式掛鉤形式撰寫的 Claude Code 模組，以及提供這些模組的市集。dash：工作階段在單一面板中的儀表板.
+- [DiegoCarrillo32/claude-plugins](https://github.com/DiegoCarrillo32/claude-plugins) - Claude Code mods and design systems: crab-crew and the Crab Crew design system。
 - [divramod/divramod-claude-code-mods](https://github.com/divramod/divramod-claude-code-mods) - divramod 的 Claude Code 程式碼修改：Claude Code 介面的即時面板與調整。
 - [DominikSch004/claude-mods](https://github.com/DominikSch004/claude-mods) - 我在每台機器上都使用的 Claude Code 模組：savvy-progress、filetree、skins、blast-radius。
-- [dtakamiya/claude-code-mods](https://github.com/dtakamiya/claude-code-mods) - Claude Code Mods 市場。
-- [EgonLeitner/claude-code-mods](https://github.com/EgonLeitner/claude-code-mods) - egonleitner 市集：Egon Leitner 的 Claude Code 模組。
-- [EgonLeitner/dashband](https://github.com/EgonLeitner/dashband) - 在 Claude Code 的提示頁尾和提示上方，一眼查看提示快取、內容和計畫限制。
-- [Egrn/claude-code-mutedit](https://github.com/Egrn/claude-code-mutedit) - Hey, Muted it! Ditch the diff cut the riff, no more edits less of credits。
+- [drprofi114-star/claude-mods](https://github.com/drprofi114-star/claude-mods)
+- [duylinhdang1998/my-claude-mods](https://github.com/duylinhdang1998/my-claude-mods)
+- [EggmanPDX/claude-mods](https://github.com/EggmanPDX/claude-mods) - mods。
+- [Egrn/claude-code-mutedit](https://github.com/Egrn/claude-code-mutedit) - 嘿，靜音了！拋開差異、剪掉即興，不再編輯、少點花費。
 - [elkinaguas/claude-mods](https://github.com/elkinaguas/claude-mods)
-- [eric1hua/claudemods-desktop-statusline](https://github.com/eric1hua/claudemods-desktop-statusline) - Claude Code mod: subscription usage (5h / 7d) as a band above the prompt in the…
-- [EvoMap/evolver-claude-code-mods](https://github.com/EvoMap/evolver-claude-code-mods) - 基於函式 hooks 的 Claude Code Evolver（Mods）：每個提示的 EvoMap 策略回憶、編輯訊號、回合結果擷取與重複使用回饋.
+- [eric1hua/claudemods-desktop-statusline](https://github.com/eric1hua/claudemods-desktop-statusline) - Claude Code 模組：在 Desktop 應用程式和終端機中，將訂閱用量（5h / 7d）顯示為提示文字上方的橫條。
+- [fabiopbarbieri/claude-test-progress](https://github.com/fabiopbarbieri/claude-test-progress) - Claude Code Mod for background test progress: JUnit, Karma, pytest and unittest.
 - [fanoisme/claude-mods](https://github.com/fanoisme/claude-mods) - 為 Claude Code 設計的動態模組：即時、響應式監視器，監看模型、努力程度、內容、使用量限制、任務進度、子代理程式與每個工作階段.
-- [Gabrielmtvp/claude-code-mods](https://github.com/Gabrielmtvp/claude-code-mods) - My Claude Code mods。
-- [gaius-codius/ostrakon](https://github.com/gaius-codius/ostrakon) - A Claude Code mod for capturing thoughts mid-work, triaging them across…
+- [Flo0806/fh-claude-mods](https://github.com/Flo0806/fh-claude-mods) - Claude Mod Marketplace。
+- [floheissler/cc-worktree-radar](https://github.com/floheissler/cc-worktree-radar) - A live radar of your parallel branches and worktrees above the prompt: which…
+- [Gabrielmtvp/claude-code-mods](https://github.com/Gabrielmtvp/claude-code-mods) - 我的 Claude Code 模組。
+- [GarvitNangru/claude-code-mods](https://github.com/GarvitNangru/claude-code-mods) - Mods and skins for Claude Code: a live progress bar for Claude。
+- [GeckoKing9/claude-code-copy-button](https://github.com/GeckoKing9/claude-code-copy-button) - Ctrl+click copy link on every code block in Claude Code replies。
 - [gecm0/jev-mod](https://github.com/gecm0/jev-mod) - jev 模組：適用於 Claude Code 的 $.jev，來自 TypeSafe Jev 的具型別判斷.
+- [Gersom/claude-mod-cache-watch](https://github.com/Gersom/claude-mod-cache-watch) - Mod de Claude Code: panel que muestra si el caché de prompts está caliente o…
+- [Gersom/claude-mod-usage-meter](https://github.com/Gersom/claude-mod-usage-meter) - Mod de Claude Code: recuadro con el % de contexto y de los límites de 5 horas y…
 - [Gersom/gersom-claude-mods](https://github.com/Gersom/gersom-claude-mods) - 適用於 Claude Code 的模組：hooks 外掛程式，例如 usage-meter。
-- [Gharib89/claude-mods](https://github.com/Gharib89/claude-mods) - Claude Code mods (function-hook plugins), installed through one marketplace.
+- [Gharib89/claude-mods](https://github.com/Gharib89/claude-mods) - Claude Code 模組（函式掛鉤外掛程式），透過單一市集安裝.
 - [gonzalonicolasr/claude-code-nerv](https://github.com/gonzalonicolasr/claude-code-nerv) - Claude Code 的 Evangelion 風格側邊欄：上下文、配額、活動、PR、硬體、工作階段和 forge 面板。
-- [griches/buildpane](https://github.com/griches/buildpane) - Claude Code mod：為每個工具鏈在即時面板中顯示建置、測試和 lint 診斷，並讓 Claude 讀取錯誤而不是原始記錄。
-- [griches/simpane](https://github.com/griches/simpane) - Claude Code mod：工作階段旁的 iOS Simulator，搭配可讓 Claude 查看螢幕並讀取應用程式記錄的工具。
-- [hamTotk/better-rewind](https://github.com/hamTotk/better-rewind) - Claude Code mod: rewind or summarize from any prompt or AskUserQuestion answer。
+- [gsporto226/claude-mods](https://github.com/gsporto226/claude-mods) - Useful claude code mods。
+- [Gxrco/Screen-peek](https://github.com/Gxrco/Screen-peek) - Claude-Code Plugin (Mod) lets you see what the model is doing while it works.
 - [hellosverre/redgreen](https://github.com/hellosverre/redgreen) - Claude Code 面板中的測試結果：來自 Claude 自身測試執行的失敗、其詳細資訊與執行歷史。
-- [hellosverre/smart-compact](https://github.com/hellosverre/smart-compact) - Claude Code mod: compacts at the right moment。
 - [hfknight/claude-mod-said](https://github.com/hfknight/claude-mod-said) - 一個 Claude Code 模組：/said 以時間軸形式開啟你所傳送訊息的側邊面板；按一下即可跳回該訊息。
-- [hmcdaniel03/claude-mods](https://github.com/hmcdaniel03/claude-mods) - Hunter 的 Claude Code 模組：外掛程式市場（hunters-mods）。
 - [Huuuuung/think-meter](https://github.com/Huuuuung/think-meter) - Claude Code 模組：每個回答花費的時間、Claude 思考的時間，以及 tok/s，顯示在 Claude 桌面應用程式的回覆正下方.
-- [IanYHChu/claude-mods-games](https://github.com/IanYHChu/claude-mods-games) - 建置於 Claude 模組之上的遊戲，在 Claude Code 提示詞上方遊玩。
-- [icedevil2001/auto-continue](https://github.com/icedevil2001/auto-continue) - Claude Code 模組：等待 5 小時使用量限制結束，並替你傳送「continue」。
 - [icedevil2001/session-sidebar](https://github.com/icedevil2001/session-sidebar) - Claude Code mod：在右側邊欄顯示工作階段的連結、須知事項與待辦項目。
 - [iddhi-sulakshana/claude-mods](https://github.com/iddhi-sulakshana/claude-mods) - Claude Code 的模組：下一步按鈕、跨工作階段訊息傳遞，以及每回合模型路由。
-- [im-adarsh/claude-mods](https://github.com/im-adarsh/claude-mods)
-- [its-coughfee/pulse-file-tree](https://github.com/its-coughfee/pulse-file-tree) - Claude Code 模組：側邊欄檔案樹會在檔案被 Claude 剛編輯後閃爍。
-- [jagp/xray-mod](https://github.com/jagp/xray-mod) - ⋐∿⋑ Stare deeply into your contexts: a live Claude Code mod showing what fills…
-- [JanSuthacheeva/claude-code-mods](https://github.com/JanSuthacheeva/claude-code-mods) - 我日常使用的 Claude Code 模組。
-- [jeppenpeppen/claude-mods](https://github.com/jeppenpeppen/claude-mods) - Jespers egna moddar för Claude Code。
+- [jagp/xray-mod](https://github.com/jagp/xray-mod) - ⋐∿⋑ 深入凝視你的內容：即時 Claude Code 模組，逐次呼叫、逐輪顯示填入內容視窗的項目.
+- [jakerains/claudemods](https://github.com/jakerains/claudemods) - Small Claude Code mods: context and plan-usage gauges, a prompt-cache meter…
+- [jduerrmann/agent-crew](https://github.com/jduerrmann/agent-crew) - A Claude Code mod: one pane for every subagent, the files they touch, and your…
+- [jeffyfung/claude-mods](https://github.com/jeffyfung/claude-mods) - A place to house my claude mods.
 - [jessetsai1024/claude-ctx-panel](https://github.com/jessetsai1024/claude-ctx-panel) - 側邊欄的 context 用量面板：總量、分類、每輪成長、最佔地方的前幾名、快取、Claude 現在在做什麼。/ctx 開或關（Claude Code 模組）。
 - [jessetsai1024/claude-files](https://github.com/jessetsai1024/claude-files) - 側邊欄的檔案清單：這次對話新建、修改、刪掉了哪些檔案，各改了幾行。/files 開或關（Claude Code 模組）。
 - [jessetsai1024/claude-maomao](https://github.com/jessetsai1024/claude-maomao) - 8-bit 風格的毛毛（黑白荷蘭垂耳兔）在輸入框上方跑跑跳跳：等待時攤平、工作時跑、用工具時跳（Claude Code 模組）。
@@ -1814,37 +1803,39 @@ Claude Code 的語音協作者。與由 ElevenLabs conversational AI 驅動的 3
 - [jessetsai1024/claude-timeline](https://github.com/jessetsai1024/claude-timeline) - 側邊欄的時間軸：這一輪的時間花在哪（等模型、想、寫、跑指令、網路、讀寫檔案、等幫手）。/timeline 開或關（Claude Code 模組）。
 - [jessetsai1024/claude-tokens](https://github.com/jessetsai1024/claude-tokens) - 側邊欄的 token 往來：主對話每次送給 Anthropic 多少 token、等多久、收到多少，最上面是合計.
 - [jessetsai1024/claude-whisper](https://github.com/jessetsai1024/claude-whisper) - claude code 的誠實豆沙包：每一輪答完，Claude 小聲說一句心裡話（Claude Code 模組）。
+- [jgilb17/claude-mods](https://github.com/jgilb17/claude-mods)
 - [Jh-jaehyuk/plan-checklist](https://github.com/Jh-jaehyuk/plan-checklist) - Claude Code 的證據閘門計畫檢查清單：核准的計畫會成為檢查清單，Claude 只有在具備驗證證據時才能勾選。
 - [jimmysteinmetz/b-sides](https://github.com/jimmysteinmetz/b-sides) - Claude Code 的小型修改，例如新的斜線命令與側邊面板.
+- [jorgehsy/claude-mods](https://github.com/jorgehsy/claude-mods) - Catálogo de mods para Claude Code。
 - [jpo-oss/claude-games](https://github.com/jpo-oss/claude-games) - 可在 Claude Code 工作時於其中遊玩的多人遊戲。
-- [juampymdd/claude-code-model-picker](https://github.com/juampymdd/claude-code-model-picker) - Claude Code mod: pick the model and version for the next requests from a band…
-- [juniormartinxo/jm-claude-mods](https://github.com/juniormartinxo/jm-claude-mods)
+- [juliomyitbrain/claude-code-git-graph](https://github.com/juliomyitbrain/claude-code-git-graph) - Claude Code mod: a pane that draws the repository。
 - [justmytwospence/claude-cache-guard](https://github.com/justmytwospence/claude-cache-guard) - Claude Code mod：你離開時保持提示快取溫熱，並在提示會重新快取大型對話前先詢問.
-- [K-Mertin/claude-monster-pet](https://github.com/K-Mertin/claude-monster-pet) - A Claude Code mod: raise a pixel-art digital monster that grows from your…
 - [KaiC5504/clawd-bar](https://github.com/KaiC5504/clawd-bar) - Clawd 住在你的 Claude Code 提示上方的帶狀列中：演出 session、顯示正在執行的項目、context 和使用限制，並與你的 CI…
 - [kaicodedocument/claude-code-usage-bar](https://github.com/kaicodedocument/claude-code-usage-bar) - 一個 Claude Code mod：在提示上方顯示速率限制額度、工作階段 Token 與成本。
 - [kajidog/cc-mods-tts](https://github.com/kajidog/cc-mods-tts) - 使用 VOICEVOX / Irodori-TTS 等朗讀 Claude Code 的回覆與通知的模組。
-- [katipally/modz](https://github.com/katipally/modz) - Claude Code mods：使用 /plugin install &lt;mod&gt; --marketplace katipally/modz 安裝。
 - [kbrdn1/claude-crosstalk](https://github.com/kbrdn1/claude-crosstalk) - 用於讀取並加入你的 Claude Code 工作階段之間對話的 Claude Mod（/crosstalk）。
-- [kikostefanov-lab/claude-code-mods](https://github.com/kikostefanov-lab/claude-code-mods) - Claude Code mods: a Whiteboard pane where Claude draws Mermaid/UML diagrams…
+- [kikostefanov-lab/claude-code-mods](https://github.com/kikostefanov-lab/claude-code-mods) - Claude Code 模組：白板窗格，讓 Claude 繪製 Mermaid/UML 圖表，並在本機呈現。
+- [KingP1197/claude-mods](https://github.com/KingP1197/claude-mods) - Niceties/quality of life improvement Claude mods。
 - [kjhq/haiku-compact](https://github.com/kjhq/haiku-compact) - 用 haiku 壓縮冷掉的 claude code 工作階段——顯示你節省了什麼的一行快取列。
 - [kk5190/claude-code-mods](https://github.com/kk5190/claude-code-mods) - Claude Code 的模組：內容量計與開發伺服器窗格。
-- [krishna-goutham-tls/folio](https://github.com/krishna-goutham-tls/folio) - 一個 Claude Code 模組：在聊天旁的面板中讀取專案檔案.
-- [KytioisaCat/playpen](https://github.com/KytioisaCat/playpen) - Who needs attention? Your other Claude Code sessions as cards above the prompt…
+- [krishna-goutham-tls/cc-mods](https://github.com/krishna-goutham-tls/cc-mods) - Two Claude Code mods: folio, a file pane beside the chat, and tint, a restyle…
+- [kyledarling-io/claude-code-desktop-hud](https://github.com/kyledarling-io/claude-code-desktop-hud) - A live task HUD for Claude Code Desktop: a strip above the prompt while Claude…
+- [KytioisaCat/playpen](https://github.com/KytioisaCat/playpen) - 誰需要關注？你的其他 Claude Code 工作階段會以提示文字上方的卡片顯示——一個 Claude Code 模組。
 - [lua-erissatallan/claude-mods](https://github.com/lua-erissatallan/claude-mods)
 - [Lucas-CX/awesome-claude-mods](https://github.com/Lucas-CX/awesome-claude-mods) - 社群策劃的 Claude Code Mods 指南：使用案例、原始示範、相容性證據與安全性備註。English / 中文。非官方.
-- [lucaslenglet/session-namer](https://github.com/lucaslenglet/session-namer) - Claude Code 模組：遵循你的命名慣例，由 AI 建議工作階段名稱。
 - [lucasram20/claude-mods](https://github.com/lucasram20/claude-mods)
-- [M-i-k-e-l/agent-state](https://github.com/M-i-k-e-l/agent-state) - A Claude Code mod that shows what Claude is doing in the iTerm2 tab subtitle…
-- [m-tababi/delegation-guard](https://github.com/m-tababi/delegation-guard) - Claude Code mod: nudges the main session to delegate to subagents and shows…
-- [m-tababi/session-handoff](https://github.com/m-tababi/session-handoff) - Claude Code mod: session handoffs on demand — write, resume, and restart into a…
+- [M-i-k-e-l/agent-state](https://github.com/M-i-k-e-l/agent-state) - 一個 Claude Code 模組，會在 iTerm2 分頁副標題中顯示 Claude 正在進行的工作，因此只要看一眼分頁列，就能知道哪個工作階段需要你的注意。
+- [m-tababi/delegation-guard](https://github.com/m-tababi/delegation-guard) - Claude Code 模組：提醒主要工作階段委派工作給子代理程式，並在提示文字上方顯示主要內容與委派內容的權杖數.
+- [MahadSalim/claude-mods](https://github.com/MahadSalim/claude-mods) - My personal collection of claude mod plugins。
+- [marcelmatula/claude-mods](https://github.com/marcelmatula/claude-mods) - Marcel。
 - [MarcusJellinghaus/claude-mode-gate](https://github.com/MarcusJellinghaus/claude-mode-gate) - 一個 Claude Code mod，具備可切換的權限設定檔：安全基準、可開關的具名設定檔，其他所有操作仍會詢問.
-- [MiCat-S/context-hud](https://github.com/MiCat-S/context-hud) - Claude Code mod: one-line usage HUD above the prompt。
+- [martin-macak/claude-code-mod-tracking](https://github.com/martin-macak/claude-code-mod-tracking) - Claude Code mod for tracking related artifacts and references。
+- [MDmubarak786/claude-mods](https://github.com/MDmubarak786/claude-mods) - Community mods for Claude Code: guards, panes, and commands that run inside…
 - [michaelblaess/turbo-mod](https://github.com/michaelblaess/turbo-mod) - Claude Code 的側邊面板：Claude 編寫的檔案、終端機分割畫面、具有 pull 功能的 git 儲存庫狀態、使用量列與新工單——提供 41…
-- [mlt-5/manager](https://github.com/mlt-5/manager) - Claude Code 模組：提示詞上方的內容量計，以及 compact / commit &amp; push / clear + handoff 按鈕。
+- [micke-dahlgren/token-range-monitor](https://github.com/micke-dahlgren/token-range-monitor) - Claude Code mod: projects what will be left of your weekly and 5-hour Claude…
+- [mikejhill/claude-usage-status](https://github.com/mikejhill/claude-usage-status) - Claude Code mod: always-on band showing 5h/weekly limits, context fill, and…
 - [mmedum/glimt](https://github.com/mmedum/glimt) - Claude Code 的安靜側邊面板：此工作階段正在做什麼、它的計畫、代理，以及其他每個工作階段。
-- [mmedum/spor](https://github.com/mmedum/spor) - Puts back what Claude Code folds away: the files Claude read, the commands it…
-- [moinsen-dev/speckit-xref](https://github.com/moinsen-dev/speckit-xref) - 讓程式碼遵循規格：用於需求到程式碼可追溯性與偏移檢查的 Claude Code 模組和 GitHub Spec Kit 擴充功能。
+- [mmedum/spor](https://github.com/mmedum/spor) - 還原 Claude Code 摺疊的內容：Claude 讀取的檔案、執行的命令，以及每一輪所執行的工作。
 - [moonteek/claude-mods](https://github.com/moonteek/claude-mods) - Claude Code 模組：提示詞上方的記憶體列與即時任務檢查清單.
 - [muctebadikmen/claude-code-araclari](https://github.com/muctebadikmen/claude-code-araclari) - Claude Code 模組：自動交接與進度列。土耳其文，只需幾個指令即可安裝.
 - [muellerei/enable-todo-tools](https://github.com/muellerei/enable-todo-tools) - Claude Code 模組：透過在工作階段開始時設定 CLAUDE_CODE_ENABLE_TODO_TOOLS，為省略待辦工具的模型重新啟用它們.
@@ -1853,29 +1844,26 @@ Claude Code 的語音協作者。與由 ElevenLabs conversational AI 驅動的 3
 - [Nachx639/context-canary](https://github.com/Nachx639/context-canary) - Claude Code 的像素藝術金絲雀：當 Claude 不再遵循你的指示時，它會死亡，接著自動壓縮並復活。一個 Claude Code 模組.
 - [naoanao/agent-cross-check](https://github.com/naoanao/agent-cross-check) - Claude Code 模組：當另一個程式設計代理提交至你的儲存庫時，Claude 會透過差異與測試進行審查，而不是相信它的報告.
 - [naoanao/shared-repo-guard](https://github.com/naoanao/shared-repo-guard) - 適用於多個 AI 代理共用儲存庫的 Claude Code 模組：防止秘密值離開 .env、防止推送至公開遠端儲存庫，以及防止 git…
-- [natsume-777/claude-mods](https://github.com/natsume-777/claude-mods) - Claude Code 模組（function-hook 外掛）市集：codingway-claude-mods。
-- [nevermemo/token-watch-vscode](https://github.com/nevermemo/token-watch-vscode) - VS Code 狀態列中的 Claude Code 計畫使用量和內容視窗。Token Watch 模組的配套工具.
-- [New-Retr0/claude-dock](https://github.com/New-Retr0/claude-dock) - Claude Code mods：session-dock 與 agent-model-badge。
+- [narley/sessions-sidebar](https://github.com/narley/sessions-sidebar) - Claude Code mod: a sidebar listing every Claude Code session, for Warp。
 - [Nexus-nimdA/null-radio](https://github.com/Nexus-nimdA/null-radio) - Claude Code 的賽博霓虹網路廣播窗格——synthwave 旋鈕、目前播放、VU、本機 ffplay。
 - [niksavis/handily](https://github.com/niksavis/handily) - 顯示你在任何追蹤器中的工作項目、任務與工作階段的 Claude Code Mod。Mod 只顯示並詢問；從不強制執行.
-- [NMenzel/claude-integrity-mod](https://github.com/NMenzel/claude-integrity-mod) - Claude 完整性：在 Claude Code 中區分已實作與已驗證。一份來自你原話的需求合約、用於偵測看似完成但實際未完成之程式碼的 Mirage…
 - [nnemirovsky/cc-monitor-rearm](https://github.com/nnemirovsky/cc-monitor-rearm) - 在 Claude Code 的長時間 Monitor 監看過期時重新啟用，不喚醒 Claude，也不消耗一次回合。
 - [nu0ma/query-guard](https://github.com/nu0ma/query-guard) - Claude Code 的 SQL 防護欄：在 Claude 透過 DB CLI（函式掛鉤／Mods）執行 DELETE、沒有 WHERE 的…
-- [OctopiAI/claude-code-statusline](https://github.com/OctopiAI/claude-code-statusline) - A lightweight Claude Code Mod。
+- [OctopiAI/claude-code-statusline](https://github.com/OctopiAI/claude-code-statusline) - 輕量級的 Claude Code 模組。
 - [OG-Matcha/tessera](https://github.com/OG-Matcha/tessera) - 一個適用於 Claude Code、以 Windows 與 CJK 為優先的模組：在任何終端機中提供貼上影像與文字預覽、帶有 CJK…
 - [oguz-hd/claude-code-chime](https://github.com/oguz-hd/claude-code-chime) - Claude Code 的提示音：當 Claude 完成、需要你的輸入或遇到錯誤時播放聲音。十種原創音效、自訂檔案、鍵盤選擇器.
 - [ohade/claude-mods](https://github.com/ohade/claude-mods) - Claude Code mods：影像縮圖與狀態列。
-- [Open01277/claude-mods](https://github.com/Open01277/claude-mods)
+- [onk3sh/fix-on-edit](https://github.com/onk3sh/fix-on-edit)
 - [osaki42/awesome-claude-mods](https://github.com/osaki42/awesome-claude-mods) - 最佳的 Claude Code 模組，依它們能為您做的事排序。人工檢查，每個模組一行介紹.
-- [Oualid0/claude-mods](https://github.com/Oualid0/claude-mods)
+- [oscarcosmedev/claude-mods](https://github.com/oscarcosmedev/claude-mods)
 - [ozdeger/claude-looked-at-mod](https://github.com/ozdeger/claude-looked-at-mod) - Claude Code mod：在 Claude 桌面應用程式的窗格中查看代理看過的每張圖片與檔案（螢幕截圖、算繪結果、讀取內容）。
+- [pablodiazjorge/impact-radius](https://github.com/pablodiazjorge/impact-radius) - A Claude Code mod that holds risky shell commands。
 - [Para-FR/claude-code-mods-fr](https://github.com/Para-FR/claude-code-mods-fr) - 兩個適用於 Claude Code 的 Claude 模組：護欄。
 - [paragpandyareal/lazy-panda-panel](https://github.com/paragpandyareal/lazy-panda-panel) - Claude Code 的 Lazy Panda Panel：不用抬爪也能檢閱文件.
 - [philarete173/claude_mods](https://github.com/philarete173/claude_mods) - Claude 桌面應用程式 Code 分頁的即時工作階段統計側邊窗格：上下文、成本、git 變更、回合統計、子代理程式、日誌.
-- [Pigula1984/workbench](https://github.com/Pigula1984/workbench) - Claude Code 模組：提示詞上方的狀態列。
-- [pkkid/claude-mods](https://github.com/pkkid/claude-mods) - Various mods and skills for my Claude Desktop setup。
-- [pompeitech/affreschi](https://github.com/pompeitech/affreschi) - 以 Vesuvius 設計系統為主題、適用於 pompeitech 介面的 Claude Code 模組。
+- [pkkid/claude-mods](https://github.com/pkkid/claude-mods) - 適用於我的 Claude Desktop 設定的各種模組與技能。
 - [pradyb/claude-mods](https://github.com/pradyb/claude-mods) - Claude Code 的模組：safety-guard 會封鎖破壞性指令與秘密檔案存取；notify-router…
+- [prompteafacil-hub/mods-claude-code](https://github.com/prompteafacil-hub/mods-claude-code) - Mods de Claude Code de la comunidad prompteafacil。
 - [ptpmediabr/ideas-shelf](https://github.com/ptpmediabr/ideas-shelf) - 依專案整理的點子架：在面板中記下點子並標記為已完成；內容會儲存在專案根目錄的 IDEAS.md.
 - [ptpmediabr/mods-manager](https://github.com/ptpmediabr/mods-manager) - 用於檢視、啟用、停用、安裝 mods 與 plugins，以及將它們分組為設定檔的面板.
 - [ptpmediabr/side-chat](https://github.com/ptpmediabr/side-chat) - 工作階段內的側邊聊天窗格，可在你選擇的模型上回答問題或執行要求.
@@ -1883,66 +1871,80 @@ Claude Code 的語音協作者。與由 ElevenLabs conversational AI 驅動的 3
 - [qarge/claude-mods](https://github.com/qarge/claude-mods)
 - [rajib2k5/claude-market-watch](https://github.com/rajib2k5/claude-market-watch) - Claude Code mod：即時股票行情、/quote 面板、價格警示、市場帶，以及模型可呼叫的報價工具。
 - [ramtinJ95/claude-mods](https://github.com/ramtinJ95/claude-mods) - 以單一外掛市集發布的 Claude Code 模組。
-- [raoofaltaher/claude-code-mods](https://github.com/raoofaltaher/claude-code-mods) - Claude Code 模組：account-bars（每個帳戶的即時工作階段／每週限制列）與 tool-icons。
-- [redjackfred/claude-code-mods](https://github.com/redjackfred/claude-code-mods) - Claude Code 模組：像素藝術番茄鐘、子代理進度列、命令防護、模型路由器。
 - [RedRoosterKey/claude-code-ssh-usage-band](https://github.com/RedRoosterKey/claude-code-ssh-usage-band) - Claude Code mod：在提示上方一列顯示 SSH 主機、RAM 與 5h/7d 用量限制。
 - [Risdon8/push-ups](https://github.com/Risdon8/push-ups) - Claude Code mod：在 Claude 工作時做伏地挺身。無 tokens.
-- [robinmarin/claude-mods](https://github.com/robinmarin/claude-mods) - 只是我正在使用的模組清單。
+- [risen372/claude-mods](https://github.com/risen372/claude-mods)
 - [ryx2/slopshopper](https://github.com/ryx2/slopshopper) - Claude Code 的模組商店：從 GitHub 擷取模組、預覽模組並提供市集。
 - [saadk408/stepline](https://github.com/saadk408/stepline) - Claude Code 模組：將你在計畫模式中核准的計畫轉為提示上方的即時核取清單，隨著 Claude 完成每個步驟逐一勾選。
+- [sadhirr1/claude-mods](https://github.com/sadhirr1/claude-mods) - Just a repo with different claude mods。
 - [saksham10arora-dotcom/awesome-claude-mods](https://github.com/saksham10arora-dotcom/awesome-claude-mods) - 精選的 Claude Code 模組清單。每個項目都已複製，並使用 claude plugin validate 檢查，且標記其可接觸的內容.
 - [saksham10arora-dotcom/claude-frugal](https://github.com/saksham10arora-dotcom/claude-frugal) - 零成本模式：輔助代理程式在 Haiku 上執行，大型檔案與日誌則由免費的 Gemini 模型摘要，而不是填滿 Claude 的內容.
 - [saksham10arora-dotcom/claude-lofi](https://github.com/saksham10arora-dotcom/claude-lofi) - 隨工作階段播放的 lo-fi 原聲帶：平靜、專注、流暢，另有通過與失敗測試的提示音。原創音樂.
 - [saksham10arora-dotcom/claude-teach-me](https://github.com/saksham10arora-dotcom/claude-teach-me) - 在 Claude 撰寫程式時學習：每當一輪操作變更程式碼後，提示上方會出現一個關於該確切變更的問題。依概念評分.
 - [saksham10arora-dotcom/claude-vhs](https://github.com/saksham10arora-dotcom/claude-vhs) - 記錄 Claude 所做每次編輯的磁帶：重播每項變更自行輸入的過程、逐步檢視，並將任何檔案倒轉至任何步驟.
-- [samaphp/prompt-stash](https://github.com/samaphp/prompt-stash) - 一個存放 Claude Code 工作時浮現於你腦中的想法的地方。一個 Claude Code 模組.
 - [samaphp/session-links](https://github.com/samaphp/session-links) - 工作階段提及的每個連結，都集中顯示在提示上方的一列中。一個 Claude Code 程式碼修改.
-- [santosli/claude-mods](https://github.com/santosli/claude-mods) - Claude Code 模組：token-bar，在提示詞上方顯示你的內容視窗與用量限制。
-- [Savo2610/claude-mods](https://github.com/Savo2610/claude-mods) - 我的 Claude-Code 模組：telegram-draht（Telegram 作為連接手機的線路）和…
+- [SanjayPG/claude-code-usage-tracker](https://github.com/SanjayPG/claude-code-usage-tracker) - Claude Code mod: live usage-quota progress bars above your prompt.
+- [SanjayPG/claude-quota-band.](https://github.com/SanjayPG/claude-quota-band.) - Claude Code mod: live usage-quota progress bars above your prompt.
 - [sawzhang/hello-mod](https://github.com/sawzhang/hello-mod) - Claude Code 函式掛鉤最小示範：提示上方的即時 token／成本面板、可點擊按鈕、獨立繪製的執行緒動畫，全程零 token。
 - [servaes/cockpit](https://github.com/servaes/cockpit) - André Servaes 的 Cockpit Board 和其他 Claude Code 模組。
-- [ShadowDog007/claude-mods](https://github.com/ShadowDog007/claude-mods)
+- [shaheershoaib/agent-warehouse](https://github.com/shaheershoaib/agent-warehouse) - agent-warehouse: a Claude Code mod by Shaheer Shoaib.
+- [shaheershoaib/usage-meter](https://github.com/shaheershoaib/usage-meter) - usage-meter: a Claude Code mod by Shaheer Shoaib.
 - [shelltime/claude-code-mods](https://github.com/shelltime/claude-code-mods) - ShellTime 製作的 Claude Code 模組（function-hook 外掛）。
-- [Showrin/claude-mods](https://github.com/Showrin/claude-mods) - Showrin 的 Claude Code Mod，讓每日忙碌工作更有效率.
-- [shumatsumonobu/claude-mods-bench](https://github.com/shumatsumonobu/claude-mods-bench) - 四個可用 /plugin 安裝的 Claude Code 模組：在其他模組執行前核准其操作、查看每個被 Claude…
+- [siller/supermod](https://github.com/siller/supermod) - Claude Code mod: Superpowers progress, context window and agents above the…
 - [simplybychris/claude-code-mods](https://github.com/simplybychris/claude-code-mods) - Claude Code 的模組：Rec Mode、Cache Bar、Snake 與代理程式面板。
-- [SocialChamp/socialchamp-claude-mods](https://github.com/SocialChamp/socialchamp-claude-mods) - Social Champ 的 Claude Code 模組：行事曆窗格，建置於 Social Champ MCP 連接器之上。
+- [skryvets/claude-code-session-mod](https://github.com/skryvets/claude-code-session-mod) - Claude Code mod: coloured session info under the prompt - context, model…
 - [soulrocha/Claude-code-hero-journey](https://github.com/soulrocha/Claude-code-hero-journey) - 🦀 Claude Code 的舒適 RPG HUD 修改（測試版，先推出桌面應用程式；計畫支援 CLI）：多職業 Clawd…
-- [sstani-bgv/claude-blast-radius](https://github.com/sstani-bgv/claude-blast-radius) - Claude Code 模組：在傳送 Telegram 訊息前，先於 Claude 中詢問。
 - [sstani-bgv/claude-crew](https://github.com/sstani-bgv/claude-crew) - Claude Code 模組：供子代理程式使用的像素螃蟹側邊欄。
 - [StalicJi/my-mods](https://github.com/StalicJi/my-mods) - 個人 Claude Code mod…
 - [steven-ngle/blade-of-commits](https://github.com/steven-ngle/blade-of-commits) - 為 Claude Code 一鍵產生 commit 訊息，搭配跳舞的像素風 Malenia。
+- [StevenGFX/claude-gh-actions](https://github.com/StevenGFX/claude-gh-actions) - Claude Code mod: GitHub Actions runs in a /ci pane, the status line and toasts。
+- [stillgbx/still-mods](https://github.com/stillgbx/still-mods) - Claude code mods。
+- [stylusnexus/claude-mods](https://github.com/stylusnexus/claude-mods)
+- [Sunkanxx/Mods](https://github.com/Sunkanxx/Mods) - Claude Code mods — marketplace sunkanxx-mods。
+- [Suyeo2025/claude-mods](https://github.com/Suyeo2025/claude-mods) - Claude Code mods: mini-bar HUD。
+- [SyntacticFlow/claude-mods](https://github.com/SyntacticFlow/claude-mods) - Plugins for Claude Code。
+- [systemNEO/claude-code-mods](https://github.com/systemNEO/claude-code-mods) - Mods for Claude Code: delete-guard。
 - [Tanish-Dev/claude-usage-band](https://github.com/Tanish-Dev/claude-usage-band) - Claude Code 模組：就在提示詞上方查看你的 Claude 計畫用量（工作階段與每週限制、重設倒數、內容）；可在終端機與桌面應用程式中運作.
 - [tanwar-harsh/luff-crew-monitor](https://github.com/tanwar-harsh/luff-crew-monitor) - Claude Code 模組：每個子代理程式的即時團隊面板（模型、努力程度、步驟、內容、成本、時間）、提示詞上方的工作列，以及 5 小時／每週計畫限制圓環.
 - [tartinerlabs/claude-code-mods](https://github.com/tartinerlabs/claude-code-mods)
 - [teambrilliant/claude-code-mods](https://github.com/teambrilliant/claude-code-mods)
+- [TFoxik/claude-model-router](https://github.com/TFoxik/claude-model-router) - A Claude Code mod that picks the model and effort for each kind of work, and…
 - [TheBabaYaga/claude-session-flow](https://github.com/TheBabaYaga/claude-session-flow) - 一個 Claude Code 模組，在窗格中顯示目前工作階段：每個提示詞、Claude 分階段為其完成的工作、每個子代理程式及其答案，以及提示詞的成本.
 - [theishandubey/claude-mods](https://github.com/theishandubey/claude-mods) - 一個 Claude Code mod 外掛市集：function-hooks 外掛，可在 Claude Code 內繪製 band、窗格和其他 UI.
+- [thickiran/claude-coaster-tycoon](https://github.com/thickiran/claude-coaster-tycoon) - 🎢 Claude builds you a RollerCoaster Tycoon-style theme park while it works.
+- [tjanuki/claude-mod-agent-board](https://github.com/tjanuki/claude-mod-agent-board) - Claude Code mod: a docked pane showing the session。
+- [tjanuki/claude-mod-context-meter](https://github.com/tjanuki/claude-mod-context-meter) - Claude Code mod: context-window fill in the status line and a hand-off reminder…
 - [tommy5dollar/effort-router](https://github.com/tommy5dollar/effort-router) - 讓你的 Claude Code 用量提升至最多兩倍。這是一個會為每個提示詞與每個子代理程式選擇適當推理努力程度的外掛.
 - [Toptaab/token-garden](https://github.com/Toptaab/token-garden) - Toptaab 製作的 Claude Code 模組。
-- [Tora29/my-claude-tools](https://github.com/Tora29/my-claude-tools) - 管理 Claude 模組的 repo。
 - [Tum4s/sprout](https://github.com/Tum4s/sprout) - Claude Code mod：一個追蹤你的子代理程式及其所使用檔案的樂隊與面板。
+- [tusharck/mods-for-claude](https://github.com/tusharck/mods-for-claude) - A curated catalogue of Claude Code mods, each with a copy-paste prompt that…
+- [tyree88/tempered_plugins](https://github.com/tyree88/tempered_plugins) - Claude Code mods from Tempered Works: ship-state, timeline, limit-resume — plus…
 - [VAlux/claude-session-progress](https://github.com/VAlux/claude-session-progress) - Claude Code 模組：適用於長時間執行任務的動畫進度列與完成摘要。
+- [Vansitha/clawd-watch](https://github.com/Vansitha/clawd-watch) - Three small Claude Code mods: see when your subagents will finish, queue…
 - [varunmoka7/layman](https://github.com/varunmoka7/layman) - 說出「我迷路了」，Claude 就會再次用日常用語解釋上一則回覆。Claude Code plugin.
 - [varunmoka7/side-chat](https://github.com/varunmoka7/side-chat) - 在工作旁的窗格中向 Claude 提出旁支問題。主要對話永遠看不到它。運作方式類似桌面應用程式的 /btw.
-- [VdustR/vp-cc-mods](https://github.com/VdustR/vp-cc-mods) - VdustR 的一站式 Claude Code mods：由 vp-cc- 前綴 mods 和 skills 組成的 plugin marketplace。
-- [vinkdc/roclaude](https://github.com/vinkdc/roclaude) - Roblox Studio safety layer for Claude Code: RemoteEvent audit, undo, Team…
-- [VizzleTF/claude-skills](https://github.com/VizzleTF/claude-skills) - Claude Code plugin marketplace：tidemark。
-- [WorldOccupier/claude-mods](https://github.com/WorldOccupier/claude-mods)
+- [Victormartinsilva/MODS-CLAUDECODE](https://github.com/Victormartinsilva/MODS-CLAUDECODE) - Marketplace de mods do Claude Code com instalação em um passo e guia em vídeo…
+- [vihrea1337/headroom](https://github.com/vihrea1337/headroom) - Rate-limit countdowns and a burn-rate forecast for Claude Code。
+- [vinkdc/roclaude](https://github.com/vinkdc/roclaude) - 適用於 Claude Code 的 Roblox Studio 安全層：RemoteEvent 稽核、復原、Team Create 保護，以及重播…
+- [was865/usage-band](https://github.com/was865/usage-band) - Claude Code mod: context window, prompt cache hit rate and countdown, rate…
+- [wipeer/claude-mods](https://github.com/wipeer/claude-mods) - Small quality-of-life mods for Claude Code。
+- [wmaq/wmaq-claude-mods](https://github.com/wmaq/wmaq-claude-mods) - Claude Code mods: stage-toons, a workflow progress bar above the prompt with…
+- [wolves/usage-line](https://github.com/wolves/usage-line) - Claude Code mod: usage, model, effort and advisor readout above the prompt。
 - [wszaq/claude-mods](https://github.com/wszaq/claude-mods) - 用於更安全、更清晰本機工作流程的小型 Claude Code 外掛.
 - [xinhuagu/oh-my-claude-mods](https://github.com/xinhuagu/oh-my-claude-mods) - 用於 Claude Code 的 Mods。agent-crew：以即時 pixel crew 觀看你的 subagents 工作，包含…
 - [YeonwooSung/my-claude-code-mods](https://github.com/YeonwooSung/my-claude-code-mods)
-- [youngOman/pill-mods](https://github.com/youngOman/pill-mods) - Claude Code mods: 繁中下一步膠囊、區塊複製、貼圖縮圖。
-- [zexion7873/usage-band](https://github.com/zexion7873/usage-band) - Always-on band above the Claude Code prompt: context fill and rate-limit…
+- [youngOman/pill-mods](https://github.com/youngOman/pill-mods) - Claude Code 模組：繁中下一步膠囊、區塊複製、貼圖縮圖。
+- [zexion7873/usage-band](https://github.com/zexion7873/usage-band) - 持續顯示於 Claude Code 提示文字上方的橫條：桌面與終端機上的內容填入量和速率限制視窗。
+- [zh10only1/claude-code-mods](https://github.com/zh10only1/claude-code-mods) - Personal Claude Code mods (plugin marketplace)。
 - [zhuzhu0710/claude-mods](https://github.com/zhuzhu0710/claude-mods)
 - [ziedgithub/claude-code-mods](https://github.com/ziedgithub/claude-code-mods)
-- [Zinzan48/claude-mods](https://github.com/Zinzan48/claude-mods) - Claude Code 模組：context-budget。
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - 由 Anthropic PBC（无关联关系）这支势不可挡的团队精心打造的顶级资源精选，献给最强大的智能体与无可争议的编码伴侣冠军 Claude Code.
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - 一款顯示正在發生什麼事的 Claude Code 外掛——內容使用量、作用中的工具、執行中的代理人，以及待辦事項進度。
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 高度可自訂的精美 Claude Code CLI 狀態列，支援 powerline、主題等功能.
 - [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - Claude Code 系統提示的所有部分、27…
 - [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 45 多項充分發揮 Claude Code 效用的秘訣，從基礎到進階——包括自訂狀態列指令碼，以及在容器中自行執行的 Claude Code.
 - [op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) - 🪧 Claude Code／Codex 技能 — 產生小紅書輪播圖與微信 21:9+1:1 封面組合.
+- [Owloops/claude-powerline](https://github.com/Owloops/claude-powerline) - Beautiful vim-style powerline for Claude Code。
 - [persiyanov/herdr-reviewr](https://github.com/persiyanov/herdr-reviewr) - 在終端機窗格中檢視 coding agent 的 diff，並將逐行留言傳回 Claude Code、Codex、OpenCode 或 Pi.
 - [uppinote20/claude-dashboard](https://github.com/uppinote20/claude-dashboard) - 適用於 Claude Code 的完整狀態列外掛程式，提供內容使用量、API 速率限制與成本追蹤。
 - [stormzhang/token-tracker](https://github.com/stormzhang/token-tracker) - Claude Code 与 Codex 本地 token 追踪 — 状态列（Codex 业界首创伪 statusline）、GitHub…
@@ -1950,6 +1952,7 @@ Claude Code 的語音協作者。與由 ElevenLabs conversational AI 驅動的 3
 - [NYCU-Chung/cc-statusline](https://github.com/NYCU-Chung/cc-statusline) - 適用於 Claude Code 的完整狀態列儀表板 — 工作階段資訊、配額列、代理追蹤器、MCP 健康狀態、訊息記錄等.
 - [gwittebolle/claude-carbon](https://github.com/gwittebolle/claude-carbon) - claude-carbon：追蹤你的 Claude Code 工作階段的碳足跡。
 - [AwesomeZun/CC-statusline](https://github.com/AwesomeZun/CC-statusline) - 由 awesomejun 製作的 Claude Code 美觀狀態列。
+- [fatihaydost/brand-identity-skill](https://github.com/fatihaydost/brand-identity-skill) - A Claude Code skill that designs a brand identity as one system: logo…
 - [JohnnyVizz/claude-kit](https://github.com/JohnnyVizz/claude-kit) - 公開的 Claude Code skills 與 mods。
 - [escapeboy/claude-code-kit](https://github.com/escapeboy/claude-code-kit) - 適用於 Claude Code 的 Skills、mods、subagents、hooks、slash commands 和…
 - [mvalentsev/awesome-free-ai-coding](https://github.com/mvalentsev/awesome-free-ai-coding) - 📡 合法免費 LLM APIs 與程式設計代理 — 每週自動更新並探測驗證兩次。免費方案、免卡試用、免費模型.
@@ -1958,61 +1961,64 @@ Claude Code 的語音協作者。與由 ElevenLabs conversational AI 驅動的 3
 - [johncattrall/keymap-ai](https://github.com/johncattrall/keymap-ai) - 將程式碼代理變成鍵盤韌體專家的 Agent Skill。稽核 ZMK/QMK 鍵位圖、調整 home row mods、讓軌跡球具備圖層感知能力、透過 CI…
 - [philoserf/claude-code-config](https://github.com/philoserf/claude-code-config) - 個人 Claude Code 設定版本，儲存於 ~/.claude — 代理、技能、hooks、設定與狀態列（參考用途，不是入門範本）。
 - [ashafizullah/claude-code-muslim-mods](https://github.com/ashafizullah/claude-code-muslim-mods) - 在 Claude Code 中提供禮拜時間、回曆日期、adhkar、每日 ayah、sunnah fasting、Ramadan、Jumu。
+- [moguiyu/dsh-tavily](https://github.com/moguiyu/dsh-tavily) - Tavily-powered optional search tool for DeepSeek Harness。
 - [livlign/ccbit](https://github.com/livlign/ccbit) - 适用于 Claude Code 的会话感知状态列。一个颜文字脸孔会读取逐字稿，并在你的各个会话中叙述状态。一个 Go 二进位档，无 hooks，无常驻程式.
 - [benz-ai-x/dsh-research-graph](https://github.com/benz-ai-x/dsh-research-graph) - DSH Research Graph · 研图 — 用于研究主题、可追溯知识卡片与可重複使用 AI 讨论的 DeepSeek Harness 插件.
+- [igdigitallab/cardloop](https://github.com/igdigitallab/cardloop) - Your AI dev team on your own server, steered from your phone.
 - [pierrebelin/claude-code-toolkit](https://github.com/pierrebelin/claude-code-toolkit) - 适用于 .NET DDD/Clean Architecture 的可携式 Claude Code 工具包：严格的 TDD…
-- [saadnvd1/agent-os](https://github.com/saadnvd1/agent-os) - Mobile-first web UI for managing AI coding sessions。
-- [essedev/relay](https://github.com/essedev/relay) - Native macOS terminal for running many coding agents in parallel.
 - [hoobnn/hoobnn-agent-mods](https://github.com/hoobnn/hoobnn-agent-mods) - 適用於 Claude Code、pi 和 DeepSeek Harness 的外掛合集：狀態列 HUD、任務進度條、Tailscale 節點狀態等 · 適用於…
 - [jcdendrite/claude-config](https://github.com/jcdendrite/claude-config) - 可攜式的 Claude Code 全域設定：自訂技能、PreToolUse 鉤子與自訂狀態列。可在 Linux、macOS、WSL 上執行.
 - [mutlumehmet/claude-plugins](https://github.com/mutlumehmet/claude-plugins) - 我每天使用的 Claude Code 插件：整理過的 skills 與 mods，可在任何人的機器上運作.
-- [vtmocanu/cc-statusline](https://github.com/vtmocanu/cc-statusline) - 適用於 Claude Code 的兩行 ANSI 狀態列：git＋k8s 上下文、速率限制列、服務健康狀態、AI 工作階段主題。
-- [34823/tg-pane](https://github.com/34823/tg-pane) - Telegram inside Claude Code: read chats and channels in a pane, get AI…
+- [34823/tg-pane](https://github.com/34823/tg-pane) - Claude Code 中的 Telegram：在面板中閱讀聊天與頻道，取得未讀貼文的 AI 摘要。無需 API key，無需機器人.
 - [cmfok/dsh-feishucard](https://github.com/cmfok/dsh-feishucard) - DSH &lt;-&gt; Feishu (Lark) bridge，自行开发（非 fork）：串流回复卡／单一实例中的多个机器人。
 - [Dakaric/claude-code-statusline](https://github.com/Dakaric/claude-code-statusline) - Claude Code 的即插即用狀態列：上下文視窗列、提示快取 TTL、具節奏控制的 5 小時與每週速率限制、一鍵切換帳號.
 - [darthmolen/hytale-claude-code-marketplace](https://github.com/darthmolen/hytale-claude-code-marketplace) - Claude Code 外掛程式與技能市集，用於促進 Hytale 遊戲模組的開發。
 - [frsorrentino/fable-director](https://github.com/frsorrentino/fable-director) - Claude Code 的權杖治理：由頂級模型負責指揮，執行交給足夠且最便宜的方式。路由核心、由 hook 強制執行的預算上限、遙測、附帶計畫配額的狀態列.
 - [hopp1395/cc-outline](https://github.com/hopp1395/cc-outline) - 適用於 Claude Code 的分割窗格檢視器，運行於 Windows Terminal 和 tmux：以 Markdown…
+- [jeancarlo-javier/claude-status-bar](https://github.com/jeancarlo-javier/claude-status-bar) - Live workflow-phase status line for Claude Code (Plan → Exec → Verify → Done)…
 - [manson341349-beep/claude-desktop-mods](https://github.com/manson341349-beep/claude-desktop-mods) - Claude Desktop Code 分頁的非官方模組——usage-pet：帶有 Clawd 的使用量橫幅，以及動畫像素寵物。淺色與深色、英文與中文.
 - [romnycristopher/claude-am-mods](https://github.com/romnycristopher/claude-am-mods) - Claude Code Awesome Media 修改版的儲存庫.
 - [rootstudioyaml/sprag](https://github.com/rootstudioyaml/sprag) - 降低 Claude Code 與 Codex 的 Token 花費：將查詢和測試執行路由至更便宜的模型，將文件轉換為精簡…
-- [sergiomorapardo/claude-statusline](https://github.com/sergiomorapardo/claude-statusline) - 適用於 Claude Code 的 Powerlevel10k 風格狀態列：使用量長條、PR 狀態、成本與快取，以純 Bash 實作。
 - [aquahitt/claude-code-limit-alerts](https://github.com/aquahitt/claude-code-limit-alerts) - Claude Code 的用量限制警示：macOS 通知、應用程式內警告，以及工作階段（5h）與每週限制的狀態列百分比。
 - [fbincon/claude-code-statusline](https://github.com/fbincon/claude-code-statusline) - 適用於 Linux、WSL、Windows 和 macOS 的可設定 Claude Code 狀態列，包含提示計時、子代理列和終端機設定 UI.
+- [JairoTorregrosa/claude-statusline](https://github.com/JairoTorregrosa/claude-statusline) - Fast Rust statusline for Claude Code — payload-first, cached git, ~10ms renders。
 - [JohnnyTh/claude-status-bar](https://github.com/JohnnyTh/claude-status-bar) - 具備內容列、token 迷你圖與花費追蹤器的 Claude Code 狀態列。
+- [jsh135790/claude-code-capsule-panel](https://github.com/jsh135790/claude-code-capsule-panel) - 適用於 Claude Code 的即時用量儀表板——以 Catppuccin 膠囊樣式的側邊窗格顯示內容分解、快取命中、速率限制預測、費用與活動.
 - [kyllian330/claude-statusline](https://github.com/kyllian330/claude-statusline) - 在 macOS、Linux 和 Windows 上顯示 Claude Code 的重要狀態詳細資訊，包括模型、內容、限制、git 資訊與工作階段時間.
 - [Ma1achy/claude-statusline](https://github.com/Ma1achy/claude-statusline) - 適用於 Claude Code 的親切、隨心調整的狀態列——真彩色列、約 80 種佈景主題，以及透過單一 JSON 檔案進行的元素個別樣式設定。
-- [salvanya/claude_code_statusline](https://github.com/salvanya/claude_code_statusline) - Statusline with usefull information for claude code。
+- [Obednal97/claude-statusline-kit](https://github.com/Obednal97/claude-statusline-kit) - Multi-row Claude Code status line: spend, context %, git, and active account…
+- [QingqiShi/claude](https://github.com/QingqiShi/claude) - Personal ~/.claude for Claude Code: settings, global CLAUDE.md, hooks, status…
+- [salvanya/claude_code_statusline](https://github.com/salvanya/claude_code_statusline) - 適用於 claude code、包含實用資訊的狀態列。
 - [Screddyice/claude-code-harness](https://github.com/Screddyice/claude-code-harness) - 用於組織多公司 Claude Code 工作區的入門範本：已清理的 CLAUDE.md 範本、SessionStart…
 - [tc3oliver/claude-team-kit](https://github.com/tc3oliver/claude-team-kit) - 原生 agent 團隊。受控。嚴格的工作者限制、即時團隊可見性，以及 Claude Code 的可攜式設定.
-- [andkirby/claude-statusline](https://github.com/andkirby/claude-statusline) - Custom statusline for Claude Code — context bar with usage percentage, context…
+- [zach-source/claude-factory](https://github.com/zach-source/claude-factory) - Definable software factories for Claude Code on herdr: xstate station graphs, a…
+- [andkirby/claude-statusline](https://github.com/andkirby/claude-statusline) - Claude Code 的自訂狀態列——顯示用量百分比、內容大小、費用與計時器的內容列。
 - [bunderlog/claude-plugins](https://github.com/bunderlog/claude-plugins) - 搭載 baloo 的 Claude Code 外掛程式市集：技能、可根據專案決策驗證變更的代理、指南、檢查項目、輸出樣式與狀態列.
-- [chrisns/claude-image-cli-mod](https://github.com/chrisns/claude-image-cli-mod) - See the images that commands print (imgcat, iTerm2 inline images) in your…
+- [chrisns/claude-image-cli-mod](https://github.com/chrisns/claude-image-cli-mod) - 在你的 Claude Code 記錄中查看命令列印的圖片（imgcat、iTerm2 內嵌圖片）.
 - [ChristianVerghis/claude-statusline](https://github.com/ChristianVerghis/claude-statusline) - Claude Code 狀態列：內容用量、5h/7d 配額列、重設時間、git 分支。
 - [ctfbio/claude-code-statusline](https://github.com/ctfbio/claude-code-statusline) - 專業級 Claude Code 狀態列：工作階段持續時間、使用 ECB 外匯的多幣別費用、每百萬 token 費率、支出上限。MIT、零金鑰、跨平台.
 - [cvrt-gmbh/claude-statusline](https://github.com/cvrt-gmbh/claude-statusline) - 具備訂閱感知功能的 Claude Code 狀態列。
-- [divramod/divramod-claude-code-plugins](https://github.com/divramod/divramod-claude-code-plugins) - divramod 的 Claude Code 外掛，單一市集：Claude Code 的代理程式技能與即時窗格.
+- [d3r3nic/claude-live-sessions](https://github.com/d3r3nic/claude-live-sessions) - A Claude Code plugin: a pane of the live Claude Code and Codex sessions on your…
+- [diegorv/koko.claude-statusline](https://github.com/diegorv/koko.claude-statusline) - A rich terminal statusline for Claude Code — Bun + TypeScript, zero runtime…
 - [duplonicus/claude-statusline](https://github.com/duplonicus/claude-statusline) - Claude Code 的雙列狀態列：上下文、帶有節奏標記的速率限制、成本與快取。
 - [ejklock/claude-mermaid-render](https://github.com/ejklock/claude-mermaid-render) - Claude Code plugin，可在 transcript 中精美呈現 Mermaid diagrams：任何終端機中的彩色 Unicode…
-- [filtercoffeeway/claude-kit](https://github.com/filtercoffeeway/claude-kit) - Tools, skills, and agents for Claude Code — starting with a status line showing…
-- [GeorgeDong32/pi-claude-code-tui](https://github.com/GeorgeDong32/pi-claude-code-tui) - 用於 pi 的 Claude Code 風格 TUI：CC tool rows、statusline、compaction rows、MCP…
+- [filtercoffeeway/claude-kit](https://github.com/filtercoffeeway/claude-kit) - 適用於 Claude Code 的工具、技能與代理程式——首先提供顯示模型、分支、PR、內容大小、提示快取剩餘時間及費用的狀態列.
+- [Furkan-rgb/claude-config](https://github.com/Furkan-rgb/claude-config) - Claude Code global config: agents, skills, mods, settings。
 - [Guidin9/claude-usage-footer](https://github.com/Guidin9/claude-usage-footer) - Claude Code 外掛：在頁尾右下角隨時查看剩餘的 Claude 5 小時用量限制——不再需要 /usage。
 - [hardtomakeanadress/claude-code-deepseek-cost](https://github.com/hardtomakeanadress/claude-code-deepseek-cost) - Claude Code 的實際 DeepSeek API 花費：以 DeepSeek…
 - [ihororlovskyi/claude-statusline](https://github.com/ihororlovskyi/claude-statusline) - Claude Code 狀態列與代理面板列。
 - [izahamyatim/claude-plugin-fizzy](https://github.com/izahamyatim/claude-plugin-fizzy) - 🚀 將 Claude 的待辦事項同步至 Fizzy.do，讓團隊即時掌握進度，將任務轉換為持久卡片，以提升協作效率並輕鬆追蹤進度.
 - [izzatum/claude-code-cockpit](https://github.com/izzatum/claude-code-cockpit) - Claude Code status line plugin（cockpit）：context %、session cost 與 rate…
-- [jsh135790/claude-code-capsule-panel](https://github.com/jsh135790/claude-code-capsule-panel) - A live usage dashboard for Claude Code — context breakdown, cache hits…
+- [jv-k/claude-gauge](https://github.com/jv-k/claude-gauge) - A status line and token line for Claude Code: context, 5-hour and weekly usage…
 - [Kimmihappy793/claude-status-line](https://github.com/Kimmihappy793/claude-status-line) - 為 Claude Code 顯示詳細且以顏色標示的狀態列，呈現上下文、git 狀態、費用與速率限制.
-- [KitchenSink4AI/claude-code-statusline](https://github.com/KitchenSink4AI/claude-code-statusline) - Claude Code 的內容儀表：實際消耗速率、剩餘回合數、速率限制，以及在撞上限制前而非之後逐步升級的警示.
 - [konnichiwab/claude-code-config](https://github.com/konnichiwab/claude-code-config) - Claude Code 設定選單、狀態列與設定。
-- [lakofsth/claude-code-experience-kit](https://github.com/lakofsth/claude-code-experience-kit) - Claude Code 的 harness…
 - [Larg0Winch/claude-label](https://github.com/Larg0Winch/claude-label) - Claude Code 狀態列中每個視窗可編輯的標籤。由 Pacto（pacto.global）提供.
-- [ldk00315-jpg/claude-code-voice-mod](https://github.com/ldk00315-jpg/claude-code-voice-mod) - Talk to Claude Code by voice on Windows: a Mod + helper using codex app-server…
+- [ldk00315-jpg/claude-code-voice-mod](https://github.com/ldk00315-jpg/claude-code-voice-mod) - 在 Windows 上以語音與 Claude Code 對話：使用 codex app-server realtime 的模組與協助工具（ChatGPT 登入）。
 - [lucasmm96/claude-statusline](https://github.com/lucasmm96/claude-statusline) - Claude Code 狀態列掛鉤——跨工作階段追蹤權杖用量與上下文，壓縮並使用 --resume。
 - [matthewjschultz/claude-statusline](https://github.com/matthewjschultz/claude-statusline) - 自訂 Claude Code 狀態列，包含內容視窗、API 使用量追蹤、git 狀態與工作階段成本。
 - [melderan/claude-statusline-rust](https://github.com/melderan/claude-statusline-rust) - 適用於 Claude Code 的快速 Rust 狀態列（讀取掛鉤 JSON，將指標記錄至 SQLite）。
+- [mgstegmaier/claude-plugins](https://github.com/mgstegmaier/claude-plugins) - home-grown, cage-free claude plugins, skills, mods, and more。
 - [msinclair-sudo/claude-code-setup](https://github.com/msinclair-sudo/claude-code-setup) - Claude Code 環境安裝程式：技能、狀態列、掛鉤、權限，以及可選的 Obsidian-vault MCP 伺服器（--vault_root）.
-- [ngz-fernando/claude-code-limites](https://github.com/ngz-fernando/claude-code-limites) - limites：Claude Code 的模組，在提示詞上方以一行顯示已使用的內容、方案視窗與支出.
 - [oshnilia/claude-plugins](https://github.com/oshnilia/claude-plugins) - 用於理解 Claude 所做事情的 Claude Code 外掛程式與模組：易讀的回答格式與即時工作階段看板（市集：oshn）。
 - [peaceinitiativemenhadenoil263/claude-status-bar](https://github.com/peaceinitiativemenhadenoil263/claude-status-bar) - 從你的 macOS 選單列監控 Claude Code 狀態，透過即時指示器顯示作用中任務、待處理權限和經過時間.
 - [pirncedark/afu-claude-statusline](https://github.com/pirncedark/afu-claude-statusline) - 適用於 Claude Code 的彩色多列狀態列（配額列、內容與子代理面板）。
@@ -2021,18 +2027,21 @@ Claude Code 的語音協作者。與由 ElevenLabs conversational AI 驅動的 3
 - [roy651/cc-plugins](https://github.com/roy651/cc-plugins) - 適用於 Claude Code 的 Bearings 和 Glossary mod。
 - [Rubio-Enterprises/claude-statusline](https://github.com/Rubio-Enterprises/claude-statusline) - 自訂 Claude Code statusline（上游：kamranahmedse/claude-statusline）。
 - [satoramoto/awesome-claude](https://github.com/satoramoto/awesome-claude) - Claude Code 設定與模組，附有共用元件套件、遊樂場與 Storybook。
-- [Sect0R/claude-code-statusline](https://github.com/Sect0R/claude-code-statusline) - Claude Code StatusLine：權杖和成本監視器。
 - [SohamShirsat/claude-cockpit](https://github.com/SohamShirsat/claude-cockpit) - Claude Code 的小型儀表板：上下文百分比、快取倒數計時、5 小時與每週使用量、一鍵 Handoff 至新的聊天，以及在 Claude…
 - [thaiquangquy/claude.me](https://github.com/thaiquangquy/claude.me) - 可攜式 Claude Code 設定：CLAUDE.md、settings、statusline、skills。
+- [thurtado1993/claude-cabina](https://github.com/thurtado1993/claude-cabina) - Cabina: a live session dashboard for the Claude Code Desktop side panel。
+- [tichara1/ai.claude-status-panel](https://github.com/tichara1/ai.claude-status-panel) - Mod pro Claude Code: panel nad promptem s kontextem, limity, cenou, stavem…
 - [Undone-drawknife974/claude-code-statusline](https://github.com/Undone-drawknife974/claude-code-statusline) - 使用輕量級、無相依性的狀態列儀表板，在你的終端機中追蹤 Claude Code 上下文使用量、工作階段成本和速率限制重設.
-- [vus955-gif/claude-code-token-heatmap](https://github.com/vus955-gif/claude-code-token-heatmap) - A /tokens pane for Claude Code: tokens used per day as a heatmap, each API…
+- [UtakataKyosui/utakata-cc-mod](https://github.com/UtakataKyosui/utakata-cc-mod) - Claude Code 用の mod 集 (goal-orchestrator: /goal をタスク分解して SubAgent に委譲させる)。
+- [vladimir-ks/ai-agile-claude-code-statusline](https://github.com/vladimir-ks/ai-agile-claude-code-statusline) - Real-time cost tracking and session monitoring statusline for Claude Code。
 - [xinvxueyuan/cordis-plugin-secret](https://github.com/xinvxueyuan/cordis-plugin-secret) - Cordis / DeepSeek Harness 外掛程式——代理程式會在內嵌對話卡片中向人類索取祕密，且始終只會收到具工作階段範圍的不可見…
 - [yacb2/claude-statusline](https://github.com/yacb2/claude-statusline) - 三列式 Claude Code 狀態列：內容深度、跨工作階段速率限制、每個儲存庫的 git 狀態與 worktrees。
 - [YoniYon00/claude-feedback-rings](https://github.com/YoniYon00/claude-feedback-rings) - Context Rot Detector 2026 - 適用於 Claude Code Agents 的主動式 AI 記憶與速率限制監控器。
 - [zerofaultlabs/claude-statusline](https://github.com/zerofaultlabs/claude-statusline) - 一個 Claude Code 狀態列：一眼查看上下文使用量、速率限制、成本和快取命中。
 - [zhuyansen/awesome-claude-code-hooks](https://github.com/zhuyansen/awesome-claude-code-hooks) - Claude Code hooks、subagents 和 statuslines：開源集合與工具，按類型分類，並各自附有安全分級。English / 中文.
 - [zoo3323/claude-statusline](https://github.com/zoo3323/claude-statusline) - Claude Code 狀態列 — Claude/Codex 使用量儀表會在閒置時持續即時更新，顯示內容百分比與進行中的任務。單一安裝指令碼.
-- [babarot/c-c-statusline](https://github.com/babarot/c-c-statusline) - 由 Deno 驅動、適用於 Claude Code CLI 的狀態列。
+- [tronschell/statusline.sh](https://github.com/tronschell/statusline.sh) - A visual builder for Claude Code statuslines.
+- [Magnus-Gille/tokenatlas](https://github.com/Magnus-Gille/tokenatlas) - Claude Code statusline showing real-time token usage and estimated energy…
 - [ishuagrawal/clawdhouse](https://github.com/ishuagrawal/clawdhouse) - Claude Code 的模組：以函式鉤子為基礎打造的窗格、頻帶與夥伴。
 - [ashishsk93/baton-mods](https://github.com/ashishsk93/baton-mods) - 在你的 Claude Code 工作階段之間傳遞任務。將變更交給負責某個儲存庫的工作階段.
 - [lahoramaker/mods-mcp](https://github.com/lahoramaker/mods-mcp) - 這是一個用於控制 MODS 的 MCP 伺服器。MODS 是一款適用於跨平台 Fablabs 的模組化工具，包含 CAD/CAM 與機器控制工具.
@@ -2040,7 +2049,6 @@ Claude Code 的語音協作者。與由 ElevenLabs conversational AI 驅動的 3
 - [Rimcat-JA/translate-ck3-mods](https://github.com/Rimcat-JA/translate-ck3-mods) - 用於翻譯 CK3 模組的 Codex 與 Claude Code 技能，搭配本機 LLM。
 - [sTomerG/agent-kit](https://github.com/sTomerG/agent-kit) - Claude Code 的開源模組及其他擴充功能。
 - [charlie947/mod-maker](https://github.com/charlie947/mod-maker) - Mod Maker：找出你反覆要求 Claude Code 執行的內容，並將其轉換為 mod。另附 8 個範例 mod 和一間虛擬辦公室.
-- [Niedvin/ClauDiscombobulating](https://github.com/Niedvin/ClauDiscombobulating) - 適用於 Claude Code 的提示列模組：使用量限制、快取計時器與警示、模型／努力程度選擇器、側窗格。
 
 </details>
 
@@ -2051,7 +2059,7 @@ Claude Code 的語音協作者。與由 ElevenLabs conversational AI 驅動的 3
 DeepSeek Harness 與 Cordis 從不同方向抵達同一個位置：對它們來說，外掛就是模組機制，因此那裡的外掛就等同於這裡的模組。
 
 <details>
-<summary>🧵 <b><a href="https://github.com/ruvnet/ruflo">ruvnet/ruflo</a></b> · ⭐74252 · TypeScript · 👁️ observed · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/ruvnet/ruflo">ruvnet/ruflo</a></b> · ⭐74280 · TypeScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 Summary
 
@@ -2071,7 +2079,7 @@ DeepSeek Harness 與 Cordis 從不同方向抵達同一個位置：對它們來�
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **74252**  |
+| Stars        | **74280**  |
 | Last push    | 2026-10-10 |
 | First listed | 2026-10-04 |
 
@@ -2087,7 +2095,7 @@ DeepSeek Harness 與 Cordis 從不同方向抵達同一個位置：對它們來�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/nexu-io/open-design">nexu-io/open-design</a></b> · ⭐100357 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/nexu-io/open-design">nexu-io/open-design</a></b> · ⭐100394 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Summary
 
@@ -2105,7 +2113,7 @@ DeepSeek Harness 與 Cordis 從不同方向抵達同一個位置：對它們來�
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **100357** |
+| Stars        | **100394** |
 | Last push    | 2026-10-10 |
 | First listed | 2026-10-04 |
 
@@ -2121,7 +2129,7 @@ DeepSeek Harness 與 Cordis 從不同方向抵達同一個位置：對它們來�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/tt-a1i/archify">tt-a1i/archify</a></b> · ⭐81556 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/tt-a1i/archify">tt-a1i/archify</a></b> · ⭐81639 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Summary
 
@@ -2139,7 +2147,7 @@ DeepSeek Harness 與 Cordis 從不同方向抵達同一個位置：對它們來�
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **81556**  |
+| Stars        | **81639**  |
 | Last push    | 2026-10-10 |
 | First listed | 2026-10-04 |
 
@@ -2155,7 +2163,7 @@ DeepSeek Harness 與 Cordis 從不同方向抵達同一個位置：對它們來�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/morluto/rea">morluto/rea</a></b> · ⭐64291 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/morluto/rea">morluto/rea</a></b> · ⭐70094 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Summary
 
@@ -2173,7 +2181,7 @@ DeepSeek Harness 與 Cordis 從不同方向抵達同一個位置：對它們來�
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **64291**  |
+| Stars        | **70094**  |
 | Last push    | 2026-10-10 |
 | First listed | 2026-10-05 |
 
@@ -2189,7 +2197,7 @@ DeepSeek Harness 與 Cordis 從不同方向抵達同一個位置：對它們來�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/esengine/DeepSeek-Reasonix">esengine/DeepSeek-Reasonix</a></b> · ⭐35752 · Go · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/esengine/DeepSeek-Reasonix">esengine/DeepSeek-Reasonix</a></b> · ⭐35760 · Go · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Summary
 
@@ -2207,7 +2215,7 @@ DeepSeek Harness 與 Cordis 從不同方向抵達同一個位置：對它們來�
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **35752**  |
+| Stars        | **35760**  |
 | Last push    | 2026-10-10 |
 | First listed | 2026-10-06 |
 
@@ -2216,7 +2224,7 @@ DeepSeek Harness 與 Cordis 從不同方向抵達同一個位置：對它們來�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/anywhere-labs/dsh-desktop">anywhere-labs/dsh-desktop</a></b> · ⭐30351 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/anywhere-labs/dsh-desktop">anywhere-labs/dsh-desktop</a></b> · ⭐30358 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Summary
 
@@ -2234,7 +2242,7 @@ DeepSeek Harness 與 Cordis 從不同方向抵達同一個位置：對它們來�
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **30351**  |
+| Stars        | **30358**  |
 | Last push    | 2026-10-10 |
 | First listed | 2026-10-10 |
 
@@ -2250,7 +2258,7 @@ DeepSeek Harness 與 Cordis 從不同方向抵達同一個位置：對它們來�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/titanwings/distilly">titanwings/distilly</a></b> · ⭐25465 · Python · 🔎 inferred · 18 天</summary>
+<summary>🧵 <b><a href="https://github.com/titanwings/distilly">titanwings/distilly</a></b> · ⭐25470 · Python · 🔎 inferred · 18 天</summary>
 
 ##### 📝 Summary
 
@@ -2268,7 +2276,7 @@ Distilly——將他們的思考方式提煉成適用於任何代理人或機器
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **25465**  |
+| Stars        | **25470**  |
 | Last push    | 2026-09-22 |
 | First listed | 2026-10-04 |
 
@@ -2284,7 +2292,7 @@ Distilly——將他們的思考方式提煉成適用於任何代理人或機器
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/cordiverse/cordis">cordiverse/cordis</a></b> · ⭐9110 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/cordiverse/cordis">cordiverse/cordis</a></b> · ⭐9112 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Summary
 
@@ -2302,7 +2310,7 @@ Distilly——將他們的思考方式提煉成適用於任何代理人或機器
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **9110**   |
+| Stars        | **9112**   |
 | Last push    | 2026-10-10 |
 | First listed | 2026-10-09 |
 
@@ -2311,7 +2319,7 @@ Distilly——將他們的思考方式提煉成適用於任何代理人或機器
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/zhu1090093659/dsh-web">zhu1090093659/dsh-web</a></b> · ⭐8593 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/zhu1090093659/dsh-web">zhu1090093659/dsh-web</a></b> · ⭐8594 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Summary
 
@@ -2329,7 +2337,7 @@ DeepSeek Harness (DSH) Web 外掛聚合生態 · 萬物皆外掛，透過創意�
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **8593**   |
+| Stars        | **8594**   |
 | Last push    | 2026-10-10 |
 | First listed | 2026-10-04 |
 
@@ -2345,38 +2353,11 @@ DeepSeek Harness (DSH) Web 外掛聚合生態 · 萬物皆外掛，透過創意�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/Ebony-Vinyl/dsh-our-free-model">Ebony-Vinyl/dsh-our-free-model</a></b> · ⭐6642 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/ccch1mneyyy/dsh-TUI">ccch1mneyyy/dsh-TUI</a></b> · ⭐4266 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Summary
 
-在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
-
-##### 📌 Basic facts
-
-| Field    | Value                                               |
-| -------- | --------------------------------------------------- |
-| Category | `DSH 與 Cordis 外掛生態系`                          |
-| Evidence | `宣告為模組、外掛程式或 hook，但未具體提及模組介面` |
-| 語言     | JavaScript                                          |
-
-##### 📊 Data
-
-| Metric       | Value      |
-| ------------ | ---------- |
-| Stars        | **6642**   |
-| Last push    | 2026-10-10 |
-| First listed | 2026-10-10 |
-
-🏷 `ai-agents` · `deepseek` · `deepseek-harness` · `developer-tools` · `dsh` · `dsh-plugin` · `free-model` · `llm`
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/ccch1mneyyy/dsh-TUI">ccch1mneyyy/dsh-TUI</a></b> · ⭐4262 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 Summary
-
-DSH's officially top-recommended TUI plugin — high performance, low overhead, cute pixel whale, smooth mouse interaction. One-command install via npm. / DSH 官方首推的 TUI 插件，高性能低占用，可爱像素鲸鱼，流畅鼠标交互，npm 一键安装
+DSH 官方首推的 TUI 外掛——高效能、低負載、可愛像素鯨魚、流暢滑鼠互動。透過 npm 一鍵安裝。／DSH 官方首推的 TUI 外掛，高效能低佔用，可愛像素鯨魚，流暢滑鼠互動，npm 一鍵安裝
 
 ##### 📌 Basic facts
 
@@ -2390,7 +2371,7 @@ DSH's officially top-recommended TUI plugin — high performance, low overhead, 
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **4262**   |
+| Stars        | **4266**   |
 | Last push    | 2026-10-10 |
 | First listed | 2026-10-10 |
 
@@ -2406,7 +2387,7 @@ DSH's officially top-recommended TUI plugin — high performance, low overhead, 
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/dsh-tauri/deepseek-harness-desktop">dsh-tauri/deepseek-harness-desktop</a></b> · ⭐3158 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/dsh-tauri/deepseek-harness-desktop">dsh-tauri/deepseek-harness-desktop</a></b> · ⭐3162 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Summary
 
@@ -2424,7 +2405,7 @@ DeepSeek Harness Tauri 桌面版｜仅 8mb 安装程式，无需设定环境，�
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **3158**   |
+| Stars        | **3162**   |
 | Last push    | 2026-10-10 |
 | First listed | 2026-10-10 |
 
@@ -2440,11 +2421,11 @@ DeepSeek Harness Tauri 桌面版｜仅 8mb 安装程式，无需设定环境，�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/anywhere-labs/Agents-Anywhere">anywhere-labs/Agents-Anywhere</a></b> · ⭐1542 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/kenryu42/cc-safety-net">kenryu42/cc-safety-net</a></b> · ⭐1583 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Summary
 
-跨设备的开源Agent工作台
+AI 程式設計代理的執行前防護器。在工具呼叫執行前，阻擋破壞性的 Git 和檔案系統命令，以及常見的敏感檔案存取嘗試。支援 Amp Code、Antigravity CLI、Claude Code、Codex、Cursor、DeepSeek Harness、Devin CLI、GitHub Copilot CLI、Grok Build、Hermes Agent、Kimi Code、OpenClaw、OpenCode 和 Pi。
 
 ##### 📌 Basic facts
 
@@ -2458,29 +2439,20 @@ DeepSeek Harness Tauri 桌面版｜仅 8mb 安装程式，无需设定环境，�
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **1542**   |
+| Stars        | **1583**   |
 | Last push    | 2026-10-10 |
-| First listed | 2026-10-10 |
+| First listed | 2026-10-04 |
 
-🏷 `acp` · `agentclientprotocol` · `agents` · `claudecode` · `codex` · `codex-app` · `dsh` · `dsh-plugin`
-
----
-
-<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/anywhere-labs/Agents-Anywhere/main/docs/images/readme-hero-zh.webp" width="100%" alt="anywhere-labs/Agents-Anywhere screenshot"></td>
-<td align="center" valign="top"><sub>尚未發布媒體</sub></td>
-</tr></table>
-
-<sub>由於未宣告允許重新散布的授權條款，資產以熱連結方式載入自上游儲存庫。</sub>
+🏷 `ai-agents` · `ai-safety` · `antigravity` · `claude` · `claude-code` · `claude-code-plugin` · `cli` · `codex`
 
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/vshulcz/deja-vu">vshulcz/deja-vu</a></b> · ⭐1165 · Go · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/vshulcz/deja-vu">vshulcz/deja-vu</a></b> · ⭐1167 · Go · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Summary
 
-適用於 Claude Code、Codex、Cursor 及另外 35 個編碼代理程式的記憶體，根據磁碟上已有的工作階段歷史記錄建立。本機搜尋、MCP 和 hooks，無需 LLM，只需一個 Go 二進位檔。
+Memory for Claude Code, Codex, Cursor and 38 more coding agents, built from the session history already on your disk. Local search, MCP and hooks, no LLM, one Go binary.
 
 ##### 📌 Basic facts
 
@@ -2494,7 +2466,7 @@ DeepSeek Harness Tauri 桌面版｜仅 8mb 安装程式，无需设定环境，�
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **1165**   |
+| Stars        | **1167**   |
 | Last push    | 2026-10-10 |
 | First listed | 2026-10-04 |
 
@@ -2510,7 +2482,75 @@ DeepSeek Harness Tauri 桌面版｜仅 8mb 安装程式，无需设定环境，�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/myYangyunfan/dsh_desktop">myYangyunfan/dsh_desktop</a></b> · ⭐701 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/agentrq/agentrq">agentrq/agentrq</a></b> · ⭐1139 · Go · 🔎 inferred · 0 天</summary>
+
+##### 📝 Summary
+
+AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from wherever you want Mobile, Web, Desktop. Designed to work well with your own Claude subscriptions and any harness with ACP support.
+
+##### 📌 Basic facts
+
+| Field    | Value                                               |
+| -------- | --------------------------------------------------- |
+| Category | `DSH 與 Cordis 外掛生態系`                          |
+| Evidence | `宣告為模組、外掛程式或 hook，但未具體提及模組介面` |
+| 語言     | Go                                                  |
+
+##### 📊 Data
+
+| Metric       | Value      |
+| ------------ | ---------- |
+| Stars        | **1139**   |
+| Last push    | 2026-10-10 |
+| First listed | 2026-10-11 |
+
+🏷 `acp-client` · `acp-gateway` · `agentic-ai` · `agentic-workflow` · `agents` · `ai-memory` · `claude-code` · `claude-plugin`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/agentrq--agentrq/71791429350e448f.png" width="100%" alt="agentrq/agentrq screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/agentrq--agentrq/e4115ab2a9de3317.gif" width="100%" alt="agentrq/agentrq animation"><br><sub>動畫錄影</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/LivXue/dsh-plugin-shop">LivXue/dsh-plugin-shop</a></b> · ⭐1007 · TypeScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 Summary
+
+The most comprehensive DeepSeek Harness plugin market — refreshed daily, sourced across the Internet, reviewed before publishing.
+
+##### 📌 Basic facts
+
+| Field    | Value                                               |
+| -------- | --------------------------------------------------- |
+| Category | `DSH 與 Cordis 外掛生態系`                          |
+| Evidence | `宣告為模組、外掛程式或 hook，但未具體提及模組介面` |
+| 語言     | TypeScript                                          |
+
+##### 📊 Data
+
+| Metric       | Value      |
+| ------------ | ---------- |
+| Stars        | **1007**   |
+| Last push    | 2026-10-10 |
+| First listed | 2026-10-11 |
+
+🏷 `agent` · `deepseek` · `deepseek-harness` · `deepseek-harness-plugin` · `dsh` · `dsh-plugin` · `harness`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/livxue--dsh-plugin-shop/0cd59c71bcc6f86e.png" width="100%" alt="LivXue/dsh-plugin-shop screenshot"></td>
+<td align="center" valign="top"><sub>尚未發布媒體</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/myYangyunfan/dsh_desktop">myYangyunfan/dsh_desktop</a></b> · ⭐702 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Summary
 
@@ -2528,7 +2568,7 @@ DeepSeek Harness (dsh) Windows 桌面客户端－内建 Node.js + dsh CLI，一�
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **701**    |
+| Stars        | **702**    |
 | Last push    | 2026-10-10 |
 | First listed | 2026-10-10 |
 
@@ -2544,79 +2584,11 @@ DeepSeek Harness (dsh) Windows 桌面客户端－内建 Node.js + dsh CLI，一�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/Ikalus1988/MisakaNet">Ikalus1988/MisakaNet</a></b> · ⭐526 · Python · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/vibeinging/dsh-desktop">vibeinging/dsh-desktop</a></b> · ⭐593 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Summary
 
-📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. | https://misakanet.org
-
-##### 📌 Basic facts
-
-| Field    | Value                                               |
-| -------- | --------------------------------------------------- |
-| Category | `DSH 與 Cordis 外掛生態系`                          |
-| Evidence | `宣告為模組、外掛程式或 hook，但未具體提及模組介面` |
-| 語言     | Python                                              |
-
-##### 📊 Data
-
-| Metric       | Value      |
-| ------------ | ---------- |
-| Stars        | **526**    |
-| Last push    | 2026-10-10 |
-| First listed | 2026-10-10 |
-
-🏷 `action` · `agents` · `cloudflare-workers` · `codex` · `cordis-plugin` · `d1` · `deepseek-harness` · `deepseek-harness-plugin`
-
----
-
-<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/ikalus1988--misakanet/f6853900d49aba17.jpg" width="100%" alt="Ikalus1988/MisakaNet screenshot"></td>
-<td align="center" valign="top"><sub>尚未發布媒體</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/text2future/flowix">text2future/flowix</a></b> · ⭐452 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 Summary
-
-給你的筆記，給你的 agents 的記憶。/ 內建 Deepseek harness Agent / 適用 辦公 & 寫作 & Coding
-
-##### 📌 Basic facts
-
-| Field    | Value                                               |
-| -------- | --------------------------------------------------- |
-| Category | `DSH 與 Cordis 外掛生態系`                          |
-| Evidence | `宣告為模組、外掛程式或 hook，但未具體提及模組介面` |
-| 語言     | TypeScript                                          |
-
-##### 📊 Data
-
-| Metric       | Value      |
-| ------------ | ---------- |
-| Stars        | **452**    |
-| Last push    | 2026-10-10 |
-| First listed | 2026-10-10 |
-
-🏷 `agent-memory` · `claude-code` · `codex-cli` · `desktop` · `dsh` · `dsh-plugin` · `dsh-plugin-desktop` · `hermes-agent`
-
----
-
-<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/text2future--flowix/9fc65a8848fe78ee.png" width="100%" alt="text2future/flowix screenshot"></td>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/text2future--flowix/ea3f84c8693d4236.gif" width="100%" alt="text2future/flowix animation"><br><sub>動畫錄影</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/d-dev0101/open-sea-skin">d-dev0101/open-sea-skin</a></b> · ⭐388 · JavaScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 Summary
-
-🌊 DeepSeek Harness 海洋皮肤与动态主题｜具备可调式波浪、日落与玻璃透明度的即时海洋主题。DSH 插件 + Chrome/Edge 扩充功能；保留你的新分页首页。
+DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.
 
 ##### 📌 Basic facts
 
@@ -2630,84 +2602,16 @@ DeepSeek Harness (dsh) Windows 桌面客户端－内建 Node.js + dsh CLI，一�
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **388**    |
+| Stars        | **593**    |
 | Last push    | 2026-10-10 |
-| First listed | 2026-10-10 |
+| First listed | 2026-10-11 |
 
-🏷 `animated-background` · `chrome-extension` · `customization` · `deepseek` · `deepseek-harness` · `deepseek-theme` · `dsh` · `dsh-plugin`
+🏷 `agentic-workflows` · `ai-agent` · `ai-workbench` · `data-analysis` · `deepseek-harness` · `desktop-app` · `dsh` · `dsh-plugin`
 
 ---
 
 <table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/d-dev0101--open-sea-skin/3d9689f0d936d1b0.png" width="100%" alt="d-dev0101/open-sea-skin screenshot"></td>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/d-dev0101--open-sea-skin/ccd6ac3920478ffa.gif" width="100%" alt="d-dev0101/open-sea-skin animation"><br><sub>動畫錄影</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/Mars-Sea/dsh-commandcode-provider">Mars-Sea/dsh-commandcode-provider</a></b> · ⭐377 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 Summary
-
-Command Code provider plugin for DeepSeek Harness (dsh). Adds Command Code model access, live model catalog, plan-aware model selection, reasoning effort, image input, web search, and multi-account support.
-
-##### 📌 Basic facts
-
-| Field    | Value                                               |
-| -------- | --------------------------------------------------- |
-| Category | `DSH 與 Cordis 外掛生態系`                          |
-| Evidence | `宣告為模組、外掛程式或 hook，但未具體提及模組介面` |
-| 語言     | TypeScript                                          |
-
-##### 📊 Data
-
-| Metric       | Value      |
-| ------------ | ---------- |
-| Stars        | **377**    |
-| Last push    | 2026-10-10 |
-| First listed | 2026-10-10 |
-
-🏷 `command-code` · `commandcode` · `deepseek-harness` · `dsh` · `dsh-plugin` · `llm` · `llm-provider` · `plugin`
-
----
-
-<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/mars-sea--dsh-commandcode-provider/2f2256468a8af0b9.png" width="100%" alt="Mars-Sea/dsh-commandcode-provider screenshot"></td>
-<td align="center" valign="top"><sub>尚未發布媒體</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/xing-shuyin/pi-web-ui">xing-shuyin/pi-web-ui</a></b> · ⭐281 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 Summary
-
-Just open your browser — get all your work done.
-
-##### 📌 Basic facts
-
-| Field    | Value                                               |
-| -------- | --------------------------------------------------- |
-| Category | `DSH 與 Cordis 外掛生態系`                          |
-| Evidence | `宣告為模組、外掛程式或 hook，但未具體提及模組介面` |
-| 語言     | TypeScript                                          |
-
-##### 📊 Data
-
-| Metric       | Value      |
-| ------------ | ---------- |
-| Stars        | **281**    |
-| Last push    | 2026-10-10 |
-| First listed | 2026-10-10 |
-
-🏷 `dsh` · `dsh-desktop` · `dsh-plugin` · `pi` · `pi-web` · `pi-web-ui`
-
----
-
-<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/xing-shuyin--pi-web-ui/926fb8bfa4f6062a.jpg" width="100%" alt="xing-shuyin/pi-web-ui screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/vibeinging--dsh-desktop/ccbf15d3a2c42437.png" width="100%" alt="vibeinging/dsh-desktop screenshot"></td>
 <td align="center" valign="top"><sub>尚未發布媒體</sub></td>
 </tr></table>
 
@@ -2748,40 +2652,6 @@ Just open your browser — get all your work done.
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/RevolutionLA/dsh-dream-skin">RevolutionLA/dsh-dream-skin</a></b> · ⭐219 · JavaScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 Summary
-
-DeepSeek Harness 换肤 / 壁纸 / 主题包插件 (dsh-plugin) — 8 套 Mirage 主题、每用户强调色、壁纸2.0、主题包导入导出/分享链接、收藏与随机，纯原生 token 系统实现。
-
-##### 📌 Basic facts
-
-| Field    | Value                                               |
-| -------- | --------------------------------------------------- |
-| Category | `DSH 與 Cordis 外掛生態系`                          |
-| Evidence | `宣告為模組、外掛程式或 hook，但未具體提及模組介面` |
-| 語言     | JavaScript                                          |
-
-##### 📊 Data
-
-| Metric       | Value      |
-| ------------ | ---------- |
-| Stars        | **219**    |
-| Last push    | 2026-10-10 |
-| First listed | 2026-10-10 |
-
-🏷 `deepseek-harness` · `dsh` · `dsh-plugin` · `dsh-plugin-theme` · `skin` · `theme` · `wallpaper`
-
----
-
-<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/revolutionla--dsh-dream-skin/9ae1ef97a89d3ff0.png" width="100%" alt="RevolutionLA/dsh-dream-skin screenshot"></td>
-<td align="center" valign="top"><sub>尚未發布媒體</sub></td>
-</tr></table>
-
-</details>
-
-<details>
 <summary>🧵 <b><a href="https://github.com/luobosibing2/dsh-jev-plugin">luobosibing2/dsh-jev-plugin</a></b> · ⭐203 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Summary
@@ -2810,40 +2680,6 @@ DeepSeek Harness 换肤 / 壁纸 / 主题包插件 (dsh-plugin) — 8 套 Mirage
 
 <table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/luobosibing2--dsh-jev-plugin/e27235473aa310aa.png" width="100%" alt="luobosibing2/dsh-jev-plugin screenshot"></td>
-<td align="center" valign="top"><sub>尚未發布媒體</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/dshplugin/dsh-plugin-hub">dshplugin/dsh-plugin-hub</a></b> · ⭐193 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 Summary
-
-DeepSeek Harness 社区内置插件市场（dsh-plugin）— 搜索插件、下载并安装 10000+ 人工精选社区插件，每日更新、完全免费。内置在 Harness「设置 → 插件中心」，无需离开应用即可浏览、搜索、安装各类 AI 插件。
-
-##### 📌 Basic facts
-
-| Field    | Value                                               |
-| -------- | --------------------------------------------------- |
-| Category | `DSH 與 Cordis 外掛生態系`                          |
-| Evidence | `宣告為模組、外掛程式或 hook，但未具體提及模組介面` |
-| 語言     | TypeScript                                          |
-
-##### 📊 Data
-
-| Metric       | Value      |
-| ------------ | ---------- |
-| Stars        | **193**    |
-| Last push    | 2026-10-10 |
-| First listed | 2026-10-10 |
-
-🏷 `agent` · `ai` · `cli` · `community-plugins` · `deepseek` · `deepseek-harness` · `dsh-plugin` · `dsh-plugin-org`
-
----
-
-<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/dshplugin--dsh-plugin-hub/7dd84080ee0003e9.png" width="100%" alt="dshplugin/dsh-plugin-hub screenshot"></td>
 <td align="center" valign="top"><sub>尚未發布媒體</sub></td>
 </tr></table>
 
@@ -2884,75 +2720,7 @@ DeepSeek Harness 插件，用于可预览的跨预设会话迁移。固定架构
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/WSL043/dsh-codex-subscription">WSL043/dsh-codex-subscription</a></b> · ⭐156 · JavaScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 Summary
-
-Use your ChatGPT Plus / Pro (Codex) subscription in DeepSeek Harness (DSH): GPT-6 & Codex models, images, web search and quota via ChatGPT sign-in — no OpenAI API key. Beta: control DSH from the ChatGPT mobile app. 在 DSH 中使用 ChatGPT 订阅，并可用 ChatGPT 手机 App 远程控制。
-
-##### 📌 Basic facts
-
-| Field    | Value                                               |
-| -------- | --------------------------------------------------- |
-| Category | `DSH 與 Cordis 外掛生態系`                          |
-| Evidence | `宣告為模組、外掛程式或 hook，但未具體提及模組介面` |
-| 語言     | JavaScript                                          |
-
-##### 📊 Data
-
-| Metric       | Value      |
-| ------------ | ---------- |
-| Stars        | **156**    |
-| Last push    | 2026-10-10 |
-| First listed | 2026-10-10 |
-
-🏷 `ai-agent` · `chatgpt` · `chatgpt-plus` · `chatgpt-pro` · `chatgpt-subscription` · `codex` · `codex-cli-alternative` · `codex-subscription`
-
----
-
-<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/wsl043--dsh-codex-subscription/0c3daa4061aa684e.webp" width="100%" alt="WSL043/dsh-codex-subscription screenshot"></td>
-<td align="center" valign="top"><sub>尚未發布媒體</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/sorsama/deepseek-harness-mobile">sorsama/deepseek-harness-mobile</a></b> · ⭐137 · Kotlin · 🔎 inferred · 0 天</summary>
-
-##### 📝 Summary
-
-DeepSeek Harness 的 Android 伴侣｜透过区域网路，在手机上进行聊天、管理目标、核准与接收通知。Kotlin + Jetpack Compose。
-
-##### 📌 Basic facts
-
-| Field    | Value                                               |
-| -------- | --------------------------------------------------- |
-| Category | `DSH 與 Cordis 外掛生態系`                          |
-| Evidence | `宣告為模組、外掛程式或 hook，但未具體提及模組介面` |
-| 語言     | Kotlin                                              |
-
-##### 📊 Data
-
-| Metric       | Value      |
-| ------------ | ---------- |
-| Stars        | **137**    |
-| Last push    | 2026-10-10 |
-| First listed | 2026-10-10 |
-
-🏷 `ai-agents` · `cordis` · `deepseek` · `dsh` · `dsh-plugin` · `dsh-plugins`
-
----
-
-<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/sorsama--deepseek-harness-mobile/11352624becb7d93.jpg" width="100%" alt="sorsama/deepseek-harness-mobile screenshot"></td>
-<td align="center" valign="top"><sub>尚未發布媒體</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/FeatherHunter/dsh-mattpocock-skills-deck">FeatherHunter/dsh-mattpocock-skills-deck</a></b> · ⭐129 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/FeatherHunter/dsh-mattpocock-skills-deck">FeatherHunter/dsh-mattpocock-skills-deck</a></b> · ⭐130 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Summary
 
@@ -2970,7 +2738,7 @@ DeepSeek Harness 的 Android 伴侣｜透过区域网路，在手机上进行聊
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **129**    |
+| Stars        | **130**    |
 | Last push    | 2026-10-10 |
 | First listed | 2026-10-10 |
 
@@ -2986,7 +2754,7 @@ DeepSeek Harness 的 Android 伴侣｜透过区域网路，在手机上进行聊
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/Nwflower/dsh-claude-style">Nwflower/dsh-claude-style</a></b> · ⭐126 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/Nwflower/dsh-claude-style">Nwflower/dsh-claude-style</a></b> · ⭐127 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Summary
 
@@ -3004,7 +2772,7 @@ DeepSeek Harness 的 Claude Code 桌面主題｜為 DeepSeek Harness 網頁 GUI 
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **126**    |
+| Stars        | **127**    |
 | Last push    | 2026-10-10 |
 | First listed | 2026-10-10 |
 
@@ -3018,40 +2786,6 @@ DeepSeek Harness 的 Claude Code 桌面主題｜為 DeepSeek Harness 網頁 GUI 
 </tr></table>
 
 <sub>由於未宣告允許重新散布的授權條款，資產以熱連結方式載入自上游儲存庫。</sub>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/Sutera-Diffusus/dsh-whale-musume">Sutera-Diffusus/dsh-whale-musume</a></b> · ⭐119 · JavaScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 Summary
-
-DeepSeek Harness 桌宠插件：元气鲸鱼娘看板娘陪你写程式 🐋 支援 DSH 桌面端 0.2.0-rc.2 与旧版 Web（desktop pet / mascot，local-first）
-
-##### 📌 Basic facts
-
-| Field    | Value                                               |
-| -------- | --------------------------------------------------- |
-| Category | `DSH 與 Cordis 外掛生態系`                          |
-| Evidence | `宣告為模組、外掛程式或 hook，但未具體提及模組介面` |
-| 語言     | JavaScript                                          |
-
-##### 📊 Data
-
-| Metric       | Value      |
-| ------------ | ---------- |
-| Stars        | **119**    |
-| Last push    | 2026-10-10 |
-| First listed | 2026-10-10 |
-
-🏷 `ai-assistant` · `ai-companion` · `cordis` · `cute` · `deepseek` · `deepseek-harness` · `desktop-app` · `desktop-mascot`
-
----
-
-<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/sutera-diffusus--dsh-whale-musume/cb85aa05cce65f77.png" width="100%" alt="Sutera-Diffusus/dsh-whale-musume screenshot"></td>
-<td align="center" valign="top"><sub>尚未發布媒體</sub></td>
-</tr></table>
 
 </details>
 
@@ -3090,11 +2824,11 @@ You.com 用於 web search、content extraction、research、finance 與 integrat
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/EricWang1358/dsh-web-studyhub">EricWang1358/dsh-web-studyhub</a></b> · ⭐84 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/EricWang1358/dsh-web-studyhub">EricWang1358/dsh-web-studyhub</a></b> · ⭐85 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Summary
 
-StudyHub: a DeepSeek Harness (DSH) plugin that turns your own material into questions and spaced review · 把自己的资料变成题目与间隔复习的 DSH 学习插件
+StudyHub：一個 DeepSeek Harness (DSH) 外掛，將你自己的資料轉換成題目與間隔複習 · 將自己的資料變成題目與間隔複習的 DSH 學習外掛
 
 ##### 📌 Basic facts
 
@@ -3108,7 +2842,7 @@ StudyHub: a DeepSeek Harness (DSH) plugin that turns your own material into ques
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **84**     |
+| Stars        | **85**     |
 | Last push    | 2026-10-10 |
 | First listed | 2026-10-10 |
 
@@ -3124,41 +2858,7 @@ StudyHub: a DeepSeek Harness (DSH) plugin that turns your own material into ques
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/Soren-ABT/dsh-knowledge">Soren-ABT/dsh-knowledge</a></b> · ⭐72 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 Summary
-
-Knowledge base & RAG plugin for DeepSeek Harness (DSH): chunking, local embeddings, hybrid search, management panel
-
-##### 📌 Basic facts
-
-| Field    | Value                                               |
-| -------- | --------------------------------------------------- |
-| Category | `DSH 與 Cordis 外掛生態系`                          |
-| Evidence | `宣告為模組、外掛程式或 hook，但未具體提及模組介面` |
-| 語言     | TypeScript                                          |
-
-##### 📊 Data
-
-| Metric       | Value      |
-| ------------ | ---------- |
-| Stars        | **72**     |
-| Last push    | 2026-10-10 |
-| First listed | 2026-10-10 |
-
-🏷 `deepseek-harness` · `dsh` · `dsh-plugin` · `dsh-plugins` · `knowledge-based-systems` · `rag`
-
----
-
-<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/soren-abt--dsh-knowledge/40cc300fdf79ee94.png" width="100%" alt="Soren-ABT/dsh-knowledge screenshot"></td>
-<td align="center" valign="top"><sub>尚未發布媒體</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/Sev7eEn7/dsh-sieve">Sev7eEn7/dsh-sieve</a></b> · ⭐70 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/Sev7eEn7/dsh-sieve">Sev7eEn7/dsh-sieve</a></b> · ⭐72 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Summary
 
@@ -3176,7 +2876,7 @@ dsh-sieve：DeepSeek Harness (DSH) 的上下文工程与 token 最佳化插件 �
 
 | Metric       | Value      |
 | ------------ | ---------- |
-| Stars        | **70**     |
+| Stars        | **72**     |
 | Last push    | 2026-10-10 |
 | First listed | 2026-10-10 |
 
@@ -3192,78 +2892,377 @@ dsh-sieve：DeepSeek Harness (DSH) 的上下文工程与 token 最佳化插件 �
 </details>
 
 <details>
-<summary><b>此分類中的更多項目</b> <sub>· 70</sub></summary>
+<summary>🧵 <b><a href="https://github.com/ZASENJC/dsh-plugins-store">ZASENJC/dsh-plugins-store</a></b> · ⭐69 · TypeScript · 🔎 inferred · 0 天</summary>
 
-- [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - AI 程式設計代理的執行前防護器。在工具呼叫執行前，阻擋破壞性的 Git 和檔案系統命令，以及常見的敏感檔案存取嘗試.
+##### 📝 Summary
+
+自動分類、收錄和驗證 DeepSeek-Harness 社群外掛的市場。自動分類、整理並驗證 DeepSeek-Harness 社群外掛市場。
+
+##### 📌 Basic facts
+
+| Field    | Value                                               |
+| -------- | --------------------------------------------------- |
+| Category | `DSH 與 Cordis 外掛生態系`                          |
+| Evidence | `宣告為模組、外掛程式或 hook，但未具體提及模組介面` |
+| 語言     | TypeScript                                          |
+
+##### 📊 Data
+
+| Metric       | Value      |
+| ------------ | ---------- |
+| Stars        | **69**     |
+| Last push    | 2026-10-10 |
+| First listed | 2026-10-10 |
+
+🏷 `agent-tools` · `awesome-list` · `community-project` · `deepseek-harness` · `dsh` · `dsh-plugin`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/zasenjc--dsh-plugins-store/e83b24d43eca5912.png" width="100%" alt="ZASENJC/dsh-plugins-store screenshot"></td>
+<td align="center" valign="top"><sub>尚未發布媒體</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/whyihaveyou/dsh-suite">whyihaveyou/dsh-suite</a></b> · ⭐57 · HTML · 🔎 inferred · 0 天</summary>
+
+##### 📝 Summary
+
+持續更新的 DeepSeek Harness 外掛目錄 — 每小時更新，每日進行相容性測試，內建應用程式內外掛商店與腳手架。DSH 外掛活目錄：每小時更新，每日進行相容性實測，內建外掛商店與腳手架。
+
+##### 📌 Basic facts
+
+| Field    | Value                                               |
+| -------- | --------------------------------------------------- |
+| Category | `DSH 與 Cordis 外掛生態系`                          |
+| Evidence | `宣告為模組、外掛程式或 hook，但未具體提及模組介面` |
+| 語言     | HTML                                                |
+
+##### 📊 Data
+
+| Metric       | Value      |
+| ------------ | ---------- |
+| Stars        | **57**     |
+| Last push    | 2026-10-10 |
+| First listed | 2026-10-06 |
+
+🏷 `agent-framework` · `awesome-list` · `cordis` · `deepseek` · `deepseek-harness` · `developer-tools` · `dsh` · `dsh-plugin`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/whyihaveyou--dsh-suite/e9daf3bb6313ff1b.png" width="100%" alt="whyihaveyou/dsh-suite screenshot"></td>
+<td align="center" valign="top"><sub>尚未發布媒體</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/NekroAI/nekro-nxt">NekroAI/nekro-nxt</a></b> · ⭐27 · TypeScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 Summary
+
+NekroNXT：基于 DeepSeek Harness（DSH）的多平台群聊智能体系统｜由 DSH 驱动的多平台群聊智能体系统
+
+##### 📌 Basic facts
+
+| Field    | Value                                               |
+| -------- | --------------------------------------------------- |
+| Category | `DSH 與 Cordis 外掛生態系`                          |
+| Evidence | `宣告為模組、外掛程式或 hook，但未具體提及模組介面` |
+| 語言     | TypeScript                                          |
+
+##### 📊 Data
+
+| Metric       | Value      |
+| ------------ | ---------- |
+| Stars        | **27**     |
+| Last push    | 2026-10-10 |
+| First listed | 2026-10-10 |
+
+🏷 `ai-agents` · `cordis` · `deepseek-harness` · `desktop-app` · `docker` · `dsh` · `dsh-plugin` · `electron`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/nekroai--nekro-nxt/7c9f9f2e5bc195f1.png" width="100%" alt="NekroAI/nekro-nxt screenshot"></td>
+<td align="center" valign="top"><sub>尚未發布媒體</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/zp-home/dsh-recommend">zp-home/dsh-recommend</a></b> · ⭐22 · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 Summary
+
+DSH 外掛生態透明排行與推薦：每日自動抓取 dsh-plugin 主題 + 公開評分模型 + 排行／推薦外掛與靜態站
+
+##### 📌 Basic facts
+
+| Field    | Value                                               |
+| -------- | --------------------------------------------------- |
+| Category | `DSH 與 Cordis 外掛生態系`                          |
+| Evidence | `宣告為模組、外掛程式或 hook，但未具體提及模組介面` |
+| 語言     | JavaScript                                          |
+
+##### 📊 Data
+
+| Metric       | Value      |
+| ------------ | ---------- |
+| Stars        | **22**     |
+| Last push    | 2026-10-10 |
+| First listed | 2026-10-10 |
+
+🏷 `deepseek-harness` · `dsh-plugin` · `plugin` · `rankings` · `recommendations`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/zp-home--dsh-recommend/fbc10141cf0df5b3.png" width="100%" alt="zp-home/dsh-recommend screenshot"></td>
+<td align="center" valign="top"><sub>尚未發布媒體</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/Wenaixi/dsh-superpower">Wenaixi/dsh-superpower</a></b> · ⭐21 · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 Summary
+
+DeepSeek Harness 插件：15 个 obra/superpowers 工程纪律技能，双语描述，每项技能可独立切换｜DeepSeek Harness 插件：15 个 obra/superpowers 工程纪律技能，技能描述中英双语自由切换，每一个技能本身自由开关
+
+##### 📌 Basic facts
+
+| Field    | Value                                               |
+| -------- | --------------------------------------------------- |
+| Category | `DSH 與 Cordis 外掛生態系`                          |
+| Evidence | `宣告為模組、外掛程式或 hook，但未具體提及模組介面` |
+| 語言     | JavaScript                                          |
+
+##### 📊 Data
+
+| Metric       | Value      |
+| ------------ | ---------- |
+| Stars        | **21**     |
+| Last push    | 2026-10-10 |
+| First listed | 2026-10-10 |
+
+🏷 `ai-agent` · `brainstorming` · `chinese` · `code-review` · `cordis` · `debugging` · `deepseek` · `deepseek-harness`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/wenaixi--dsh-superpower/72fd369dacf071c0.png" width="100%" alt="Wenaixi/dsh-superpower screenshot"></td>
+<td align="center" valign="top"><sub>尚未發布媒體</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/Imzl-zl/dsh-mcp-manager-ui">Imzl-zl/dsh-mcp-manager-ui</a></b> · ⭐20 · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 Summary
+
+DeepSeek Harness Web 的 MCP 伺服器管理 UI——浮動面板、JSON 匯入，以及由 profile 支援的持久化儲存。
+
+##### 📌 Basic facts
+
+| Field    | Value                                               |
+| -------- | --------------------------------------------------- |
+| Category | `DSH 與 Cordis 外掛生態系`                          |
+| Evidence | `宣告為模組、外掛程式或 hook，但未具體提及模組介面` |
+| 語言     | JavaScript                                          |
+
+##### 📊 Data
+
+| Metric       | Value      |
+| ------------ | ---------- |
+| Stars        | **20**     |
+| Last push    | 2026-10-10 |
+| First listed | 2026-10-10 |
+
+🏷 `cordis` · `deepseek-harness` · `dsh` · `dsh-plugin` · `mcp`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/imzl-zl--dsh-mcp-manager-ui/344d069db6cf421d.png" width="100%" alt="Imzl-zl/dsh-mcp-manager-ui screenshot"></td>
+<td align="center" valign="top"><sub>尚未發布媒體</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/liustack/pptwise">liustack/pptwise</a></b> · ⭐19 · TypeScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 Summary
+
+真正的 PowerPoint，不是 HTML。告訴 AI 要涵蓋哪些內容，pptwise 就會在你的電腦上建立可編輯的簡報。Agent skill + DSH plugin，不需帳戶，也不需要 API key 即可轉譯。| 真正的 PPT，不是 HTML。跟 AI 說要講什麼，pptwise 在你自己電腦上做出一份能改的 PPT。Agent skill + DSH 插件，不用註冊，渲染不用 API key。
+
+##### 📌 Basic facts
+
+| Field    | Value                                               |
+| -------- | --------------------------------------------------- |
+| Category | `DSH 與 Cordis 外掛生態系`                          |
+| Evidence | `宣告為模組、外掛程式或 hook，但未具體提及模組介面` |
+| 語言     | TypeScript                                          |
+
+##### 📊 Data
+
+| Metric       | Value      |
+| ------------ | ---------- |
+| Stars        | **19**     |
+| Last push    | 2026-10-10 |
+| First listed | 2026-10-04 |
+
+🏷 `agent-skill` · `agent-skills` · `ai-agent` · `claude-code` · `claude-skills` · `codex` · `cordis` · `deck-generation`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/liustack--pptwise/e6f193d6fc2ea355.png" width="100%" alt="liustack/pptwise screenshot"></td>
+<td align="center" valign="top"><sub>尚未發布媒體</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/Wenaixi/dsh-ponytail">Wenaixi/dsh-ponytail</a></b> · ⭐18 · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 Summary
+
+DeepSeek Harness 插件：DietrichGebert/ponytail 懒人 senior 模式与七阶梯子完美移植，6 个技能描述双语自由切换，各个技能自由开关，零 tool 注册，全场景零缓存破坏
+
+##### 📌 Basic facts
+
+| Field    | Value                                               |
+| -------- | --------------------------------------------------- |
+| Category | `DSH 與 Cordis 外掛生態系`                          |
+| Evidence | `宣告為模組、外掛程式或 hook，但未具體提及模組介面` |
+| 語言     | JavaScript                                          |
+
+##### 📊 Data
+
+| Metric       | Value      |
+| ------------ | ---------- |
+| Stars        | **18**     |
+| Last push    | 2026-10-10 |
+| First listed | 2026-10-10 |
+
+🏷 `agent-skills` · `ai-agents` · `claude-code` · `code-review` · `cordis` · `cursor` · `deepseek` · `deepseek-harness`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/wenaixi--dsh-ponytail/ffd031e53f39269a.png" width="100%" alt="Wenaixi/dsh-ponytail screenshot"></td>
+<td align="center" valign="top"><sub>尚未發布媒體</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/KannaKuron/dsh-better-workspace">KannaKuron/dsh-better-workspace</a></b> · ⭐17 · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 Summary
+
+DSH 网页插件：侧边栏的阶层式工作区树状结构 — 标题中包含 / 的项目会归入虚拟资料夹；新增工作区流程加入父群组弹出视窗
+
+##### 📌 Basic facts
+
+| Field    | Value                                               |
+| -------- | --------------------------------------------------- |
+| Category | `DSH 與 Cordis 外掛生態系`                          |
+| Evidence | `宣告為模組、外掛程式或 hook，但未具體提及模組介面` |
+| 語言     | JavaScript                                          |
+
+##### 📊 Data
+
+| Metric       | Value      |
+| ------------ | ---------- |
+| Stars        | **17**     |
+| Last push    | 2026-10-10 |
+| First listed | 2026-10-10 |
+
+🏷 `cordis` · `deepseek` · `deepseek-harness` · `dsh` · `dsh-plugin` · `sidebar` · `tree` · `workspace`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/kannakuron--dsh-better-workspace/83cddff440dfe49a.png" width="100%" alt="KannaKuron/dsh-better-workspace screenshot"></td>
+<td align="center" valign="top"><sub>尚未發布媒體</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary><b>此分類中的更多項目</b> <sub>· 63</sub></summary>
+
 - [hashgraph-online/awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins) - 為包含 Claude Code、OpenAI Codex / ChatGPT、Gemini、Antigravity、Pi / Oh My…
+- [bruc3van/awesome-dsh-plugin](https://github.com/bruc3van/awesome-dsh-plugin) - 30 秒找到真正适合你的 DeepSeek Harness插件。每天自动抓取 GitHub 上的 `dsh-plugin`…
+- [imsai-sh/awesome-deepseek-harness-plugins](https://github.com/imsai-sh/awesome-deepseek-harness-plugins) - DeepSeek Harness plugin store, marketplace and hub — 11,000+ dsh plugins with…
 - [bradeGithub/DSH-Plugins-Marketplace](https://github.com/bradeGithub/DSH-Plugins-Marketplace) - DSH 外掛程式市場 / DSH Plugin Marketplace：在 DeepSeek Harness Web GUI 中一鍵瀏覽、安裝與更新全部…
-- [ymh0000123/dsh-theme-endfield](https://github.com/ymh0000123/dsh-theme-endfield) - 终末地官网风格的 DSH Web 主题：奶油纸底、墨黑文字、信号黄强调、全直角工业编辑风.
+- [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) - Remote-work assistant for DeepSeek Harness (DSH): connect SSH。
+- [morluto/flameox](https://github.com/morluto/flameox) - Runtime evidence that helps agents trace, profile, and burn down hotspots in…
+- [Noob-stupid/dsh-plugin-gating-hub](https://github.com/Noob-stupid/dsh-plugin-gating-hub) - DSH plugin - framework upgrade safety &amp; plugin gating: contract pre-check…
 - [arcships/rutis](https://github.com/arcships/rutis) - 用於持續執行程式的外掛執行階段 — Rust core、TypeScript 與 Python 外掛，跨程序與機器.
-- [like-study1/Oh-My-DSH](https://github.com/like-study1/Oh-My-DSH) - 🐳 DeepSeek Harness 插件聚合社区 — 自动同步 dsh-plugin 生态 · 精选目录 · 每 4 小时自动维护 | Oh-My-DSH…
-- [ZASENJC/dsh-plugins-store](https://github.com/ZASENJC/dsh-plugins-store) - 自动分类、收录和验证 DeepSeek-Harness 社区插件的市场。 Automatically categorize, curate, and…
-- [Clarklevis1995/dsh-plugin-mobile-gateway](https://github.com/Clarklevis1995/dsh-plugin-mobile-gateway) - 以websocket为通信方式的dsh网关插件，支持在同一网域内移动端的接入，实现移动端的dsh app。
-- [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) - 持續更新的 DeepSeek Harness 外掛目錄 — 每小時更新，每日進行相容性測試，內建應用程式內外掛商店與腳手架.
-- [Nyasers/DSHana](https://github.com/Nyasers/DSHana) - DSHana: DeepSeek Harness as a subagent for HanaAgent。
+- [like-study1/Oh-My-DSH](https://github.com/like-study1/Oh-My-DSH) - 🐳 DeepSeek Harness 外掛聚合社群 — 自動同步 dsh-plugin 生態系 · 精選目錄 · 每 4 小時自動維護 |…
+- [mrRisega/dsh-remote](https://github.com/mrRisega/dsh-remote) - 公网远程控制 DeepSeek Harness。
+- [adamkhalile/luau-docs-oracle](https://github.com/adamkhalile/luau-docs-oracle) - Best Roblox Luau Bug Checker and API Verifier 2026 DevForum MCP Tool。
 - [kejixiaoliang/awesome-dsh-plugins](https://github.com/kejixiaoliang/awesome-dsh-plugins) - DeepSeek Harness (DSH) 外掛精選目錄——14 類 280+ 個社群外掛，涵蓋 MCP / Skill / TUI / 多 Agent /…
-- [hyzyn/dsh-plugin-kit](https://github.com/hyzyn/dsh-plugin-kit) - Plugin family for the DeepSeek Harness (DSH) Web GUI: a pnpm monorepo with a…
-- [HOWILLMAKEIT/dsh-model-context-catalog](https://github.com/HOWILLMAKEIT/dsh-model-context-catalog) - DeepSeek Harness 插件：维护 llm-pi-ai 模型的准确上下文视窗，避免长会话被误判为上下文溢出.
-- [Vncntvx/dsh-zotero](https://github.com/Vncntvx/dsh-zotero) - Zotero toolkit for DeepSeek harness; Turn your Zotero library into an evidence…
-- [Andersen216/dsh-whale-girl-live2d](https://github.com/Andersen216/dsh-whale-girl-live2d) - 🐋 鲸鱼娘桌宠 · Whale Girl Live2D —— DSH（DeepSeek Harness）Web 界面里的 Live2D 桌宠：跟着 agent…
-- [NekroAI/nekro-nxt](https://github.com/NekroAI/nekro-nxt) - NekroNXT：基于 DeepSeek Harness（DSH）的多平台群聊智能体系统｜由 DSH 驱动的多平台群聊智能体系统。
-- [gjj-star/dsh-conversation-navigator](https://github.com/gjj-star/dsh-conversation-navigator) - DSH 会话导航。
-- [Lixiaoyiao/deepseek-harness-action](https://github.com/Lixiaoyiao/deepseek-harness-action) - Community GitHub Action for DeepSeek Harness — AI Code Review · CI Diagnosis ·…
-- [zaofan-make/dsh-qqbot](https://github.com/zaofan-make/dsh-qqbot) - AI 统管 QQ 群组：审核放行、群发文件、沟通其他 web 会话的 AI！ ；气氛组担当：表情包自动入库、AI 自己决定开口、多预设多人格轮班陪聊!
-- [lizhiyao/oh-my-knowledge](https://github.com/lizhiyao/oh-my-knowledge) - OMK — 為 prompts、RAG、skills、agents 和 workflows 提供有證據支撐的評估與可觀測性.
-- [zp-home/dsh-recommend](https://github.com/zp-home/dsh-recommend) - DSH 插件生态透明排行与推荐：每日自动抓取 dsh-plugin 话题 + 公开评分模型 + 排行/推荐插件与静态站。
+- [Cerbur/clutch-dsh](https://github.com/Cerbur/clutch-dsh) - Open-source DSH plugins for DeepSeek Harness：Git Worktree session…
+- [KannaKuron/dsh-gitbash-shell](https://github.com/KannaKuron/dsh-gitbash-shell) - DSH plugin: Git Bash shell for all agent modes on Windows。
+- [Vncntvx/dsh-zotero](https://github.com/Vncntvx/dsh-zotero) - DeepSeek harness 的 Zotero 工具組；將你的 Zotero 書庫轉化為供代理使用的證據庫.
+- [maxwell-feng/dsh-tinyfish-search](https://github.com/maxwell-feng/dsh-tinyfish-search) - TinyFish-backed web search provider for DeepSeek Harness (ctx.web) — 将内置…
+- [Lixiaoyiao/deepseek-harness-action](https://github.com/Lixiaoyiao/deepseek-harness-action) - DeepSeek Harness 的社群 GitHub 動作 — AI 程式碼審查 · CI 診斷 · 自動修復 · Issue → PR。
+- [StvLi/dsh-ros2](https://github.com/StvLi/dsh-ros2) - The Deepseek Harness ROS 2 plugin can be used to efficiently diagnose issues…
+- [siweina/dsh-novel-writer](https://github.com/siweina/dsh-novel-writer) - 給中文網文作者的本地寫作工作台。
 - [awesome-deepseekharness/awesome-deepseek-harness](https://github.com/awesome-deepseekharness/awesome-deepseek-harness) - 社群精选的 DeepSeek Harness (dsh) 插件、工具、技能与学习资源。可搜寻的双语目录｜DeepSeek 插件、工具与技能精选。
-- [siweina/dsh-novel-writer](https://github.com/siweina/dsh-novel-writer) - 给中文网文作者的本地写作工作台。
-- [Wenaixi/dsh-superpower](https://github.com/Wenaixi/dsh-superpower) - DeepSeek Harness 插件：15 个 obra/superpowers 工程纪律技能，双语描述，每项技能可独立切换｜DeepSeek…
-- [harrylabsj/kiwi](https://github.com/harrylabsj/kiwi) - A2A 商务协商运行时 + DeepSeek Harness (dsh) 插件.
-- [Imzl-zl/dsh-mcp-manager-ui](https://github.com/Imzl-zl/dsh-mcp-manager-ui) - MCP server management UI for DeepSeek Harness Web — floating panel, JSON…
-- [liustack/pptwise](https://github.com/liustack/pptwise) - 真正的 PowerPoint，不是 HTML。告訴 AI 要涵蓋哪些內容，pptwise 就會在你的電腦上建立可編輯的簡報.
-- [Player-MINEPIG/dsh-tavern](https://github.com/Player-MINEPIG/dsh-tavern) - 以 DSH 原生会话与执行机制为权威的酒馆兼容插件，提供前后端 API，支持自由组合酒馆能力与 DSH 原生功能.
-- [Wenaixi/dsh-ponytail](https://github.com/Wenaixi/dsh-ponytail) - DeepSeek Harness 插件：DietrichGebert/ponytail 懒人 senior 模式与七阶梯子完美移植，6…
-- [mistnest/dsh-cuigengji-plugin](https://github.com/mistnest/dsh-cuigengji-plugin) - 给大肥鱼一个小说工作台：一起写正文、讨论后续情节、整理人物与世界设定，让长篇创作更贴近你的想法.
-- [KannaKuron/dsh-better-workspace](https://github.com/KannaKuron/dsh-better-workspace) - DSH 网页插件：侧边栏的阶层式工作区树状结构 — 标题中包含 / 的项目会归入虚拟资料夹；新增工作区流程加入父群组弹出视窗。
-- [zhu1090093659/dsh-skins](https://github.com/zhu1090093659/dsh-skins) - Skin center plugin and built-in skins for the DSH Web GUI: skins are pure asset…
-- [godchen520/dsh-web-remote](https://github.com/godchen520/dsh-web-remote) - DSH 手机/外网远程访问插件：免配置公网隧道 + 局域网 HTTPS 直连 + 自定义公网链接/端口 + 微信机器人。
-- [Ianzhyh/workbuddy-to-dsh](https://github.com/Ianzhyh/workbuddy-to-dsh) - 把本机 WorkBuddy 桌面端已登录的模型（DeepSeek / GLM / Kimi / MiniMax 等）变成本地的 OpenAI 与…
-- [Sivan757/dsh-agent-plugins-market](https://github.com/Sivan757/dsh-agent-plugins-market) - DeepSeek Harness (DSH) 的一站式技能、子智能体、MCP 与 LSP 管理器 — 相容于 Claude…
-- [PerryLink/dsh-score](https://github.com/PerryLink/dsh-score) - DeepSeek Harness plugins 的多維度品質評分：針對 repo 或 npm package 在安裝成功率。
+- [YELEBAI/dsh-plugin-marketplace](https://github.com/YELEBAI/dsh-plugin-marketplace) - Verified plugin marketplace and autonomous registry for DeepSeek Harness。
+- [dshworks/awesome-dsh-plugins](https://github.com/dshworks/awesome-dsh-plugins) - Spam-filtered, open-data registry of DeepSeek Harness (dsh) plugins, bundles…
+- [miuzel/dsh-graph](https://github.com/miuzel/dsh-graph) - 把工作组织成目标看板的 DeepSeek Harness (dsh) 插件：目标 / 判据 / 上下文卡片 / 执行 attempt…
+- [Ianzhyh/workbuddy-to-dsh](https://github.com/Ianzhyh/workbuddy-to-dsh) - 將本機 WorkBuddy 桌面端已登入的模型（DeepSeek／GLM／Kimi／MiniMax 等）變成本地的 OpenAI 與 Anthropic…
 - [PerryLink/dsh-test-drive](https://github.com/PerryLink/dsh-test-drive) - DeepSeek Harness plugins 的隔離安裝與冒煙測試驅動：將 repo 或 npm package 安裝到一次性的 DSH_HOME…
 - [wycto/dsh-dock](https://github.com/wycto/dsh-dock) - dsh-dock · DeepSeek Harness 功能坞插件：一张面板统一注册／开关所有小功能——用量记账（自订单价·分时价）、模型设定与余额、19…
-- [evoelsewhere/evoflux](https://github.com/evoelsewhere/evoflux) - Evoflux is an open-source, local-first workspace where AI agents build…
+- [YangShen-SWE/dsh-plugin-simple-pet](https://github.com/YangShen-SWE/dsh-plugin-simple-pet) - Windows desktop pet with DeepSeek billing, Codex subscription quotas, opt-in…
 - [MicroMilo/upstream-radar](https://github.com/MicroMilo/upstream-radar) - DeepSeek Harness 插件的常時相容性測試：精確版本、隔離 runners，以及可修復的上游問題.
-- [zhu1090093659/dsh-pet](https://github.com/zhu1090093659/dsh-pet) - Multi-pet companion plugin for the DSH Web GUI: a registry-driven floating pet…
-- [Liaoyuanxinghuo/DSH-Plugin-Manager](https://github.com/Liaoyuanxinghuo/DSH-Plugin-Manager)
-- [losebird/dsh-plugin-market](https://github.com/losebird/dsh-plugin-market) - DeepSeek Harness plugins market｜DSH 插件市场。
-- [Tlyer233/dsh-vscode-review](https://github.com/Tlyer233/dsh-vscode-review) - deepseek harness review插件, 可以让你在vscode中直观看到dsh的&quot;增删改&quot;操作, 支持逐行ac或rj。
-- [XHR666/dsh-mpkg-wallpaper](https://github.com/XHR666/dsh-mpkg-wallpaper) - DSH 插件：将 Wallpaper Engine 的 .mpkg／创意工坊目录作为网页背景（影片／网页／场景桌布）。渲染器产品名称为 WEwebLoader.
+- [gezi-wen/sage-mem](https://github.com/gezi-wen/sage-mem) - File-based cross-session memory for DeepSeek Harness (DSH) — every memory is a…
 - [BotHarness/DeepSeekBot](https://github.com/BotHarness/DeepSeekBot) - DeepSeekBot：开源的 GrokBot 替代品，基于 DeepSeek Harness (DSH) 构建.
+- [dsh-pub/dsh-pub](https://github.com/dsh-pub/dsh-pub) - The bilingual, source-backed registry and installer for the DeepSeek Harness…
+- [Icather/dsh-clean-desktop-shell](https://github.com/Icather/dsh-clean-desktop-shell) - DSH 纯净桌面壳：双击像普通软件一样一键启动，后端活性实时监测 + 托盘快捷启停，零视觉改造.
 - [unStone/dsh-xray](https://github.com/unStone/dsh-xray) - DeepSeek Harness 插件的 X 光：宣告的能力與實際行為。註冊表 + 靜態掃描器 + 徽章.
 - [bonerush/dsh-obsidian-mem](https://github.com/bonerush/dsh-obsidian-mem) - DeepSeek Harness 主机插件，将专案文件与长期记忆以纯 Markdown 形式储存在专用的 Obsidian vault 中.
+- [chnjames/dsh-plugin-market](https://github.com/chnjames/dsh-plugin-market) - DSH 插件市场 — DeepSeek Harness 设置内一键安装社区插件，并提供公开目录站（浏览 / 复制安装命令）。
+- [cyanseek/dsh-landscape](https://github.com/cyanseek/dsh-landscape) - Agent-first DeepSeek Harness plugin intelligence: verify existing plugins…
+- [Exagone313/dsh-podman](https://github.com/Exagone313/dsh-podman) - Podman-backed execution for DeepSeek Harness (dsh)。
+- [victorwads/dsh-live-voice](https://github.com/victorwads/dsh-live-voice) - Local-first voice conversations for DSH.
 - [KannaKuron/dsh-ide-git](https://github.com/KannaKuron/dsh-ide-git) - DSH 外掛：IDE 級 Git 工具視窗，作為原生 dsh-better-sidebar 分頁——分支樹、提交圖、變更、提交詳情、JetBrains…
-- [Mars-Sea/dsh-deeppilot](https://github.com/Mars-Sea/dsh-deeppilot) - Native iPhone companion plugin for DeepSeek Harness — sessions, approvals…
-- [adithyanraj03/dsh-graft-plugin](https://github.com/adithyanraj03/dsh-graft-plugin) - A DeepSeek Harness plugin that puts graft — a prebuilt graph of every symbol…
-- [AmethystLuna/logicprobe](https://github.com/AmethystLuna/logicprobe) - 設計與程式碼的聲稱核驗：事實類對照原始碼，行為類執行可執行模型；包含結構／相依性審查（單層與多粒度細化）、UML 審查、基線比較與匯出.
-- [ddtcorex/maestro-skills](https://github.com/ddtcorex/maestro-skills) - 通用 AI Agent 開發 Skills Hub 與適用於 Govard、Magento 2、Laravel 的 Cordis Plugin.
+- [KannaKuron/dsh-ptc-cordis-preset](https://github.com/KannaKuron/dsh-ptc-cordis-preset) - PTC 模式基础上的创造模式:DSH 插件,合成 Code Mode 工具编排 + 自引用 Cordis 工具与 preset 创作指导,物化为…
+- [xbzbing/dsh-git-panel](https://github.com/xbzbing/dsh-git-panel) - DSH 插件：Web GUI 里的 IDE 风格 Git 面板——分支/提交历史总览、变更提交与 amend、文件浏览、代码与图片新旧差异对照、输入框分支标记…
+- [ywsldxk/dsh-plugin-stars](https://github.com/ywsldxk/dsh-plugin-stars) - DeepSeek Harness (DSH) plugin leaderboard &amp; directory｜DeepSeek…
+- [cherrchen/dsh-plugin-multi-root-workspace](https://github.com/cherrchen/dsh-plugin-multi-root-workspace) - 多文件夹 workspace：让 DSH（DeepSeek Harness）的 Agent 不只能读写主目录，还能同时读写你添加的其他文件夹.
 - [godv61/dsh-task-engine](https://github.com/godv61/dsh-task-engine) - DeepSeek Harness 的工程工作流程外掛程式：工作階段、驗證記錄、提交檢查，以及技能和規則管理.
+- [liceses/dsh-cosplay](https://github.com/liceses/dsh-cosplay) - DSH 角色扮演插件：角色卡（系统提示词注入 + 用户提示词改写）、可分享的单文件卡包、复刻原版 UI 的角色页签与首轮选角 chip。
+- [majiayu000/dsh-plugin-registry](https://github.com/majiayu000/dsh-plugin-registry) - Searchable DeepSeek Harness plugin registry with curated listings and…
 - [PerryLink/dsh-plugin-doctor](https://github.com/PerryLink/dsh-plugin-doctor) - DeepSeek Harness (dsh) 外掛程式的零相依性驗證標準——靜態結構閘門 (R)、cordis 合約檢查 (K)、沙箱冒煙測試…
-- [TheYoungChen/dsh-plugin-market](https://github.com/TheYoungChen/dsh-plugin-market) - DeepSeek Harness plugin market - browse, search &amp; install dsh-plugin topic…
+- [TheYoungChen/dsh-plugin-market](https://github.com/TheYoungChen/dsh-plugin-market) - DeepSeek Harness 外掛市場 - 瀏覽、搜尋與安裝 dsh-plugin 主題外掛（dsh 外掛市場：瀏覽／搜尋／安裝外掛）。
 - [viztor/dsh-opencode-patch](https://github.com/viztor/dsh-opencode-patch) - DeepSeek Harness 上的 OpenCode — 讓 OpenCode Zen + Go 免費方案模型持續運作的 DSH…
 - [AI-Scarlett/DSH-Store](https://github.com/AI-Scarlett/DSH-Store) - DSH STORE — DeepSeek Harness 的第三方外掛市集與受防護生命週期管理器.
-- [anyuer678/dsh-logtimeline](https://github.com/anyuer678/dsh-logtimeline) - Query local log files with Chinese natural-language time expressions…
 - [Atelyx/Atelyx](https://github.com/Atelyx/Atelyx) - Atelyx 是一款以人為本且可擴充的桌面工作台：對話、筆記、表格、檔案集中於同一個工作台；自行建立伺服器即可啟用多人即時協作.
-- [beihzb/dsh-notebook](https://github.com/beihzb/dsh-notebook) - DeepSeek Harness 原生 Jupyter 風格筆記本：真正的 ipykernel sidecar 與對齊 VS Code 的儲存格…
 - [chenkai2/dsh-daemon](https://github.com/chenkai2/dsh-daemon) - dsh daemon：將 DeepSeek Harness 網頁伺服器。
-- [dsh-cc/dsh-cc](https://github.com/dsh-cc/dsh-cc) - 一個開箱即用的 DeepSeek Harness 編碼代理——Claude Code…
 - [fangwen9527/dsh-composer-ux](https://github.com/fangwen9527/dsh-composer-ux) - DSH Web 輸入體驗插件：傳送/換行鍵位切換、右鍵選單、面板捲動與尺寸記憶、OpenCode 請求標頭自動注入。
-- [lmzhen/dsh-evolution](https://github.com/lmzhen/dsh-evolution) - 受 Hermes 啟發、專為 DeepSeek Harness 打造的代理程式自我演化外掛程式系列。
-- [Mzy123l/dsh-plugin-remote-access](https://github.com/Mzy123l/dsh-plugin-remote-access) - 为 DeepSeek Harness 桌面版提供「限网段 + 可选数字密码」的远程访问入口。
+- [grloper/dsh-claude-oauth](https://github.com/grloper/dsh-claude-oauth) - Claude Pro/Max OAuth model provider for DeepSeek Harness with Google/Gmail…
+- [iasiv5/dsh-skip-browser-auth](https://github.com/iasiv5/dsh-skip-browser-auth) - DSH 插件：（Web Profile 专用）自动跳过 BrowserAuth，访问 Web 地址即可直接使用，无需每次复制启动 URL 中的随机 Token…
+- [Mzy123l/dsh-plugin-remote-access](https://github.com/Mzy123l/dsh-plugin-remote-access) - 為 DeepSeek Harness 桌面版提供「限網段 + 可選數字密碼」的遠端存取入口。
+- [tianyagk/dsh-tradewatcher](https://github.com/tianyagk/dsh-tradewatcher) - DeepSeek Harness (DSH) web plugin: 盯盘 market-dashboard sidebar tab — three…
 - [argszero/cordis-plugin-sandbox-grant-advisor](https://github.com/argszero/cordis-plugin-sandbox-grant-advisor) - DeepSeek Harness 外掛程式：將 Windows 沙盒 ACL 設定失敗。
 - [argszero/cordis-plugin-empty-response-retry](https://github.com/argszero/cordis-plugin-empty-response-retry) - 讓無法歸屬的空模型嘗試可重新嘗試，適用於唯一能判斷的那個接縫（deepseek-harness 討論串 #8321 與 #9352）.
 - [validation-engineering/cordis-verus](https://github.com/validation-engineering/cordis-verus) - 具備由 Verus 驗證的生命週期核心與 Cordis 相容性轉接器的 Rust 外掛程式執行階段.
-- [SCP-008-1/dshop](https://github.com/SCP-008-1/dshop) - dsh 插件商城 - 基于 GitHub topic:dsh-plugin 自动发现与每小时定时同步。
+- [helloHupc/dsh-plugin-hub](https://github.com/helloHupc/dsh-plugin-hub) - DSH 插件聚合站:全网 DeepSeek Harness 插件聚合检索,多源自动去重分类,每小时刷新 |…
+- [HaydenSmith1121/dsh-plugins](https://github.com/HaydenSmith1121/dsh-plugins) - DeepSeek Harness (dsh) 插件市场 —— 目录（一个插件一个配置文件）+ 可视化面板 + 一键安装；插件本体在…
+- [SCP-008-1/dshop](https://github.com/SCP-008-1/dshop) - dsh 外掛商城 - 基於 GitHub topic:dsh-plugin 自動發現與每小時定時同步。
 
 </details>
 
@@ -3274,7 +3273,7 @@ dsh-sieve：DeepSeek Harness (DSH) 的上下文工程与 token 最佳化插件 �
 關於模組功能的文章、討論與影片。
 
 <details>
-<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49925102">Claude Code Mods</a></b> · ⭐6 · 👁️ observed · 8 天</summary>
+<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49925102">Claude Code Mods</a></b> · ⭐6 · 👁️ observed · 9 天</summary>
 
 ##### 📝 Summary
 
@@ -3340,7 +3339,7 @@ No upstream description was published.
 </details>
 
 <details>
-<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49925800">Claude Code Mods: plugins may now modify deeper behavior</a></b> · ⭐3 · 👁️ observed · 8 天</summary>
+<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49925800">Claude Code Mods: plugins may now modify deeper behavior</a></b> · ⭐3 · 👁️ observed · 9 天</summary>
 
 ##### 📝 Summary
 
@@ -3362,7 +3361,7 @@ No upstream description was published.
 </details>
 
 <details>
-<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49926243">Getting started with Claude Code mods</a></b> · ⭐3 · 👁️ observed · 8 天</summary>
+<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49926243">Getting started with Claude Code mods</a></b> · ⭐3 · 👁️ observed · 9 天</summary>
 
 ##### 📝 Summary
 
@@ -3384,7 +3383,7 @@ No upstream description was published.
 </details>
 
 <details>
-<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49945600">Show HN: Terminal Gym – a Claude mod that makes you do pushups between prompts</a></b> · ⭐3 · 👁️ observed · 6 天</summary>
+<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49945600">Show HN: Terminal Gym – a Claude mod that makes you do pushups between prompts</a></b> · ⭐3 · 👁️ observed · 7 天</summary>
 
 ##### 📝 Summary
 
@@ -3428,7 +3427,7 @@ No upstream description was published.
 </details>
 
 <details>
-<summary>📰 <b><a href="https://news.ycombinator.com/item?id=50024345">Agent-config&amp;Claude Code mods</a></b> · ⭐2 · 👁️ observed · 0 天</summary>
+<summary>📰 <b><a href="https://news.ycombinator.com/item?id=50024345">Agent-config&amp;Claude Code mods</a></b> · ⭐2 · 👁️ observed · 1 天</summary>
 
 ##### 📝 Summary
 
@@ -3521,20 +3520,18 @@ No upstream description was published.
 
 這個生態系主要集中在 Python 和 TypeScript，但支援型別的用戶端仍持續以其他語言出現。本表格是從各項目本身產生的。
 
-| 語言       | 條目 | 範例                                                                                                             |
-| ---------- | ---- | ---------------------------------------------------------------------------------------------------------------- |
-| TypeScript | 385  | `anthropics/claude-code`, `anthropics/claude-code-action`, `see-stack/claude-code-mods`                          |
-| JavaScript | 86   | `MIHassan3/DSH-Launcher`, `karanb192/awesome-claude-code-mods`, `karanb192/claude-code-mods`                     |
-| Python     | 41   | `anthropics/claude-agent-sdk-python`, `anthropics/claude-code-security-review`, `AgriciDaniel/claude-mods-brain` |
-| Shell      | 31   | `anthropics/claude-agent-sdk-typescript`, `0xDarkMatter/claude-mods`, `BeLazy167/claude-mods-skill`              |
-| HTML       | 10   | `awss1i/assay`, `darrell-tw/darrelltw-mods`, `omarcevi/claudemods`                                               |
-| Go         | 5    | `kylesnowschwartz/tail-claude-hud`, `livlign/ccbit`, `bunderlog/claude-plugins`                                  |
-| Rust       | 5    | `persiyanov/herdr-reviewr`, `melderan/claude-statusline-rust`, `arcships/rutis`                                  |
-| Swift      | 3    | `bhargava-gumpula/claude-mods`, `essedev/relay`, `peaceinitiativemenhadenoil263/claude-status-bar`               |
-| C          | 1    | `reporails/arcade`                                                                                               |
-| CSS        | 1    | `zhu1090093659/dsh-skins`                                                                                        |
-| Kotlin     | 1    | `sorsama/deepseek-harness-mobile`                                                                                |
-| PowerShell | 1    | `rainyfei/claude-statusline-win`                                                                                 |
+| 語言       | 條目 | 範例                                                                                                          |
+| ---------- | ---- | ------------------------------------------------------------------------------------------------------------- |
+| TypeScript | 396  | `anthropics/claude-code`, `anthropics/claude-code-action`, `PerryLink/dsh-mcp-panel`                          |
+| JavaScript | 87   | `MIHassan3/DSH-Launcher`, `karanb192/awesome-claude-code-mods`, `karanb192/claude-code-mods`                  |
+| Python     | 43   | `anthropics/claude-agent-sdk-python`, `anthropics/claude-code-security-review`, `alexgreensh/token-optimizer` |
+| Shell      | 30   | `anthropics/claude-agent-sdk-typescript`, `0xDarkMatter/claude-mods`, `BeLazy167/claude-mods-skill`           |
+| HTML       | 16   | `HeyCubit/effortless`, `awss1i/assay`, `darrell-tw/darrelltw-mods`                                            |
+| Go         | 7    | `cephalofoil/kitt`, `kylesnowschwartz/tail-claude-hud`, `livlign/ccbit`                                       |
+| Rust       | 5    | `persiyanov/herdr-reviewr`, `JairoTorregrosa/claude-statusline`, `melderan/claude-statusline-rust`            |
+| PowerShell | 2    | `rainyfei/claude-statusline-win`, `YangShen-SWE/dsh-plugin-simple-pet`                                        |
+| Swift      | 2    | `bhargava-gumpula/claude-mods`, `peaceinitiativemenhadenoil263/claude-status-bar`                             |
+| C          | 1    | `reporails/arcade`                                                                                            |
 
 <sub>Only entries that declare a language are counted. Documentation and discussion entries are excluded from this table.</sub>
 
@@ -3546,4 +3543,4 @@ No upstream description was published.
 
 <sub>獨立的社群專案。與 Anthropic 無關聯，也未獲其背書或審查。Claude Code、Claude 和 Anthropic 是 Anthropic 的商標。產品行為可能在未通知的情況下變更；任何關鍵內容都請以官方文件為準。資產仍歸其上游專案所有，僅在授權允許的情況下重製。</sub>
 
-<sub>Last updated · 2026-10-10T23:31:01+08:00</sub>
+<sub>Last updated · 2026-10-11T05:58:46+08:00</sub>

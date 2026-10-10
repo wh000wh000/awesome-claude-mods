@@ -1047,3 +1047,32 @@
 - `+` [Imzl-zl/dsh-mcp-manager-ui](https://github.com/Imzl-zl/dsh-mcp-manager-ui) — inferred / dsh-cordis — ⭐20
 - `+` [Player-MINEPIG/dsh-tavern](https://github.com/Player-MINEPIG/dsh-tavern) — inferred / dsh-cordis — ⭐19
 - …另有 61 条新增
+
+## 2026-10-11T05:50:47+08:00
+- 收录总数 **617**；本次更新新增 **146**
+- `+` [alexgreensh/token-optimizer](https://github.com/alexgreensh/token-optimizer) — observed / mods — ⭐2532
+- `+` [Owloops/claude-powerline](https://github.com/Owloops/claude-powerline) — inferred / mods — ⭐1174
+- `+` [agentrq/agentrq](https://github.com/agentrq/agentrq) — inferred / dsh-cordis — ⭐1139
+- `+` [LivXue/dsh-plugin-shop](https://github.com/LivXue/dsh-plugin-shop) — inferred / dsh-cordis — ⭐1007
+- `+` [vibeinging/dsh-desktop](https://github.com/vibeinging/dsh-desktop) — inferred / dsh-cordis — ⭐593
+- `+` [bruc3van/awesome-dsh-plugin](https://github.com/bruc3van/awesome-dsh-plugin) — inferred / dsh-cordis — ⭐402
+- `+` [imsai-sh/awesome-deepseek-harness-plugins](https://github.com/imsai-sh/awesome-deepseek-harness-plugins) — inferred / dsh-cordis — ⭐274
+- `+` [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) — inferred / dsh-cordis — ⭐131
+- `+` [fatihaydost/brand-identity-skill](https://github.com/fatihaydost/brand-identity-skill) — inferred / mods — ⭐126
+- `+` [morluto/flameox](https://github.com/morluto/flameox) — inferred / dsh-cordis — ⭐119
+- `+` [HeyCubit/effortless](https://github.com/HeyCubit/effortless) — observed / mods — ⭐106
+- `+` [Noob-stupid/dsh-plugin-gating-hub](https://github.com/Noob-stupid/dsh-plugin-gating-hub) — inferred / dsh-cordis — ⭐99
+- `+` [mrRisega/dsh-remote](https://github.com/mrRisega/dsh-remote) — inferred / dsh-cordis — ⭐75
+- `+` [NahumLitvin/prismantis](https://github.com/NahumLitvin/prismantis) — observed / mods — ⭐74
+- `+` [adamkhalile/luau-docs-oracle](https://github.com/adamkhalile/luau-docs-oracle) — inferred / dsh-cordis — ⭐70
+- `+` [Cerbur/clutch-dsh](https://github.com/Cerbur/clutch-dsh) — inferred / dsh-cordis — ⭐33
+- `+` [KannaKuron/dsh-gitbash-shell](https://github.com/KannaKuron/dsh-gitbash-shell) — inferred / dsh-cordis — ⭐32
+- `+` [maxwell-feng/dsh-tinyfish-search](https://github.com/maxwell-feng/dsh-tinyfish-search) — inferred / dsh-cordis — ⭐26
+- `+` [tronschell/statusline.sh](https://github.com/tronschell/statusline.sh) — unverified / mods — ⭐23
+- `+` [StvLi/dsh-ros2](https://github.com/StvLi/dsh-ros2) — inferred / dsh-cordis — ⭐23
+- `+` [NovusEdge/glowup](https://github.com/NovusEdge/glowup) — observed / mods — ⭐23
+- `+` [YELEBAI/dsh-plugin-marketplace](https://github.com/YELEBAI/dsh-plugin-marketplace) — inferred / dsh-cordis — ⭐20
+- `+` [helloHupc/dsh-plugin-hub](https://github.com/helloHupc/dsh-plugin-hub) — unverified / dsh-cordis — ⭐18
+- `+` [dshworks/awesome-dsh-plugins](https://github.com/dshworks/awesome-dsh-plugins) — inferred / dsh-cordis — ⭐16
+- `+` [miuzel/dsh-graph](https://github.com/miuzel/dsh-graph) — inferred / dsh-cordis — ⭐15
+- …另有 121 条新增
