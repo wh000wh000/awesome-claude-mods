@@ -1,0 +1,49 @@
+# Awesome Jev
+
+> An evidence-graded, continuously rebuilt index of the Jev / TypeSafe
+> System One ecosystem: SDKs, MCP tooling, agent guardrails, evaluations,
+> open models, applications and writing. Every entry carries an evidence
+> grade saying how much was actually verified. Rebuilt every two hours in
+> twenty languages.
+
+Last generated: 2026-10-10T23:31:02+08:00
+Entries: 599
+
+## What a Claude Code mod is
+
+Claude Code gained mods in 2.1.287: extensions that may change deeper
+behaviour than a plugin could, and draw their own interface. A mod can
+hook ui.render to paint a row, band, pane or card around the prompt,
+read the text you last selected with $.ui.selection(), spawn teammates
+with agent.spawn, and own a Client region. ui.fault keeps one broken mod
+from taking down the session.
+
+## Evidence grades
+
+- official: published by Anthropic, or read from the official changelog
+- observed: its own text names part of the mod surface
+- inferred: calls itself a mod, plugin or hook, without naming that surface
+- unverified: matched on vocabulary alone
+
+The grade describes how much was verified, not how good a project is.
+
+## Sections
+
+- mods: 467 entries
+- dsh-cordis: 104 entries
+- official: 17 entries
+- writing: 11 entries
+
+## Pages
+
+- [Index](https://wh000wh000.github.io/awesome-claude-mods/): searchable, filterable list of every entry
+- [Repository](https://github.com/wh000wh000/awesome-claude-mods): the generated README, contributing guide and change ledger
+- [English README](https://github.com/wh000wh000/awesome-claude-mods/blob/main/README.md)
+- [Chinese README](https://github.com/wh000wh000/awesome-claude-mods/blob/main/docs/README.zh-CN.md)
+- [Data](https://github.com/wh000wh000/awesome-claude-mods/blob/main/data/entries.json): the underlying entries as JSON
+
+## Disclosure
+
+Independent community project, not affiliated with or endorsed by Anthropic.
+Claude and Claude Code are trademarks of Anthropic. Product behaviour changes
+without notice.

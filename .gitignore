@@ -1,0 +1,21 @@
+# Collected raw payloads. Regenerable, large, and rewritten whenever a source
+# changes; keeping them out of git keeps the diff readable. `collect.py` always
+# rewrites a missing file, so a fresh clone still rebuilds correctly.
+data/raw/
+
+# Media is content-addressed and IS committed: the README links to these files,
+# so they must exist in the repository.
+!media/
+
+.DS_Store
+Thumbs.db
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Never commit provider credentials.
+.secrets.env
+.env
+*.key

@@ -1,0 +1,15 @@
+# Generated files. Collapse them in diffs: they are large, regenerated every
+# tick, and a reviewer cares about the human-readable CHANGELOG, not the blob.
+data/entries.json  linguist-generated -diff
+data/stats.json    linguist-generated -diff
+data/media.json    linguist-generated -diff
+
+# Language statistics should describe the pipeline, not the generated list.
+README*.md export-ignore
+docs/README*.md export-ignore
+
+*.png binary
+*.gif binary
+*.webp binary
+*.mp4 binary
+*.webm binary

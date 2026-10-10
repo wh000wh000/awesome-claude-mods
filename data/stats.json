@@ -1,0 +1,39 @@
+{
+ "generated_at": "2026-10-10T23:23:50+08:00",
+ "total": 599,
+ "new_this_tick": 0,
+ "by_category": {
+  "official": 17,
+  "mods": 467,
+  "dsh-cordis": 104,
+  "writing": 11
+ },
+ "by_evidence": {
+  "official": 14,
+  "observed": 376,
+  "inferred": 199,
+  "unverified": 10
+ },
+ "by_tier": {
+  "official": 14,
+  "community": 585
+ },
+ "by_language": {
+  "TypeScript": 385,
+  "JavaScript": 86,
+  "Python": 41,
+  "Shell": 31,
+  "HTML": 10,
+  "Rust": 5,
+  "Go": 5,
+  "Swift": 3,
+  "C": 1,
+  "PowerShell": 1,
+  "Kotlin": 1,
+  "CSS": 1
+ },
+ "repos": 580,
+ "models": 0,
+ "discussions": 11,
+ "total_stars": 763849
+}

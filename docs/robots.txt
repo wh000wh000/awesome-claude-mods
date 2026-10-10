@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wh000wh000.github.io/awesome-claude-mods/sitemap.xml
