@@ -1163,3 +1163,32 @@
 - `+` [dsh-plugin-lab/dsh-workbuddy-bridge](https://github.com/dsh-plugin-lab/dsh-workbuddy-bridge) — inferred / dsh-cordis — ⭐6
 - `+` [Fayelin12/dsh-office](https://github.com/Fayelin12/dsh-office) — inferred / dsh-cordis — ⭐6
 - …另有 25 条新增
+
+## 2026-10-11T16:42:33+08:00
+- 收录总数 **595**；本次更新新增 **146**
+- `+` [anbeime/skill](https://github.com/anbeime/skill) — inferred / dsh-cordis — ⭐7821
+- `+` [anywhere-labs/Agents-Anywhere](https://github.com/anywhere-labs/Agents-Anywhere) — inferred / dsh-cordis — ⭐1557
+- `+` [LivXue/dsh-plugin-shop](https://github.com/LivXue/dsh-plugin-shop) — inferred / dsh-cordis — ⭐1009
+- `+` [zhaoolee/notes](https://github.com/zhaoolee/notes) — inferred / dsh-cordis — ⭐277
+- `+` [01Virex/dsh-status-rotator](https://github.com/01Virex/dsh-status-rotator) — inferred / dsh-cordis — ⭐136
+- `+` [mexiaosqwq/dsh-web-mobile](https://github.com/mexiaosqwq/dsh-web-mobile) — inferred / dsh-cordis — ⭐131
+- `+` [WSK-build/DSHBox](https://github.com/WSK-build/DSHBox) — inferred / dsh-cordis — ⭐104
+- `+` [NoNameLeGo/dsh-catppuccin-theme](https://github.com/NoNameLeGo/dsh-catppuccin-theme) — inferred / dsh-cordis — ⭐58
+- `+` [Contexera/dsh-agent-team](https://github.com/Contexera/dsh-agent-team) — inferred / dsh-cordis — ⭐57
+- `+` [FeatherHunter/dsh-opencode-palette](https://github.com/FeatherHunter/dsh-opencode-palette) — inferred / dsh-cordis — ⭐52
+- `+` [yi-yezhiqiu/dsh-prompt-market](https://github.com/yi-yezhiqiu/dsh-prompt-market) — inferred / dsh-cordis — ⭐33
+- `+` [vritser/dsh-emacs](https://github.com/vritser/dsh-emacs) — inferred / dsh-cordis — ⭐31
+- `+` [dphmoblie/deepseek-harness-android](https://github.com/dphmoblie/deepseek-harness-android) — inferred / dsh-cordis — ⭐22
+- `+` [FeatherHunter/dsh-im-companion](https://github.com/FeatherHunter/dsh-im-companion) — inferred / dsh-cordis — ⭐21
+- `+` [helloHupc/dsh-plugin-hub](https://github.com/helloHupc/dsh-plugin-hub) — unverified / dsh-cordis — ⭐18
+- `+` [qinyre/dsh-plugin-capabilities](https://github.com/qinyre/dsh-plugin-capabilities) — inferred / dsh-cordis — ⭐16
+- `+` [LAU-MARS/dsh-cad](https://github.com/LAU-MARS/dsh-cad) — inferred / dsh-cordis — ⭐16
+- `+` [billLiao/awesome-dsh-plugin](https://github.com/billLiao/awesome-dsh-plugin) — inferred / dsh-cordis — ⭐15
+- `+` [biedongbin/dsh-claude-compat](https://github.com/biedongbin/dsh-claude-compat) — inferred / dsh-cordis — ⭐14
+- `+` [AmethystLuna/embedded-workbench](https://github.com/AmethystLuna/embedded-workbench) — inferred / dsh-cordis — ⭐14
+- `+` [WTStarMark/dsh-plugin-mesh](https://github.com/WTStarMark/dsh-plugin-mesh) — inferred / dsh-cordis — ⭐13
+- `+` [rashedInt32/glass](https://github.com/rashedInt32/glass) — observed / mods — ⭐11
+- `+` [ai-yukin/dsh-0-tools](https://github.com/ai-yukin/dsh-0-tools) — inferred / dsh-cordis — ⭐8
+- `+` [1321928757/dsh-mysql](https://github.com/1321928757/dsh-mysql) — inferred / dsh-cordis — ⭐7
+- `+` [mokuyoaxis/dsh-iris](https://github.com/mokuyoaxis/dsh-iris) — inferred / dsh-cordis — ⭐7
+- …另有 121 条新增

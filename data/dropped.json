@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-11T14:33:19+08:00",
- "count": 113,
+ "updated_at": "2026-10-11T16:42:35+08:00",
+ "count": 114,
  "policy": {
   "min_stars": 5,
   "min_description_chars": 40
@@ -40,7 +40,7 @@
    "description_chars": 39,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-10T18:58:53+08:00",
-   "last_seen_dropped": "2026-10-11T14:33:19+08:00"
+   "last_seen_dropped": "2026-10-11T16:42:35+08:00"
   },
   {
    "at": "2026-10-09T20:58:12+08:00",
@@ -113,6 +113,18 @@
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-04T22:03:03+08:00",
    "last_seen_dropped": "2026-10-05T10:26:05+08:00"
+  },
+  {
+   "at": "2026-10-11T16:42:33+08:00",
+   "id": "gh:ConvFusion/ConvFusion-dsh",
+   "name": "ConvFusion/ConvFusion-dsh",
+   "url": "https://github.com/ConvFusion/ConvFusion-dsh",
+   "stars": 3,
+   "evidence": "unverified",
+   "description_chars": 38,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-10-11T16:42:33+08:00",
+   "last_seen_dropped": "2026-10-11T16:42:35+08:00"
   },
   {
    "at": "2026-10-06T13:03:51+08:00",
@@ -279,7 +291,7 @@
    "description_chars": 28,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-10T16:48:16+08:00",
-   "last_seen_dropped": "2026-10-11T14:33:19+08:00"
+   "last_seen_dropped": "2026-10-11T16:42:35+08:00"
   },
   {
    "at": "2026-10-04T22:03:03+08:00",
@@ -351,7 +363,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-11T05:50:47+08:00",
-   "last_seen_dropped": "2026-10-11T14:33:19+08:00"
+   "last_seen_dropped": "2026-10-11T16:42:35+08:00"
   },
   {
    "at": "2026-10-05T01:24:38+08:00",
@@ -603,7 +615,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-11T05:50:47+08:00",
-   "last_seen_dropped": "2026-10-11T12:22:01+08:00"
+   "last_seen_dropped": "2026-10-11T16:42:35+08:00"
   },
   {
    "at": "2026-10-06T20:14:21+08:00",
@@ -639,7 +651,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-04T22:03:03+08:00",
-   "last_seen_dropped": "2026-10-11T14:33:19+08:00"
+   "last_seen_dropped": "2026-10-11T16:42:35+08:00"
   },
   {
    "at": "2026-10-04T22:04:33+08:00",
@@ -735,7 +747,7 @@
    "description_chars": 28,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-09T16:31:11+08:00",
-   "last_seen_dropped": "2026-10-11T14:33:19+08:00"
+   "last_seen_dropped": "2026-10-11T16:42:35+08:00"
   },
   {
    "at": "2026-10-09T16:31:11+08:00",
@@ -771,7 +783,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-07T07:52:50+08:00",
-   "last_seen_dropped": "2026-10-11T14:33:19+08:00"
+   "last_seen_dropped": "2026-10-11T16:42:35+08:00"
   },
   {
    "at": "2026-10-05T00:33:04+08:00",
@@ -963,7 +975,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-06T17:49:39+08:00",
-   "last_seen_dropped": "2026-10-10T16:48:17+08:00"
+   "last_seen_dropped": "2026-10-11T16:42:35+08:00"
   },
   {
    "at": "2026-10-05T01:24:38+08:00",
@@ -1034,7 +1046,7 @@
    "description_chars": 31,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-10T16:48:16+08:00",
-   "last_seen_dropped": "2026-10-11T14:33:19+08:00"
+   "last_seen_dropped": "2026-10-11T16:42:35+08:00"
   },
   {
    "at": "2026-10-04T22:04:33+08:00",
@@ -1286,7 +1298,7 @@
    "description_chars": 35,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-08T10:39:21+08:00",
-   "last_seen_dropped": "2026-10-11T14:33:19+08:00"
+   "last_seen_dropped": "2026-10-11T16:42:35+08:00"
   },
   {
    "at": "2026-10-06T02:13:19+08:00",
