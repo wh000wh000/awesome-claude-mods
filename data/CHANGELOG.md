@@ -1308,3 +1308,32 @@
 - `+` [YELEBAI/dsh-plugin-marketplace](https://github.com/YELEBAI/dsh-plugin-marketplace) — inferred / dsh-cordis — ⭐20
 - `+` [dshworks/awesome-dsh-plugins](https://github.com/dshworks/awesome-dsh-plugins) — inferred / dsh-cordis — ⭐16
 - …另有 122 条新增
+
+## 2026-10-12T05:59:07+08:00
+- 收录总数 **591**；本次更新新增 **38**
+- `+` [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) — inferred / dsh-cordis — ⭐526
+- `+` [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) — inferred / dsh-cordis — ⭐133
+- `+` [Noob-stupid/dsh-plugin-gating-hub](https://github.com/Noob-stupid/dsh-plugin-gating-hub) — inferred / dsh-cordis — ⭐100
+- `+` [hellosverre/claude-skins](https://github.com/hellosverre/claude-skins) — observed / mods — ⭐99
+- `+` [like-study1/Oh-My-DSH](https://github.com/like-study1/Oh-My-DSH) — inferred / dsh-cordis — ⭐90
+- `+` [adamkhalile/luau-docs-oracle](https://github.com/adamkhalile/luau-docs-oracle) — inferred / dsh-cordis — ⭐70
+- `+` [ZASENJC/dsh-plugins-store](https://github.com/ZASENJC/dsh-plugins-store) — inferred / dsh-cordis — ⭐69
+- `+` [1475505/miliastra-beyond-simulator](https://github.com/1475505/miliastra-beyond-simulator) — inferred / dsh-cordis — ⭐58
+- `+` [zp-home/dsh-recommend](https://github.com/zp-home/dsh-recommend) — inferred / dsh-cordis — ⭐22
+- `+` [helloHupc/dsh-plugin-hub](https://github.com/helloHupc/dsh-plugin-hub) — unverified / dsh-cordis — ⭐18
+- `+` [SavaSoftworks/BitFrost](https://github.com/SavaSoftworks/BitFrost) — observed / mods — ⭐16
+- `+` [paulbkim-dev/claude-code-cache-warmer](https://github.com/paulbkim-dev/claude-code-cache-warmer) — observed / mods — ⭐13
+- `+` [GooDAnDReaDY/dsh-subscriptions](https://github.com/GooDAnDReaDY/dsh-subscriptions) — inferred / dsh-cordis — ⭐10
+- `+` [YangShen-SWE/dsh-plugin-simple-pet](https://github.com/YangShen-SWE/dsh-plugin-simple-pet) — inferred / dsh-cordis — ⭐8
+- `+` [Icather/dsh-clean-desktop-shell](https://github.com/Icather/dsh-clean-desktop-shell) — inferred / dsh-cordis — ⭐7
+- `+` [noash-xrc/claude-tools](https://github.com/noash-xrc/claude-tools) — observed / mods — ⭐3
+- `+` [HaydenSmith1121/dsh-plugins](https://github.com/HaydenSmith1121/dsh-plugins) — unverified / dsh-cordis — ⭐3
+- `+` [GooDAnDReaDY/dsh-live-canvas](https://github.com/GooDAnDReaDY/dsh-live-canvas) — inferred / dsh-cordis — ⭐3
+- `+` [Elesiann/usagemeter](https://github.com/Elesiann/usagemeter) — observed / mods — ⭐2
+- `+` [ondrhn/sharpprompt](https://github.com/ondrhn/sharpprompt) — observed / mods — ⭐1
+- `+` [QingqiShi/claude](https://github.com/QingqiShi/claude) — inferred / mods — ⭐1
+- `+` [20alexl/windvane](https://github.com/20alexl/windvane) — observed / mods — ⭐1
+- `+` [CTeitzel/cache-band](https://github.com/CTeitzel/cache-band) — observed / mods — ⭐0
+- `+` [Malkiz/claude-reply-comments](https://github.com/Malkiz/claude-reply-comments) — observed / mods — ⭐0
+- `+` [HectorBailey/claude-mods](https://github.com/HectorBailey/claude-mods) — observed / mods — ⭐0
+- …另有 13 条新增
