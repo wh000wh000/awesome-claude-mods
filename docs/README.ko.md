@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/entries-592-0d9488" alt="entries">
+  <img src="https://img.shields.io/badge/entries-508-0d9488" alt="entries">
   <img src="https://img.shields.io/badge/languages-20-1f6feb" alt="languages">
   <img src="https://img.shields.io/badge/refresh-every%202h-16a34a" alt="refresh">
   <a href="../LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="MIT"></a>
@@ -18,8 +18,8 @@
 <p align="center"><sub><a href="../README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <b>한국어</b> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.ru.md">Русский</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.vi.md">Tiếng Việt</a> · <a href="README.th.md">ไทย</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.pl.md">Polski</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.uk.md">Українська</a></sub></p>
 
 > [!NOTE]
-> **실시간 색인** · 마지막 동기화: `2026-10-11T12:27:08+08:00` (UTC+8)
-> · 항목: **592** · 최신 업데이트에 추가됨: **0** · 구현 언어: **13**
+> **실시간 색인** · 마지막 동기화: `2026-10-11T14:37:28+08:00` (UTC+8)
+> · 항목: **508** · 최신 업데이트에 추가됨: **0** · 구현 언어: **11**
 
 <sub>아래의 모든 항목은 자동으로 수집, 필터링 및 재검증되었습니다. 유료 게재 항목은 없습니다.</sub>
 
@@ -34,12 +34,12 @@
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/anthropics--claude-code-action/b852b554eaf6a231.jpg" width="100%" alt="anthropics/claude-code-action">
 <b>🏛️ <a href="https://github.com/anthropics/claude-code-action">anthropics/claude-code-action</a></b>
-<sub>⭐9469 · TypeScript · ✅ official</sub>
+<sub>⭐9470 · TypeScript · ✅ official</sub>
 </td>
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/alexgreensh/token-optimizer/main/skills/token-optimizer/assets/dashboard-demo.gif" width="100%" alt="alexgreensh/token-optimizer">
 <b>🧩 <a href="https://github.com/alexgreensh/token-optimizer">alexgreensh/token-optimizer</a></b>
-<sub>⭐2533 · Python · 👁️ observed</sub>
+<sub>⭐2534 · Python · 👁️ observed</sub>
 <sub>유령 토큰을 찾으세요. 수정하세요. 압축을 견디세요. 컨텍스트 품질 저하를 피하세요.</sub>
 </td>
 </tr>
@@ -47,7 +47,7 @@
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/ruvnet--ruflo/86b2691275e30a26.jpg" width="100%" alt="ruvnet/ruflo">
 <b>🧵 <a href="https://github.com/ruvnet/ruflo">ruvnet/ruflo</a></b>
-<sub>⭐74299 · TypeScript · 👁️ observed</sub>
+<sub>⭐74307 · TypeScript · 👁️ observed</sub>
 <sub>🌊 최초의 에이전트 하네스. 지능형 멀티플레이어 스웜을 배포하고, 자율 워크플로를 조정하며, 대화형 AI 시스템을 구축합니다. 적응형 메모리, 자기 학습 지능, 페더레이션, 벡터 RAG 통합, 네이티브 Claude Code / Codex / Hermes 및 기타 여러 통합을 제공합니다.</sub>
 </td>
 <td width="50%" valign="top">
@@ -61,9 +61,9 @@
 
 - [Claude Code 모드란](#claude-code-모드란)
 - [항목 등급 기준](#항목-등급-기준)
-- [공식: Anthropic 자체 저장소 및 릴리스 노트](#공식-anthropic-자체-저장소-및-릴리스-노트) — **16**
-- [모드: 모드 기능으로 구축됨](#모드-모드-기능으로-구축됨) — **470**
-- [DSH 및 Cordis 플러그인 생태계](#dsh-및-cordis-플러그인-생태계) — **95**
+- [공식: Anthropic 자체 저장소 및 릴리스 노트](#공식-anthropic-자체-저장소-및-릴리스-노트) — **15**
+- [모드: 모드 기능으로 구축됨](#모드-모드-기능으로-구축됨) — **373**
+- [DSH 및 Cordis 플러그인 생태계](#dsh-및-cordis-플러그인-생태계) — **109**
 - [작성, 토론 및 동영상](#작성-토론-및-동영상) — **11**
 - [구현 언어별 프로젝트](#구현-언어별-프로젝트)
 
@@ -93,7 +93,7 @@ Claude Code는 2.1.287에서 **모드**를 도입했습니다. 모드는 플러�
 Anthropic 자체 Claude Code 저장소와 모드 인터페이스를 정의한 릴리스입니다. 요약하지 않고 소스에서 직접 읽습니다.
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code">anthropics/claude-code</a></b> · ⭐150091 · TypeScript · ✅ official · 0 天</summary>
+<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code">anthropics/claude-code</a></b> · ⭐150102 · TypeScript · ✅ official · 0 天</summary>
 
 ##### 📝 요약
 
@@ -113,14 +113,14 @@ Claude Code는 터미널에서 실행되며 코드베이스를 이해하고, 자
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **150091** |
+| 스타        | **150102** |
 | 마지막 푸시 | 2026-10-10 |
 | 최초 등록   | 2026-10-04 |
 
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code-action">anthropics/claude-code-action</a></b> · ⭐9469 · TypeScript · ✅ official · 1 天</summary>
+<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code-action">anthropics/claude-code-action</a></b> · ⭐9470 · TypeScript · ✅ official · 1 天</summary>
 
 ##### 📝 요약
 
@@ -138,7 +138,7 @@ Claude Code는 터미널에서 실행되며 코드베이스를 이해하고, 자
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **9469**   |
+| 스타        | **9470**   |
 | 마지막 푸시 | 2026-10-09 |
 | 최초 등록   | 2026-10-04 |
 
@@ -177,7 +177,7 @@ Claude Code는 터미널에서 실행되며 코드베이스를 이해하고, 자
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code-security-review">anthropics/claude-code-security-review</a></b> · ⭐6337 · Python · ✅ official · 241 天</summary>
+<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code-security-review">anthropics/claude-code-security-review</a></b> · ⭐6338 · Python · ✅ official · 241 天</summary>
 
 ##### 📝 요약
 
@@ -195,7 +195,7 @@ Claude을 사용해 코드 변경 사항의 보안 취약점을 분석하는 AI 
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **6337**   |
+| 스타        | **6338**   |
 | 마지막 푸시 | 2026-02-11 |
 | 최초 등록   | 2026-10-04 |
 
@@ -387,7 +387,7 @@ mod의 `turn.step` hook 결과에 `serverToolUses`을(를) 추가했습니다. �
 
 ##### 📝 요약
 
-Cross-session usage & cost observatory for the DeepSeek Harness web profile — trend/heatmap dashboards, per-model peak-hour pricing (CNY/USD), official DeepSeek balance with spend reconciliation.
+DeepSeek Harness 웹 프로필을 위한 세션 간 사용량 및 비용 관측소 — 추세/히트맵 대시보드, 모델별 피크 시간대 요금(CNY/USD), 지출 조정 기능이 포함된 공식 DeepSeek 잔액을 제공합니다.
 
 ##### 📌 기본 정보
 
@@ -417,40 +417,6 @@ Cross-session usage & cost observatory for the DeepSeek Harness web profile — 
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/MIHassan3/DSH-Launcher">MIHassan3/DSH-Launcher</a></b> · ⭐3 · JavaScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 요약
-
-이것은 공식 DeepSeek Harness용 런처입니다. 수정은 없으며 DeepSeek가 개발한 것을 실행하기만 합니다.
-
-##### 📌 기본 정보
-
-| 필드     | 값                                                                              |
-| -------- | ------------------------------------------------------------------------------- |
-| 카테고리 | `공식: Anthropic 자체 저장소 및 릴리스 노트`                                    |
-| 근거     | `모드, 플러그인 또는 훅이라고 선언했지만 모드 표면에 관한 구체적인 내용은 없음` |
-| 언어     | JavaScript                                                                      |
-
-##### 📊 데이터
-
-| 지표        | 값         |
-| ----------- | ---------- |
-| 스타        | **3**      |
-| 마지막 푸시 | 2026-10-10 |
-| 최초 등록   | 2026-10-10 |
-
-🏷 `ai-agent` · `ai-agents` · `ai-tools` · `cordis` · `deepseek` · `deepseek-harness` · `dsh` · `dsh-desktop`
-
----
-
-<table><tr><th align="center" width="50%">🖼 이미지</th><th align="center" width="50%">🎬 동영상</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/mihassan3--dsh-launcher/2d777b77102fa60f.png" width="100%" alt="MIHassan3/DSH-Launcher screenshot"></td>
-<td align="center" valign="top"><sub>게시된 미디어 없음</sub></td>
-</tr></table>
-
-</details>
-
-<details>
 <summary><b>이 카테고리의 더 많은 항목</b> <sub>· 2</sub></summary>
 
 - [Claude Code 2.1.295 — the mod surface](https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md) - 모드에 `$.ui.notify`를 추가했습니다. 자체 알림 설정을 통해 네이티브 알림을 표시하고 어떤 채널에서 전송했는지 알려줍니다.
@@ -465,7 +431,7 @@ Cross-session usage & cost observatory for the DeepSeek Harness web profile — 
 여기의 모든 항목은 2.1.287에서 Claude Code가 얻은 기능을 사용한다는 증거를 보여 줍니다. `ui.render`을 통해 그리거나, 창·밴드·카드를 소유하거나, `$.ui.selection()`을 읽거나, `agent.spawn`로 팀원을 생성하거나, 명시적으로 모드라고 밝힙니다.
 
 <details>
-<summary>🧩 <b><a href="https://github.com/alexgreensh/token-optimizer">alexgreensh/token-optimizer</a></b> · ⭐2533 · Python · 👁️ observed · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/alexgreensh/token-optimizer">alexgreensh/token-optimizer</a></b> · ⭐2534 · Python · 👁️ observed · 0 天</summary>
 
 ##### 📝 요약
 
@@ -483,7 +449,7 @@ Cross-session usage & cost observatory for the DeepSeek Harness web profile — 
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **2533**   |
+| 스타        | **2534**   |
 | 마지막 푸시 | 2026-10-10 |
 | 최초 등록   | 2026-10-11 |
 
@@ -501,13 +467,13 @@ Cross-session usage & cost observatory for the DeepSeek Harness web profile — 
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/karanb192/awesome-claude-code-mods">karanb192/awesome-claude-code-mods</a></b> · ⭐474 · JavaScript · 👁️ observed · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/karanb192/awesome-claude-code-mods">karanb192/awesome-claude-code-mods</a></b> · ⭐476 · JavaScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 요약
 
 GitHub에서 스캔한 공개 Claude Code mods(function hooks)의 커뮤니티 카탈로그로, 각 mod가 네트워크를 통해 읽기, 쓰기, 실행 또는 전송할 수 있는 항목을 표시합니다. https://mods.aidojo.si/ 찾아보기
 
-<sub>🔧 코드에서 사용된 항목: `data/seeds.txt`, `data/duplicates.txt`, `data/repos.txt`</sub>
+<sub>🔧 코드에서 사용된 항목: `data/seeds.txt`, `data/duplicates.txt`, `README.md`, `contributing.md`</sub>
 
 ##### 📌 기본 정보
 
@@ -521,7 +487,7 @@ GitHub에서 스캔한 공개 Claude Code mods(function hooks)의 커뮤니티 �
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **474**    |
+| 스타        | **476**    |
 | 마지막 푸시 | 2026-10-11 |
 | 최초 등록   | 2026-10-04 |
 
@@ -530,7 +496,7 @@ GitHub에서 스캔한 공개 Claude Code mods(function hooks)의 커뮤니티 �
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/hamzafer/claude-code-mods">hamzafer/claude-code-mods</a></b> · ⭐182 · TypeScript · 👁️ observed · 1 天</summary>
+<summary>🧩 <b><a href="https://github.com/hamzafer/claude-code-mods">hamzafer/claude-code-mods</a></b> · ⭐183 · TypeScript · 👁️ observed · 1 天</summary>
 
 ##### 📝 요약
 
@@ -550,7 +516,7 @@ Claude Code mods: 프롬프트 위에 라이브 라인, 가드, 패널 및 게�
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **182**    |
+| 스타        | **183**    |
 | 마지막 푸시 | 2026-10-09 |
 | 최초 등록   | 2026-10-04 |
 
@@ -566,7 +532,7 @@ Claude Code mods: 프롬프트 위에 라이브 라인, 가드, 패널 및 게�
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/karanb192/cache-tax">karanb192/cache-tax</a></b> · ⭐119 · TypeScript · 👁️ observed · 6 天</summary>
+<summary>🧩 <b><a href="https://github.com/karanb192/cache-tax">karanb192/cache-tax</a></b> · ⭐121 · TypeScript · 👁️ observed · 6 天</summary>
 
 ##### 📝 요약
 
@@ -584,7 +550,7 @@ Claude Code mods: 프롬프트 위에 라이브 라인, 가드, 패널 및 게�
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **119**    |
+| 스타        | **121**    |
 | 마지막 푸시 | 2026-10-04 |
 | 최초 등록   | 2026-10-10 |
 
@@ -595,42 +561,6 @@ Claude Code mods: 프롬프트 위에 라이브 라인, 가드, 패널 및 게�
 <table><tr><th align="center" width="50%">🖼 이미지</th><th align="center" width="50%">🎬 동영상</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/karanb192--cache-tax/9ba5b1dbc9440791.png" width="100%" alt="karanb192/cache-tax screenshot"></td>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/karanb192--cache-tax/e1a7cdd41b0efd1b.gif" width="100%" alt="karanb192/cache-tax animation"><br><sub>애니메이션 녹화 · <a href="https://raw.githubusercontent.com/karanb192/cache-tax/main/docs/assets/cache-cost-explainer.mp4">동영상 열기</a></sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧩 <b><a href="https://github.com/HeyCubit/effortless">HeyCubit/effortless</a></b> · ⭐110 · HTML · 👁️ observed · 0 天</summary>
-
-##### 📝 요약
-
-모든 프롬프트의 추론 강도를 선택하고, 프롬프트 캐시와 컨텍스트를 표시하며, 한 번의 클릭으로 넘기거나 압축하는 Claude Code 모드
-
-<sub>🔧 코드에서 사용된 항목: `docs/agent-panel/PLAN.md`, `hooks/register.tsx`</sub>
-
-##### 📌 기본 정보
-
-| 필드     | 값                                                             |
-| -------- | -------------------------------------------------------------- |
-| 카테고리 | `모드: 모드 기능으로 구축됨`                                   |
-| 근거     | `자체 텍스트에서 모드 API을(를) 언급하거나 모드 기능을 선언함` |
-| 언어     | HTML                                                           |
-
-##### 📊 데이터
-
-| 지표        | 값         |
-| ----------- | ---------- |
-| 스타        | **110**    |
-| 마지막 푸시 | 2026-10-10 |
-| 최초 등록   | 2026-10-11 |
-
-🏷 `ai-tools` · `anthropic` · `claude` · `claude-code` · `claude-code-plugin` · `developer-tools` · `prompt-caching`
-
----
-
-<table><tr><th align="center" width="50%">🖼 이미지</th><th align="center" width="50%">🎬 동영상</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/heycubit--effortless/ad0a6472f7a34cd7.png" width="100%" alt="HeyCubit/effortless screenshot"></td>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/heycubit--effortless/fcef2f9593961020.gif" width="100%" alt="HeyCubit/effortless animation"><br><sub>애니메이션 녹화</sub></td>
 </tr></table>
 
 </details>
@@ -663,7 +593,7 @@ Claude Code mods: 프롬프트 위에 라이브 라인, 가드, 패널 및 게�
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/hellosverre/claude-skins">hellosverre/claude-skins</a></b> · ⭐89 · TypeScript · 👁️ observed · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/hellosverre/claude-skins">hellosverre/claude-skins</a></b> · ⭐90 · TypeScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 요약
 
@@ -681,7 +611,7 @@ Claude Code용 스킨: 아이콘이 있는 도구 행, diff, 테이블 및 Merma
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **89**     |
+| 스타        | **90**     |
 | 마지막 푸시 | 2026-10-10 |
 | 최초 등록   | 2026-10-10 |
 
@@ -781,7 +711,7 @@ Darrell Wang의 Claude Code mods — 프롬프트 위에 밴드를 표시하며 
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/scasella/claude-flightdeck">scasella/claude-flightdeck</a></b> · ⭐63 · TypeScript · 👁️ observed · 8 天</summary>
+<summary>🧩 <b><a href="https://github.com/scasella/claude-flightdeck">scasella/claude-flightdeck</a></b> · ⭐64 · TypeScript · 👁️ observed · 8 天</summary>
 
 ##### 📝 요약
 
@@ -799,7 +729,7 @@ Darrell Wang의 Claude Code mods — 프롬프트 위에 밴드를 표시하며 
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **63**     |
+| 스타        | **64**     |
 | 마지막 푸시 | 2026-10-02 |
 | 최초 등록   | 2026-10-10 |
 
@@ -815,7 +745,7 @@ Darrell Wang의 Claude Code mods — 프롬프트 위에 밴드를 표시하며 
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/0xDarkMatter/claude-mods">0xDarkMatter/claude-mods</a></b> · ⭐58 · Shell · 👁️ observed · 4 天</summary>
+<summary>🧩 <b><a href="https://github.com/0xDarkMatter/claude-mods">0xDarkMatter/claude-mods</a></b> · ⭐59 · Shell · 👁️ observed · 4 天</summary>
 
 ##### 📝 요약
 
@@ -835,11 +765,40 @@ Claude Code를 위한 전문가 skills, agents, commands, rules, hooks 및 outpu
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **58**     |
+| 스타        | **59**     |
 | 마지막 푸시 | 2026-10-07 |
 | 최초 등록   | 2026-10-04 |
 
 🏷 `agent-skills` · `ai-agents` · `ai-tools` · `anthropic` · `claude` · `claude-code` · `claude-skills` · `developer-tools`
+
+</details>
+
+<details>
+<summary>🧩 <b><a href="https://github.com/whyashthakker/awesome-claude-code-mods">whyashthakker/awesome-claude-code-mods</a></b> · ⭐47 · TypeScript · 👁️ observed · 7 天</summary>
+
+##### 📝 요약
+
+Claude Code에서 사용할 수 있는 100개 이상의 모드 모음입니다.
+
+<sub>🔧 코드에서 사용된 항목: `README.md`, `docs/COMMUNITY_MODS.md`, `mods/agent-board/hooks/register.js`, `mods/desktop-agent-desk/hooks/register.js`</sub>
+
+##### 📌 기본 정보
+
+| 필드     | 값                                                             |
+| -------- | -------------------------------------------------------------- |
+| 카테고리 | `모드: 모드 기능으로 구축됨`                                   |
+| 근거     | `자체 텍스트에서 모드 API을(를) 언급하거나 모드 기능을 선언함` |
+| 언어     | TypeScript                                                     |
+
+##### 📊 데이터
+
+| 지표        | 값         |
+| ----------- | ---------- |
+| 스타        | **47**     |
+| 마지막 푸시 | 2026-10-03 |
+| 최초 등록   | 2026-10-04 |
+
+🏷 `claude` · `claude-code` · `claude-code-mod` · `claude-code-mods` · `claude-code-plugin`
 
 </details>
 
@@ -1390,7 +1349,7 @@ Mods로 구축된 Claude Code용 세션 추적기: 컨텍스트 창, 계획 할�
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/az9713/claude-mod-pack">az9713/claude-mod-pack</a></b> · ⭐8 · TypeScript · 👁️ observed · 6 天</summary>
+<summary>🧩 <b><a href="https://github.com/az9713/claude-mod-pack">az9713/claude-mod-pack</a></b> · ⭐8 · TypeScript · 👁️ observed · 7 天</summary>
 
 ##### 📝 요약
 
@@ -1558,7 +1517,7 @@ Claude Code용 Mods: 터미널 UI에 실시간 창과 동작을 추가하는 함
 
 ##### 📝 요약
 
-Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and cost, work streams, and a markdown reader for .planning. Read-only.
+Claude Code용 실시간 GSD 대시보드: 로드맵, 분기 기능이 있는 에이전트 트리, 컨텍스트와 비용, 작업 스트림 및 .planning용 마크다운 리더를 제공합니다. 읽기 전용입니다.
 
 ##### 📌 기본 정보
 
@@ -1581,16 +1540,15 @@ Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and 
 ---
 
 <table><tr><th align="center" width="50%">🖼 이미지</th><th align="center" width="50%">🎬 동영상</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/helenkwok--gsd-status-mod/6df9cbfbbf321de0.png" width="100%" alt="helenkwok/gsd-status-mod screenshot"></td>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/helenkwok--gsd-status-mod/3774c05315c85992.gif" width="100%" alt="helenkwok/gsd-status-mod animation"><br><sub>애니메이션 녹화</sub></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/helenkwok--gsd-status-mod/4626cb34617b7732.png" width="100%" alt="helenkwok/gsd-status-mod screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/helenkwok--gsd-status-mod/0972519bbd3cad82.gif" width="100%" alt="helenkwok/gsd-status-mod animation"><br><sub>애니메이션 녹화</sub></td>
 </tr></table>
 
 </details>
 
 <details>
-<summary><b>이 카테고리의 더 많은 항목</b> <sub>· 436</sub></summary>
+<summary><b>이 카테고리의 더 많은 항목</b> <sub>· 339</sub></summary>
 
-- [whyashthakker/awesome-claude-code-mods](https://github.com/whyashthakker/awesome-claude-code-mods) - Claude Code에서 사용할 수 있는 100개 이상의 모드 모음입니다.
 - [karanb192/claude-code-mods](https://github.com/karanb192/claude-code-mods) - Claude Mods 및 이를 빌드하기 위한 도구: 먼저 builder skill을 제공한 다음 mods를 제공합니다.
 - [ucsandman/claude-harness](https://github.com/ucsandman/claude-harness) - 제가 매일 실행하는 Claude Code harness로, 첫날부터 이 이름으로 공개되었으며 현재 ucsandman/Agnostic-AI와…
 - [kagamiurayama/claude-code-roof-mod](https://github.com/kagamiurayama/claude-code-roof-mod) - Claude Mods로 Claude Code에 지붕을 씌우세요. 바이너리를 수정하지 않고 시스템 프롬프트와 영어 알림을 원하는 문구로…
@@ -1598,10 +1556,10 @@ Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and 
 - [Hangghost/learning-hacker-claude-mod](https://github.com/Hangghost/learning-hacker-claude-mod) - Learning Hacker의 Claude Code Mods: 에이전트의 작동을 이해하기 쉬운 방식으로 시각화합니다.
 - [kakha13/claude](https://github.com/kakha13/claude) - Claude가 읽기 전에 프롬프트를 수정하고 번역하는 Claude Code 모드.
 - [xuanji86/claude-agentpane](https://github.com/xuanji86/claude-agentpane) - Claude Code용 사이드 패널: 세션에서 실행하는 서브에이전트, 각 에이전트가 하는 일, 토큰 및 대화를 클릭 한 번으로 확인할 수…
+- [AgriciDaniel/claude-mods-brain](https://github.com/AgriciDaniel/claude-mods-brain) - Claude Code Mods에 관한 출처 인용 Obsidian 지식 베이스: 작동 방식, 구축 방법 및 설치 전에 확인하는 방법.
 - [letswritetw/claude-mod-open-todos](https://github.com/letswritetw/claude-mod-open-todos) - Claude Desktop(Code 탭) 사이드바 패널: 모든 Claude Code session의 미완료 및 진행 중인 할 일을 나열하고…
 - [nekyialabs/claude-code-toolkit](https://github.com/nekyialabs/claude-code-toolkit) - Nekyia Labs의 Claude Code mods 및 스킬, 지속적인 홈에 사는 AI들이 매일 구축하고 사용.
 - [nvr0x5/claude-deck](https://github.com/nvr0x5/claude-deck) - Claude Code를 위한 cockpit: 프롬프트 바로 위에서 실시간 계획 바, subagent 스트립, 재설정 카운트다운이 포함된 사용량…
-- [AgriciDaniel/claude-mods-brain](https://github.com/AgriciDaniel/claude-mods-brain) - Claude Code Mods에 관한 출처 인용 Obsidian 지식 베이스: 작동 방식, 구축 방법 및 설치 전에 확인하는 방법.
 - [BeLazy167/claude-mods-skill](https://github.com/BeLazy167/claude-mods-skill) - Claude Code 에이전트에게 Claude Mods(함수 훅 플러그인)를 구축하는 방법을 가르치는 스킬과 시작 예제.
 - [letswritetw/claude-mod-token-usage](https://github.com/letswritetw/claude-mod-token-usage) - Claude Desktop(Code 탭) 입력 상자 위의 사용량 막대: 5h / 7d 할당량, token 사용량, 비용.
 - [KilimcininKorOglu/claude-code-mods](https://github.com/KilimcininKorOglu/claude-code-mods) - Claude Code용 Claude Mods(function-hooks 플러그인).
@@ -1624,7 +1582,6 @@ Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and 
 - [galElmalah/claude-mods](https://github.com/galElmalah/claude-mods) - 대화 기록 안에 mermaid 다이어그램을 인라인으로 그리는 Claude Code 모드.
 - [ha-ptt0601/cc-mods](https://github.com/ha-ptt0601/cc-mods) - 작은 Claude Code 모드(함수 훅 플러그인): session-switcher 등.
 - [hahmjuntae/claude-mods-image-preview](https://github.com/hahmjuntae/claude-mods-image-preview) - Claude Code mod: 모든 터미널에서 프롬프트 위에 붙여넣은 이미지 썸네일 표시.
-- [joonhyukyim/redpen](https://github.com/joonhyukyim/redpen) - Redpen is a Claude Code mod for reviewing what Claude changed, line by line, in…
 - [LeeHigma0201/claude-code-mods](https://github.com/LeeHigma0201/claude-code-mods) - Claude Code Mods: mod-scout(가장 많이 사용할 Mods 찾기), usage-meter, check-ledger…
 - [Nongfsq/frank-claude-cockpit](https://github.com/Nongfsq/frank-claude-cockpit) - 여러 세션을 동시에 실행하기 위한 Claude Code Mods 두 가지: 프롬프트 위의 컨텍스트 카드와 채팅 옆의 세션 패널.
 - [scodge-24/workface](https://github.com/scodge-24/workface) - Claude Code mod: TUI에서 autocompaction 콘텐츠를 네이티브로 제어합니다.
@@ -1639,11 +1596,10 @@ Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and 
 - [mthli/cc-shorts](https://github.com/mthli/cc-shorts) - Claude Code에서 YouTube Shorts를 재생하세요 💃.
 - [NarenDawar/narens-claude-toolkit](https://github.com/NarenDawar/narens-claude-toolkit) - Naren의 Claude 툴킷: Claude Code용 skills, mods 및 MCP servers.
 - [neteye-platform/cc-split-diff-view](https://github.com/neteye-platform/cc-split-diff-view) - Edit 및 Write diff를 나란히 놓인 두 열에 그리는 Claude Code 모드.
-- [noash-xrc/claude-tools](https://github.com/noash-xrc/claude-tools) - Claude Code mod that lets Claude log unfinished work to Docs/todos.md, with a…
 - [raresmun/claude-mods](https://github.com/raresmun/claude-mods) - Claude Code용 모드: Claude이 수행하는 작업을 연기하는 작은 픽셀 마스코트 Clawd.
 - [reporails/arcade](https://github.com/reporails/arcade) - Claude Code mods로 제공되는 클래식 데스크톱 게임으로, Claude가 작업하는 동안 pane에서 플레이합니다.
 - [testy-cool/awesome-claude-code-mods](https://github.com/testy-cool/awesome-claude-code-mods) - 플러그인 마켓플레이스로 설치할 수 있는 엄선된 Claude Code 모음: 테마, 창, 상태 표시줄, 초상화.
-- [xsyetopz/dotclaude](https://github.com/xsyetopz/dotclaude) - A very opinionated Claude Code plugin designed by a Rustacean obsessed with…
+- [xsyetopz/dotclaude](https://github.com/xsyetopz/dotclaude) - 하네스 엔지니어링에 집착하는 Rustacean이 설계한 매우 주관적인 Claude Code 플러그인.
 - [yash-gadodia/claude-mods](https://github.com/yash-gadodia/claude-mods) - 에이전트가 정직하게 작업하도록 하는 Claude Code 모드 — 범위를 보호하고 배포를 검증하며 프롬프트 위에 세션을 표시하는 함수 훅.
 - [alexcz-a11y/claude-mods](https://github.com/alexcz-a11y/claude-mods) - 내 Claude Code 모음으로, 디렉터리마다 모드 하나씩 포함.
 - [Ankitrai97/rai-claude-mods](https://github.com/Ankitrai97/rai-claude-mods) - 무료 Claude Code 모드 5개: Simple Mode, Usage Tally, Context Handoff, Inbox Alerts 및…
@@ -1655,8 +1611,7 @@ Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and 
 - [hellosverre/mod-store](https://github.com/hellosverre/mod-store) - Claude Code 내부의 Claude Code mods용 앱 스토어: /mods로 2,700개의 mod를 탐색, 검색 및 설치하거나…
 - [herman925/925-cc-plugins](https://github.com/herman925/925-cc-plugins) - Herman의 Claude Code 모드 (마켓플레이스 herman-mods).
 - [homieyangg/claude-code-mods](https://github.com/homieyangg/claude-code-mods) - Claude Code 모드: 계획을 위한 진행률 표시줄, Claude가 실행 중인 작업의 원장, 도구 출력용 토큰 마스킹.
-- [ice-lfernandes/claude-code-mods](https://github.com/ice-lfernandes/claude-code-mods) - Six Claude Code mods: plan limits and context above the prompt, an allowlist…
-- [macleodlabs-ai/claudeflow](https://github.com/macleodlabs-ai/claudeflow) - MacLeod Labs의 Claude Code 모드: streams는 세션의 뒤섞인 작업을 색상 코드가 적용된 스트림으로 풀어냅니다.
+- [ice-lfernandes/claude-code-mods](https://github.com/ice-lfernandes/claude-code-mods) - 여섯 가지 Claude Code mod: 프롬프트 위에 플랜 제한과 컨텍스트를 표시하고, 권한 프롬프트를 위한 허용 목록 코치, 서브에이전트…
 - [MankhongGarden/claude-code-mods-field-notes](https://github.com/MankhongGarden/claude-code-mods-field-notes) - Windows에서의 Claude Code 모드에 대한 첫날 현장 노트: 컨텍스트/할당량 연료 표시줄, Thai UI 모드, Matrix 부팅…
 - [MichaelP17/claude-mods](https://github.com/MichaelP17/claude-mods) - 내가 만들고 개인적으로 사용하는 Claude Code 모드.
 - [patitow/claude-mod-cost-visibility](https://github.com/patitow/claude-mod-cost-visibility) - Claude Code 모드: 프롬프트 위에 실시간 비용, 컨텍스트 및 플랜 할당량 미터를 표시합니다. 아이콘에는 Nerd Font가 필요합니다.
@@ -1670,28 +1625,22 @@ Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and 
 - [VladLeus/claude-mods](https://github.com/VladLeus/claude-mods) - Claude Code 모드: 에이전트 플릿 대시보드 및 오토파일럿(local-mods 마켓플레이스).
 - [vynnlee/mods](https://github.com/vynnlee/mods) - vynnlee의 Claude Code mods. mod마다 하나의 폴더, 하나의 마켓플레이스에서 설치 가능.
 - [yodakeisuke/claudelingo](https://github.com/yodakeisuke/claudelingo) - Claude Code로 작업하면서 외국어를 익히세요.
-- [20alexl/windvane](https://github.com/20alexl/windvane) - 긴 Claude Code 세션을 대신 돌봐줍니다: 컨텍스트가 차는 것을 감시하고, 체크포인트 초안을 만들고, 적절한 시점에 압축한 뒤 작업을…
-- [AdamCaviness/prompt-marks](https://github.com/AdamCaviness/prompt-marks) - Claude Code mod: marks your prompts in the transcript and jumps between them.
 - [AlexeyHRDesign/colorwheel](https://github.com/AlexeyHRDesign/colorwheel) - Claude Code Desktop에서 테마가 적용된 답변, 전체 너비 다이어그램, 컨텍스트와 한도를 한눈에 확인.
 - [alexlifexyz/p3c-guard](https://github.com/alexlifexyz/p3c-guard) - 에이전트가 Java을 작성할 때 Alibaba Java 규정(p3c)을 위반한 코드는 디스크에 저장되지 않습니다.
 - [andrewbakercloudscale/claude-code-cost-sidebar](https://github.com/andrewbakercloudscale/claude-code-cost-sidebar) - Claude Code용 실시간 비용, 토큰, 컨텍스트 사용량 사이드바: 세션 내에서 턴별 비용, 캐시 적중률, burn rate, 30일…
-- [aosmcleod/next-up-mod](https://github.com/aosmcleod/next-up-mod) - Claude Code mod: a backlog of the follow-ups Claude suggests across every…
+- [aosmcleod/next-up-mod](https://github.com/aosmcleod/next-up-mod) - Claude Code 모드: 모든 세션에서 Claude이(가) 제안하는 후속 작업 백로그와 각 세션의 다단계 작업을 위한 작업 목록.
 - [ben-rogerson/claude-counter-strike](https://github.com/ben-rogerson/claude-counter-strike) - Claude Code용 Counter-Strike 1.6 무전 호출 - 배포 시 &quot;Fire in the hole&quot;, 긴 턴이 끝나면.
-- [BjoernSchotte/ccmod-amp](https://github.com/BjoernSchotte/ccmod-amp) - Internet radio inside Claude Code: a cliamp sidebar, mini player, favorites…
-- [CalvoSeko/claude-factory-mod](https://github.com/CalvoSeko/claude-factory-mod) - agent-graph: 에이전트 그래프(소프트웨어 팩토리)를 설계하고 실행하기 위한 Claude Code 모드.
-- [cephalofoil/kitt](https://github.com/cephalofoil/kitt) - 제품 개발 작업을 위한 Herdr 설정 + Claude Code 모드.
+- [BjoernSchotte/ccmod-amp](https://github.com/BjoernSchotte/ccmod-amp) - Claude Code 안의 인터넷 라디오: cliamp 사이드바, 미니 플레이어, 즐겨찾기, 탐색, 집중 모드 및 Claude용 라디오 도구.
 - [chenyuxiaojin/cyxj-notch](https://github.com/chenyuxiaojin/cyxj-notch) - Claude Code용 macOS notch 대시보드: 사용량 제한, 열린 세션, 작업 진행률, 프롬프트 캐시 카운트다운 및 할 일 — 다섯…
 - [chrisluo5311/squad-chat](https://github.com/chrisluo5311/squad-chat) - Claude가 요리 중입니다. 팀과 채팅하세요. 친구들이 온라인에서 Claude Code 세션 바로 옆에 있습니다.
-- [danielpg95/modster-hunter](https://github.com/danielpg95/modster-hunter) - Claude Code 모드: Claude이 작업하는 동안 유휴 게임에서 픽셀 아트 Modsters를 잡습니다.
+- [darkomarijaan/nexus-mod](https://github.com/darkomarijaan/nexus-mod) - All-in-one Claude Code mod: a live HUD, safety guards.
 - [Davron2004/slash-coverage](https://github.com/Davron2004/slash-coverage) - 각 Claude Code 에이전트가 컨텍스트에 어떤 파일을 가지고 있는지, 그리고 각각 얼마나 있는지 확인하세요.
-- [dougcunha/claude-mods](https://github.com/dougcunha/claude-mods) - Mods for Claude Code: panes, commands and hooks built with the plugin…
 - [drakulavich/cogload](https://github.com/drakulavich/cogload) - 냉정함을 유지하세요. Claude Code 사용일을 위한 온도계입니다.
-- [ElirazKed/claude-code-pr-watch](https://github.com/ElirazKed/claude-code-pr-watch) - Claude Code mod: a live pane of the GitHub PRs a session opens or pushes to…
+- [ElirazKed/claude-code-pr-watch](https://github.com/ElirazKed/claude-code-pr-watch) - Claude Code 모드: 세션이 열거나 푸시하는 GitHub PR의 실시간 패널 — CI, 리뷰, 충돌, 병합 — 모든 세션이 하나의…
 - [enhki/claude-mods](https://github.com/enhki/claude-mods) - 터미널 및 데스크톱 앱용 소형 Claude Code 모드.
-- [ewxgwy1987/claude-code-mods](https://github.com/ewxgwy1987/claude-code-mods) - Collection of Claude Code mods, each in its own repo: usage-meter…
-- [ewxgwy1987/claude-code-progress-board](https://github.com/ewxgwy1987/claude-code-progress-board) - Claude Code mod: a progress pane for tasks, subagents, workflow runs, the goal…
-- [ewxgwy1987/claude-code-session-toc](https://github.com/ewxgwy1987/claude-code-session-toc) - Claude Code mod: a clickable, timestamped table of contents of the whole…
-- [ewxgwy1987/claude-code-usage-meter](https://github.com/ewxgwy1987/claude-code-usage-meter) - Claude Code mod: plan rate limits, context fill, session cost and per-task…
+- [ewxgwy1987/claude-code-progress-board](https://github.com/ewxgwy1987/claude-code-progress-board) - Claude Code mod: 작업, 서브에이전트, 워크플로 실행, 목표 및 도구 호출을 위한 진행 창을 제공하며 막대, 타임스탬프 및 남은…
+- [ewxgwy1987/claude-code-session-toc](https://github.com/ewxgwy1987/claude-code-session-toc) - Claude Code mod: 전체 세션의 클릭 가능한 타임스탬프 목차로, 주제와 범주별로 그룹화됩니다.
+- [ewxgwy1987/claude-code-usage-meter](https://github.com/ewxgwy1987/claude-code-usage-meter) - Claude Code mod: 프롬프트 위에 플랜 속도 제한, 컨텍스트 사용량, 세션 비용 및 작업별 토큰을 색상 막대로 표시합니다.
 - [Exdenta/ambient-spanish](https://github.com/Exdenta/ambient-spanish) - 에이전트 응답에 스페인어 단어를 추가하는 Claude CLI skill + mod.
 - [Fazzani/claude-mods](https://github.com/Fazzani/claude-mods) - Claude Mods.
 - [gregdotca/ccmod-the-machine](https://github.com/gregdotca/ccmod-the-machine) - 이를 Person of Interest의 The Machine처럼 재스타일링하는 Claude Code 모드입니다.
@@ -1699,107 +1648,69 @@ Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and 
 - [i-harsha-reddy/naruto-mod](https://github.com/i-harsha-reddy/naruto-mod) - Claude Code를 위한 픽셀 아트 Naruto 동반자: Claude이(가) 작업하는 동안 20명의 닌자와 60개의 인술이 실행됩니다.
 - [ibrahimkobeissy/claude-mods](https://github.com/ibrahimkobeissy/claude-mods) - Claude Code를 위한 오픈 소스 모드: 창, 상태 줄, 토스트, 도구 가드 및 슬래시 명령.
 - [jduerrmann/agent-crew](https://github.com/jduerrmann/agent-crew) - 각 서브에이전트와 해당 에이전트가 건드리는 파일, 그리고 세션의 사용량과 비용을 위한 패널을 제공하는 Claude Code 모드입니다.
-- [joeVenner/claude-code-mods](https://github.com/joeVenner/claude-code-mods) - Claude Code mods, plugins, skills, agents, hooks 및 MCP servers의 커뮤니티 디렉터리.
 - [jonyfs/astrolabe](https://github.com/jonyfs/astrolabe) - 🧭 Claude Code mod: 세션 상태, 실시간 Spec Kit 진행 상황 및 사용량 창 거버넌스.
 - [kongyo2/context-view](https://github.com/kongyo2/context-view) - 프롬프트 위에 한 줄로 표시되는 컨텍스트 창으로, Claude Code가 자체 미터를 그리는 방식으로 표현됩니다.
-- [KyongSik-Yoon/cc-desktop-mod](https://github.com/KyongSik-Yoon/cc-desktop-mod) - Claude Code 터미널 UI를 Claude 데스크톱 앱처럼 보이게 하는 Claude Code plugin (mod): 프롬프트 버블…
 - [lorenzh/rabe](https://github.com/lorenzh/rabe) - Claude Code가 백그라운드에서 실행하는 항목을 확인하세요: 서브에이전트, Codex 작업, 셸, 모니터, cron 작업 및…
-- [m4cd4r4/clear-resume](https://github.com/m4cd4r4/clear-resume) - A free, open-source plugin for Claude Code.
-- [manuacl/claude-mods](https://github.com/manuacl/claude-mods) - 개인용 Claude Code 모드: 프롬프트 위에 컨텍스트 날씨와 계정 한도를 표시하는 otto-hud, Otto the octopus.
+- [m4cd4r4/clear-resume](https://github.com/m4cd4r4/clear-resume) - Claude Code를 위한 무료 오픈 소스 플러그인입니다. /clear를 실행하기 전에 Claude이(가) 읽고 편집할 수 있는 짧은 인계…
 - [meganemura/pull-request-pane](https://github.com/meganemura/pull-request-pane) - 세션의 GitHub개 풀 리퀘스트를 트랜스크립트 옆 창에 표시하는 Claude 모드: 설명을 프롬프트 상자에 인용하고 검사 및 리뷰 상태를…
 - [NMenzel/claude-devtools-mod](https://github.com/NMenzel/claude-devtools-mod) - Claude Code 도구 호출용 디버거인 Claude DevTools.
 - [NotRedFox/NotRedFoxs-Claude-skills](https://github.com/NotRedFox/NotRedFoxs-Claude-skills) - Claude Code 스킬: 문서 팩트체커, 코드 감사기, 버그 메모리 로그, 모드 등.
+- [pepperonas/loc-today](https://github.com/pepperonas/loc-today) - Claude Code mod: today.
+- [pepperonas/path-links](https://github.com/pepperonas/path-links) - Claude Code mod: 답변의 클릭 가능한 경로 — 폴더를 클릭하면 Finder에서 열고, 파일 이름을 클릭하면 파일을 엽니다.
 - [rezzminator/buddy](https://github.com/rezzminator/buddy) - Claude Code 버디 플러그인: 프롬프트 위에서 규칙을 기억하고 Claude의 단축키를 알려 주는 ASCII 동반자.
 - [rezzminator/tool-visibility-controller](https://github.com/rezzminator/tool-visibility-controller) - 에이전트별 도구 가시성을 위한 Claude Code 플러그인 — 각 루프마다 서브에이전트, 스킬, MCP 및 내장 도구를 숨기고 거부합니다.
-- [samfrmr/barmkin-mod](https://github.com/samfrmr/barmkin-mod) - Claude Code 모드: Claude Code를 위한 보안 계층 — 비밀 정보 삭제, 신뢰할 수 없는 콘텐츠 알림, MCP 도구 포이즈닝…
-- [seanrobertwright/claude-mods](https://github.com/seanrobertwright/claude-mods) - Claude Code mods 모음.
 - [Sennjen/claude-sdlc](https://github.com/Sennjen/claude-sdlc) - Claude Code 플러그인 및 모드: 훅으로 강제되는 인간 승인 게이트와 프롬프트 위 상태 표시줄을 갖춘 AI 네이티브…
 - [SeongGwangJu/k-mods](https://github.com/SeongGwangJu/k-mods) - Awesome Claude Code mods 컬렉션 | 클로드 코드 모드 모음집.
 - [simplecore-inc/claude-mods](https://github.com/simplecore-inc/claude-mods) - Claude Code 플러그인(모드): 여러 Claude 계정 간 전환, 상태 밴드에서 사용량 제한 확인, 터미널 패널에서 에이전트…
 - [Singh-AP/awesome-claude-mods](https://github.com/Singh-AP/awesome-claude-mods) - 🧩 테스트 완료, 한 번의 명령으로 설치 가능한 Claude Code 모드: YOLO 모드용 가드레일, 실시간 비용 및 컨텍스트, 패널, 펫…
 - [tanujarun/it-speaks](https://github.com/tanujarun/it-speaks) - It Speaks: 로컬 오픈 소스 Kokoro TTS 음성으로 요청 시 Claude의 답변과 사용자의 프롬프트를 소리 내어 읽어주는…
-- [timoncool/slapbox](https://github.com/timoncool/slapbox) - 🍑 Spank Claude when it messes up — a stress-relief mod for Claude Code: cartoon…
+- [timoncool/slapbox](https://github.com/timoncool/slapbox) - 🍑 Claude이 실수하면 때려 주세요 — Claude Code를 위한 스트레스 해소용 mod: 만화풍 엉덩이, 8개 때리기, 9개 엉덩이…
 - [tommy5dollar/effort-router](https://github.com/tommy5dollar/effort-router) - Claude Code 사용량을 최대 두 배까지 늘리세요. 각 프롬프트와 서브에이전트에 적절한 추론 작업량을 선택하는 플러그인입니다.
 - [TroyJLorents-GH/mod-squad](https://github.com/TroyJLorents-GH/mod-squad) - 실시간 창, 비용을 고려한 모델 라우팅 및 안전 가드를 위한 Claude Code 모드: 한 번의 명령으로 마켓플레이스에서 설치하세요.
 - [valeryia-piatrova/token-hamster](https://github.com/valeryia-piatrova/token-hamster) - 🐹 Claude Code 모드 및 플러그인: 사용량 모니터, 토큰 추적기 및 상태 줄.
-- [vumichien/claude-code-mods-kit](https://github.com/vumichien/claude-code-mods-kit) - Three free Claude Code mods: hide .env values from tool results, watch a remote…
 - [y-hirakaw/claude-code-mods](https://github.com/y-hirakaw/claude-code-mods) - Claude Code mods. touch-map: Claude가 나열, 읽기, 편집 또는 생성한 파일을 트리와 activity map으로…
 - [Yanir-R/catchup](https://github.com/Yanir-R/catchup) - 읽지 않은 에이전트 메시지를 쉬운 영어로 요약하는 Claude Code mod.
-- [Yuvalz19500/claude-mods](https://github.com/Yuvalz19500/claude-mods) - Mods for Claude Code: live panes, bands and hooks. A plugin marketplace.
-- [zchee/claude-code-mods](https://github.com/zchee/claude-code-mods)
-- [0xnicholasy/claude-mod-collapse-tools](https://github.com/0xnicholasy/claude-mod-collapse-tools) - Claude Code mod: collapses every tool-call row in the transcript to one line;
-- [0xnicholasy/claude-mods](https://github.com/0xnicholasy/claude-mods) - Claude Code plugin marketplace for 0xnicholasy.
-- [AbyssCN/claude-lead-harness](https://github.com/AbyssCN/claude-lead-harness) - Claude Code 모드 + cheap-executor 드라이버: 하나의 Claude 세션을 리드로 사용하고, MiniMax Code를…
-- [AdamCaviness/cache-magic](https://github.com/AdamCaviness/cache-magic) - Claude Code mod that offers a flexible alternative to the built-in…
-- [ajkatom/claude-mods](https://github.com/ajkatom/claude-mods)
-- [akixi-maison/usage-mods](https://github.com/akixi-maison/usage-mods) - Claude Code mod: usage progress bars (context, 5h, 7d) and a compact button…
+- [0xnicholasy/claude-mods](https://github.com/0xnicholasy/claude-mods) - 0xnicholasy의 모드(agents-office, todo-list, collapse-tools)를 위한 Claude Code 플러그인…
 - [Aler1x/claude-cat](https://github.com/Aler1x/claude-cat) - Claude Code 프롬프트 위에 표시되는 애니메이션 점자 고양이.
 - [alinaqi/mixture-of-models-claude-mod](https://github.com/alinaqi/mixture-of-models-claude-mod) - Claude Code 모드: 저렴한 작업은 하위 Claude Code를 통해 GLM/Kimi로 라우팅하고, 중요한 작업은 구독에서 유지합니다.
 - [aloki-alok/omni-cat](https://github.com/aloki-alok/omni-cat) - OmniDimension 음성 에이전트 테스트 호출을 실행하는 Claude Code 프롬프트 위의 픽셀 고양이. Claude Code mod.
 - [ambervdberg/smartcompact](https://github.com/ambervdberg/smartcompact) - 컨텍스트 창을 작게 유지할 수 있도록 압축하기 좋은 시점을 선택하는 Claude Code 모드.
 - [an80sPWNstar/claude-mods](https://github.com/an80sPWNstar/claude-mods) - Claude Code용 Claude Mods: token-meter.
-- [anderson-spider/claude-mods](https://github.com/anderson-spider/claude-mods) - anderson-spider의 Claude Code 플러그인 마켓플레이스.
-- [androidZzT/claude-trading-mods](https://github.com/androidZzT/claude-trading-mods) - Claude Code mods for watching the market from the terminal: A股/港股/美股 pane with…
-- [angomedia/claude-mods](https://github.com/angomedia/claude-mods) - Mods for Claude Code.
-- [antonisPanos/claude-mods](https://github.com/antonisPanos/claude-mods)
 - [Ashley-Pettit/lgtm-flash](https://github.com/Ashley-Pettit/lgtm-flash) - 코드가 변경될 때마다 LGTM Lines 우주선이 지나갑니다 — Claude Code 모드.
 - [Ashley-Pettit/villager-hp](https://github.com/Ashley-Pettit/villager-hp) - 애니메이션 주민 체력 카드로 표시되는 Claude 사용 한도 — Claude Code 모드.
 - [AskTinNguyen/ather-mods](https://github.com/AskTinNguyen/ather-mods) - S2 팀용 Claude Code 모드(the ather marketplace).
 - [Atanur/deskfit](https://github.com/Atanur/deskfit) - Claude이 작업하는 동안 하는 짧은 운동: 일일 목표, 연속 기록, 배지 및 선택적 리더보드. Claude Code 모드.
 - [aycandv/claude-usage-meter](https://github.com/aycandv/claude-usage-meter) - Claude Code용 사용량 보드: 모델별 지출(오늘, 이번 주, 이번 달, 전체 기간) 및 주간 한도 예측.
-- [barneym/claude-context-bar](https://github.com/barneym/claude-context-bar) - A Claude Code mod: live context-window breakdown above the prompt.
+- [barneym/claude-context-bar](https://github.com/barneym/claude-context-bar) - Claude Code 모드: 프롬프트 위에 실시간 컨텍스트 창 분석을 표시합니다.
 - [benjaminr/nowplaying](https://github.com/benjaminr/nowplaying) - Claude Code용 Now Playing mod: 프롬프트 위에 앨범 아트, 컨트롤 및 Up next 창과 함께 표시되는 Apple…
 - [bennewton999/claude-code-mods](https://github.com/bennewton999/claude-code-mods) - 여러 세션을 동시에 실행하기 위한 Claude Code 모드 5개: 플릿 보드, PR-to-production 추적기, 규칙 트립와이어…
-- [berkayburakk/berko-mods](https://github.com/berkayburakk/berko-mods) - Claude Code mod pack from the Berko video: Mask, View, Guard, Saving, Chime +…
-- [bhargava-gumpula/claude-mods](https://github.com/bhargava-gumpula/claude-mods) - Claude Code mods: 사용량 밴드, 채팅 참가자 목록, /cube, /handoff, 프롬프트 정리.
 - [broening/claude-mods](https://github.com/broening/claude-mods) - Claude Code용 모드: 캐시 시계, Blast Radius, 제안, 작업 목록, Grill.
 - [C-M-Jones/suggestion-spotlight](https://github.com/C-M-Jones/suggestion-spotlight) - Claude Code mods: Suggestion Spotlight가 Claude이(가) 제안한 다음 프롬프트가 무엇을 가리키는지 보여줍니다.
 - [Carismarkus/clowl](https://github.com/Carismarkus/clowl) - 당신의 Claude Code를 위한 그냥 올빼미.
 - [cGradying/claude-code-cockpit](https://github.com/cGradying/claude-code-cockpit) - 한 줄짜리 Claude Code 밴드(캐시 카운트다운, 컨텍스트, 제한, 다음 작업)와 7개의 커뮤니티 모드를 하나의 플러그인으로 설치하며…
 - [ChaseWNorton/claude-doom](https://github.com/ChaseWNorton/claude-doom) - Freedoom이 포함된 오리지널 Doom 엔진으로, Claude Code 안에서 플레이 가능. Mac Apple Silicon 알파 버전.
-- [Dandeppert/Claude-mods](https://github.com/Dandeppert/Claude-mods)
+- [cldotdev/claude-todo-list](https://github.com/cldotdev/claude-todo-list) - A Claude Code mod that keeps a running list of the open items in a conversation…
 - [davidurco/cc-tamagotchi](https://github.com/davidurco/cc-tamagotchi) - Claude Code 안에 사는 Tamagotchi: 부화하고, Claude이(가) 작성한 코드를 먹고, 버그를 남기며, 여덟 종류의 성체 중…
-- [DazzleML/claude-bookmarks](https://github.com/DazzleML/claude-bookmarks) - Claude Code 터미널 대화 내 북마크 및 vim 스타일 마크: 줄을 강조 표시하고, 표시한 뒤, 다시 이동합니다.
-- [delexw/codyssey](https://github.com/delexw/codyssey) - 모든 Claude Code 세션을 작은 모험으로 바꿉니다. 에이전트의 기분을 따라가는 생성 음악, 편집과 명령마다 몬스터와 싸우는 픽셀 기사…
+- [Demo-0416/claude-code-mods](https://github.com/Demo-0416/claude-code-mods) - Mods for Claude Code, as a plugin marketplace.
 - [derekwden-droid/message-timestamps](https://github.com/derekwden-droid/message-timestamps) - 터미널과 데스크톱 앱에서 각 프롬프트와 답변의 시간을 표시하는 Claude Code 모드.
 - [devohmycode/ccmods](https://github.com/devohmycode/ccmods) - 함수 훅으로 작성된 Claude Code 모드와 이를 제공하는 마켓플레이스. dash: 한 패널에 있는 세션의 대시보드.
-- [DiegoCarrillo32/claude-plugins](https://github.com/DiegoCarrillo32/claude-plugins) - Claude Code 모드 및 디자인 시스템: crab-crew와 Crab Crew 디자인 시스템.
-- [DiegoHeer/claude-mods](https://github.com/DiegoHeer/claude-mods) - My Claude Code mods, shared as a plugin marketplace.
 - [divramod/divramod-claude-code-mods](https://github.com/divramod/divramod-claude-code-mods) - divramod의 Claude Code 모드: Claude Code 인터페이스를 위한 실시간 패널 및 조정 기능.
-- [DominikSch004/claude-mods](https://github.com/DominikSch004/claude-mods) - 모든 컴퓨터에서 사용하는 Claude Code mods: savvy-progress, filetree, skins, blast-radius.
-- [dot-agi/arrester](https://github.com/dot-agi/arrester) - Claude Code mod: after a guard blocks a tool call, it stops recognized detours…
-- [dot-agi/downrange](https://github.com/dot-agi/downrange) - Claude Code mod: background jobs in one view, with progress and ETAs read from…
-- [dot-agi/high-command](https://github.com/dot-agi/high-command) - Claude Code mod: one inbox for messages from teammates, named subagents and…
-- [dot-agi/sandbox-tuner](https://github.com/dot-agi/sandbox-tuner) - Claude Code mod: explains sandbox blocks and turns repeated blocks into…
-- [drprofi114-star/claude-mods](https://github.com/drprofi114-star/claude-mods)
-- [EggmanPDX/claude-mods](https://github.com/EggmanPDX/claude-mods) - mods.
+- [dot-agi/arrester](https://github.com/dot-agi/arrester) - Claude Code 모드: guard가 도구 호출을 차단한 후 동일한 대상을 향하는 인식된 우회 경로를 중지하고 Claude에게 사용자에게…
+- [dot-agi/downrange](https://github.com/dot-agi/downrange) - Claude Code 모드: 실제 출력에서 읽은 진행률과 예상 완료 시간을 하나의 뷰에서 백그라운드 작업으로 표시합니다.
+- [dot-agi/high-command](https://github.com/dot-agi/high-command) - Claude Code 모드: 팀원, 이름이 지정된 하위 에이전트 및 다른 세션의 메시지를 위한 통합 받은편지함으로, 읽지 않은 메시지 수와…
+- [dot-agi/sandbox-tuner](https://github.com/dot-agi/sandbox-tuner) - Claude Code 모드: 샌드박스 차단을 설명하고 반복되는 차단을 검토 및 실행 취소 가능한 설정 변경으로 전환합니다.
 - [Egrn/claude-code-mutedit](https://github.com/Egrn/claude-code-mutedit) - 이봐요, 음소거했어요! diff를 버리고 장단을 끊으세요. 더 이상 편집도, 크레딧 차감도 없습니다.
 - [eric1hua/claudemods-desktop-statusline](https://github.com/eric1hua/claudemods-desktop-statusline) - Desktop 앱과 터미널에서 프롬프트 위 밴드로 구독 사용량(5h / 7d)을 표시하는 Claude Code mod.
-- [evasuka/work-meter](https://github.com/evasuka/work-meter) - Claude Code mod：在輸入框上方顯示工作進度與帳號額度剩餘.
 - [fanoisme/claude-mods](https://github.com/fanoisme/claude-mods) - Claude Code를 위한 모션 디자인 mods: 모델, effort, context, 사용량 제한, 작업 진행률, subagents 및…
-- [Flo0806/fh-claude-mods](https://github.com/Flo0806/fh-claude-mods) - Claude Mod Marketplace.
 - [floheissler/cc-worktree-radar](https://github.com/floheissler/cc-worktree-radar) - 프롬프트 위에서 병렬 브랜치와 worktree를 실시간으로 보여 주는 레이더: 어떤 항목이 깔끔하게 병합되는지, 어떤 항목이 충돌하는지, 어떤…
-- [Gabrielmtvp/claude-code-mods](https://github.com/Gabrielmtvp/claude-code-mods) - 내 Claude Code 모드.
-- [GarvitNangru/claude-code-mods](https://github.com/GarvitNangru/claude-code-mods) - Claude Code를 위한 모드 및 스킨: Claude의 작업을 위한 실시간 진행률 표시줄, 이에 맞는 Windows Terminal…
-- [Gat0rRex/claude-mods](https://github.com/Gat0rRex/claude-mods) - Claude Code mods (function-hook plugins): context band, loose ends, checkpoint…
-- [gauravruhela07/claude-mods](https://github.com/gauravruhela07/claude-mods) - Seven Claude Code mods: savvy-progress, skins, filetree, cache-tax…
+- [Gat0rRex/claude-mods](https://github.com/Gat0rRex/claude-mods) - Claude Code 모드(function-hook 플러그인): 컨텍스트 밴드, 미해결 항목, 체크포인트 감시, 검토 게이트, 에이전트 비용.
 - [GeckoKing9/claude-code-copy-button](https://github.com/GeckoKing9/claude-code-copy-button) - Claude Code 답변의 모든 코드 블록에서 Ctrl+클릭으로 링크 복사.
 - [gecm0/jev-mod](https://github.com/gecm0/jev-mod) - jev mod: Claude Code용 $.jev, TypeSafe Jev의 형식이 지정된 판단.
-- [Gersom/claude-mod-cache-watch](https://github.com/Gersom/claude-mod-cache-watch) - Claude Code 모드: 프롬프트 캐시가 따뜻한지 차가운지 표시하는 패널.
 - [Gersom/gersom-claude-mods](https://github.com/Gersom/gersom-claude-mods) - Claude Code용 Mods: usage-meter 같은 hook 플러그인.
-- [Gharib89/claude-mods](https://github.com/Gharib89/claude-mods) - 하나의 마켓플레이스를 통해 설치하는 Claude Code mods(function-hook plugins).
 - [gonzalonicolasr/claude-code-nerv](https://github.com/gonzalonicolasr/claude-code-nerv) - Claude Code용 Evangelion 스타일 사이드바: 컨텍스트, 할당량, 활동, PR, 하드웨어, 세션 및 forge 패널.
-- [gsporto226/claude-mods](https://github.com/gsporto226/claude-mods) - 유용한 claude code 모드.
-- [Gxrco/Screen-peek](https://github.com/Gxrco/Screen-peek) - Claude-Code Plugin(Mod)을 사용하면 모델이 작업하는 동안 무엇을 하고 있는지 볼 수 있습니다.
-- [hamTotk/better-rewind](https://github.com/hamTotk/better-rewind) - Claude Code mod: rewind or summarize from any prompt or AskUserQuestion answer.
-- [hb03/claude-mods](https://github.com/hb03/claude-mods) - Deutschsprachige Mods für Claude Code: Kontext/Cache-Hinweise, offene Punkte…
 - [hellosverre/redgreen](https://github.com/hellosverre/redgreen) - Claude Code 패널의 테스트 결과: Claude 자체 테스트 실행의 실패, 세부 정보 및 실행 기록.
 - [Huuuuung/think-meter](https://github.com/Huuuuung/think-meter) - Claude Code 모드: 각 답변에 걸린 시간, Claude이(가) 생각한 시간, tok/s를 Claude desktop app의 답변…
-- [im-adarsh/claude-mods](https://github.com/im-adarsh/claude-mods)
-- [jakerains/claudemods](https://github.com/jakerains/claudemods) - 작은 Claude Code 모드: 컨텍스트 및 plan 사용량 게이지, prompt-cache 미터 및 살펴볼 항목을 표시하는 패널.
-- [Jang-seungminn/usage-hud](https://github.com/Jang-seungminn/usage-hud) - Claude Code mod: usage HUD above the prompt with two animated ASCII dogs.
-- [jeffyfung/claude-mods](https://github.com/jeffyfung/claude-mods) - 내 claude 모드를 보관하는 곳입니다.
-- [jemsley06/reels-while-you-wait](https://github.com/jemsley06/reels-while-you-wait) - Claude Code mod: Instagram Reels in a small Safari window while Claude works.
+- [icedevil2001/auto-continue](https://github.com/icedevil2001/auto-continue) - Claude Code mod: waits out the 5-hour usage limit and sends &quot;continue&quot; for you.
 - [jessetsai1024/claude-ctx-panel](https://github.com/jessetsai1024/claude-ctx-panel) - 사이드바의 context 사용량 패널: 총량, 분류, 라운드별 증가량, 가장 많은 공간을 차지하는 항목, 캐시, Claude이(가) 현재 하는…
 - [jessetsai1024/claude-files](https://github.com/jessetsai1024/claude-files) - 사이드바의 파일 목록: 이번 대화에서 어떤 파일을 새로 만들고, 수정하고, 삭제했는지와 각각 몇 줄을 변경했는지 표시합니다.
 - [jessetsai1024/claude-maomao](https://github.com/jessetsai1024/claude-maomao) - 입력창 위를 뛰어다니는 8비트 스타일의 毛毛(흑백 네덜란드 드워프 롭 토끼): 대기 중에는 납작 엎드리고, 작업 중에는 달리며, 도구를 사용할…
@@ -1807,41 +1718,26 @@ Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and 
 - [jessetsai1024/claude-timeline](https://github.com/jessetsai1024/claude-timeline) - 사이드바의 타임라인: 이번 라운드의 시간이 어디에 사용되었는지 표시합니다.
 - [jessetsai1024/claude-tokens](https://github.com/jessetsai1024/claude-tokens) - 사이드바의 토큰 왕래: 주 대화에서 매번 Anthropic에 몇 개의 토큰을 보내고, 얼마나 기다렸으며, 몇 개를 받았는지 표시하고 맨 위에…
 - [jessetsai1024/claude-whisper](https://github.com/jessetsai1024/claude-whisper) - claude code의 솔직한 속마음: 매 라운드의 답변이 끝나면 Claude이(가) 속마음을 한마디 조용히 말합니다.
-- [jgilb17/claude-mods](https://github.com/jgilb17/claude-mods)
 - [Jh-jaehyuk/plan-checklist](https://github.com/Jh-jaehyuk/plan-checklist) - Claude Code용 증거 기반 계획 체크리스트: 승인된 계획은 Claude이(가) 검증 증거가 있을 때만 체크할 수 있는 체크리스트가…
 - [jimmysteinmetz/b-sides](https://github.com/jimmysteinmetz/b-sides) - 새 슬래시 명령 및 사이드 패널과 같은 Claude Code용 작은 모드.
-- [jkf87/mod-guide](https://github.com/jkf87/mod-guide) - Unofficial community guide to Claude Code mods (function hooks) in 6 languages…
-- [jorgehsy/claude-mods](https://github.com/jorgehsy/claude-mods) - Claude Code용 모드 카탈로그.
 - [jpo-oss/claude-games](https://github.com/jpo-oss/claude-games) - Claude Code가 작업하는 동안 내부에서 플레이할 수 있는 멀티플레이어 게임.
-- [juampymdd/claude-code-model-picker](https://github.com/juampymdd/claude-code-model-picker) - Claude Code mod: pick the model and version for the next requests from a band…
-- [justmytwospence/claude-cache-guard](https://github.com/justmytwospence/claude-cache-guard) - Claude Code 모드: 자리를 비운 동안 프롬프트 캐시를 따뜻하게 유지하고, 대규모 대화를 다시 캐시하게 될 프롬프트 전에 확인.
 - [KaiC5504/clawd-bar](https://github.com/KaiC5504/clawd-bar) - Clawd는 Claude Code 프롬프트 위의 밴드에 삽니다: 세션을 연기하고, 실행 중인 항목, context 및 usage limits를…
-- [kaicodedocument/claude-code-usage-bar](https://github.com/kaicodedocument/claude-code-usage-bar) - 프롬프트 위에 속도 제한 허용량, 세션 토큰 및 비용을 표시하는 Claude Code 모드.
 - [kajidog/cc-mods-tts](https://github.com/kajidog/cc-mods-tts) - Claude Code의 응답과 알림을 VOICEVOX / Irodori-TTS 등으로 읽어주는 mod.
-- [Kareem1809/chat-cigarette](https://github.com/Kareem1809/chat-cigarette) - 🚬 A Claude Code mod: a cigarette burns down with every message — when it.
-- [kba977/claude-code-pomodoro](https://github.com/kba977/claude-code-pomodoro) - A pomodoro timer above the Claude Code prompt (Claude Code mod).
 - [kbrdn1/claude-crosstalk](https://github.com/kbrdn1/claude-crosstalk) - Claude Code 세션 간의 대화를 읽고 참여하는 Claude Mod (/crosstalk).
-- [Khanthtutzin/subagent-crew](https://github.com/Khanthtutzin/subagent-crew) - Claude Code mod: running subagents as pixel Claude mascots above the prompt.
-- [KingP1197/claude-mods](https://github.com/KingP1197/claude-mods) - 편의성/사용성 개선 Claude 모드.
+- [Khanthtutzin/subagent-crew](https://github.com/Khanthtutzin/subagent-crew) - Claude Code mod: 프롬프트 위에서 서브에이전트를 픽셀 Claude 마스코트로 실행합니다.
 - [kjhq/haiku-compact](https://github.com/kjhq/haiku-compact) - haiku로 차가운 claude code 세션을 압축하세요 — 절약한 내용을 보여주는 한 줄 캐시 밴드.
 - [krishna-goutham-tls/cc-mods](https://github.com/krishna-goutham-tls/cc-mods) - 두 가지 Claude Code 모드: 채팅 옆의 파일 패널인 folio와 상태 줄이 포함된 터미널 세션 재스타일링인 tint.
 - [kyledarling-io/claude-code-desktop-hud](https://github.com/kyledarling-io/claude-code-desktop-hud) - Claude Code Desktop용 실시간 작업 HUD: Claude이(가) 작업하는 동안 프롬프트 위에 표시되는 스트립과, 한 번 클릭하면…
-- [LordMordelon/claude-mods](https://github.com/LordMordelon/claude-mods) - Mods de Claude Code para los proyectos de Angel (Vremia).
 - [Lucas-CX/awesome-claude-mods](https://github.com/Lucas-CX/awesome-claude-mods) - 사용 사례, 원본 데모, 호환성 근거 및 안전 참고 사항을 담은 커뮤니티 큐레이션 Claude Code Mods 가이드: 영어 / 中文.
 - [M-i-k-e-l/agent-state](https://github.com/M-i-k-e-l/agent-state) - iTerm2 탭 부제목에 Claude이(가) 무엇을 하고 있는지 표시하여, 탭 표시줄을 한눈에 보고 어느 세션에 사용자의 주의가 필요한지 알…
-- [m-tababi/delegation-guard](https://github.com/m-tababi/delegation-guard) - 주 세션이 subagents에 위임하도록 유도하고 프롬프트 위에 주 컨텍스트 토큰과 위임된 토큰을 비교해 보여주는 Claude Code mod.
-- [MahadSalim/claude-mods](https://github.com/MahadSalim/claude-mods) - 개인 claude 모드 플러그인 모음.
-- [malinfossum/mango-buddy](https://github.com/malinfossum/mango-buddy) - A fluffy black cat above your Claude Code prompt.
-- [marcelmatula/claude-mods](https://github.com/marcelmatula/claude-mods) - 하나의 플러그인 마켓플레이스(marcel-mods)에 모은 Marcel의 Claude Code 모드.
+- [malinfossum/mango-buddy](https://github.com/malinfossum/mango-buddy) - Claude Code 프롬프트 위의 복슬복슬한 검은 고양이입니다. 눈을 깜빡이고, 가르랑거리며, 낮잠을 자고, 사용자의 컨텍스트를 걱정합니다.
 - [MarcusJellinghaus/claude-mode-gate](https://github.com/MarcusJellinghaus/claude-mode-gate) - 전환 가능한 권한 프로필을 제공하는 Claude Code 모드: 안전한 기본 프로필, 켜고 끌 수 있는 이름 지정 프로필, 그리고 그 외 모든…
 - [MDmubarak786/claude-mods](https://github.com/MDmubarak786/claude-mods) - Claude Code를 위한 커뮤니티 모드: Claude Code 내부에서 실행되는 가드, 패널 및 명령. 마켓플레이스: modhub.
-- [mina-asham/claude-usage-stats](https://github.com/mina-asham/claude-usage-stats) - A Claude Code mod that shows your plan usage.
 - [mmedum/glimt](https://github.com/mmedum/glimt) - Claude Code를 위한 조용한 사이드 패널: 이 세션이 수행 중인 작업, 계획, 에이전트 및 다른 모든 세션.
 - [mmedum/spor](https://github.com/mmedum/spor) - Claude Code가 접어 숨기는 내용을 다시 표시합니다: Claude이(가) 읽은 파일, 실행한 명령, 각 턴에서 수행한 작업.
 - [muellerei/enable-todo-tools](https://github.com/muellerei/enable-todo-tools) - 세션 시작 시 CLAUDE_CODE_ENABLE_TODO_TOOLS를 설정하여 todo 도구를 제외하는 모델에서도 다시 활성화하는 Claude…
 - [muellerei/task-line](https://github.com/muellerei/task-line) - 프롬프트 위 작업 목록에 현재 작업, 진행률 막대 및 개수를 작업당 한 줄로 표시하는 Claude Code 모드.
 - [nachtgold/claude-code-connect-four](https://github.com/nachtgold/claude-code-connect-four) - Claude Code 내부에서 AI를 상대로 Connect Four 플레이 (/connect-four).
-- [Nachx639/context-canary](https://github.com/Nachx639/context-canary) - Claude Code용 픽셀 아트 카나리아: Claude이(가) 사용자의 지시를 따르지 않으면 죽었다가 자동으로 압축된 후 되살아납니다.
 - [naoanao/agent-cross-check](https://github.com/naoanao/agent-cross-check) - 다른 코딩 에이전트가 저장소에 커밋하면 Claude이(가) 이를 감지하고 해당 보고서를 신뢰하는 대신 diff와 테스트로 감사하는 Claude…
 - [naoanao/shared-repo-guard](https://github.com/naoanao/shared-repo-guard) - 여러 AI 에이전트가 공유하는 저장소를 위한 Claude Code 모드: 비밀 값이 .env 밖으로 나가거나 공개 원격 저장소로 푸시되는 것과…
 - [Nexus-nimdA/null-radio](https://github.com/Nexus-nimdA/null-radio) - Claude Code를 위한 사이버 네온 인터넷 라디오 창 - synthwave 다이얼, 현재 재생 중, VU, 로컬 ffplay.
@@ -1849,29 +1745,18 @@ Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and 
 - [nu0ma/query-guard](https://github.com/nu0ma/query-guard) - Claude Code에서 SQL을 위한 가드레일: DB CLI를 통해 Claude이 DELETE, WHERE 없는 UPDATE, DROP…
 - [OG-Matcha/tessera](https://github.com/OG-Matcha/tessera) - Claude Code, Windows 및 CJK를 우선하는 하나의 모드: 모든 터미널에서 붙여넣은 이미지 및 텍스트 미리보기, CJK에 맞는…
 - [oguz-hd/claude-code-chime](https://github.com/oguz-hd/claude-code-chime) - Claude Code용 Chime: Claude이(가) 완료하거나, 사용자의 입력을 필요로 하거나, 오류가 발생할 때 소리를 냅니다.
-- [ohade/claude-mods](https://github.com/ohade/claude-mods) - Claude Code mods: 이미지 썸네일 및 상태 표시줄.
 - [onk3sh/fix-on-edit](https://github.com/onk3sh/fix-on-edit)
 - [osaki42/awesome-claude-mods](https://github.com/osaki42/awesome-claude-mods) - 무엇을 해 주는지에 따라 정렬한 최고의 Claude Code Mods. 직접 확인하여 각 항목을 한 줄로 정리했습니다.
-- [oscarcosmedev/claude-mods](https://github.com/oscarcosmedev/claude-mods)
-- [ozdeger/claude-looked-at-mod](https://github.com/ozdeger/claude-looked-at-mod) - Claude Code 모드: 에이전트가 확인한 모든 이미지와 파일(스크린샷, 렌더링 결과, 읽은 파일)을 Claude 데스크톱 앱의 패널에서…
 - [pablodiazjorge/impact-radius](https://github.com/pablodiazjorge/impact-radius) - 위험한 셸 명령(rm -rf, git reset --hard, 강제 push, 마이그레이션, 전역 설치, curl | sh…)을 보류하고…
 - [Para-FR/claude-code-mods-fr](https://github.com/Para-FR/claude-code-mods-fr) - Claude Code용 Claude Mods 두 가지: garde-du-corps.
-- [Paradox07127/claude-utopia](https://github.com/Paradox07127/claude-utopia) - Claude Code mods with agent telemetry, timeline dashboards, mmrun cross-model…
 - [paragpandyareal/lazy-panda-panel](https://github.com/paragpandyareal/lazy-panda-panel) - Claude Code용 Lazy Panda Panel: 발 하나 들지 않고 문서를 검토하세요.
-- [paragpandyareal/swear-slap](https://github.com/paragpandyareal/swear-slap) - Swear at Claude Code and a cartoon hand slaps back.
-- [paulpc2/claude-code-mods](https://github.com/paulpc2/claude-code-mods) - Claude Code mods: usage-both shows 5-hour and weekly usage above the prompt.
-- [pepperonas/path-links](https://github.com/pepperonas/path-links) - Claude Code mod: clickable paths in replies — click a folder to open it in…
+- [paragpandyareal/swear-slap](https://github.com/paragpandyareal/swear-slap) - Claude Code에 욕을 하면 만화 속 손이 되받아칩니다. 메시지는 전송되지 않으며, 정중한 버전이 프롬프트 상자로 돌아갑니다.
 - [philarete173/claude_mods](https://github.com/philarete173/claude_mods) - Claude 데스크톱 앱의 Code 탭을 위한 실시간 세션 통계 사이드 패널: 컨텍스트, 비용, git 변경 사항, 턴 통계, 하위 에이전트…
-- [pkkid/claude-mods](https://github.com/pkkid/claude-mods) - 내 Claude Desktop 설정을 위한 다양한 모드와 스킬.
 - [pradyb/claude-mods](https://github.com/pradyb/claude-mods) - Claude Code용 모드: safety-guard는 파괴적인 명령과 비밀 파일 접근을 차단하고, notify-router는 규칙 기반…
-- [rafagomes/claude-code-mods](https://github.com/rafagomes/claude-code-mods) - Mods for Claude Code: function-hook plugins that run inside the session…
+- [rafagomes/claude-code-mods](https://github.com/rafagomes/claude-code-mods) - Claude Code용 Mods: 세션 내부에서 실행되는 함수 훅 플러그인(english-coach, toolbar).
 - [rajib2k5/claude-market-watch](https://github.com/rajib2k5/claude-market-watch) - Claude Code mod: 실시간 주식 티커, /quote 패널, 가격 알림, 시장 밴드, 모델이 호출할 수 있는 quote 도구.
 - [RedRoosterKey/claude-code-ssh-usage-band](https://github.com/RedRoosterKey/claude-code-ssh-usage-band) - Claude Code mod: 프롬프트 위 한 줄에 SSH 호스트, RAM 및 5h/7d 사용량 제한 표시.
-- [Rinze-Smits/ifc-viewer-claude-mod](https://github.com/Rinze-Smits/ifc-viewer-claude-mod) - IFC Viewer mod for Claude Code.
 - [Risdon8/push-ups](https://github.com/Risdon8/push-ups) - Claude Code 모드: Claude이(가) 작업하는 동안 할 팔굽혀펴기. 토큰 없음.
-- [robinade/claude-mods-ko](https://github.com/robinade/claude-mods-ko) - Claude Code mod 한국어판 6종: 가정 기록, 쉬운 말, 아이디어 선반, 프롬프트 다듬기, 세션 모니터·트래커.
-- [Rsclub22/claude-mods](https://github.com/Rsclub22/claude-mods)
-- [RyanWeera/ai-router](https://github.com/RyanWeera/ai-router) - A Claude Code mod that routes tasks to other AI models.
 - [ryx2/slopshopper](https://github.com/ryx2/slopshopper) - Claude Code용 모드 상점: GitHub에서 모드를 스크랩하고, 미리 보고, 마켓플레이스를 호스팅합니다.
 - [saadk408/stepline](https://github.com/saadk408/stepline) - Claude Code 모드: plan mode에서 승인한 계획을 프롬프트 위의 라이브 체크리스트로 바꾸고, Claude이 완료할 때마다 각…
 - [saksham10arora-dotcom/awesome-claude-mods](https://github.com/saksham10arora-dotcom/awesome-claude-mods) - 엄선한 Claude Code 모음입니다. 모든 항목을 복제하고 claude plugin validate로 확인했으며, 건드릴 수 있는 항목을…
@@ -1881,48 +1766,29 @@ Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and 
 - [saksham10arora-dotcom/claude-vhs](https://github.com/saksham10arora-dotcom/claude-vhs) - Claude이(가) 수행하는 모든 편집을 기록한 테이프: 각 변경 사항이 직접 입력되는 모습을 재생하고, 단계별로 살펴보며, 모든 파일을…
 - [samaphp/session-links](https://github.com/samaphp/session-links) - 세션에서 언급한 모든 링크를 프롬프트 위 한 줄에 표시합니다. Claude Code 모드.
 - [sawzhang/hello-mod](https://github.com/sawzhang/hello-mod) - Claude Code 함수 훅 최소 데모: prompt 위의 실시간 token/비용 패널, 클릭 가능한 버튼, 독립적으로 그리는 스레드…
-- [shawnbotha/claude-mods](https://github.com/shawnbotha/claude-mods) - Different Claude mods.
-- [shelltime/claude-code-mods](https://github.com/shelltime/claude-code-mods) - ShellTime의 Claude Code 모드(function-hook 플러그인).
-- [shengyy/ccoverhead](https://github.com/shengyy/ccoverhead) - Claude Code mod for context, growth, quota, cache, native cost and agent…
-- [skryvets/claude-status-bar-mod](https://github.com/skryvets/claude-status-bar-mod) - Claude Code 모드: 프롬프트 아래에 세션 정보를 색상으로 표시합니다.
+- [shengyy/ccoverhead](https://github.com/shengyy/ccoverhead) - 프롬프트 위에 컨텍스트, 증가량, 할당량, 캐시, 네이티브 비용 및 에이전트 활동과 세션 세부 정보를 표시하는 Claude Code…
 - [soulrocha/Claude-code-hero-journey](https://github.com/soulrocha/Claude-code-hero-journey) - 🦀 Claude Code용 아늑한 RPG HUD 모드.
-- [StalicJi/my-mods](https://github.com/StalicJi/my-mods) - 개인 Claude Code 모드 마켓플레이스: clean-view, where-am-i, next-steps…
-- [Steady-Matter/spotter-pals](https://github.com/Steady-Matter/spotter-pals) - Spotter: a Claude Code mod with pixel Pals that hatch and grow as your helper…
 - [steven-ngle/blade-of-commits](https://github.com/steven-ngle/blade-of-commits) - 춤추는 pixel-art Malenia와 함께 Claude Code용 원클릭 commit messages.
-- [stillgbx/still-mods](https://github.com/stillgbx/still-mods) - Claude Code 모드.
-- [su-record/claude-mods](https://github.com/su-record/claude-mods) - Personal Claude Code mods.
-- [Sunkanxx/Mods](https://github.com/Sunkanxx/Mods) - Claude Code 모드 — marketplace sunkanxx-mods.
-- [Suyeo2025/claude-mods](https://github.com/Suyeo2025/claude-mods) - Claude Code 모드: 미니 바 HUD.
-- [SyntacticFlow/claude-mods](https://github.com/SyntacticFlow/claude-mods) - Claude Code용 플러그인.
-- [systemNEO/claude-code-mods](https://github.com/systemNEO/claude-code-mods) - Claude Code용 모드: delete-guard (프로젝트 폴더 외부에서 삭제하려면 승인이 필요함).
-- [takiguchi-yu/claude-mods](https://github.com/takiguchi-yu/claude-mods) - 手元で使う Claude Code の mod 置き場.
 - [Tanish-Dev/claude-usage-band](https://github.com/Tanish-Dev/claude-usage-band) - Claude Code 모드: 프롬프트 바로 위에서 Claude 요금제 사용량(세션 + 주간 한도, 재설정 카운트다운, 컨텍스트)을 확인합니다.
 - [tanwar-harsh/luff-crew-monitor](https://github.com/tanwar-harsh/luff-crew-monitor) - Claude Code 모드: 모든 서브에이전트를 위한 실시간 크루 패널(모델, 작업량, 단계, 컨텍스트, 비용, 시간), 프롬프트 위의 작업…
-- [teambrilliant/claude-code-mods](https://github.com/teambrilliant/claude-code-mods)
-- [TFoxik/claude-model-router](https://github.com/TFoxik/claude-model-router) - 작업 종류별로 모델과 작업 강도를 선택하고 해당 선택에 드는 비용을 보여주는 Claude Code 모드입니다.
+- [Tejas242/airspace](https://github.com/Tejas242/airspace) - Air traffic control for parallel Claude Code sessions: one writer per file…
 - [TheBabaYaga/claude-session-flow](https://github.com/TheBabaYaga/claude-session-flow) - 현재 세션을 창에 표시하는 Claude Code 모드입니다. 각 프롬프트, 해당 프롬프트에 대해 Claude이(가) 단계별로 수행한 작업…
 - [theishandubey/claude-mods](https://github.com/theishandubey/claude-mods) - mods용 Claude Code plugin marketplace: Claude Code 내부에 bands, panes 및 기타 UI를 그리는…
-- [timoncool/givememod](https://github.com/timoncool/givememod) - Claude Code mods on demand — a skill that reads your conversation and builds…
 - [tjanuki/claude-mod-agent-board](https://github.com/tjanuki/claude-mod-agent-board) - Claude Code 모드: 세션의 하위 에이전트와 상태를 보여주는 도킹된 창.
-- [tksunw/usage-reporter](https://github.com/tksunw/usage-reporter) - Claude Code mod that writes your Claude usage limits to a file other tools can…
 - [Tum4s/sprout](https://github.com/Tum4s/sprout) - Claude Code 모드: 서브에이전트와 해당 에이전트가 사용하는 파일을 추적하는 밴드 및 패널.
-- [tusharck/mods-for-claude](https://github.com/tusharck/mods-for-claude) - 엄선된 Claude Code 모드 카탈로그로, 각 모드에는 직접 빌드할 수 있는 복사-붙여넣기 프롬프트가 포함되어 있습니다.
-- [VaitaR/claude-code-limits](https://github.com/VaitaR/claude-code-limits) - Claude Code mod: 5h/7d quota, context window, prompt-cache time left and…
+- [VaitaR/claude-code-limits](https://github.com/VaitaR/claude-code-limits) - Claude Code 모드: 프롬프트 위 한 줄에 5h/7d 할당량, 컨텍스트 창, 프롬프트 캐시 잔여 시간 및 세션 비용을 표시하고…
 - [VAlux/claude-session-progress](https://github.com/VAlux/claude-session-progress) - Claude Code 모드: 장시간 실행되는 작업을 위한 애니메이션 진행 밴드와 완료 요약.
 - [Vansitha/clawd-watch](https://github.com/Vansitha/clawd-watch) - 작은 Claude Code 모드 세 가지입니다. 하위 에이전트가 언제 완료되는지 확인하고, Claude이(가) 완료된 후 보낼 메시지를…
+- [varunmoka7/image-shrinker](https://github.com/varunmoka7/image-shrinker) - Shrinks big screenshots before Claude reads them, so long sessions last longer…
 - [varunmoka7/layman](https://github.com/varunmoka7/layman) - &quot;I.
+- [varunmoka7/next-steps-autopilot](https://github.com/varunmoka7/next-steps-autopilot) - Shows suggested next prompts above the prompt box.
 - [varunmoka7/side-chat](https://github.com/varunmoka7/side-chat) - 작업 옆의 패널에서 Claude에게 별도 질문을 하세요. 기본 대화에는 표시되지 않습니다. 데스크톱 앱의 /btw처럼 작동합니다.
 - [Victormartinsilva/MODS-CLAUDECODE](https://github.com/Victormartinsilva/MODS-CLAUDECODE) - 한 단계 설치와 포르투갈어 동영상 가이드를 제공하는 Claude Code 모드 마켓플레이스.
 - [vihrea1337/headroom](https://github.com/vihrea1337/headroom) - Claude Code의 속도 제한 카운트다운 및 소모 속도 예측.
 - [vinkdc/roclaude](https://github.com/vinkdc/roclaude) - Claude Code용 Roblox Studio 안전 레이어: RemoteEvent 감사, 실행 취소, Team Create 보호 및…
-- [wipeer/claude-mods](https://github.com/wipeer/claude-mods) - Claude Code용 작지만 편리한 모드.
-- [wmaq/wmaq-claude-mods](https://github.com/wmaq/wmaq-claude-mods) - Claude Code 모드: stage-toons, 픽셀 아트 Clawd 만화와 함께 프롬프트 위에 워크플로 진행률 표시줄을 표시합니다.
 - [xinhuagu/oh-my-claude-mods](https://github.com/xinhuagu/oh-my-claude-mods) - Claude Code용 모드. agent-crew: 역할, 모델, 현재 도구, 진행률, 토큰 및 시간을 표시하는 실시간 픽셀 크루로…
-- [YeonwooSung/my-claude-code-mods](https://github.com/YeonwooSung/my-claude-code-mods)
-- [YohanGarcia/agent-taskboard](https://github.com/YohanGarcia/agent-taskboard) - A live task board for Claude Code: plan before building, follow every task…
+- [YohanGarcia/agent-taskboard](https://github.com/YohanGarcia/agent-taskboard) - Claude Code용 실시간 작업 보드입니다. 빌드 전에 계획을 세우고, 사이드 패널에서 모든 작업, 상태, 시간, 하위 에이전트 및 검사를…
 - [zexion7873/usage-band](https://github.com/zexion7873/usage-band) - 데스크톱과 터미널에서 Claude Code 프롬프트 위에 항상 표시되는 밴드: 컨텍스트 사용량 및 속도 제한 창.
-- [zh10only1/claude-code-mods](https://github.com/zh10only1/claude-code-mods) - 개인용 Claude Code 모드(플러그인 마켓플레이스).
-- [zwbao/zebra-mod](https://github.com/zwbao/zebra-mod) - zebra-mod: a Claude Code mod that turns Claude Code into a rare-disease…
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - 최고의 에이전트를 위한 최고의 리소스를 엄선한 컬렉션입니다. 코딩 동반자의 논란의 여지 없는 챔피언인 Claude Code를 비롯해, 막강한…
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - 컨텍스트 사용량, 활성 도구, 실행 중인 에이전트 및 할 일 진행 상황 등 현재 상황을 보여주는 Claude Code 플러그인입니다.
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 powerline 지원, 테마 등을 제공하는 Claude Code CLI용 아름답고 높은 사용자 지정성을 갖춘 상태 표시줄입니다.
@@ -1937,19 +1803,19 @@ Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and 
 - [NYCU-Chung/cc-statusline](https://github.com/NYCU-Chung/cc-statusline) - Claude Code용 종합 statusline 대시보드 — 세션 정보, quota bars, 에이전트 추적기, MCP 상태, 메시지 기록 등.
 - [gwittebolle/claude-carbon](https://github.com/gwittebolle/claude-carbon) - claude-carbon: Claude Code 세션의 탄소 발자국 추적.
 - [AwesomeZun/CC-statusline](https://github.com/AwesomeZun/CC-statusline) - awesomejun이 만든 Claude Code용 미적인 statusline.
-- [amirfish1/claude-command-center](https://github.com/amirfish1/claude-command-center) - One local board for Claude Code, Codex, Cursor and 5 more coding agents.
+- [a86582751/dsh-nexttavern](https://github.com/a86582751/dsh-nexttavern) - DeepSeek Harness 长篇角色扮演agent（DSH酒馆插件）：SillyTavern…
 - [JohnnyVizz/claude-kit](https://github.com/JohnnyVizz/claude-kit) - 공개 Claude Code 스킬 및 모드.
 - [escapeboy/claude-code-kit](https://github.com/escapeboy/claude-code-kit) - Claude Code용 Skills, mods, subagents, hooks, slash commands 및 guides — 에이전트가…
 - [mvalentsev/awesome-free-ai-coding](https://github.com/mvalentsev/awesome-free-ai-coding) - 📡 법적으로 무료인 LLM APIs 및 코딩 에이전트 — 주 2회 자동 업데이트 및 프로브 검증.
 - [kylesnowschwartz/tail-claude-hud](https://github.com/kylesnowschwartz/tail-claude-hud) - Claude Code 세션용 터미널 상태 표시줄.
 - [arturogarrido/claudinho](https://github.com/arturogarrido/claudinho) - ⚽ 팔로우하는 대회(World Cup, Premier League, LALIGA, Champions League 및 11개 더)의 실시간 축구…
-- [WormAlien/hub-cc](https://github.com/WormAlien/hub-cc) - Local control plane for Claude Code on Windows and macOS: switch LLM gateways…
+- [WormAlien/hub-cc](https://github.com/WormAlien/hub-cc) - Claude Code를 Windows 및 macOS에서 사용하기 위한 로컬 제어 플레인: 고정 엔드포인트 뒤에서 한 번의 클릭으로 LLM…
 - [johncattrall/keymap-ai](https://github.com/johncattrall/keymap-ai) - 코딩 에이전트를 키보드 펌웨어 전문가로 바꾸는 Agent Skill입니다.
 - [philoserf/claude-code-config](https://github.com/philoserf/claude-code-config) - ~/.claude 내부에서 버전 관리되는 개인 Claude Code 구성 — 에이전트, 스킬, 훅, 설정, statusline.
 - [ashafizullah/claude-code-muslim-mods](https://github.com/ashafizullah/claude-code-muslim-mods) - Claude Code 안에서 기도 시간, 히즈리 날짜, 아즈카르, 오늘의 아야, 순나 단식, 라마단, 주무아 및 타스비흐를 제공하며, 하나의…
 - [livlign/ccbit](https://github.com/livlign/ccbit) - Claude Code용 세션 인식 상태 표시줄입니다. kaomoji 얼굴이 대화 기록을 읽고 세션 전반의 상태를 설명합니다.
 - [benz-ai-x/dsh-research-graph](https://github.com/benz-ai-x/dsh-research-graph) - DSH Research Graph · 研图 — 연구 주제, 추적 가능한 지식 카드, 재사용 가능한 AI 토론을 위한 DeepSeek…
-- [GoSlowPoke168/claude-statusline](https://github.com/GoSlowPoke168/claude-statusline) - Useful statusline for Claude Code that displays model, effort, context, cost…
+- [GoSlowPoke168/claude-statusline](https://github.com/GoSlowPoke168/claude-statusline) - Two-line truecolor statusline for Claude Code.
 - [pierrebelin/claude-code-toolkit](https://github.com/pierrebelin/claude-code-toolkit) - .NET DDD/Clean Architecture를 위한 휴대용 Claude Code 툴킷: 엄격한 TDD 에이전트, 계층 규칙, hooks…
 - [hoobnn/hoobnn-agent-mods](https://github.com/hoobnn/hoobnn-agent-mods) - Claude Code, pi 및 DeepSeek Harness용 플러그인 모음: 상태 표시줄 HUD, 작업 진행률 표시줄, Tailscale…
 - [jcdendrite/claude-config](https://github.com/jcdendrite/claude-config) - 이식 가능한 Claude Code 전역 구성: 사용자 지정 스킬, PreToolUse 후크 및 사용자 지정 상태 표시줄.
@@ -1962,7 +1828,7 @@ Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and 
 - [manson341349-beep/claude-desktop-mods](https://github.com/manson341349-beep/claude-desktop-mods) - Claude Desktop의 Code 탭을 위한 비공식 모드 — usage-pet: Clawd와 애니메이션 픽셀 펫이 있는 사용량 밴드.
 - [romnycristopher/claude-am-mods](https://github.com/romnycristopher/claude-am-mods) - Claude Code Awesome Media 모드용 저장소.
 - [rootstudioyaml/sprag](https://github.com/rootstudioyaml/sprag) - Claude Code 및 Codex 토큰 비용 절감: 조회와 테스트 실행을 더 저렴한 모델로 라우팅하고, 문서를 간결한 Markdown으로…
-- [tedserbinski/claude-code-statusline](https://github.com/tedserbinski/claude-code-statusline) - Simple and useful status line setup for Claude Code.
+- [tedserbinski/claude-code-statusline](https://github.com/tedserbinski/claude-code-statusline) - Claude Code를 위한 간단하고 유용한 상태 표시줄 설정.
 - [aquahitt/claude-code-limit-alerts](https://github.com/aquahitt/claude-code-limit-alerts) - Claude Code용 사용량 제한 알림: 세션(5h) 및 주간 제한에 대한 macOS 알림, 앱 내 경고 및 상태 표시줄 백분율.
 - [fbincon/claude-code-statusline](https://github.com/fbincon/claude-code-statusline) - Linux, WSL, Windows 및 macOS용으로 구성 가능한 Claude Code 상태줄, 프롬프트 타이밍, 서브에이전트 행, 터미널…
 - [JairoTorregrosa/claude-statusline](https://github.com/JairoTorregrosa/claude-statusline) - Claude Code를 위한 빠른 Rust 상태 줄 — payload 우선, 캐시된 git, 약 10ms 렌더링.
@@ -1974,45 +1840,41 @@ Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and 
 - [Obednal97/claude-statusline-kit](https://github.com/Obednal97/claude-statusline-kit) - 다중 행 Claude Code 상태 줄: 비용, 컨텍스트 %, git 및 활성 계정 — 가격과 컨텍스트 창이 자동으로 업데이트됩니다.
 - [salvanya/claude_code_statusline](https://github.com/salvanya/claude_code_statusline) - claude code를 위한 유용한 정보가 있는 Statusline.
 - [Screddyice/claude-code-harness](https://github.com/Screddyice/claude-code-harness) - 여러 회사의 Claude Code 작업 공간을 구성하기 위한 시작 템플릿: 정리된 CLAUDE.md 템플릿, SessionStart 훅, 상태…
+- [spacegrowth/claude-relay](https://github.com/spacegrowth/claude-relay) - Claude Code plugin: a lead session delegates work packets to executor sessions…
 - [tc3oliver/claude-team-kit](https://github.com/tc3oliver/claude-team-kit) - 네이티브 에이전트 팀. 통제된 방식으로. Claude Code를 위한 엄격한 작업자 한도, 실시간 팀 가시성 및 이식 가능한 구성.
 - [andkirby/claude-statusline](https://github.com/andkirby/claude-statusline) - Claude Code용 사용자 지정 상태 표시줄 — 사용률, 컨텍스트 크기, 비용 및 타이머가 표시되는 컨텍스트 막대.
-- [AsyrafHussin/claude-code-statusline](https://github.com/AsyrafHussin/claude-code-statusline) - A clean, informative status line for Claude Code — shows project, git status…
+- [AsyrafHussin/claude-code-statusline](https://github.com/AsyrafHussin/claude-code-statusline) - Claude Code를 위한 깔끔하고 유용한 상태 표시줄 — 프로젝트, git 상태, 모델, 세션 시간, 컨텍스트 사용량 및 속도 제한을…
 - [bunderlog/claude-plugins](https://github.com/bunderlog/claude-plugins) - baloo가 포함된 Claude Code 플러그인 마켓플레이스: 스킬, 프로젝트의 결정 사항·지침·검사를 기준으로 변경 사항을 검증하는…
+- [charlie-818/claude-dispatch](https://github.com/charlie-818/claude-dispatch) - Phone control for a fleet of live Claude Code panes — attach to existing iTerm2…
 - [ChristianVerghis/claude-statusline](https://github.com/ChristianVerghis/claude-statusline) - Claude Code 상태 표시줄: 컨텍스트 사용량, 5시간/7일 할당량 막대, 재설정 시간, git 브랜치.
 - [ctfbio/claude-code-statusline](https://github.com/ctfbio/claude-code-statusline) - 전문가급 Claude Code statusline: 세션 시간, ECB FX를 적용한 다중 통화 비용, MTok당 요금 및 지출 한도를…
 - [cvrt-gmbh/claude-statusline](https://github.com/cvrt-gmbh/claude-statusline) - Claude Code용 구독 인식 상태 표시줄.
-- [d3r3nic/claude-live-sessions](https://github.com/d3r3nic/claude-live-sessions) - Mac에서 실행 중인 Claude Code 및 Codex 세션을 실시간으로 보여주는 창을 제공하는 Claude Code 플러그인입니다…
 - [diegorv/koko.claude-statusline](https://github.com/diegorv/koko.claude-statusline) - Claude Code용 풍부한 터미널 상태 줄 — Bun + TypeScript, 런타임 의존성 없음.
-- [eddywong888/claude-castle-mod](https://github.com/eddywong888/claude-castle-mod) - A Castlevania-style usage HUD mod for Claude Code: context blood meter…
 - [ejklock/claude-mermaid-render](https://github.com/ejklock/claude-mermaid-render) - 트랜스크립트에 Mermaid 다이어그램을 아름답게 렌더링하는 Claude Code 플러그인: 모든 터미널에서 색상이 적용된 Unicode…
 - [filtercoffeeway/claude-kit](https://github.com/filtercoffeeway/claude-kit) - Claude Code용 도구, 스킬 및 에이전트 — 모델, 브랜치, PR, 컨텍스트 크기, 프롬프트 캐시 잔여 시간 및 비용을 표시하는 상태…
-- [Furkan-rgb/claude-config](https://github.com/Furkan-rgb/claude-config) - Claude Code 전역 설정: 에이전트, 스킬, 모드, 설정.
+- [giribboy77-arch/claude-statusline](https://github.com/giribboy77-arch/claude-statusline) - Claude Code 커스텀 상태줄 (모델, effort, 컨텍스트, 캐시, 사용량 한도).
 - [Guidin9/claude-usage-footer](https://github.com/Guidin9/claude-usage-footer) - Claude Code 플러그인: 푸터 오른쪽 아래에서 남은 Claude 5시간 사용 한도를 항상 확인 — 더 이상 /usage를 사용할 필요…
 - [hardtomakeanadress/claude-code-deepseek-cost](https://github.com/hardtomakeanadress/claude-code-deepseek-cost) - Claude Code의 실제 DeepSeek API 지출: DeepSeek 피크/오프피크 요금으로 세션 트랜스크립트의 가격을 다시 계산하고…
-- [HiramAA/claude-desktop-mods](https://github.com/HiramAA/claude-desktop-mods) - Mods para Claude Code y Claude Desktop en Windows con WSL: Docker y rendimiento…
 - [ihororlovskyi/claude-statusline](https://github.com/ihororlovskyi/claude-statusline) - 에이전트 패널 행이 있는 Claude Code 상태 표시줄.
 - [izahamyatim/claude-plugin-fizzy](https://github.com/izahamyatim/claude-plugin-fizzy) - 🚀 Claude의 할 일을 Fizzy.do에 동기화하여 팀이 실시간으로 확인할 수 있게 하고, 작업을 영구 카드로 전환해 협업을 강화하고 진행…
-- [J-J-E/claude-kanban](https://github.com/J-J-E/claude-kanban) - A markdown kanban board for Claude Code: cards are files, a board pane, and a…
-- [kernastra/claudecode](https://github.com/kernastra/claudecode) - A collection of Claude Code skills, mods, and other add ons that I.
+- [J-J-E/claude-kanban](https://github.com/J-J-E/claude-kanban) - Claude Code용 마크다운 칸반 보드: 카드는 파일이고, 보드 창과 레인 작업을 실행하는 스킬로 구성됩니다.
 - [Kimmihappy793/claude-status-line](https://github.com/Kimmihappy793/claude-status-line) - 컨텍스트, git 상태, 비용 및 속도 제한을 보여주는 상세한 색상 코드 상태 표시줄을 Claude Code에 표시합니다.
 - [konnichiwab/claude-code-config](https://github.com/konnichiwab/claude-code-config) - Claude Code 설정 메뉴, 상태 표시줄 및 config.
-- [ldk00315-jpg/claude-code-voice-mod](https://github.com/ldk00315-jpg/claude-code-voice-mod) - codex app-server realtime(ChatGPT 로그인)을 사용하는 모드 + helper로 Windows에서 음성으로 Claude…
 - [matthewjschultz/claude-statusline](https://github.com/matthewjschultz/claude-statusline) - 컨텍스트 창, API 사용량 추적, git 상태 및 세션 비용을 표시하는 사용자 지정 Claude Code 상태 표시줄.
-- [melderan/claude-statusline-rust](https://github.com/melderan/claude-statusline-rust) - 빠른 Rust 상태줄(Claude Code용, 훅 JSON을 읽고 지표를 SQLite에 기록).
-- [mgstegmaier/claude-plugins](https://github.com/mgstegmaier/claude-plugins) - 직접 만든, 케이지 프리 claude 플러그인, 스킬, 모드 등.
 - [msinclair-sudo/claude-code-setup](https://github.com/msinclair-sudo/claude-code-setup) - Claude Code 환경 설치 프로그램: skills, statusline, hooks, permissions 및 선택적…
+- [muemadennis/claude-code-command-center](https://github.com/muemadennis/claude-code-command-center) - Claude Code Live Dashboard 2026: Track Costs, Tokens &amp; Git Branch Status.
 - [oshnilia/claude-plugins](https://github.com/oshnilia/claude-plugins) - Claude이(가) 수행하는 작업을 이해하기 위한 Claude Code 플러그인 및 모드: 읽기 쉬운 답변 형식과 실시간 세션…
 - [peaceinitiativemenhadenoil263/claude-status-bar](https://github.com/peaceinitiativemenhadenoil263/claude-status-bar) - 활성 작업, 대기 중인 권한 및 경과 시간에 대한 실시간 표시기로 macOS 메뉴 막대에서 Claude Code 상태를 모니터링합니다.
 - [pirncedark/afu-claude-statusline](https://github.com/pirncedark/afu-claude-statusline) - Claude Code용 다채로운 다중 행 상태 표시줄(할당량 막대, 컨텍스트, 서브에이전트 패널).
 - [rainyfei/claude-statusline-win](https://github.com/rainyfei/claude-statusline-win) - Windows용 Claude Code 상태줄(PowerShell): 사용량 막대, 속도 경고가 포함된 5시간/7일 재설정 카운트다운, 자동 줄…
-- [realkewal/claude-kit](https://github.com/realkewal/claude-kit) - Claude Code 플러그인. Usage Bars는 세 개의 정렬된 막대로 컨텍스트 창 사용량과 함께 세션 및 주간 속도 제한을 보여줍니다.
 - [roy651/cc-plugins](https://github.com/roy651/cc-plugins) - Claude Code용 Bearings and Glossary 모드.
 - [Rubio-Enterprises/claude-statusline](https://github.com/Rubio-Enterprises/claude-statusline) - 사용자 지정 Claude Code 상태 표시줄(업스트림: kamranahmedse/claude-statusline).
-- [satoramoto/awesome-claude](https://github.com/satoramoto/awesome-claude) - 공유 컴포넌트 키트, 플레이그라운드 및 Storybook이 포함된 Claude Code 설정 및 모드.
 - [thaiquangquy/claude.me](https://github.com/thaiquangquy/claude.me) - 포터블 Claude Code 설정: CLAUDE.md, settings, statusline, skills.
 - [Undone-drawknife974/claude-code-statusline](https://github.com/Undone-drawknife974/claude-code-statusline) - 터미널용 경량 종속성 없는 상태줄 대시보드로 Claude Code 컨텍스트 사용량, 세션 비용 및 속도 제한 재설정을 추적합니다.
 - [UtakataKyosui/utakata-cc-mod](https://github.com/UtakataKyosui/utakata-cc-mod) - Claude Code용 모드 모음(goal-orchestrator: /goal을 작업으로 분해하여 SubAgent에 위임).
+- [viplav-artha/claude-code-lessons](https://github.com/viplav-artha/claude-code-lessons) - A hands-on, verified deep-dive into Claude Code — CLAUDE.md, subagents, skills…
 - [vladimir-ks/ai-agile-claude-code-statusline](https://github.com/vladimir-ks/ai-agile-claude-code-statusline) - Claude Code용 실시간 비용 추적 및 세션 모니터링 상태 줄.
+- [wmkeza/claude-plugins](https://github.com/wmkeza/claude-plugins) - wmkeza.
 - [xinvxueyuan/cordis-plugin-secret](https://github.com/xinvxueyuan/cordis-plugin-secret) - Cordis / DeepSeek Harness 플러그인 — 에이전트는 인라인 대화 카드에서 사람에게 비밀을 요청하며, 값 자체는 절대 받지…
 - [yacb2/claude-statusline](https://github.com/yacb2/claude-statusline) - 컨텍스트 깊이, 세션 간 속도 제한, 저장소별 git 상태 및 worktree를 표시하는 3행 Claude Code 상태 표시줄.
 - [YoniYon00/claude-feedback-rings](https://github.com/YoniYon00/claude-feedback-rings) - Context Rot Detector 2026 - Claude Code 에이전트를 위한 사전 대응형 AI 메모리 및 속도 제한 모니터.
@@ -2036,7 +1898,7 @@ Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and 
 DeepSeek Harness와 Cordis는 서로 다른 방향에서 같은 지점에 도달합니다. 이들에게 플러그인은 모드 메커니즘이므로, 그쪽의 플러그인은 이곳의 모드에 해당합니다.
 
 <details>
-<summary>🧵 <b><a href="https://github.com/ruvnet/ruflo">ruvnet/ruflo</a></b> · ⭐74299 · TypeScript · 👁️ observed · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/ruvnet/ruflo">ruvnet/ruflo</a></b> · ⭐74307 · TypeScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 요약
 
@@ -2056,7 +1918,7 @@ DeepSeek Harness와 Cordis는 서로 다른 방향에서 같은 지점에 도달
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **74299**  |
+| 스타        | **74307**  |
 | 마지막 푸시 | 2026-10-11 |
 | 최초 등록   | 2026-10-04 |
 
@@ -2072,7 +1934,7 @@ DeepSeek Harness와 Cordis는 서로 다른 방향에서 같은 지점에 도달
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/nexu-io/open-design">nexu-io/open-design</a></b> · ⭐100435 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/nexu-io/open-design">nexu-io/open-design</a></b> · ⭐100445 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 요약
 
@@ -2090,7 +1952,7 @@ DeepSeek Harness와 Cordis는 서로 다른 방향에서 같은 지점에 도달
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **100435** |
+| 스타        | **100445** |
 | 마지막 푸시 | 2026-10-11 |
 | 최초 등록   | 2026-10-04 |
 
@@ -2106,7 +1968,7 @@ DeepSeek Harness와 Cordis는 서로 다른 방향에서 같은 지점에 도달
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/tt-a1i/archify">tt-a1i/archify</a></b> · ⭐81723 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/tt-a1i/archify">tt-a1i/archify</a></b> · ⭐81766 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 요약
 
@@ -2124,7 +1986,7 @@ DeepSeek Harness와 Cordis는 서로 다른 방향에서 같은 지점에 도달
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **81723**  |
+| 스타        | **81766**  |
 | 마지막 푸시 | 2026-10-11 |
 | 최초 등록   | 2026-10-04 |
 
@@ -2140,7 +2002,7 @@ DeepSeek Harness와 Cordis는 서로 다른 방향에서 같은 지점에 도달
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/morluto/rea">morluto/rea</a></b> · ⭐76541 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/morluto/rea">morluto/rea</a></b> · ⭐78887 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 요약
 
@@ -2158,7 +2020,7 @@ DeepSeek Harness와 Cordis는 서로 다른 방향에서 같은 지점에 도달
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **76541**  |
+| 스타        | **78887**  |
 | 마지막 푸시 | 2026-10-11 |
 | 최초 등록   | 2026-10-05 |
 
@@ -2174,7 +2036,7 @@ DeepSeek Harness와 Cordis는 서로 다른 방향에서 같은 지점에 도달
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/esengine/DeepSeek-Reasonix">esengine/DeepSeek-Reasonix</a></b> · ⭐35760 · Go · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/esengine/DeepSeek-Reasonix">esengine/DeepSeek-Reasonix</a></b> · ⭐35758 · Go · 🔎 inferred · 0 天</summary>
 
 ##### 📝 요약
 
@@ -2192,7 +2054,7 @@ DeepSeek Harness와 Cordis는 서로 다른 방향에서 같은 지점에 도달
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **35760**  |
+| 스타        | **35758**  |
 | 마지막 푸시 | 2026-10-11 |
 | 최초 등록   | 2026-10-06 |
 
@@ -2201,7 +2063,7 @@ DeepSeek Harness와 Cordis는 서로 다른 방향에서 같은 지점에 도달
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/anywhere-labs/dsh-desktop">anywhere-labs/dsh-desktop</a></b> · ⭐30374 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/anywhere-labs/dsh-desktop">anywhere-labs/dsh-desktop</a></b> · ⭐30384 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 요약
 
@@ -2219,7 +2081,7 @@ DeepSeek Harness (DSH) 플러그인 생태계를 위한 현대적인 데스크�
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **30374**  |
+| 스타        | **30384**  |
 | 마지막 푸시 | 2026-10-10 |
 | 최초 등록   | 2026-10-10 |
 
@@ -2235,7 +2097,7 @@ DeepSeek Harness (DSH) 플러그인 생태계를 위한 현대적인 데스크�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/titanwings/distilly">titanwings/distilly</a></b> · ⭐25474 · Python · 🔎 inferred · 18 天</summary>
+<summary>🧵 <b><a href="https://github.com/titanwings/distilly">titanwings/distilly</a></b> · ⭐25477 · Python · 🔎 inferred · 18 天</summary>
 
 ##### 📝 요약
 
@@ -2253,7 +2115,7 @@ Distilly — 이들이 사고하는 방식을 모든 Agent 또는 Bot에서 재�
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **25474**  |
+| 스타        | **25477**  |
 | 마지막 푸시 | 2026-09-22 |
 | 최초 등록   | 2026-10-04 |
 
@@ -2296,7 +2158,7 @@ Distilly — 이들이 사고하는 방식을 모든 Agent 또는 Bot에서 재�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/zhu1090093659/dsh-web">zhu1090093659/dsh-web</a></b> · ⭐8598 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/zhu1090093659/dsh-web">zhu1090093659/dsh-web</a></b> · ⭐8605 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 요약
 
@@ -2314,7 +2176,7 @@ DeepSeek Harness (DSH) Web 플러그인 집계 생태계 · 모든 것이 플러
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **8598**   |
+| 스타        | **8605**   |
 | 마지막 푸시 | 2026-10-10 |
 | 최초 등록   | 2026-10-04 |
 
@@ -2330,11 +2192,11 @@ DeepSeek Harness (DSH) Web 플러그인 집계 생태계 · 모든 것이 플러
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/Ebony-Vinyl/dsh-our-free-model">Ebony-Vinyl/dsh-our-free-model</a></b> · ⭐7124 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/Ebony-Vinyl/dsh-our-free-model">Ebony-Vinyl/dsh-our-free-model</a></b> · ⭐7358 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 요약
 
-在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
+dsh에 이 플러그인을 설치하기만 하면 됩니다. 로그인, 가입 또는 API Key 입력 없이 DeepSeek V4.1 Flash, Kimi K3를 포함한 최첨단 모델을 사용할 수 있습니다. 완전 무료이며 사용량 제한도 없습니다. dsh에 이 플러그인을 설치하기만 하면 됩니다. 로그인도, 가입도, API key도 필요 없습니다. DeepSeek V4.1 Flash와 Kimi K3를 비롯한 최첨단 모델을 바로 사용할 수 있습니다. 완전 무료이며 사용량 제한이 없습니다.
 
 ##### 📌 기본 정보
 
@@ -2348,16 +2210,57 @@ DeepSeek Harness (DSH) Web 플러그인 집계 생태계 · 모든 것이 플러
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **7124**   |
+| 스타        | **7358**   |
 | 마지막 푸시 | 2026-10-11 |
 | 최초 등록   | 2026-10-11 |
 
 🏷 `ai-agents` · `deepseek` · `deepseek-harness` · `developer-tools` · `dsh` · `dsh-plugin` · `free-model` · `llm`
 
+---
+
+<table><tr><th align="center" width="50%">🖼 이미지</th><th align="center" width="50%">🎬 동영상</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/ebony-vinyl--dsh-our-free-model/212e73dc2aecbd46.png" width="100%" alt="Ebony-Vinyl/dsh-our-free-model screenshot"></td>
+<td align="center" valign="top"><sub>게시된 미디어 없음</sub></td>
+</tr></table>
+
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/ccch1mneyyy/dsh-TUI">ccch1mneyyy/dsh-TUI</a></b> · ⭐4270 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget">MeteorNOX/DeepSeek-Balance-Whale-Widget</a></b> · ⭐4441 · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 요약
+
+DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装
+
+##### 📌 기본 정보
+
+| 필드     | 값                                                                              |
+| -------- | ------------------------------------------------------------------------------- |
+| 카테고리 | `DSH 및 Cordis 플러그인 생태계`                                                 |
+| 근거     | `모드, 플러그인 또는 훅이라고 선언했지만 모드 표면에 관한 구체적인 내용은 없음` |
+| 언어     | JavaScript                                                                      |
+
+##### 📊 데이터
+
+| 지표        | 값         |
+| ----------- | ---------- |
+| 스타        | **4441**   |
+| 마지막 푸시 | 2026-10-11 |
+| 최초 등록   | 2026-10-11 |
+
+🏷 `cordis` · `deepseek` · `deepseek-harness` · `developer-tools` · `dsh` · `dsh-plugin` · `dsh-plugins` · `floating-widget`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 이미지</th><th align="center" width="50%">🎬 동영상</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/meteornox--deepseek-balance-whale-widget/c17efbb95a7522ee.png" width="100%" alt="MeteorNOX/DeepSeek-Balance-Whale-Widget screenshot"></td>
+<td align="center" valign="top"><sub>게시된 미디어 없음</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/ccch1mneyyy/dsh-TUI">ccch1mneyyy/dsh-TUI</a></b> · ⭐4276 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 요약
 
@@ -2375,7 +2278,7 @@ DSH가 공식적으로 가장 추천하는 TUI 플러그인 — 고성능, 낮�
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **4270**   |
+| 스타        | **4276**   |
 | 마지막 푸시 | 2026-10-11 |
 | 최초 등록   | 2026-10-10 |
 
@@ -2391,11 +2294,11 @@ DSH가 공식적으로 가장 추천하는 TUI 플러그인 — 고성능, 낮�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/dsh-tauri/deepseek-harness-desktop">dsh-tauri/deepseek-harness-desktop</a></b> · ⭐3144 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/dsh-tauri/deepseek-harness-desktop">dsh-tauri/deepseek-harness-desktop</a></b> · ⭐3150 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 요약
 
-DeepSeek Harness Tauri 데스크톱 버전 | 설치 프로그램 8mb, 환경 설정 불필요, 사전 설정 플러그인, Windows / macOS / Linux.
+DeepSeek Harness Tauri 데스크톱 버전 | 설치 프로그램은 8mb에 불과하며 환경 설정이 필요 없고, 플러그인이 사전 설정되어 있으며 Windows / macOS / Linux을 지원합니다.
 
 ##### 📌 기본 정보
 
@@ -2409,7 +2312,7 @@ DeepSeek Harness Tauri 데스크톱 버전 | 설치 프로그램 8mb, 환경 설
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **3144**   |
+| 스타        | **3150**   |
 | 마지막 푸시 | 2026-10-11 |
 | 최초 등록   | 2026-10-11 |
 
@@ -2425,45 +2328,11 @@ DeepSeek Harness Tauri 데스크톱 버전 | 설치 프로그램 8mb, 환경 설
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/NanmiCoder/dsh-agent-teams">NanmiCoder/dsh-agent-teams</a></b> · ⭐2012 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/bowenliang123/dsh-context">bowenliang123/dsh-context</a></b> · ⭐1970 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 요약
 
-DeepSeek Harness 的 Agent Teams 多智能体协作插件，支持多个 AI Agent 组成团队，协同完成复杂任务，实现任务分配、并行执行、成员通信与团队协作。 AgentTeams plugin for DeepSeek Harness
-
-##### 📌 기본 정보
-
-| 필드     | 값                                                                              |
-| -------- | ------------------------------------------------------------------------------- |
-| 카테고리 | `DSH 및 Cordis 플러그인 생태계`                                                 |
-| 근거     | `모드, 플러그인 또는 훅이라고 선언했지만 모드 표면에 관한 구체적인 내용은 없음` |
-| 언어     | JavaScript                                                                      |
-
-##### 📊 데이터
-
-| 지표        | 값         |
-| ----------- | ---------- |
-| 스타        | **2012**   |
-| 마지막 푸시 | 2026-10-11 |
-| 최초 등록   | 2026-10-11 |
-
-🏷 `agentteams` · `deepseekharness` · `dsh` · `dsh-agent-teams` · `dsh-plugin`
-
----
-
-<table><tr><th align="center" width="50%">🖼 이미지</th><th align="center" width="50%">🎬 동영상</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/nanmicoder--dsh-agent-teams/b3647beca323c018.png" width="100%" alt="NanmiCoder/dsh-agent-teams screenshot"></td>
-<td align="center" valign="top"><sub>게시된 미디어 없음</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/bowenliang123/dsh-context">bowenliang123/dsh-context</a></b> · ⭐1969 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 요약
-
-The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器和侧边栏与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。
+컨텍스트 인사이트와 관리를 위한 최고의 DeepSeek Harness 플러그인입니다. 컨텍스트 대시보드 / 브라우저 / 사이드바와 컨텍스트 명령을 제공하여 컨텍스트 통계, 구성, 세부 분해, 변화 과정을 확인하고 컨텍스트가 어떻게 구성되고 발전하는지 이해할 수 있습니다. DeepSeek Harness용 올인원 컨텍스트 시각화 플러그인으로, Context 패널과 브라우저 및 사이드바, Context 명령을 통해 컨텍스트의 구성, 발전, 압축, 가지치기 등의 이벤트와 작업을 한눈에 파악할 수 있습니다.
 
 ##### 📌 기본 정보
 
@@ -2477,7 +2346,7 @@ The best DeepSeek Harness plugin for context insight and management, with contex
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **1969**   |
+| 스타        | **1970**   |
 | 마지막 푸시 | 2026-10-11 |
 | 최초 등록   | 2026-10-11 |
 
@@ -2493,11 +2362,11 @@ The best DeepSeek Harness plugin for context insight and management, with contex
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/xmanrui/dsh-im">xmanrui/dsh-im</a></b> · ⭐1780 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/xmanrui/dsh-im">xmanrui/dsh-im</a></b> · ⭐1782 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 요약
 
-通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).
+QR 코드 또는 봇 자격 증명을 통해 IM 봇을 DeepSeek Harness에 연결합니다(飞书, 微信, 钉钉, 企业微信, QQ, Slack, Telegram, Discord 및 WhatsApp 지원). QR 코드 또는 자격 증명을 통해 IM 봇을 DeepSeek Harness에 연결합니다(9개 채널).
 
 ##### 📌 기본 정보
 
@@ -2511,7 +2380,7 @@ The best DeepSeek Harness plugin for context insight and management, with contex
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **1780**   |
+| 스타        | **1782**   |
 | 마지막 푸시 | 2026-10-11 |
 | 최초 등록   | 2026-10-11 |
 
@@ -2527,11 +2396,45 @@ The best DeepSeek Harness plugin for context insight and management, with contex
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/EthanYoQ/AI-Novel-Writer">EthanYoQ/AI-Novel-Writer</a></b> · ⭐1394 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/AdamPlatin123/dsh-plugin-radar">AdamPlatin123/dsh-plugin-radar</a></b> · ⭐1463 · Python · 🔎 inferred · 0 天</summary>
 
 ##### 📝 요약
 
-AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版，支持本地和在线模型。AI Novel Writing Software: Organizes inspirations, characters, worldbuilding, outlines, chapter drafting, review, and revision into a controllable workflow. Features desktop apps for Windows/macOS, Ollama integration, and a DeepSeek Harness (DSH) plugin preview.
+DSH Plugin Radar — open-source ecosystem radar for DeepSeek Harness plugins: continuous discovery (21k+ candidates), k8s runtime validation (13k+ tests), 15-min snapshots; the catalog is a generated artifact — 开源 DSH 插件生态雷达：持续发现 2.1 万+ 候选、k8s 运行级实测 1.3 万+、15 分钟快照；插件目录为自动生成的产物
+
+##### 📌 기본 정보
+
+| 필드     | 값                                                                              |
+| -------- | ------------------------------------------------------------------------------- |
+| 카테고리 | `DSH 및 Cordis 플러그인 생태계`                                                 |
+| 근거     | `모드, 플러그인 또는 훅이라고 선언했지만 모드 표면에 관한 구체적인 내용은 없음` |
+| 언어     | Python                                                                          |
+
+##### 📊 데이터
+
+| 지표        | 값         |
+| ----------- | ---------- |
+| 스타        | **1463**   |
+| 마지막 푸시 | 2026-10-11 |
+| 최초 등록   | 2026-10-11 |
+
+🏷 `agent-plugins` · `continuous-validation` · `deepseek-harness` · `dsh` · `dsh-plugin` · `ecosystem-radar` · `plugin-registry`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 이미지</th><th align="center" width="50%">🎬 동영상</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/adamplatin123--dsh-plugin-radar/fb6ad7eb8891212c.jpg" width="100%" alt="AdamPlatin123/dsh-plugin-radar screenshot"></td>
+<td align="center" valign="top"><sub>게시된 미디어 없음</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/EthanYoQ/AI-Novel-Writer">EthanYoQ/AI-Novel-Writer</a></b> · ⭐1395 · TypeScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 요약
+
+AI 소설 창작 소프트웨어: 영감, 캐릭터, 세계관, 개요, 장면 집필, 검토 및 수정을 제어 가능한 워크플로로 구성합니다. Windows/macOS 데스크톱 버전을 제공하며 로컬 및 온라인 모델을 지원합니다. AI 소설 집필 소프트웨어: 영감, 캐릭터, 세계관, 개요, 장면 초안 작성, 검토 및 수정을 제어 가능한 워크플로로 구성합니다. Windows/macOS용 데스크톱 앱, Ollama 통합 및 DeepSeek Harness(DSH) 플러그인 미리보기를 제공합니다.
 
 ##### 📌 기본 정보
 
@@ -2545,7 +2448,7 @@ AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作�
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **1394**   |
+| 스타        | **1395**   |
 | 마지막 푸시 | 2026-10-11 |
 | 최초 등록   | 2026-10-11 |
 
@@ -2629,11 +2532,11 @@ DeepSeek Harness (dsh) Windows 데스크톱 클라이언트 - Node.js + dsh CLI 
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/text2future/flowix">text2future/flowix</a></b> · ⭐453 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/omdsh-dev/dsh-genui">omdsh-dev/dsh-genui</a></b> · ⭐542 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 요약
 
-Notes for you, Memory for your agents. / 内置 Deepseek harness Agent / 适用 办公 & 写作 & Coding
+GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.
 
 ##### 📌 기본 정보
 
@@ -2647,27 +2550,27 @@ Notes for you, Memory for your agents. / 内置 Deepseek harness Agent / 适用 
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **453**    |
+| 스타        | **542**    |
 | 마지막 푸시 | 2026-10-11 |
 | 최초 등록   | 2026-10-11 |
 
-🏷 `agent-memory` · `claude-code` · `codex-cli` · `desktop` · `dsh` · `dsh-plugin` · `dsh-plugin-desktop` · `hermes-agent`
+🏷 `dsh` · `dsh-plugin`
 
 ---
 
 <table><tr><th align="center" width="50%">🖼 이미지</th><th align="center" width="50%">🎬 동영상</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/text2future--flowix/9fc65a8848fe78ee.png" width="100%" alt="text2future/flowix screenshot"></td>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/text2future--flowix/ea3f84c8693d4236.gif" width="100%" alt="text2future/flowix animation"><br><sub>애니메이션 녹화</sub></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/omdsh-dev--dsh-genui/cf8bd9040af17cab.png" width="100%" alt="omdsh-dev/dsh-genui screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/omdsh-dev--dsh-genui/1f990c9a328356e9.gif" width="100%" alt="omdsh-dev/dsh-genui animation"><br><sub>애니메이션 녹화 · <a href="https://raw.githubusercontent.com/omdsh-dev/dsh-genui/main/assets/demo.mp4">동영상 열기</a></sub></td>
 </tr></table>
 
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/Mars-Sea/dsh-commandcode-provider">Mars-Sea/dsh-commandcode-provider</a></b> · ⭐377 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/Ikalus1988/MisakaNet">Ikalus1988/MisakaNet</a></b> · ⭐526 · Python · 🔎 inferred · 0 天</summary>
 
 ##### 📝 요약
 
-Command Code provider plugin for DeepSeek Harness (dsh). Adds Command Code model access, live model catalog, plan-aware model selection, reasoning effort, image input, web search, and multi-account support.
+📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. | https://misakanet.org
 
 ##### 📌 기본 정보
 
@@ -2675,22 +2578,22 @@ Command Code provider plugin for DeepSeek Harness (dsh). Adds Command Code model
 | -------- | ------------------------------------------------------------------------------- |
 | 카테고리 | `DSH 및 Cordis 플러그인 생태계`                                                 |
 | 근거     | `모드, 플러그인 또는 훅이라고 선언했지만 모드 표면에 관한 구체적인 내용은 없음` |
-| 언어     | TypeScript                                                                      |
+| 언어     | Python                                                                          |
 
 ##### 📊 데이터
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **377**    |
+| 스타        | **526**    |
 | 마지막 푸시 | 2026-10-11 |
 | 최초 등록   | 2026-10-11 |
 
-🏷 `command-code` · `commandcode` · `deepseek-harness` · `dsh` · `dsh-plugin` · `llm` · `llm-provider` · `plugin`
+🏷 `action` · `agents` · `cloudflare-workers` · `codex` · `cordis-plugin` · `d1` · `deepseek-harness` · `deepseek-harness-plugin`
 
 ---
 
 <table><tr><th align="center" width="50%">🖼 이미지</th><th align="center" width="50%">🎬 동영상</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/mars-sea--dsh-commandcode-provider/2f2256468a8af0b9.png" width="100%" alt="Mars-Sea/dsh-commandcode-provider screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/ikalus1988--misakanet/f6853900d49aba17.jpg" width="100%" alt="Ikalus1988/MisakaNet screenshot"></td>
 <td align="center" valign="top"><sub>게시된 미디어 없음</sub></td>
 </tr></table>
 
@@ -2701,7 +2604,7 @@ Command Code provider plugin for DeepSeek Harness (dsh). Adds Command Code model
 
 ##### 📝 요약
 
-Your Intelligence, Orchestrated. Every builder. Every team. Every agent. For Everyone.
+당신의 지능을 오케스트레이션합니다. 모든 빌더. 모든 팀. 모든 에이전트. 모두를 위해.
 
 ##### 📌 기본 정보
 
@@ -2731,11 +2634,45 @@ Your Intelligence, Orchestrated. Every builder. Every team. Every agent. For Eve
 </details>
 
 <details>
+<summary>🧵 <b><a href="https://github.com/xing-shuyin/pi-web-ui">xing-shuyin/pi-web-ui</a></b> · ⭐282 · TypeScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 요약
+
+Just open your browser — get all your work done.
+
+##### 📌 기본 정보
+
+| 필드     | 값                                                                              |
+| -------- | ------------------------------------------------------------------------------- |
+| 카테고리 | `DSH 및 Cordis 플러그인 생태계`                                                 |
+| 근거     | `모드, 플러그인 또는 훅이라고 선언했지만 모드 표면에 관한 구체적인 내용은 없음` |
+| 언어     | TypeScript                                                                      |
+
+##### 📊 데이터
+
+| 지표        | 값         |
+| ----------- | ---------- |
+| 스타        | **282**    |
+| 마지막 푸시 | 2026-10-11 |
+| 최초 등록   | 2026-10-11 |
+
+🏷 `dsh` · `dsh-desktop` · `dsh-plugin` · `pi` · `pi-web` · `pi-web-ui`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 이미지</th><th align="center" width="50%">🎬 동영상</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/xing-shuyin--pi-web-ui/926fb8bfa4f6062a.jpg" width="100%" alt="xing-shuyin/pi-web-ui screenshot"></td>
+<td align="center" valign="top"><sub>게시된 미디어 없음</sub></td>
+</tr></table>
+
+</details>
+
+<details>
 <summary>🧵 <b><a href="https://github.com/acryldev/acryl">acryldev/acryl</a></b> · ⭐255 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 요약
 
-ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent.
+ACRYL - Agent Context Relay Yielding Lifecycles. 하나의 영구 워크스페이스, 하나의 표준 컨텍스트, 모든 코딩 에이전트.
 
 ##### 📌 기본 정보
 
@@ -2759,40 +2696,6 @@ ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one c
 
 <table><tr><th align="center" width="50%">🖼 이미지</th><th align="center" width="50%">🎬 동영상</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/acryldev--acryl/47cfe6b23e87eea1.png" width="100%" alt="acryldev/acryl screenshot"></td>
-<td align="center" valign="top"><sub>게시된 미디어 없음</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/cv-superding/dsh-deepseek-web-login">cv-superding/dsh-deepseek-web-login</a></b> · ⭐250 · JavaScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 요약
-
-비공식 DSH (DeepSeek Harness) 플러그인: chat.deepseek.com 웹 모델을 LLM provider로 사용합니다. 브라우저 로그인 캡처, PoW 해결, SSE 스트리밍, 프롬프트 기반 도구 호출을 지원합니다.
-
-##### 📌 기본 정보
-
-| 필드     | 값                                                                              |
-| -------- | ------------------------------------------------------------------------------- |
-| 카테고리 | `DSH 및 Cordis 플러그인 생태계`                                                 |
-| 근거     | `모드, 플러그인 또는 훅이라고 선언했지만 모드 표면에 관한 구체적인 내용은 없음` |
-| 언어     | JavaScript                                                                      |
-
-##### 📊 데이터
-
-| 지표        | 값         |
-| ----------- | ---------- |
-| 스타        | **250**    |
-| 마지막 푸시 | 2026-10-10 |
-| 최초 등록   | 2026-10-09 |
-
-🏷 `browser-automation` · `cordis` · `cordis-plugin` · `deepseek` · `deepseek-harness` · `dsh` · `llm-provider`
-
----
-
-<table><tr><th align="center" width="50%">🖼 이미지</th><th align="center" width="50%">🎬 동영상</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/cv-superding--dsh-deepseek-web-login/b95392c45786ce03.png" width="100%" alt="cv-superding/dsh-deepseek-web-login screenshot"></td>
 <td align="center" valign="top"><sub>게시된 미디어 없음</sub></td>
 </tr></table>
 
@@ -2833,11 +2736,11 @@ ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one c
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/T-Auto/dsh-ops">T-Auto/dsh-ops</a></b> · ⭐203 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/KelaoHu/dsh-lowtide">KelaoHu/dsh-lowtide</a></b> · ⭐170 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 요약
 
-Bash, PowerShell 7, and Rust-based tools for dsh on Windows to cut token usage. / 为windows的dsh提供bash、powershell7及rust的高性能tools来减少token消耗
+Time-shifting task delegation for DeepSeek Harness (dsh): plan tasks at leisure, they run unattended off-peak, come back to a report. Human-adjudicated, desktop + web.
 
 ##### 📌 기본 정보
 
@@ -2845,26 +2748,24 @@ Bash, PowerShell 7, and Rust-based tools for dsh on Windows to cut token usage. 
 | -------- | ------------------------------------------------------------------------------- |
 | 카테고리 | `DSH 및 Cordis 플러그인 생태계`                                                 |
 | 근거     | `모드, 플러그인 또는 훅이라고 선언했지만 모드 표면에 관한 구체적인 내용은 없음` |
-| 언어     | JavaScript                                                                      |
+| 언어     | TypeScript                                                                      |
 
 ##### 📊 데이터
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **203**    |
+| 스타        | **170**    |
 | 마지막 푸시 | 2026-10-11 |
 | 최초 등록   | 2026-10-11 |
 
-🏷 `dsh` · `dsh-plugin` · `dsh-plugins`
+🏷 `ai-agent` · `automation` · `batch-processing` · `cordis` · `deepseek` · `deepseek-harness` · `dsh-plugin` · `llm`
 
 ---
 
 <table><tr><th align="center" width="50%">🖼 이미지</th><th align="center" width="50%">🎬 동영상</th></tr><tr>
-<td align="center" valign="top"><img src="https://github.com/user-attachments/assets/7c9ba485-5323-42a2-b5a8-6dcda07f91c4" width="100%" alt="T-Auto/dsh-ops screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/kelaohu--dsh-lowtide/3d2509a82d1a3f11.png" width="100%" alt="KelaoHu/dsh-lowtide screenshot"></td>
 <td align="center" valign="top"><sub>게시된 미디어 없음</sub></td>
 </tr></table>
-
-<sub>재배포에 적합한 라이선스가 명시되지 않아 업스트림 저장소에서 에셋을 핫링크했습니다.</sub>
 
 </details>
 
@@ -2898,6 +2799,108 @@ Bash, PowerShell 7, and Rust-based tools for dsh on Windows to cut token usage. 
 <table><tr><th align="center" width="50%">🖼 이미지</th><th align="center" width="50%">🎬 동영상</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/totoro-qaq--dsh-plugin-bridge/568de849cd2e9608.png" width="100%" alt="Totoro-qaq/dsh-plugin-bridge screenshot"></td>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/totoro-qaq--dsh-plugin-bridge/b4a12cab0ba15f06.gif" width="100%" alt="Totoro-qaq/dsh-plugin-bridge animation"><br><sub>애니메이션 녹화</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/WSL043/dsh-codex-subscription">WSL043/dsh-codex-subscription</a></b> · ⭐158 · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 요약
+
+Use your ChatGPT Plus / Pro (Codex) subscription in DeepSeek Harness (DSH): GPT-6 & Codex models, images, web search and quota via ChatGPT sign-in — no OpenAI API key. Beta: control DSH from the ChatGPT mobile app. 在 DSH 中使用 ChatGPT 订阅，并可用 ChatGPT 手机 App 远程控制。
+
+##### 📌 기본 정보
+
+| 필드     | 값                                                                              |
+| -------- | ------------------------------------------------------------------------------- |
+| 카테고리 | `DSH 및 Cordis 플러그인 생태계`                                                 |
+| 근거     | `모드, 플러그인 또는 훅이라고 선언했지만 모드 표면에 관한 구체적인 내용은 없음` |
+| 언어     | JavaScript                                                                      |
+
+##### 📊 데이터
+
+| 지표        | 값         |
+| ----------- | ---------- |
+| 스타        | **158**    |
+| 마지막 푸시 | 2026-10-11 |
+| 최초 등록   | 2026-10-11 |
+
+🏷 `ai-agent` · `chatgpt` · `chatgpt-plus` · `chatgpt-pro` · `chatgpt-subscription` · `codex` · `codex-cli-alternative` · `codex-subscription`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 이미지</th><th align="center" width="50%">🎬 동영상</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/wsl043--dsh-codex-subscription/0c3daa4061aa684e.webp" width="100%" alt="WSL043/dsh-codex-subscription screenshot"></td>
+<td align="center" valign="top"><sub>게시된 미디어 없음</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/FeatherHunter/dsh-mattpocock-skills-deck">FeatherHunter/dsh-mattpocock-skills-deck</a></b> · ⭐132 · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 요약
+
+安装即自带mattpocock/skills v1.3.1的27个工程与效率技能，无需手动装技能。400亿token打造本插件，在原始技能之上提供10倍的开发效率，也能帮助新手更快上手该技能套件。全力支持GitHub issue；Markdown为预览版；GitLab暂不支持。感谢您的使用和支持💗
+
+##### 📌 기본 정보
+
+| 필드     | 값                                                                              |
+| -------- | ------------------------------------------------------------------------------- |
+| 카테고리 | `DSH 및 Cordis 플러그인 생태계`                                                 |
+| 근거     | `모드, 플러그인 또는 훅이라고 선언했지만 모드 표면에 관한 구체적인 내용은 없음` |
+| 언어     | JavaScript                                                                      |
+
+##### 📊 데이터
+
+| 지표        | 값         |
+| ----------- | ---------- |
+| 스타        | **132**    |
+| 마지막 푸시 | 2026-10-11 |
+| 최초 등록   | 2026-10-11 |
+
+🏷 `agent` · `ai` · `claude` · `deepseek-harness` · `dsh` · `dsh-better-sidebar` · `dsh-plugin` · `github-issues`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 이미지</th><th align="center" width="50%">🎬 동영상</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/featherhunter--dsh-mattpocock-skills-deck/c4bd78003446c161.png" width="100%" alt="FeatherHunter/dsh-mattpocock-skills-deck screenshot"></td>
+<td align="center" valign="top"><sub>게시된 미디어 없음</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/flymysql/dsh-remote">flymysql/dsh-remote</a></b> · ⭐132 · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 요약
+
+Remote-work assistant for DeepSeek Harness (DSH): connect SSH (key or password), pick a remote workspace, operate with rw_* tools, and SFTP-mirror it into a real local DSH workspace.
+
+##### 📌 기본 정보
+
+| 필드     | 값                                                                              |
+| -------- | ------------------------------------------------------------------------------- |
+| 카테고리 | `DSH 및 Cordis 플러그인 생태계`                                                 |
+| 근거     | `모드, 플러그인 또는 훅이라고 선언했지만 모드 표면에 관한 구체적인 내용은 없음` |
+| 언어     | JavaScript                                                                      |
+
+##### 📊 데이터
+
+| 지표        | 값         |
+| ----------- | ---------- |
+| 스타        | **132**    |
+| 마지막 푸시 | 2026-10-11 |
+| 최초 등록   | 2026-10-11 |
+
+🏷 `deepseek-harness` · `dsh` · `dsh-plugin` · `remote` · `sftp` · `ssh` · `tunnel` · `workspace`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 이미지</th><th align="center" width="50%">🎬 동영상</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/flymysql--dsh-remote/714d273f27c6d75b.png" width="100%" alt="flymysql/dsh-remote screenshot"></td>
+<td align="center" valign="top"><sub>게시된 미디어 없음</sub></td>
 </tr></table>
 
 </details>
@@ -2939,7 +2942,7 @@ DeepSeek Harness용 Claude Code 데스크톱 테마｜DeepSeek Harness 웹 GUI�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/morluto/flameox">morluto/flameox</a></b> · ⭐120 · Python · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/morluto/flameox">morluto/flameox</a></b> · ⭐121 · Python · 🔎 inferred · 0 天</summary>
 
 ##### 📝 요약
 
@@ -2957,7 +2960,7 @@ DeepSeek Harness용 Claude Code 데스크톱 테마｜DeepSeek Harness 웹 GUI�
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **120**    |
+| 스타        | **121**    |
 | 마지막 푸시 | 2026-10-10 |
 | 최초 등록   | 2026-10-11 |
 
@@ -2973,41 +2976,7 @@ DeepSeek Harness용 Claude Code 데스크톱 테마｜DeepSeek Harness 웹 GUI�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/Noob-stupid/dsh-plugin-gating-hub">Noob-stupid/dsh-plugin-gating-hub</a></b> · ⭐99 · JavaScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 요약
-
-DSH 플러그인 - 프레임워크 업그레이드 안전성 및 플러그인 게이팅: 계약 사전 점검, 롤백 지점, 실패 시 자동 롤백, 증거 기반 자동 비활성화와 다중 소스 플러그인 마켓을 제공합니다. 비공식. | DSH 플러그인: 프레임워크 업그레이드 안전성 + 플러그인 게이팅 — 업그레이드 전 계약 사전 점검, 롤백 지점, 실패 시 자동 롤백, 확실한 증거가 있을 때만 자동 비활성화하며 다중 소스 플러그인 마켓도 제공합니다. 비공식 커뮤니티 프로젝트입니다.
-
-##### 📌 기본 정보
-
-| 필드     | 값                                                                              |
-| -------- | ------------------------------------------------------------------------------- |
-| 카테고리 | `DSH 및 Cordis 플러그인 생태계`                                                 |
-| 근거     | `모드, 플러그인 또는 훅이라고 선언했지만 모드 표면에 관한 구체적인 내용은 없음` |
-| 언어     | JavaScript                                                                      |
-
-##### 📊 데이터
-
-| 지표        | 값         |
-| ----------- | ---------- |
-| 스타        | **99**     |
-| 마지막 푸시 | 2026-10-11 |
-| 최초 등록   | 2026-10-11 |
-
-🏷 `ai-empower` · `cli` · `deepseek-harness` · `dsh` · `dsh-plugin` · `dsh-plugins` · `framework-upgrade` · `marketplace`
-
----
-
-<table><tr><th align="center" width="50%">🖼 이미지</th><th align="center" width="50%">🎬 동영상</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/noob-stupid--dsh-plugin-gating-hub/0b18270cf916dc1c.png" width="100%" alt="Noob-stupid/dsh-plugin-gating-hub screenshot"></td>
-<td align="center" valign="top"><sub>게시된 미디어 없음</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/EricWang1358/dsh-web-studyhub">EricWang1358/dsh-web-studyhub</a></b> · ⭐85 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/EricWang1358/dsh-web-studyhub">EricWang1358/dsh-web-studyhub</a></b> · ⭐86 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 요약
 
@@ -3025,7 +2994,7 @@ StudyHub: 자신의 자료를 문제와 간격 반복 학습으로 바꿔 주는
 
 | 지표        | 값         |
 | ----------- | ---------- |
-| 스타        | **85**     |
+| 스타        | **86**     |
 | 마지막 푸시 | 2026-10-11 |
 | 최초 등록   | 2026-10-10 |
 
@@ -3035,40 +3004,6 @@ StudyHub: 자신의 자료를 문제와 간격 반복 학습으로 바꿔 주는
 
 <table><tr><th align="center" width="50%">🖼 이미지</th><th align="center" width="50%">🎬 동영상</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/ericwang1358--dsh-web-studyhub/1e4a97948bc59f9d.jpg" width="100%" alt="EricWang1358/dsh-web-studyhub screenshot"></td>
-<td align="center" valign="top"><sub>게시된 미디어 없음</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/Sev7eEn7/dsh-sieve">Sev7eEn7/dsh-sieve</a></b> · ⭐74 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 요약
-
-dsh-sieve: DeepSeek Harness (DSH)용 context engineering 및 token 최적화 플러그인 — 도구 출력 필터링, 컨텍스트 정리, 점진적 스킬 공개를 지원합니다. 오프라인 재생에서 payload를 36% 줄입니다. DSH 컨텍스트 관리 및 token 최적화 절약 플러그인입니다.
-
-##### 📌 기본 정보
-
-| 필드     | 값                                                                              |
-| -------- | ------------------------------------------------------------------------------- |
-| 카테고리 | `DSH 및 Cordis 플러그인 생태계`                                                 |
-| 근거     | `모드, 플러그인 또는 훅이라고 선언했지만 모드 표면에 관한 구체적인 내용은 없음` |
-| 언어     | TypeScript                                                                      |
-
-##### 📊 데이터
-
-| 지표        | 값         |
-| ----------- | ---------- |
-| 스타        | **74**     |
-| 마지막 푸시 | 2026-10-10 |
-| 최초 등록   | 2026-10-10 |
-
-🏷 `agent-tools` · `ai-agent` · `ai-coding` · `coding-agent` · `context-engineering` · `context-management` · `context-pruning` · `context-window`
-
----
-
-<table><tr><th align="center" width="50%">🖼 이미지</th><th align="center" width="50%">🎬 동영상</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/sev7een7--dsh-sieve/eab2b3c8b1588637.webp" width="100%" alt="Sev7eEn7/dsh-sieve screenshot"></td>
 <td align="center" valign="top"><sub>게시된 미디어 없음</sub></td>
 </tr></table>
 
@@ -3111,137 +3046,83 @@ dsh-sieve: DeepSeek Harness (DSH)용 context engineering 및 token 최적화 플
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/kukucaiCndy/Corum-Harness">kukucaiCndy/Corum-Harness</a></b> · ⭐62 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 요약
-
-基于 Deepseek-Harness 核心底座打造的桌面版 Agent.继承底坐全部能力。并补全 IDE 相关功能。
-
-##### 📌 기본 정보
-
-| 필드     | 값                                                                              |
-| -------- | ------------------------------------------------------------------------------- |
-| 카테고리 | `DSH 및 Cordis 플러그인 생태계`                                                 |
-| 근거     | `모드, 플러그인 또는 훅이라고 선언했지만 모드 표면에 관한 구체적인 내용은 없음` |
-| 언어     | TypeScript                                                                      |
-
-##### 📊 데이터
-
-| 지표        | 값         |
-| ----------- | ---------- |
-| 스타        | **62**     |
-| 마지막 푸시 | 2026-10-11 |
-| 최초 등록   | 2026-10-11 |
-
-🏷 `agent` · `agent-os` · `ai-agent` · `cordis` · `desktop-app` · `dsh` · `electron` · `harness`
-
----
-
-<table><tr><th align="center" width="50%">🖼 이미지</th><th align="center" width="50%">🎬 동영상</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/kukucaicndy--corum-harness/b8971b2831acec9e.png" width="100%" alt="kukucaiCndy/Corum-Harness screenshot"></td>
-<td align="center" valign="top"><sub>게시된 미디어 없음</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/Contexera/dsh-agent-team">Contexera/dsh-agent-team</a></b> · ⭐57 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 요약
-
-dsh-agent-team gives DeepSeek Harness agents that don't reset: durable Members with their own memory, notes, and skills across sessions, rollovers, and restarts. You set the direction; agents coordinate through Channels and Tasks.
-
-##### 📌 기본 정보
-
-| 필드     | 값                                                                              |
-| -------- | ------------------------------------------------------------------------------- |
-| 카테고리 | `DSH 및 Cordis 플러그인 생태계`                                                 |
-| 근거     | `모드, 플러그인 또는 훅이라고 선언했지만 모드 표면에 관한 구체적인 내용은 없음` |
-| 언어     | TypeScript                                                                      |
-
-##### 📊 데이터
-
-| 지표        | 값         |
-| ----------- | ---------- |
-| 스타        | **57**     |
-| 마지막 푸시 | 2026-10-11 |
-| 최초 등록   | 2026-10-11 |
-
-🏷 `agent-orchestration` · `agent-team` · `ai-agents` · `deepseek` · `deepseek-harness` · `dsh` · `dsh-plugin` · `multi-agent`
-
----
-
-<table><tr><th align="center" width="50%">🖼 이미지</th><th align="center" width="50%">🎬 동영상</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/contexera--dsh-agent-team/25f8cc5a2a3231a3.png" width="100%" alt="Contexera/dsh-agent-team screenshot"></td>
-<td align="center" valign="top"><sub>게시된 미디어 없음</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary><b>이 카테고리의 더 많은 항목</b> <sub>· 61</sub></summary>
+<summary><b>이 카테고리의 더 많은 항목</b> <sub>· 75</sub></summary>
 
 - [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - AI 코딩 에이전트를 위한 실행 전 보호 장치입니다. 도구 호출이 실행되기 전에 파괴적인 Git 및 파일 시스템 명령과 민감한 파일에…
 - [hashgraph-online/awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins) - Claude Code, OpenAI Codex / ChatGPT, Gemini, Antigravity, Pi / Oh My Pi, Grok…
+- [bruc3van/awesome-dsh-plugin](https://github.com/bruc3van/awesome-dsh-plugin) - 30 秒找到真正适合你的 DeepSeek Harness插件。每天自动抓取 GitHub 上的 `dsh-plugin`…
+- [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) - A curated list of plugins, skills, MCP servers, patch/profile layers…
 - [bradeGithub/DSH-Plugins-Marketplace](https://github.com/bradeGithub/DSH-Plugins-Marketplace) - DSH 플러그인 마켓 / DSH Plugin Marketplace: DeepSeek Harness Web GUI에서 GitHub…
-- [ymh0000123/dsh-theme-endfield](https://github.com/ymh0000123/dsh-theme-endfield) - 终末地官网风格的 DSH Web 主题：奶油纸底、墨黑文字、信号黄强调、全直角工业编辑风.
+- [beancookie/awesome-dsh-plugin](https://github.com/beancookie/awesome-dsh-plugin) - Awesome DeepSeek Harness (DSH) Plugin.
+- [ymh0000123/dsh-theme-endfield](https://github.com/ymh0000123/dsh-theme-endfield) - 终末地 공식 웹사이트 스타일의 DSH Web 테마: 크림색 종이 배경, 먹색 텍스트, 시그널 옐로 강조, 전면 직각의 산업 편집 스타일.
 - [arcships/rutis](https://github.com/arcships/rutis) - 계속 실행되는 프로그램을 위한 플러그인 런타임 — 프로세스와 머신 전반의 Rust 코어, TypeScript 및 Python 플러그인.
-- [adamkhalile/luau-docs-oracle](https://github.com/adamkhalile/luau-docs-oracle) - 최고의 Roblox Luau 버그 검사기 및 API 검증기 2026 DevForum MCP 도구.
+- [like-study1/Oh-My-DSH](https://github.com/like-study1/Oh-My-DSH) - 🐳 DeepSeek Harness 插件聚合社区 — 自动同步 dsh-plugin 生态 · 精选目录 · 每 4 小时自动维护 | Oh-My-DSH…
+- [kukucaiCndy/Corum-Harness](https://github.com/kukucaiCndy/Corum-Harness) - Deepseek-Harness 핵심 기반으로 제작된 데스크톱 버전 Agent입니다.
 - [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) - 살아 있는 DeepSeek Harness 플러그인 디렉터리 — 매시간 갱신, 매일 호환성 테스트, 앱 내 플러그인 스토어와 스캐폴더 포함.
-- [Nyasers/DSHana](https://github.com/Nyasers/DSHana) - DSHana: DeepSeek Harness as a subagent for HanaAgent.
-- [PolinniZhong/dsh-knit](https://github.com/PolinniZhong/dsh-knit) - 面向 AI Coding Agent 的任务感知工作区上下文检索与生命周期追踪：按当前任务找到、组织并持续追踪最相关的文档、代码与媒体.
+- [PolinniZhong/dsh-knit](https://github.com/PolinniZhong/dsh-knit) - AI Coding Agent를 위한 작업 인식형 워크스페이스 컨텍스트 검색 및 수명 주기 추적: 현재 작업과 가장 관련성 높은 문서, 코드 및…
 - [kejixiaoliang/awesome-dsh-plugins](https://github.com/kejixiaoliang/awesome-dsh-plugins) - DeepSeek Harness (DSH) 플러그인 엄선 디렉터리 — MCP / Skill / TUI / 멀티 Agent / 컨텍스트 메모리 /…
-- [universe-st/dsh-game-material-master](https://github.com/universe-st/dsh-game-material-master) - dsh游戏素材大师插件。接入seedream生图模型和minimax视频生成模型，可生成各种游戏素材.
+- [hyzyn/dsh-plugin-kit](https://github.com/hyzyn/dsh-plugin-kit) - Plugin family for the DeepSeek Harness (DSH) Web GUI: a pnpm monorepo with a…
+- [universe-st/dsh-game-material-master](https://github.com/universe-st/dsh-game-material-master) - dsh 게임 소재 마스터 플러그인입니다. seedream 이미지 생성 모델과 minimax 동영상 생성 모델을 연동하여 다양한 게임 소재를…
 - [Vncntvx/dsh-zotero](https://github.com/Vncntvx/dsh-zotero) - DeepSeek harness용 Zotero toolkit입니다. Zotero 라이브러리를 에이전트를 위한 증거 저장소로 바꿔 줍니다.
 - [KannaKuron/dsh-gitbash-shell](https://github.com/KannaKuron/dsh-gitbash-shell) - Windows의 모든 에이전트 모드를 위한 DSH 플러그인: Git Bash 셸(pwsh 실행기 대체).
+- [FeatherHunter/dsh-prompt](https://github.com/FeatherHunter/dsh-prompt) - DeepSeek Harness 的 Prompt 工具箱：别再复制粘贴——24 条深度模板随手点，/prompt 与智能推荐主动兜底，装好即用、可自定义.
+- [Andersen216/dsh-whale-girl-live2d](https://github.com/Andersen216/dsh-whale-girl-live2d) - 🐋 鲸鱼娘桌宠 · Whale Girl Live2D —— DSH（DeepSeek Harness）Web 界面里的 Live2D 桌宠：跟着 agent…
 - [NekroAI/nekro-nxt](https://github.com/NekroAI/nekro-nxt) - NekroNXT: DeepSeek Harness（DSH）기반 멀티 플랫폼 그룹 채팅 지능형 에이전트 시스템｜DSH 기반 멀티 플랫폼 그룹 채팅…
-- [lizhiyao/oh-my-knowledge](https://github.com/lizhiyao/oh-my-knowledge) - OMK — Evidence-backed evaluation and observability for prompts, RAG, skills…
-- [dphmoblie/deepseek-harness-android](https://github.com/dphmoblie/deepseek-harness-android) - dsh安卓版：集成 DeepSeek Harness、Ubuntu 运行环境、插件与文件管理，以及用户授权的 Shizuku 和无障碍自动化.
-- [HaoyueQin/dsh-usage-statistics-panel](https://github.com/HaoyueQin/dsh-usage-statistics-panel) - DSH web plugin: per-day token usage statistics with a GitHub-style activity…
+- [zaofan-make/dsh-qqbot](https://github.com/zaofan-make/dsh-qqbot) - AI 统管 QQ 群组：审核放行、群发文件、沟通其他 web 会话的 AI！ ；气氛组担当：表情包自动入库、AI 自己决定开口、多预设多人格轮班陪聊!
+- [lizhiyao/oh-my-knowledge](https://github.com/lizhiyao/oh-my-knowledge) - OMK — 프롬프트, RAG, 스킬, 에이전트 및 워크플로를 위한 증거 기반 평가 및 관측성입니다.
+- [HaoyueQin/dsh-usage-statistics-panel](https://github.com/HaoyueQin/dsh-usage-statistics-panel) - DSH 웹 플러그인: GitHub 스타일 활동 히트맵, 캐시 적중률 곡선 및 모델별 분석을 제공하는 일일 토큰 사용량 통계.
 - [siweina/dsh-novel-writer](https://github.com/siweina/dsh-novel-writer) - 중국어 웹소설 작가를 위한 로컬 집필 워크벤치(도구 19개): 집필 전에 이전 장의 연결 부분/개요/인물 카드/회수할 복선/용어 규칙을 모두…
-- [TQSY114514/dsh-ui-appearance](https://github.com/TQSY114514/dsh-ui-appearance) - Appearance customization plugin for DeepSeek Harness: theme color palette…
-- [hyqhyq3/dsh-mcp-manager](https://github.com/hyqhyq3/dsh-mcp-manager) - MCP server manager plugin for DeepSeek Harness: Settings → MCP page, OAuth…
+- [awesome-deepseekharness/awesome-deepseek-harness](https://github.com/awesome-deepseekharness/awesome-deepseek-harness) - Community-curated DeepSeek Harness (dsh) plugins, tools, skills and learning…
+- [hyqhyq3/dsh-mcp-manager](https://github.com/hyqhyq3/dsh-mcp-manager) - DeepSeek Harness용 MCP 서버 관리자 플러그인: 설정 → MCP 페이지, OAuth(PKCE + 동적 클라이언트 등록) 또는…
 - [Wenaixi/dsh-superpower](https://github.com/Wenaixi/dsh-superpower) - DeepSeek Harness 플러그인: 15개의 obra/superpowers 엔지니어링 스킬, 이중 언어 설명, 스킬별 토글 |…
-- [harrylabsj/kiwi](https://github.com/harrylabsj/kiwi) - A2A commerce negotiation runtime + DeepSeek Harness (dsh) plugin.
+- [harrylabsj/kiwi](https://github.com/harrylabsj/kiwi) - A2A 상거래 협상 런타임 + DeepSeek Harness(dsh) 플러그인입니다.
 - [Imzl-zl/dsh-mcp-manager-ui](https://github.com/Imzl-zl/dsh-mcp-manager-ui) - DeepSeek Harness Web용 MCP 서버 관리 UI — 플로팅 패널, JSON 가져오기 및 프로필 기반 영속성을 제공합니다.
+- [YELEBAI/dsh-plugin-marketplace](https://github.com/YELEBAI/dsh-plugin-marketplace) - Verified plugin marketplace and autonomous registry for DeepSeek Harness.
 - [liustack/pptwise](https://github.com/liustack/pptwise) - HTML이 아닌 진짜 PowerPoint입니다. AI에게 다룰 내용을 말하면 pptwise가 자신의 컴퓨터에서 편집 가능한 덱을 만듭니다.
 - [Wenaixi/dsh-ponytail](https://github.com/Wenaixi/dsh-ponytail) - DeepSeek Harness 플러그인: DietrichGebert/ponytail lazy senior 모드 및 7단계 사다리 포트, 이중…
-- [godchen520/dsh-web-remote](https://github.com/godchen520/dsh-web-remote) - DSH 手机/外网远程访问插件：免配置公网隧道 + 局域网 HTTPS 直连 + 自定义公网链接/端口 + 微信机器人.
 - [Ianzhyh/workbuddy-to-dsh](https://github.com/Ianzhyh/workbuddy-to-dsh) - 로컬 컴퓨터의 WorkBuddy 데스크톱 버전에 로그인된 모델(DeepSeek / GLM / Kimi / MiniMax 등)을 로컬…
-- [Sivan757/dsh-agent-plugins-market](https://github.com/Sivan757/dsh-agent-plugins-market) - One-stop skills, subagent, MCP and LSP manager for DeepSeek Harness (DSH)…
+- [Sivan757/dsh-agent-plugins-market](https://github.com/Sivan757/dsh-agent-plugins-market) - DeepSeek Harness(DSH)를 위한 올인원 skills, subagent, MCP 및 LSP 관리자 — Claude Code…
+- [xxww0098/dsh-plugin-oauth-subs](https://github.com/xxww0098/dsh-plugin-oauth-subs) - ChatGPT Codex and xAI Grok subscription OAuth for DeepSeek Harness — PKCE /…
+- [muyuanjin/dsh-ptc-plus](https://github.com/muyuanjin/dsh-ptc-plus) - A session-bound agent-native REPL for DeepSeek Harness PTC mode.
 - [MicroMilo/upstream-radar](https://github.com/MicroMilo/upstream-radar) - DeepSeek Harness 플러그인을 위한 상시 호환성 테스트: 정확한 릴리스, 격리된 러너, 수정 가능한 업스트림 이슈.
-- [ai-yukin/dsh-0-tools](https://github.com/ai-yukin/dsh-0-tools) - Zero-cost, zero-hassle toolkit for DeepSeek Harness (DSH): one-click setup for…
 - [unStone/dsh-xray](https://github.com/unStone/dsh-xray) - DeepSeek Harness 플러그인을 위한 X-ray: 선언된 기능과 실제 동작을 비교합니다. 레지스트리 + 정적 스캐너 + 배지.
 - [bonerush/dsh-obsidian-mem](https://github.com/bonerush/dsh-obsidian-mem) - 프로젝트 문서와 장기 메모리를 전용 Obsidian vault에 일반 Markdown으로 보관하는 DeepSeek Harness 호스트…
-- [shenhuanageshei/dsh-team-link](https://github.com/shenhuanageshei/dsh-team-link) - Session deep links + full session export (markdown/JSON) + approved…
+- [chnjames/dsh-plugin-market](https://github.com/chnjames/dsh-plugin-market) - DSH 插件市场 — DeepSeek Harness 设置内一键安装社区插件，并提供公开目录站（浏览 / 复制安装命令）.
+- [cyanseek/dsh-landscape](https://github.com/cyanseek/dsh-landscape) - Agent-first DeepSeek Harness plugin intelligence: verify existing plugins…
+- [Cyning12/SpecWave](https://github.com/Cyning12/SpecWave) - SpecWave — multi-host coding CLI + P0 gates/Harness (Cursor/Claude/DSH).
+- [dsh-plugin-lab/dsh-workbuddy-bridge](https://github.com/dsh-plugin-lab/dsh-workbuddy-bridge) - DSH 插件：把 WorkBuddy 桌面 App 里的模型接入 DeepSeek Harness，零配置直接用。（原生嵌入&quot;设置-插件-插件配置&quot;）.
+- [Fayelin12/dsh-office](https://github.com/Fayelin12/dsh-office) - Agent-office dashboard for DeepSeek Harness (DSH): workspaces, sessions, token…
 - [victorwads/dsh-live-voice](https://github.com/victorwads/dsh-live-voice) - DSH를 위한 로컬 우선 음성 대화입니다. 선택적 외부 공급자와 함께 음성 인식 및 음성 합성을 자체 컴퓨터에서 실행합니다.
-- [YunongDai2005/dsh-theone](https://github.com/YunongDai2005/dsh-theone) - One chat for everything, no more hunting for old conversations.
+- [fan56/dsh-topics-memory](https://github.com/fan56/dsh-topics-memory) - Topic memory for LLM agents — edited, not accumulated: a topic keeps the…
 - [KannaKuron/dsh-ide-git](https://github.com/KannaKuron/dsh-ide-git) - DSH 플러그인: 네이티브 dsh-better-sidebar 탭으로 제공되는 IDE급 Git 도구 창 — 브랜치 트리, 커밋 그래프, 변경…
 - [KannaKuron/dsh-ptc-cordis-preset](https://github.com/KannaKuron/dsh-ptc-cordis-preset) - PTC 모드 기반의 창작 모드: DSH 플러그인이 Code Mode 도구 오케스트레이션과 자기 참조 Cordis 도구 및 preset 창작…
+- [xbzbing/dsh-git-panel](https://github.com/xbzbing/dsh-git-panel) - DSH 插件：Web GUI 里的 IDE 风格 Git 面板——分支/提交历史总览、变更提交与 amend、文件浏览、代码与图片新旧差异对照、输入框分支标记…
+- [ywsldxk/dsh-plugin-stars](https://github.com/ywsldxk/dsh-plugin-stars) - DeepSeek Harness (DSH) plugin leaderboard &amp; directory｜DeepSeek…
+- [zhouzhencheng07/dsh-kit](https://github.com/zhouzhencheng07/dsh-kit) - Page capability kit for DeepSeek Harness (dsh): terminal dock, file tree…
 - [cherrchen/dsh-plugin-multi-root-workspace](https://github.com/cherrchen/dsh-plugin-multi-root-workspace) - 다중 폴더 workspace: DSH(DeepSeek Harness)의 Agent가 기본 디렉터리뿐 아니라 추가한 다른 폴더도 동시에 읽고 쓸…
 - [godv61/dsh-task-engine](https://github.com/godv61/dsh-task-engine) - DeepSeek Harness용 엔지니어링 워크플로 플러그인: 작업 단계, 검증 기록, 커밋 확인, 스킬 및 규칙 관리.
 - [liceses/dsh-cosplay](https://github.com/liceses/dsh-cosplay) - DSH 롤플레잉 플러그인: 캐릭터 카드(시스템 프롬프트 주입 + 사용자 프롬프트 재작성), 공유 가능한 단일 파일 카드 패키지, 원본 UI를…
-- [openbkn-ai/bkn-dsh](https://github.com/openbkn-ai/bkn-dsh) - OpenBKN.
+- [majiayu000/dsh-plugin-registry](https://github.com/majiayu000/dsh-plugin-registry) - Searchable DeepSeek Harness plugin registry with curated listings and…
 - [PerryLink/dsh-plugin-doctor](https://github.com/PerryLink/dsh-plugin-doctor) - DeepSeek Harness(dsh) 플러그인을 위한 종속성 없는 검증 표준 — 정적 구조 게이트(R), cordis 계약 검사(K)…
-- [TheYoungChen/dsh-plugin-market](https://github.com/TheYoungChen/dsh-plugin-market) - DeepSeek Harness 플러그인 마켓 — dsh-plugin topic 플러그인 탐색, 검색 및 설치.
 - [viztor/dsh-opencode-patch](https://github.com/viztor/dsh-opencode-patch) - DeepSeek Harness의 OpenCode — OpenCode Zen + Go 무료 티어 모델을 계속 작동하게 하는 DSH 플러그인…
 - [AI-Scarlett/DSH-Store](https://github.com/AI-Scarlett/DSH-Store) - DSH STORE — DeepSeek Harness를 위한 서드파티 플러그인 마켓플레이스 및 보호된 수명 주기 관리자.
+- [anyuer678/dsh-logtimeline](https://github.com/anyuer678/dsh-logtimeline) - Query local log files with Chinese natural-language time expressions…
 - [Atelyx/Atelyx](https://github.com/Atelyx/Atelyx) - Atelyx는 사람을 중심으로 설계된 확장 가능한 데스크톱 작업 공간입니다.
-- [dsh-cc/dsh-cc](https://github.com/dsh-cc/dsh-cc) - A batteries-included coding agent for DeepSeek Harness — Claude Code-style…
+- [dsh-cc/dsh-cc](https://github.com/dsh-cc/dsh-cc) - DeepSeek Harness를 위한 모든 기능이 포함된 코딩 에이전트 — Claude Code 스타일 워크플로, 원하는 모델, TUI…
 - [fangwen9527/dsh-composer-ux](https://github.com/fangwen9527/dsh-composer-ux) - DSH Web 입력 경험 플러그인: 보내기/줄바꿈 키 전환, 우클릭 메뉴, 패널 스크롤 및 크기 기억, OpenCode 요청 헤더 자동 주입.
-- [heiheiha798/dsh-plugin-subagent-delete](https://github.com/heiheiha798/dsh-plugin-subagent-delete) - DSH plugin: delete_subagent tool + UI - release or permanently remove subagent…
-- [momasiku/dsh-pilot](https://github.com/momasiku/dsh-pilot) - Desktop automation for DeepSeek Harness: hands and eyes on the whole Windows…
 - [Mzy123l/dsh-plugin-remote-access](https://github.com/Mzy123l/dsh-plugin-remote-access) - DeepSeek Harness 데스크톱 버전에 &quot;네트워크 대역 제한 + 선택적 숫자 비밀번호&quot;가 있는 원격 액세스 진입점을 제공합니다.
-- [sakanamaru/dsh-minato](https://github.com/sakanamaru/dsh-minato) - dsh-minato — 社区版本机部署运维套件 for DeepSeek Harness (dsh): install / start / monitor…
+- [sakanamaru/dsh-minato](https://github.com/sakanamaru/dsh-minato) - dsh-minato — DeepSeek Harness (dsh)를 위한 커뮤니티 버전 로컬 배포·운영 도구 모음: 설치 / 시작 / 모니터링…
 - [tianyagk/dsh-tradewatcher](https://github.com/tianyagk/dsh-tradewatcher) - DeepSeek Harness(DSH) 웹 플러그인: 시장 대시보드 사이드바 탭을 모니터링합니다 — 마우스를 올리면 장중 차트가 표시되는…
-- [yu381792/superlcm](https://github.com/yu381792/superlcm) - 五种载体，一座本地对话档案馆：原文归档、分层后台摘要、原文查证与跨工具接续。默认原生压缩，Claude Code 与 dsh harness 可选接管.
+- [yu381792/superlcm](https://github.com/yu381792/superlcm) - 다섯 가지 저장 매체, 하나의 로컬 대화 아카이브: 원문 보관, 계층형 백그라운드 요약, 원문 검증 및 도구 간 이어서 작업을 제공합니다.
 - [argszero/cordis-plugin-sandbox-grant-advisor](https://github.com/argszero/cordis-plugin-sandbox-grant-advisor) - DeepSeek Harness 플러그인: Windows 샌드박스 ACL 프로비저닝 실패.
 - [argszero/cordis-plugin-empty-response-retry](https://github.com/argszero/cordis-plugin-empty-response-retry) - 출처가 표시되지 않은 빈 모델 시도를 재시도 가능하게 만듭니다. 이를 판별할 수 있는 하나의 접점.
-- [denceee/dsh-everything-claude-code](https://github.com/denceee/dsh-everything-claude-code) - Adapts everything-claude-code to DeepSeek Harness: 11 skills, an ECC agent…
-- [Magica-Chen/dsh-preset-codex-claude](https://github.com/Magica-Chen/dsh-preset-codex-claude) - DeepSeek Harness agent preset: Codex and Claude Code as delegation subagents…
+- [denceee/dsh-everything-claude-code](https://github.com/denceee/dsh-everything-claude-code) - everything-claude-code를 DeepSeek Harness에 맞게 조정합니다.
+- [Magica-Chen/dsh-preset-codex-claude](https://github.com/Magica-Chen/dsh-preset-codex-claude) - DeepSeek Harness 에이전트 프리셋: Codex 및 Claude Code를 위임 하위 에이전트로 사용하며, 각각 읽기 전용 및 전체…
 - [validation-engineering/cordis-verus](https://github.com/validation-engineering/cordis-verus) - Verus-verified 라이프사이클 커널과 Cordis 호환성 어댑터를 갖춘 Rust 플러그인 런타임입니다.
-- [mrpulor-gh/nuphus-mcp](https://github.com/mrpulor-gh/nuphus-mcp) - Desktop automation MCP server — computer use for any AI agent: control screen…
+- [YOU-SHOULD-KNOW-ME/antigrative-dashboard](https://github.com/YOU-SHOULD-KNOW-ME/antigrative-dashboard) - Inline Antigravity dashboard: tok/s, DSH-style cache hit rate, five-hour and…
 - [tellmewhattodo/dsh-serenity-plugin](https://github.com/tellmewhattodo/dsh-serenity-plugin) - dsh-serenity-plugin.
+- [HaydenSmith1121/dsh-plugins](https://github.com/HaydenSmith1121/dsh-plugins) - DeepSeek Harness (dsh) 插件市场 —— 目录（一个插件一个配置文件）+ 可视化面板 + 一键安装；插件本体在…
+- [SCP-008-1/dshop](https://github.com/SCP-008-1/dshop) - dsh 插件商城 - 基于 GitHub topic:dsh-plugin 自动发现与每小时定时同步.
 
 </details>
 
@@ -3501,19 +3382,17 @@ dsh-agent-team gives DeepSeek Harness agents that don't reset: durable Members w
 
 | 언어       | 항목 | 예시 프로젝트                                                                                                 |
 | ---------- | ---- | ------------------------------------------------------------------------------------------------------------- |
-| TypeScript | 383  | `anthropics/claude-code`, `anthropics/claude-code-action`, `hamzafer/claude-code-mods`                        |
-| JavaScript | 79   | `Enc-hanted/dsh-pulse`, `MIHassan3/DSH-Launcher`, `karanb192/awesome-claude-code-mods`                        |
-| Python     | 39   | `anthropics/claude-agent-sdk-python`, `anthropics/claude-code-security-review`, `alexgreensh/token-optimizer` |
-| Shell      | 27   | `anthropics/claude-agent-sdk-typescript`, `0xDarkMatter/claude-mods`, `BeLazy167/claude-mods-skill`           |
-| HTML       | 14   | `HeyCubit/effortless`, `awss1i/assay`, `darrell-tw/darrelltw-mods`                                            |
-| Go         | 7    | `cephalofoil/kitt`, `kylesnowschwartz/tail-claude-hud`, `livlign/ccbit`                                       |
-| Rust       | 6    | `persiyanov/herdr-reviewr`, `JairoTorregrosa/claude-statusline`, `melderan/claude-statusline-rust`            |
+| TypeScript | 307  | `anthropics/claude-code`, `anthropics/claude-code-action`, `hamzafer/claude-code-mods`                        |
+| JavaScript | 82   | `Enc-hanted/dsh-pulse`, `karanb192/awesome-claude-code-mods`, `karanb192/claude-code-mods`                    |
+| Python     | 40   | `anthropics/claude-agent-sdk-python`, `anthropics/claude-code-security-review`, `alexgreensh/token-optimizer` |
+| Shell      | 26   | `anthropics/claude-agent-sdk-typescript`, `0xDarkMatter/claude-mods`, `BeLazy167/claude-mods-skill`           |
+| HTML       | 13   | `awss1i/assay`, `darrell-tw/darrelltw-mods`, `omarcevi/claudemods`                                            |
+| Go         | 6    | `kylesnowschwartz/tail-claude-hud`, `livlign/ccbit`, `bunderlog/claude-plugins`                               |
+| Rust       | 4    | `persiyanov/herdr-reviewr`, `JairoTorregrosa/claude-statusline`, `arcships/rutis`                             |
 | PowerShell | 2    | `GoSlowPoke168/claude-statusline`, `rainyfei/claude-statusline-win`                                           |
-| Swift      | 2    | `bhargava-gumpula/claude-mods`, `peaceinitiativemenhadenoil263/claude-status-bar`                             |
 | C          | 1    | `reporails/arcade`                                                                                            |
 | C#         | 1    | `sakanamaru/dsh-minato`                                                                                       |
-| Kotlin     | 1    | `dphmoblie/deepseek-harness-android`                                                                          |
-| MDX        | 1    | `jkf87/mod-guide`                                                                                             |
+| Swift      | 1    | `peaceinitiativemenhadenoil263/claude-status-bar`                                                             |
 
 <sub>언어를 명시한 항목만 집계됩니다. 문서 및 토론 항목은 이 표에서 제외됩니다.</sub>
 
@@ -3525,4 +3404,4 @@ dsh-agent-team gives DeepSeek Harness agents that don't reset: durable Members w
 
 <sub>독립적인 커뮤니티 프로젝트입니다. Anthropic와(과) 제휴, 승인 또는 검토를 거치지 않았습니다. Claude Code, Claude 및 Anthropic은(는) Anthropic의 상표입니다. 제품 동작은 예고 없이 변경될 수 있으므로, 중요한 내용은 공식 문서에서 확인하세요. 에셋은 원 프로젝트의 자산으로 남으며, 라이선스가 허용하는 경우에만 재현됩니다.</sub>
 
-<sub>마지막 업데이트 · 2026-10-11T12:27:08+08:00</sub>
+<sub>마지막 업데이트 · 2026-10-11T14:37:28+08:00</sub>

@@ -1134,3 +1134,32 @@
 - `+` [YunongDai2005/dsh-theone](https://github.com/YunongDai2005/dsh-theone) — inferred / dsh-cordis — ⭐6
 - `+` [shenhuanageshei/dsh-team-link](https://github.com/shenhuanageshei/dsh-team-link) — inferred / dsh-cordis — ⭐6
 - …另有 28 条新增
+
+## 2026-10-11T14:33:17+08:00
+- 收录总数 **508**；本次更新新增 **50**
+- `+` [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) — inferred / dsh-cordis — ⭐4441
+- `+` [AdamPlatin123/dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) — inferred / dsh-cordis — ⭐1463
+- `+` [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui) — inferred / dsh-cordis — ⭐542
+- `+` [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) — inferred / dsh-cordis — ⭐526
+- `+` [bruc3van/awesome-dsh-plugin](https://github.com/bruc3van/awesome-dsh-plugin) — inferred / dsh-cordis — ⭐402
+- `+` [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) — inferred / dsh-cordis — ⭐374
+- `+` [xing-shuyin/pi-web-ui](https://github.com/xing-shuyin/pi-web-ui) — inferred / dsh-cordis — ⭐282
+- `+` [KelaoHu/dsh-lowtide](https://github.com/KelaoHu/dsh-lowtide) — inferred / dsh-cordis — ⭐170
+- `+` [beancookie/awesome-dsh-plugin](https://github.com/beancookie/awesome-dsh-plugin) — inferred / dsh-cordis — ⭐164
+- `+` [a86582751/dsh-nexttavern](https://github.com/a86582751/dsh-nexttavern) — inferred / mods — ⭐163
+- `+` [WSL043/dsh-codex-subscription](https://github.com/WSL043/dsh-codex-subscription) — inferred / dsh-cordis — ⭐158
+- `+` [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) — inferred / dsh-cordis — ⭐132
+- `+` [FeatherHunter/dsh-mattpocock-skills-deck](https://github.com/FeatherHunter/dsh-mattpocock-skills-deck) — inferred / dsh-cordis — ⭐132
+- `+` [like-study1/Oh-My-DSH](https://github.com/like-study1/Oh-My-DSH) — inferred / dsh-cordis — ⭐90
+- `+` [YOU-SHOULD-KNOW-ME/antigrative-dashboard](https://github.com/YOU-SHOULD-KNOW-ME/antigrative-dashboard) — unverified / dsh-cordis — ⭐68
+- `+` [hyzyn/dsh-plugin-kit](https://github.com/hyzyn/dsh-plugin-kit) — inferred / dsh-cordis — ⭐46
+- `+` [FeatherHunter/dsh-prompt](https://github.com/FeatherHunter/dsh-prompt) — inferred / dsh-cordis — ⭐31
+- `+` [Andersen216/dsh-whale-girl-live2d](https://github.com/Andersen216/dsh-whale-girl-live2d) — inferred / dsh-cordis — ⭐28
+- `+` [zaofan-make/dsh-qqbot](https://github.com/zaofan-make/dsh-qqbot) — inferred / dsh-cordis — ⭐24
+- `+` [awesome-deepseekharness/awesome-deepseek-harness](https://github.com/awesome-deepseekharness/awesome-deepseek-harness) — inferred / dsh-cordis — ⭐21
+- `+` [YELEBAI/dsh-plugin-marketplace](https://github.com/YELEBAI/dsh-plugin-marketplace) — inferred / dsh-cordis — ⭐20
+- `+` [xxww0098/dsh-plugin-oauth-subs](https://github.com/xxww0098/dsh-plugin-oauth-subs) — inferred / dsh-cordis — ⭐13
+- `+` [muyuanjin/dsh-ptc-plus](https://github.com/muyuanjin/dsh-ptc-plus) — inferred / dsh-cordis — ⭐12
+- `+` [dsh-plugin-lab/dsh-workbuddy-bridge](https://github.com/dsh-plugin-lab/dsh-workbuddy-bridge) — inferred / dsh-cordis — ⭐6
+- `+` [Fayelin12/dsh-office](https://github.com/Fayelin12/dsh-office) — inferred / dsh-cordis — ⭐6
+- …另有 25 条新增

@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/entries-592-0d9488" alt="entries">
+  <img src="https://img.shields.io/badge/entries-508-0d9488" alt="entries">
   <img src="https://img.shields.io/badge/languages-20-1f6feb" alt="languages">
   <img src="https://img.shields.io/badge/refresh-every%202h-16a34a" alt="refresh">
   <a href="../LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="MIT"></a>
@@ -18,8 +18,8 @@
 <p align="center"><sub><a href="../README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.ru.md">Русский</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.vi.md">Tiếng Việt</a> · <b>ไทย</b> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.pl.md">Polski</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.uk.md">Українська</a></sub></p>
 
 > [!NOTE]
-> **ดัชนีปัจจุบัน** · ซิงค์ล่าสุด: `2026-10-11T12:27:08+08:00` (UTC+8)
-> · รายการ: **592** · เพิ่มในการอัปเดตล่าสุด: **0** · ภาษาในการพัฒนา: **13**
+> **ดัชนีปัจจุบัน** · ซิงค์ล่าสุด: `2026-10-11T14:37:28+08:00` (UTC+8)
+> · รายการ: **508** · เพิ่มในการอัปเดตล่าสุด: **0** · ภาษาในการพัฒนา: **11**
 
 <sub>รายการทั้งหมดด้านล่างรวบรวม กรอง และตรวจสอบซ้ำโดยอัตโนมัติ ไม่มีรายการใดที่เป็นตำแหน่งโฆษณาที่มีผู้ชำระเงิน</sub>
 
@@ -34,12 +34,12 @@
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/anthropics--claude-code-action/b852b554eaf6a231.jpg" width="100%" alt="anthropics/claude-code-action">
 <b>🏛️ <a href="https://github.com/anthropics/claude-code-action">anthropics/claude-code-action</a></b>
-<sub>⭐9469 · TypeScript · ✅ official</sub>
+<sub>⭐9470 · TypeScript · ✅ official</sub>
 </td>
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/alexgreensh/token-optimizer/main/skills/token-optimizer/assets/dashboard-demo.gif" width="100%" alt="alexgreensh/token-optimizer">
 <b>🧩 <a href="https://github.com/alexgreensh/token-optimizer">alexgreensh/token-optimizer</a></b>
-<sub>⭐2533 · Python · 👁️ observed</sub>
+<sub>⭐2534 · Python · 👁️ observed</sub>
 <sub>ค้นหา ghost tokens แก้ไขมัน เอาตัวรอดจาก compaction หลีกเลี่ยงการเสื่อมคุณภาพของ context</sub>
 </td>
 </tr>
@@ -47,7 +47,7 @@
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/ruvnet--ruflo/86b2691275e30a26.jpg" width="100%" alt="ruvnet/ruflo">
 <b>🧵 <a href="https://github.com/ruvnet/ruflo">ruvnet/ruflo</a></b>
-<sub>⭐74299 · TypeScript · 👁️ observed</sub>
+<sub>⭐74307 · TypeScript · 👁️ observed</sub>
 <sub>🌊 agent harness ดั้งเดิม ปรับใช้ฝูงเอเจนต์อัจฉริยะแบบผู้เล่นหลายคน ประสานงานเวิร์กโฟลว์อัตโนมัติ และสร้างระบบ AI แบบสนทนา มาพร้อมหน่วยความจำแบบปรับตัวได้…</sub>
 </td>
 <td width="50%" valign="top">
@@ -61,9 +61,9 @@
 
 - [ม็อด Claude Code คืออะไร](#มอด-claude-code-คออะไร)
 - [วิธีจัดระดับรายการ](#วธจดระดบรายการ)
-- [ทางการ: ที่เก็บข้อมูลและบันทึกการเผยแพร่ของ Anthropic เอง](#ทางการ-ทเกบขอมลและบนทกการเผยแพรของ-anthropic-เอง) — **16**
-- [ม็อด: สร้างขึ้นโดยใช้ความสามารถด้านม็อด](#มอด-สรางขนโดยใชความสามารถดานมอด) — **470**
-- [ระบบนิเวศปลั๊กอินของ DSH และ Cordis](#ระบบนเวศปลกอนของ-dsh-และ-cordis) — **95**
+- [ทางการ: ที่เก็บข้อมูลและบันทึกการเผยแพร่ของ Anthropic เอง](#ทางการ-ทเกบขอมลและบนทกการเผยแพรของ-anthropic-เอง) — **15**
+- [ม็อด: สร้างขึ้นโดยใช้ความสามารถด้านม็อด](#มอด-สรางขนโดยใชความสามารถดานมอด) — **373**
+- [ระบบนิเวศปลั๊กอินของ DSH และ Cordis](#ระบบนเวศปลกอนของ-dsh-และ-cordis) — **109**
 - [งานเขียน การพูดคุย และวิดีโอ](#งานเขยน-การพดคย-และวดโอ) — **11**
 - [โครงการตามภาษาในการพัฒนา](#โครงการตามภาษาในการพฒนา)
 
@@ -93,7 +93,7 @@ Claude Code เพิ่ม **ม็อด** ในเวอร์ชัน 2.1.
 ที่เก็บข้อมูลโค้ด Claude ของ Anthropic เอง และการเผยแพร่ที่กำหนดขอบเขตการทำงานของม็อด อ่านจากแหล่งข้อมูลโดยตรงแทนการสรุป
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code">anthropics/claude-code</a></b> · ⭐150091 · TypeScript · ✅ official · 0 天</summary>
+<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code">anthropics/claude-code</a></b> · ⭐150102 · TypeScript · ✅ official · 0 天</summary>
 
 ##### 📝 สรุป
 
@@ -113,14 +113,14 @@ Claude Code คือเครื่องมือเขียนโค้ด�
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **150091** |
+| ดาว                  | **150102** |
 | Push ล่าสุด            | 2026-10-10 |
 | ปรากฏในรายการครั้งแรก | 2026-10-04 |
 
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code-action">anthropics/claude-code-action</a></b> · ⭐9469 · TypeScript · ✅ official · 1 天</summary>
+<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code-action">anthropics/claude-code-action</a></b> · ⭐9470 · TypeScript · ✅ official · 1 天</summary>
 
 ##### 📝 สรุป
 
@@ -138,7 +138,7 @@ Claude Code คือเครื่องมือเขียนโค้ด�
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **9469**   |
+| ดาว                  | **9470**   |
 | Push ล่าสุด            | 2026-10-09 |
 | ปรากฏในรายการครั้งแรก | 2026-10-04 |
 
@@ -177,7 +177,7 @@ Claude Code คือเครื่องมือเขียนโค้ด�
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code-security-review">anthropics/claude-code-security-review</a></b> · ⭐6337 · Python · ✅ official · 241 天</summary>
+<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code-security-review">anthropics/claude-code-security-review</a></b> · ⭐6338 · Python · ✅ official · 241 天</summary>
 
 ##### 📝 สรุป
 
@@ -195,7 +195,7 @@ GitHub Action ด้านการตรวจสอบความปลอด
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **6337**   |
+| ดาว                  | **6338**   |
 | Push ล่าสุด            | 2026-02-11 |
 | ปรากฏในรายการครั้งแรก | 2026-10-04 |
 
@@ -387,7 +387,7 @@ GitHub Action ด้านการตรวจสอบความปลอด
 
 ##### 📝 สรุป
 
-Cross-session usage & cost observatory for the DeepSeek Harness web profile — trend/heatmap dashboards, per-model peak-hour pricing (CNY/USD), official DeepSeek balance with spend reconciliation.
+ระบบสังเกตการณ์การใช้งานและต้นทุนข้ามเซสชันสำหรับโปรไฟล์เว็บ DeepSeek Harness — แดชบอร์ดแนวโน้ม/ฮีตแมป, ราคาแยกตามโมเดลในช่วงพีค (CNY/USD), ยอดคงเหลือ DeepSeek อย่างเป็นทางการพร้อมกระทบยอดค่าใช้จ่าย
 
 ##### 📌 ข้อมูลพื้นฐาน
 
@@ -417,40 +417,6 @@ Cross-session usage & cost observatory for the DeepSeek Harness web profile — 
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/MIHassan3/DSH-Launcher">MIHassan3/DSH-Launcher</a></b> · ⭐3 · JavaScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 สรุป
-
-นี่คือตัวเรียกใช้งาน DeepSeek Harness อย่างเป็นทางการ ไม่มีการแก้ไขใด ๆ เพียงเรียกใช้สิ่งที่ DeepSeek พัฒนา
-
-##### 📌 ข้อมูลพื้นฐาน
-
-| ฟิลด์   | ค่า                                                                             |
-| ------- | ------------------------------------------------------------------------------ |
-| หมวดหมู่  | `ทางการ: ที่เก็บข้อมูลและบันทึกการเผยแพร่ของ Anthropic เอง`                        |
-| หลักฐาน | `ประกาศว่าเป็นม็อด ปลั๊กอิน หรือฮุก แต่ไม่ได้ระบุรายละเอียดเกี่ยวกับพื้นที่ม็อดโดยเฉพาะ` |
-| ภาษา    | JavaScript                                                                     |
-
-##### 📊 ข้อมูล
-
-| ตัวชี้วัด             | ค่า         |
-| -------------------- | ---------- |
-| ดาว                  | **3**      |
-| Push ล่าสุด            | 2026-10-10 |
-| ปรากฏในรายการครั้งแรก | 2026-10-10 |
-
-🏷 `ai-agent` · `ai-agents` · `ai-tools` · `cordis` · `deepseek` · `deepseek-harness` · `dsh` · `dsh-desktop`
-
----
-
-<table><tr><th align="center" width="50%">🖼 รูปภาพ</th><th align="center" width="50%">🎬 วิดีโอ</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/mihassan3--dsh-launcher/2d777b77102fa60f.png" width="100%" alt="MIHassan3/DSH-Launcher screenshot"></td>
-<td align="center" valign="top"><sub>ไม่มีสื่อเผยแพร่</sub></td>
-</tr></table>
-
-</details>
-
-<details>
 <summary><b>เพิ่มเติมในหมวดหมู่นี้</b> <sub>· 2</sub></summary>
 
 - [Claude Code 2.1.295 — the mod surface](https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md) - เพิ่ม `$.ui.notify` สำหรับม็อด…
@@ -465,7 +431,7 @@ Cross-session usage & cost observatory for the DeepSeek Harness web profile — 
 ทุกรายการที่นี่แสดงหลักฐานการใช้ความสามารถด้าน Claude Code ที่เพิ่มเข้ามาใน 2.1.287: รายการนั้นวาดผ่าน `ui.render` มีบานหน้าต่าง แบนด์ หรือการ์ดเป็นของตัวเอง อ่าน `$.ui.selection()` สร้างเพื่อนร่วมทีมด้วย `agent.spawn` หรือระบุอย่างชัดเจนว่าเป็นม็อด
 
 <details>
-<summary>🧩 <b><a href="https://github.com/alexgreensh/token-optimizer">alexgreensh/token-optimizer</a></b> · ⭐2533 · Python · 👁️ observed · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/alexgreensh/token-optimizer">alexgreensh/token-optimizer</a></b> · ⭐2534 · Python · 👁️ observed · 0 天</summary>
 
 ##### 📝 สรุป
 
@@ -483,7 +449,7 @@ Cross-session usage & cost observatory for the DeepSeek Harness web profile — 
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **2533**   |
+| ดาว                  | **2534**   |
 | Push ล่าสุด            | 2026-10-10 |
 | ปรากฏในรายการครั้งแรก | 2026-10-11 |
 
@@ -501,13 +467,13 @@ Cross-session usage & cost observatory for the DeepSeek Harness web profile — 
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/karanb192/awesome-claude-code-mods">karanb192/awesome-claude-code-mods</a></b> · ⭐474 · JavaScript · 👁️ observed · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/karanb192/awesome-claude-code-mods">karanb192/awesome-claude-code-mods</a></b> · ⭐476 · JavaScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 สรุป
 
 แค็ตตาล็อกชุมชนของม็อด Claude Code สาธารณะ ซึ่งเป็น function hooks สแกนจาก GitHub พร้อมข้อมูลว่าแต่ละม็อดอ่าน เขียน รัน หรือส่งข้อมูลผ่านเครือข่ายอะไรได้บ้าง เรียกดู https://mods.aidojo.si/
 
-<sub>🔧 พบการใช้งานในโค้ด: `data/seeds.txt`, `data/duplicates.txt`, `data/repos.txt`</sub>
+<sub>🔧 พบการใช้งานในโค้ด: `data/seeds.txt`, `data/duplicates.txt`, `README.md`, `contributing.md`</sub>
 
 ##### 📌 ข้อมูลพื้นฐาน
 
@@ -521,7 +487,7 @@ Cross-session usage & cost observatory for the DeepSeek Harness web profile — 
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **474**    |
+| ดาว                  | **476**    |
 | Push ล่าสุด            | 2026-10-11 |
 | ปรากฏในรายการครั้งแรก | 2026-10-04 |
 
@@ -530,7 +496,7 @@ Cross-session usage & cost observatory for the DeepSeek Harness web profile — 
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/hamzafer/claude-code-mods">hamzafer/claude-code-mods</a></b> · ⭐182 · TypeScript · 👁️ observed · 1 天</summary>
+<summary>🧩 <b><a href="https://github.com/hamzafer/claude-code-mods">hamzafer/claude-code-mods</a></b> · ⭐183 · TypeScript · 👁️ observed · 1 天</summary>
 
 ##### 📝 สรุป
 
@@ -550,7 +516,7 @@ Claude Code mods: ปลั๊กอินที่สร้างบน hooks �
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **182**    |
+| ดาว                  | **183**    |
 | Push ล่าสุด            | 2026-10-09 |
 | ปรากฏในรายการครั้งแรก | 2026-10-04 |
 
@@ -566,7 +532,7 @@ Claude Code mods: ปลั๊กอินที่สร้างบน hooks �
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/karanb192/cache-tax">karanb192/cache-tax</a></b> · ⭐119 · TypeScript · 👁️ observed · 6 天</summary>
+<summary>🧩 <b><a href="https://github.com/karanb192/cache-tax">karanb192/cache-tax</a></b> · ⭐121 · TypeScript · 👁️ observed · 6 天</summary>
 
 ##### 📝 สรุป
 
@@ -584,7 +550,7 @@ Claude Code mods: ปลั๊กอินที่สร้างบน hooks �
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **119**    |
+| ดาว                  | **121**    |
 | Push ล่าสุด            | 2026-10-04 |
 | ปรากฏในรายการครั้งแรก | 2026-10-10 |
 
@@ -595,42 +561,6 @@ Claude Code mods: ปลั๊กอินที่สร้างบน hooks �
 <table><tr><th align="center" width="50%">🖼 รูปภาพ</th><th align="center" width="50%">🎬 วิดีโอ</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/karanb192--cache-tax/9ba5b1dbc9440791.png" width="100%" alt="karanb192/cache-tax screenshot"></td>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/karanb192--cache-tax/e1a7cdd41b0efd1b.gif" width="100%" alt="karanb192/cache-tax animation"><br><sub>บันทึกแบบเคลื่อนไหว · <a href="https://raw.githubusercontent.com/karanb192/cache-tax/main/docs/assets/cache-cost-explainer.mp4">เปิดวิดีโอ</a></sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧩 <b><a href="https://github.com/HeyCubit/effortless">HeyCubit/effortless</a></b> · ⭐110 · HTML · 👁️ observed · 0 天</summary>
-
-##### 📝 สรุป
-
-ม็อด Claude Code: เลือกระดับความพยายามในการให้เหตุผลสำหรับทุก prompt แสดง prompt cache และ context และส่งต่อหรือ compacts ได้ในคลิกเดียว
-
-<sub>🔧 พบการใช้งานในโค้ด: `docs/agent-panel/PLAN.md`, `hooks/register.tsx`</sub>
-
-##### 📌 ข้อมูลพื้นฐาน
-
-| ฟิลด์   | ค่า                                                                      |
-| ------- | ----------------------------------------------------------------------- |
-| หมวดหมู่  | `ม็อด: สร้างขึ้นโดยใช้ความสามารถด้านม็อด`                                   |
-| หลักฐาน | `ข้อความของรายการระบุชื่อม็อด API เอง หรือประกาศว่ารองรับความสามารถด้านม็อด` |
-| ภาษา    | HTML                                                                    |
-
-##### 📊 ข้อมูล
-
-| ตัวชี้วัด             | ค่า         |
-| -------------------- | ---------- |
-| ดาว                  | **110**    |
-| Push ล่าสุด            | 2026-10-10 |
-| ปรากฏในรายการครั้งแรก | 2026-10-11 |
-
-🏷 `ai-tools` · `anthropic` · `claude` · `claude-code` · `claude-code-plugin` · `developer-tools` · `prompt-caching`
-
----
-
-<table><tr><th align="center" width="50%">🖼 รูปภาพ</th><th align="center" width="50%">🎬 วิดีโอ</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/heycubit--effortless/ad0a6472f7a34cd7.png" width="100%" alt="HeyCubit/effortless screenshot"></td>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/heycubit--effortless/fcef2f9593961020.gif" width="100%" alt="HeyCubit/effortless animation"><br><sub>บันทึกแบบเคลื่อนไหว</sub></td>
 </tr></table>
 
 </details>
@@ -663,7 +593,7 @@ QA CLI แบบ agent-native สำหรับเว็บเพจ กำห�
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/hellosverre/claude-skins">hellosverre/claude-skins</a></b> · ⭐89 · TypeScript · 👁️ observed · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/hellosverre/claude-skins">hellosverre/claude-skins</a></b> · ⭐90 · TypeScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 สรุป
 
@@ -681,7 +611,7 @@ QA CLI แบบ agent-native สำหรับเว็บเพจ กำห�
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **89**     |
+| ดาว                  | **90**     |
 | Push ล่าสุด            | 2026-10-10 |
 | ปรากฏในรายการครั้งแรก | 2026-10-10 |
 
@@ -781,7 +711,7 @@ QA CLI แบบ agent-native สำหรับเว็บเพจ กำห�
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/scasella/claude-flightdeck">scasella/claude-flightdeck</a></b> · ⭐63 · TypeScript · 👁️ observed · 8 天</summary>
+<summary>🧩 <b><a href="https://github.com/scasella/claude-flightdeck">scasella/claude-flightdeck</a></b> · ⭐64 · TypeScript · 👁️ observed · 8 天</summary>
 
 ##### 📝 สรุป
 
@@ -799,7 +729,7 @@ QA CLI แบบ agent-native สำหรับเว็บเพจ กำห�
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **63**     |
+| ดาว                  | **64**     |
 | Push ล่าสุด            | 2026-10-02 |
 | ปรากฏในรายการครั้งแรก | 2026-10-10 |
 
@@ -815,7 +745,7 @@ QA CLI แบบ agent-native สำหรับเว็บเพจ กำห�
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/0xDarkMatter/claude-mods">0xDarkMatter/claude-mods</a></b> · ⭐58 · Shell · 👁️ observed · 4 天</summary>
+<summary>🧩 <b><a href="https://github.com/0xDarkMatter/claude-mods">0xDarkMatter/claude-mods</a></b> · ⭐59 · Shell · 👁️ observed · 4 天</summary>
 
 ##### 📝 สรุป
 
@@ -835,11 +765,40 @@ QA CLI แบบ agent-native สำหรับเว็บเพจ กำห�
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **58**     |
+| ดาว                  | **59**     |
 | Push ล่าสุด            | 2026-10-07 |
 | ปรากฏในรายการครั้งแรก | 2026-10-04 |
 
 🏷 `agent-skills` · `ai-agents` · `ai-tools` · `anthropic` · `claude` · `claude-code` · `claude-skills` · `developer-tools`
+
+</details>
+
+<details>
+<summary>🧩 <b><a href="https://github.com/whyashthakker/awesome-claude-code-mods">whyashthakker/awesome-claude-code-mods</a></b> · ⭐47 · TypeScript · 👁️ observed · 7 天</summary>
+
+##### 📝 สรุป
+
+คอลเลกชันม็อดมากกว่า 100 รายการที่คุณใช้กับ Claude Code ได้
+
+<sub>🔧 พบการใช้งานในโค้ด: `README.md`, `docs/COMMUNITY_MODS.md`, `mods/agent-board/hooks/register.js`, `mods/desktop-agent-desk/hooks/register.js`</sub>
+
+##### 📌 ข้อมูลพื้นฐาน
+
+| ฟิลด์   | ค่า                                                                      |
+| ------- | ----------------------------------------------------------------------- |
+| หมวดหมู่  | `ม็อด: สร้างขึ้นโดยใช้ความสามารถด้านม็อด`                                   |
+| หลักฐาน | `ข้อความของรายการระบุชื่อม็อด API เอง หรือประกาศว่ารองรับความสามารถด้านม็อด` |
+| ภาษา    | TypeScript                                                              |
+
+##### 📊 ข้อมูล
+
+| ตัวชี้วัด             | ค่า         |
+| -------------------- | ---------- |
+| ดาว                  | **47**     |
+| Push ล่าสุด            | 2026-10-03 |
+| ปรากฏในรายการครั้งแรก | 2026-10-04 |
+
+🏷 `claude` · `claude-code` · `claude-code-mod` · `claude-code-mods` · `claude-code-plugin`
 
 </details>
 
@@ -1390,7 +1349,7 @@ KOZMOS — ม็อดแบบสดและเป็นภาพสำหร
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/az9713/claude-mod-pack">az9713/claude-mod-pack</a></b> · ⭐8 · TypeScript · 👁️ observed · 6 天</summary>
+<summary>🧩 <b><a href="https://github.com/az9713/claude-mod-pack">az9713/claude-mod-pack</a></b> · ⭐8 · TypeScript · 👁️ observed · 7 天</summary>
 
 ##### 📝 สรุป
 
@@ -1558,7 +1517,7 @@ Mods สำหรับ Claude Code: ปลั๊กอิน function-hook ท�
 
 ##### 📝 สรุป
 
-Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and cost, work streams, and a markdown reader for .planning. Read-only.
+แดชบอร์ด GSD แบบสดสำหรับ Claude Code: แผนงาน ต้นไม้เอเจนต์พร้อมสาขา บริบทและค่าใช้จ่าย สตรีมงาน และตัวอ่าน markdown สำหรับ .planning อ่านอย่างเดียว
 
 ##### 📌 ข้อมูลพื้นฐาน
 
@@ -1581,16 +1540,15 @@ Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and 
 ---
 
 <table><tr><th align="center" width="50%">🖼 รูปภาพ</th><th align="center" width="50%">🎬 วิดีโอ</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/helenkwok--gsd-status-mod/6df9cbfbbf321de0.png" width="100%" alt="helenkwok/gsd-status-mod screenshot"></td>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/helenkwok--gsd-status-mod/3774c05315c85992.gif" width="100%" alt="helenkwok/gsd-status-mod animation"><br><sub>บันทึกแบบเคลื่อนไหว</sub></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/helenkwok--gsd-status-mod/4626cb34617b7732.png" width="100%" alt="helenkwok/gsd-status-mod screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/helenkwok--gsd-status-mod/0972519bbd3cad82.gif" width="100%" alt="helenkwok/gsd-status-mod animation"><br><sub>บันทึกแบบเคลื่อนไหว</sub></td>
 </tr></table>
 
 </details>
 
 <details>
-<summary><b>เพิ่มเติมในหมวดหมู่นี้</b> <sub>· 436</sub></summary>
+<summary><b>เพิ่มเติมในหมวดหมู่นี้</b> <sub>· 339</sub></summary>
 
-- [whyashthakker/awesome-claude-code-mods](https://github.com/whyashthakker/awesome-claude-code-mods) - คอลเลกชันม็อดมากกว่า 100 รายการที่คุณใช้กับ Claude Code ได้.
 - [karanb192/claude-code-mods](https://github.com/karanb192/claude-code-mods) - ม็อด Claude และเครื่องมือสำหรับสร้างม็อดเหล่านั้น: เริ่มด้วยทักษะสำหรับผู้สร้าง…
 - [ucsandman/claude-harness](https://github.com/ucsandman/claude-harness) - harness ของ Claude Code ที่ฉันใช้งานทุกวัน เผยแพร่ภายใต้ชื่อนี้มาตั้งแต่วันแรก…
 - [kagamiurayama/claude-code-roof-mod](https://github.com/kagamiurayama/claude-code-roof-mod) - เปลี่ยนหลังคาให้ Claude Code ด้วย Claude Mods: ไม่แก้ไขไบนารี แต่เปลี่ยน system…
@@ -1598,10 +1556,10 @@ Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and 
 - [Hangghost/learning-hacker-claude-mod](https://github.com/Hangghost/learning-hacker-claude-mod) - Mods ของ Claude Code โดย Learning Hacker: แสดงการทำงานของ agent…
 - [kakha13/claude](https://github.com/kakha13/claude) - mods ของ Claude Code ที่แก้ไขและแปล prompts ของคุณก่อนที่ Claude จะอ่าน.
 - [xuanji86/claude-agentpane](https://github.com/xuanji86/claude-agentpane) - แผงด้านข้างสำหรับ Claude Code: ซับเอเจนต์ที่เซสชันเรียกใช้…
+- [AgriciDaniel/claude-mods-brain](https://github.com/AgriciDaniel/claude-mods-brain) - ฐานความรู้ Obsidian ที่อ้างอิงแหล่งที่มาเกี่ยวกับ mods ของ Claude Code…
 - [letswritetw/claude-mod-open-todos](https://github.com/letswritetw/claude-mod-open-todos) - แผง sidebar ของ Claude Desktop (แท็บ Code): แสดงรายการ todo…
 - [nekyialabs/claude-code-toolkit](https://github.com/nekyialabs/claude-code-toolkit) - ม็อดและทักษะ Claude Code จาก Nekyia Labs สร้างและใช้งานทุกวันโดย AI…
 - [nvr0x5/claude-deck](https://github.com/nvr0x5/claude-deck) - ห้องควบคุมสำหรับ Claude Code: แถบแผนแบบเรียลไทม์ แถบเอเจนต์ย่อย…
-- [AgriciDaniel/claude-mods-brain](https://github.com/AgriciDaniel/claude-mods-brain) - ฐานความรู้ Obsidian ที่อ้างอิงแหล่งที่มาเกี่ยวกับ mods ของ Claude Code…
 - [BeLazy167/claude-mods-skill](https://github.com/BeLazy167/claude-mods-skill) - ทักษะที่สอนเอเจนต์ Claude Code ให้สร้าง Claude Mods (ปลั๊กอิน function-hook)…
 - [letswritetw/claude-mod-token-usage](https://github.com/letswritetw/claude-mod-token-usage) - แถบการใช้งานเหนือช่องป้อนข้อมูลของ Claude Desktop (แท็บ Code): โควตา 5h / 7d…
 - [KilimcininKorOglu/claude-code-mods](https://github.com/KilimcininKorOglu/claude-code-mods) - Claude Mods (ปลั๊กอิน function-hooks) สำหรับ Claude Code.
@@ -1624,7 +1582,6 @@ Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and 
 - [galElmalah/claude-mods](https://github.com/galElmalah/claude-mods) - ม็อด Claude Code: แผนภาพ mermaid ที่วาดแบบอินไลน์ในบทถอดเสียง.
 - [ha-ptt0601/cc-mods](https://github.com/ha-ptt0601/cc-mods) - ม็อด Claude Code ขนาดเล็ก (ปลั๊กอิน function-hook): session-switcher และอื่น ๆ.
 - [hahmjuntae/claude-mods-image-preview](https://github.com/hahmjuntae/claude-mods-image-preview) - ม็อด Claude Code: ภาพขนาดย่อของรูปภาพที่วางไว้เหนือพรอมป์ ในเทอร์มินัลใดก็ได้.
-- [joonhyukyim/redpen](https://github.com/joonhyukyim/redpen) - Redpen is a Claude Code mod for reviewing what Claude changed, line by line, in…
 - [LeeHigma0201/claude-code-mods](https://github.com/LeeHigma0201/claude-code-mods) - Mods ของ Claude Code: mod-scout (ค้นหา mods ที่คุณจะใช้บ่อยที่สุด)…
 - [Nongfsq/frank-claude-cockpit](https://github.com/Nongfsq/frank-claude-cockpit) - Mods สองรายการของ Claude Code สำหรับเรียกใช้หลายเซสชันพร้อมกัน: การ์ด context…
 - [scodge-24/workface](https://github.com/scodge-24/workface) - ม็อด Claude Code: ควบคุมเนื้อหาที่ autocompaction จะบีบอัดได้โดยตรงจาก TUI.
@@ -1639,11 +1596,10 @@ Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and 
 - [mthli/cc-shorts](https://github.com/mthli/cc-shorts) - เล่น YouTube Shorts ใน Claude Code ของคุณ 💃.
 - [NarenDawar/narens-claude-toolkit](https://github.com/NarenDawar/narens-claude-toolkit) - ชุดเครื่องมือ Claude ของ Naren: skills, mods และ MCP servers สำหรับ Claude Code…
 - [neteye-platform/cc-split-diff-view](https://github.com/neteye-platform/cc-split-diff-view) - ม็อดโค้ด Claude ที่วาด diff ของ Edit และ Write เป็นสองคอลัมน์เคียงข้างกัน.
-- [noash-xrc/claude-tools](https://github.com/noash-xrc/claude-tools) - Claude Code mod that lets Claude log unfinished work to Docs/todos.md, with a…
 - [raresmun/claude-mods](https://github.com/raresmun/claude-mods) - ม็อดสำหรับ Claude Code: Clawd มาสคอตพิกเซลขนาดจิ๋วที่แสดงท่าทางเลียนแบบสิ่งที่…
 - [reporails/arcade](https://github.com/reporails/arcade) - เกมเดสก์ท็อปคลาสสิกในรูปแบบม็อด Claude Code เล่นในบานหน้าต่างขณะที่ Claude…
 - [testy-cool/awesome-claude-code-mods](https://github.com/testy-cool/awesome-claude-code-mods) - รายการคัดสรรของม็อดโค้ด Claude ซึ่งติดตั้งได้ในรูปแบบตลาดปลั๊กอิน: ธีม…
-- [xsyetopz/dotclaude](https://github.com/xsyetopz/dotclaude) - A very opinionated Claude Code plugin designed by a Rustacean obsessed with…
+- [xsyetopz/dotclaude](https://github.com/xsyetopz/dotclaude) - ปลั๊กอิน Claude Code ที่มีแนวคิดชัดเจนมาก ออกแบบโดย Rustacean…
 - [yash-gadodia/claude-mods](https://github.com/yash-gadodia/claude-mods) - ม็อด Claude Code ที่ช่วยให้เอเจนต์ทำงานอย่างมีวินัย — function hooks…
 - [alexcz-a11y/claude-mods](https://github.com/alexcz-a11y/claude-mods) - คอลเลกชันม็อด Claude Code ของฉัน โดยหนึ่งไดเรกทอรีต่อหนึ่งม็อด.
 - [Ankitrai97/rai-claude-mods](https://github.com/Ankitrai97/rai-claude-mods) - ม็อด Claude Code ฟรี 5 รายการ: Simple Mode, Usage Tally, Context Handoff, Inbox…
@@ -1655,8 +1611,7 @@ Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and 
 - [hellosverre/mod-store](https://github.com/hellosverre/mod-store) - แอปสโตร์สำหรับม็อด Claude Code ภายใน Claude Code: ใช้ /mods เพื่อเรียกดู ค้นหา…
 - [herman925/925-cc-plugins](https://github.com/herman925/925-cc-plugins) - ม็อด Claude Code ของ Herman (marketplace herman-mods).
 - [homieyangg/claude-code-mods](https://github.com/homieyangg/claude-code-mods) - ม็อด Claude Code: แถบความคืบหน้าสำหรับแผน บัญชีรายการสิ่งที่ Claude…
-- [ice-lfernandes/claude-code-mods](https://github.com/ice-lfernandes/claude-code-mods) - Six Claude Code mods: plan limits and context above the prompt, an allowlist…
-- [macleodlabs-ai/claudeflow](https://github.com/macleodlabs-ai/claudeflow) - Claude Code mods โดย MacLeod Labs: streams…
+- [ice-lfernandes/claude-code-mods](https://github.com/ice-lfernandes/claude-code-mods) - ม็อด Claude Code หกตัว: ขีดจำกัดแผนและบริบทเหนือพรอมต์…
 - [MankhongGarden/claude-code-mods-field-notes](https://github.com/MankhongGarden/claude-code-mods-field-notes) - บันทึกภาคสนามวันแรกเกี่ยวกับม็อด Claude Code บน Windows…
 - [MichaelP17/claude-mods](https://github.com/MichaelP17/claude-mods) - ม็อดที่ฉันสร้างและใช้เองเป็นการส่วนตัวในการตั้งค่า Claude Code ของฉัน.
 - [patitow/claude-mod-cost-visibility](https://github.com/patitow/claude-mod-cost-visibility) - ม็อด Claude Code: มาตรวัดค่าใช้จ่ายสด บริบท และโควตาแผน เหนือพรอมป์ ต้องใช้…
@@ -1670,28 +1625,22 @@ Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and 
 - [VladLeus/claude-mods](https://github.com/VladLeus/claude-mods) - Claude Code mods: แดชบอร์ด agent-fleet และ autopilot (local-mods marketplace).
 - [vynnlee/mods](https://github.com/vynnlee/mods) - ม็อด Claude Code โดย vynnlee หนึ่งโฟลเดอร์ต่อหนึ่งม็อด ติดตั้งได้จาก…
 - [yodakeisuke/claudelingo](https://github.com/yodakeisuke/claudelingo) - เรียนภาษาต่างประเทศไปพร้อมกับทำงานด้วย Claude Code.
-- [20alexl/windvane](https://github.com/20alexl/windvane) - ดูแลเซสชัน Claude Code ที่ยาวนานแทนคุณ: เฝ้าดูบริบทที่ถูกเติม สร้างจุดตรวจ…
-- [AdamCaviness/prompt-marks](https://github.com/AdamCaviness/prompt-marks) - Claude Code mod: marks your prompts in the transcript and jumps between them.
 - [AlexeyHRDesign/colorwheel](https://github.com/AlexeyHRDesign/colorwheel) - การตอบกลับแบบมีธีม ไดอะแกรมเต็มความกว้าง…
 - [alexlifexyz/p3c-guard](https://github.com/alexlifexyz/p3c-guard) - เมื่อ Agent เขียน Java โค้ดที่ละเมิดข้อกำหนด Alibaba Java (p3c)…
 - [andrewbakercloudscale/claude-code-cost-sidebar](https://github.com/andrewbakercloudscale/claude-code-cost-sidebar) - แถบด้านข้างแสดงค่าใช้จ่าย token และการใช้บริบทแบบเรียลไทม์สำหรับ Claude Code…
-- [aosmcleod/next-up-mod](https://github.com/aosmcleod/next-up-mod) - Claude Code mod: a backlog of the follow-ups Claude suggests across every…
+- [aosmcleod/next-up-mod](https://github.com/aosmcleod/next-up-mod) - ม็อด Claude Code: รายการงานติดตามผลค้างดำเนินการที่ Claude แนะนำในทุกเซสชัน…
 - [ben-rogerson/claude-counter-strike](https://github.com/ben-rogerson/claude-counter-strike) - เสียงวิทยุ Counter-Strike 1.6 สำหรับ Claude Code - &quot;Fire in the hole&quot; เมื่อ…
-- [BjoernSchotte/ccmod-amp](https://github.com/BjoernSchotte/ccmod-amp) - Internet radio inside Claude Code: a cliamp sidebar, mini player, favorites…
-- [CalvoSeko/claude-factory-mod](https://github.com/CalvoSeko/claude-factory-mod) - agent-graph: ม็อด Claude Code สำหรับออกแบบและเรียกใช้กราฟของ agents…
-- [cephalofoil/kitt](https://github.com/cephalofoil/kitt) - การตั้งค่า Herdr + ม็อด Claude Code สำหรับงานพัฒนาผลิตภัณฑ์.
+- [BjoernSchotte/ccmod-amp](https://github.com/BjoernSchotte/ccmod-amp) - วิทยุอินเทอร์เน็ตภายใน Claude Code: แถบด้านข้าง cliamp, เครื่องเล่นขนาดเล็ก…
 - [chenyuxiaojin/cyxj-notch](https://github.com/chenyuxiaojin/cyxj-notch) - แดชบอร์ดแบบ macOS สำหรับ Claude Code: ขีดจำกัดการใช้งาน เซสชันที่เปิดอยู่…
 - [chrisluo5311/squad-chat](https://github.com/chrisluo5311/squad-chat) - Claude กำลังทำอาหารอยู่ แชตกับทีมของคุณ เพื่อนออนไลน์อยู่ข้าง ๆ เซสชัน Claude…
-- [danielpg95/modster-hunter](https://github.com/danielpg95/modster-hunter) - ม็อด Claude Code: จับ Modsters แบบพิกเซลอาร์ตในเกมที่ไม่มีการเคลื่อนไหวขณะ…
+- [darkomarijaan/nexus-mod](https://github.com/darkomarijaan/nexus-mod) - All-in-one Claude Code mod: a live HUD, safety guards.
 - [Davron2004/slash-coverage](https://github.com/Davron2004/slash-coverage) - ดูว่าเอเจนต์ Claude Code แต่ละตัวมีไฟล์ใดอยู่ในบริบท และมีมากแค่ไหนของแต่ละไฟล์.
-- [dougcunha/claude-mods](https://github.com/dougcunha/claude-mods) - Mods for Claude Code: panes, commands and hooks built with the plugin…
 - [drakulavich/cogload](https://github.com/drakulavich/cogload) - รักษาความสงบไว้ เทอร์โมมิเตอร์สำหรับวันทำงานกับ Claude Code ของคุณ…
-- [ElirazKed/claude-code-pr-watch](https://github.com/ElirazKed/claude-code-pr-watch) - Claude Code mod: a live pane of the GitHub PRs a session opens or pushes to…
+- [ElirazKed/claude-code-pr-watch](https://github.com/ElirazKed/claude-code-pr-watch) - ม็อด Claude Code: แผงสดของ PR GitHub ที่เซสชันเปิดหรือพุชไป — CI, การรีวิว…
 - [enhki/claude-mods](https://github.com/enhki/claude-mods) - ม็อด Claude Code ขนาดเล็กสำหรับเทอร์มินัลและแอปเดสก์ท็อป.
-- [ewxgwy1987/claude-code-mods](https://github.com/ewxgwy1987/claude-code-mods) - Collection of Claude Code mods, each in its own repo: usage-meter…
-- [ewxgwy1987/claude-code-progress-board](https://github.com/ewxgwy1987/claude-code-progress-board) - Claude Code mod: a progress pane for tasks, subagents, workflow runs, the goal…
-- [ewxgwy1987/claude-code-session-toc](https://github.com/ewxgwy1987/claude-code-session-toc) - Claude Code mod: a clickable, timestamped table of contents of the whole…
-- [ewxgwy1987/claude-code-usage-meter](https://github.com/ewxgwy1987/claude-code-usage-meter) - Claude Code mod: plan rate limits, context fill, session cost and per-task…
+- [ewxgwy1987/claude-code-progress-board](https://github.com/ewxgwy1987/claude-code-progress-board) - ม็อด Claude Code: แผงความคืบหน้าสำหรับงาน subagent การทำงานของเวิร์กโฟลว์…
+- [ewxgwy1987/claude-code-session-toc](https://github.com/ewxgwy1987/claude-code-session-toc) - ม็อด Claude Code: สารบัญทั้งเซสชันที่คลิกได้และมีประทับเวลา…
+- [ewxgwy1987/claude-code-usage-meter](https://github.com/ewxgwy1987/claude-code-usage-meter) - ม็อด Claude Code: แสดงขีดจำกัดอัตราของแผน การเติมบริบท ค่าใช้จ่ายเซสชัน…
 - [Exdenta/ambient-spanish](https://github.com/Exdenta/ambient-spanish) - skill + mod ของ Claude CLI ที่เพิ่มคำภาษาสเปนในคำตอบของเอเจนต์.
 - [Fazzani/claude-mods](https://github.com/Fazzani/claude-mods) - ม็อด Claude.
 - [gregdotca/ccmod-the-machine](https://github.com/gregdotca/ccmod-the-machine) - ม็อด Claude Code ที่ปรับสไตล์ให้เป็น The Machine จาก Person of Interest.
@@ -1699,107 +1648,69 @@ Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and 
 - [i-harsha-reddy/naruto-mod](https://github.com/i-harsha-reddy/naruto-mod) - เพื่อนร่วมทาง Naruto แบบพิกเซลอาร์ตสำหรับ Claude Code: นินจา 20 ตัว, jutsu 60…
 - [ibrahimkobeissy/claude-mods](https://github.com/ibrahimkobeissy/claude-mods) - ม็อดโอเพนซอร์สสำหรับ Claude Code: บานหน้าต่าง, บรรทัดสถานะ, toast…
 - [jduerrmann/agent-crew](https://github.com/jduerrmann/agent-crew) - ม็อด Claude Code: หนึ่งบานหน้าต่างสำหรับแต่ละ subagent, ไฟล์ที่พวกเขาแตะต้อง…
-- [joeVenner/claude-code-mods](https://github.com/joeVenner/claude-code-mods) - ไดเรกทอรีชุมชนของม็อด ปลั๊กอิน ทักษะ เอเจนต์ hooks และเซิร์ฟเวอร์ MCP สำหรับ…
 - [jonyfs/astrolabe](https://github.com/jonyfs/astrolabe) - 🧭 ม็อด Claude Code: สถานะเซสชัน ความคืบหน้า Spec Kit แบบสด…
 - [kongyo2/context-view](https://github.com/kongyo2/context-view) - หน้าต่างบริบทเป็นแถวเดียวเหนือพรอมป์ วาดในแบบที่ Claude Code วาดมาตรวัดของตัวเอง.
-- [KyongSik-Yoon/cc-desktop-mod](https://github.com/KyongSik-Yoon/cc-desktop-mod) - ปลั๊กอิน (ม็อด) ของ Claude Code ที่ทำให้ UI เทอร์มินัลของ Claude Code…
 - [lorenzh/rabe](https://github.com/lorenzh/rabe) - ดูว่า Claude Code กำลังทำงานอะไรอยู่เบื้องหลัง: subagents, งาน Codex, shells…
-- [m4cd4r4/clear-resume](https://github.com/m4cd4r4/clear-resume) - A free, open-source plugin for Claude Code.
-- [manuacl/claude-mods](https://github.com/manuacl/claude-mods) - ม็อด Claude Code ส่วนตัว: otto-hud, Otto ปลาหมึกพร้อมสภาพอากาศของ context…
+- [m4cd4r4/clear-resume](https://github.com/m4cd4r4/clear-resume) - ปลั๊กอินโอเพนซอร์สฟรีสำหรับ Claude Code ก่อนที่คุณจะใช้ /clear, Claude จะเขียน…
 - [meganemura/pull-request-pane](https://github.com/meganemura/pull-request-pane) - ม็อด Claude ที่แสดง pull request GitHub ของเซสชันในบานหน้าต่างข้าง transcript…
 - [NMenzel/claude-devtools-mod](https://github.com/NMenzel/claude-devtools-mod) - Claude DevTools: ดีบักเกอร์สำหรับการเรียกใช้เครื่องมือ Claude Code มีเบรกพอยต์…
 - [NotRedFox/NotRedFoxs-Claude-skills](https://github.com/NotRedFox/NotRedFoxs-Claude-skills) - ทักษะ Claude Code: เครื่องตรวจสอบข้อเท็จจริงในเอกสาร ผู้ตรวจสอบโค้ด…
+- [pepperonas/loc-today](https://github.com/pepperonas/loc-today) - Claude Code mod: today.
+- [pepperonas/path-links](https://github.com/pepperonas/path-links) - ม็อด Claude Code: เส้นทางที่คลิกได้ในคำตอบ — คลิกโฟลเดอร์เพื่อเปิดใน Finder…
 - [rezzminator/buddy](https://github.com/rezzminator/buddy) - ปลั๊กอินคู่หู Claude Code: เพื่อน ASCII…
 - [rezzminator/tool-visibility-controller](https://github.com/rezzminator/tool-visibility-controller) - ปลั๊กอิน Claude Code สำหรับการมองเห็นเครื่องมือต่อเอเจนต์…
-- [samfrmr/barmkin-mod](https://github.com/samfrmr/barmkin-mod) - ม็อด Claude Code: ชั้นความปลอดภัยสำหรับ Claude Code — การลบข้อมูลลับ…
-- [seanrobertwright/claude-mods](https://github.com/seanrobertwright/claude-mods) - คอลเลกชันม็อด Claude Code.
 - [Sennjen/claude-sdlc](https://github.com/Sennjen/claude-sdlc) - Claude Code plugin และ mod: SDLC แบบ AI-native.
 - [SeongGwangJu/k-mods](https://github.com/SeongGwangJu/k-mods) - คอลเลกชัน Claude Code mods ยอดเยี่ยม | คล로드 코드 모드 모음집 ปรับแต่ง Claude Code…
 - [simplecore-inc/claude-mods](https://github.com/simplecore-inc/claude-mods) - ปลั๊กอิน Claude Code (ม็อด): สลับระหว่างบัญชี Claude หลายบัญชี…
 - [Singh-AP/awesome-claude-mods](https://github.com/Singh-AP/awesome-claude-mods) - 🧩 ม็อด Claude Code ที่ทดสอบแล้วและติดตั้งได้ด้วยคำสั่งเดียว…
 - [tanujarun/it-speaks](https://github.com/tanujarun/it-speaks) - It Speaks: ม็อด Claude Code ที่อ่านคำตอบของ Claude…
-- [timoncool/slapbox](https://github.com/timoncool/slapbox) - 🍑 Spank Claude when it messes up — a stress-relief mod for Claude Code: cartoon…
+- [timoncool/slapbox](https://github.com/timoncool/slapbox) - 🍑 ตบ Claude เมื่อทำพลาด — ม็อดคลายเครียดสำหรับ Claude Code: ก้นการ์ตูน ไม้ตบ 8…
 - [tommy5dollar/effort-router](https://github.com/tommy5dollar/effort-router) - ทำให้การใช้งาน Claude Code ของคุณไปได้ไกลขึ้นถึงสองเท่า…
 - [TroyJLorents-GH/mod-squad](https://github.com/TroyJLorents-GH/mod-squad) - ม็อดโค้ด Claude: ปลั๊กอินขนาดเล็กสำหรับแผงแสดงผลสด…
 - [valeryia-piatrova/token-hamster](https://github.com/valeryia-piatrova/token-hamster) - 🐹 ม็อดและปลั๊กอินโค้ด Claude: ตัวตรวจสอบการใช้งาน ตัวติดตามโทเค็น และแถบสถานะ…
-- [vumichien/claude-code-mods-kit](https://github.com/vumichien/claude-code-mods-kit) - Three free Claude Code mods: hide .env values from tool results, watch a remote…
 - [y-hirakaw/claude-code-mods](https://github.com/y-hirakaw/claude-code-mods) - ม็อด Claude Code touch-map: ดูว่าไฟล์ใดที่ Claude แสดงรายการ อ่าน แก้ไข…
 - [Yanir-R/catchup](https://github.com/Yanir-R/catchup) - ม็อด Claude Code…
-- [Yuvalz19500/claude-mods](https://github.com/Yuvalz19500/claude-mods) - Mods for Claude Code: live panes, bands and hooks. A plugin marketplace.
-- [zchee/claude-code-mods](https://github.com/zchee/claude-code-mods)
-- [0xnicholasy/claude-mod-collapse-tools](https://github.com/0xnicholasy/claude-mod-collapse-tools) - Claude Code mod: collapses every tool-call row in the transcript to one line;
-- [0xnicholasy/claude-mods](https://github.com/0xnicholasy/claude-mods) - Claude Code plugin marketplace for 0xnicholasy.
-- [AbyssCN/claude-lead-harness](https://github.com/AbyssCN/claude-lead-harness) - ม็อด Claude Code + ไดรเวอร์ cheap-executor: หนึ่งเซสชัน Claude ในบทบาทหัวหน้า…
-- [AdamCaviness/cache-magic](https://github.com/AdamCaviness/cache-magic) - Claude Code mod that offers a flexible alternative to the built-in…
-- [ajkatom/claude-mods](https://github.com/ajkatom/claude-mods)
-- [akixi-maison/usage-mods](https://github.com/akixi-maison/usage-mods) - Claude Code mod: usage progress bars (context, 5h, 7d) and a compact button…
+- [0xnicholasy/claude-mods](https://github.com/0xnicholasy/claude-mods) - ตลาดปลั๊กอิน Claude Code สำหรับม็อดของ 0xnicholasy.
 - [Aler1x/claude-cat](https://github.com/Aler1x/claude-cat) - แมวอักษรเบรลล์แบบเคลื่อนไหวเหนือพรอมต์ Claude Code.
 - [alinaqi/mixture-of-models-claude-mod](https://github.com/alinaqi/mixture-of-models-claude-mod) - ม็อด Claude Code: ส่งต่องานราคาถูกไปยัง GLM/Kimi ผ่าน Claude Code ลูก…
 - [aloki-alok/omni-cat](https://github.com/aloki-alok/omni-cat) - แมวพิกเซลเหนือพรอมต์โค้ด Claude ของคุณ ซึ่งเรียกใช้การทดสอบโทรของเอเจนต์เสียง…
 - [ambervdberg/smartcompact](https://github.com/ambervdberg/smartcompact) - ม็อด Claude Code…
 - [an80sPWNstar/claude-mods](https://github.com/an80sPWNstar/claude-mods) - ม็อด Claude สำหรับ Claude Code: token-meter.
-- [anderson-spider/claude-mods](https://github.com/anderson-spider/claude-mods) - ตลาดปลั๊กอิน Claude Code โดย anderson-spider.
-- [androidZzT/claude-trading-mods](https://github.com/androidZzT/claude-trading-mods) - Claude Code mods for watching the market from the terminal: A股/港股/美股 pane with…
-- [angomedia/claude-mods](https://github.com/angomedia/claude-mods) - Mods for Claude Code.
-- [antonisPanos/claude-mods](https://github.com/antonisPanos/claude-mods)
 - [Ashley-Pettit/lgtm-flash](https://github.com/Ashley-Pettit/lgtm-flash) - เรือ LGTM Lines แล่นผ่านไปหลังการเปลี่ยนแปลงโค้ดทุกครั้ง — ตัวดัดแปลงโค้ด Claude.
 - [Ashley-Pettit/villager-hp](https://github.com/Ashley-Pettit/villager-hp) - ขีดจำกัดการใช้งาน Claude ของคุณในรูปแบบการ์ดพลังชีวิตชาวบ้านแบบเคลื่อนไหว…
 - [AskTinNguyen/ather-mods](https://github.com/AskTinNguyen/ather-mods) - ม็อด Claude Code สำหรับทีม S2 (ตลาด ather).
 - [Atanur/deskfit](https://github.com/Atanur/deskfit) - การออกกำลังกายสั้น ๆ ขณะ Claude ทำงาน: เป้าหมายรายวัน, streak, badge และ…
 - [aycandv/claude-usage-meter](https://github.com/aycandv/claude-usage-meter) - กระดานการใช้งานสำหรับ Claude Code: การใช้จ่ายแยกตามโมเดล.
-- [barneym/claude-context-bar](https://github.com/barneym/claude-context-bar) - A Claude Code mod: live context-window breakdown above the prompt.
+- [barneym/claude-context-bar](https://github.com/barneym/claude-context-bar) - ม็อด Claude Code: แจกแจงหน้าต่างบริบทแบบเรียลไทม์เหนือพรอมป์…
 - [benjaminr/nowplaying](https://github.com/benjaminr/nowplaying) - mod Now Playing สำหรับ Claude Code: Apple Music และ Spotify อยู่เหนือพรอมต์…
 - [bennewton999/claude-code-mods](https://github.com/bennewton999/claude-code-mods) - ม็อด Claude Code ห้าตัวสำหรับเรียกใช้หลายเซสชันพร้อมกัน: กระดาน fleet ตัวติดตาม…
-- [berkayburakk/berko-mods](https://github.com/berkayburakk/berko-mods) - Claude Code mod pack from the Berko video: Mask, View, Guard, Saving, Chime +…
-- [bhargava-gumpula/claude-mods](https://github.com/bhargava-gumpula/claude-mods) - ตัวดัดแปลงโค้ด Claude: แถบการใช้งาน รายชื่อแชต /cube, /handoff…
 - [broening/claude-mods](https://github.com/broening/claude-mods) - ม็อดสำหรับ Claude Code: นาฬิกาแคช Blast Radius ข้อเสนอแนะ รายการงาน และ Grill.
 - [C-M-Jones/suggestion-spotlight](https://github.com/C-M-Jones/suggestion-spotlight) - Claude Code mods: Suggestion Spotlight แสดงให้เห็นว่าพรอมต์ถัดไปที่ Claude…
 - [Carismarkus/clowl](https://github.com/Carismarkus/clowl) - แค่นกฮูกหนึ่งตัวสำหรับ Claude Code ของคุณ.
 - [cGradying/claude-code-cockpit](https://github.com/cGradying/claude-code-cockpit) - แถบ Code แบบบรรทัดเดียวของ Claude (นับถอยหลังแคช, บริบท, ขีดจำกัด, งานถัดไป)…
 - [ChaseWNorton/claude-doom](https://github.com/ChaseWNorton/claude-doom) - เอ็นจิน Doom ดั้งเดิมพร้อม Freedoom เล่นได้ภายใน Claude Code รุ่นอัลฟาสำหรับ…
-- [Dandeppert/Claude-mods](https://github.com/Dandeppert/Claude-mods)
+- [cldotdev/claude-todo-list](https://github.com/cldotdev/claude-todo-list) - A Claude Code mod that keeps a running list of the open items in a conversation…
 - [davidurco/cc-tamagotchi](https://github.com/davidurco/cc-tamagotchi) - Tamagotchi ที่อาศัยอยู่ภายใน Claude Code: มันฟักออกมา กินโค้ดที่ Claude เขียน…
-- [DazzleML/claude-bookmarks](https://github.com/DazzleML/claude-bookmarks) - บุ๊กมาร์กและมาร์กแบบ vim ภายในบทสนทนาเทอร์มินัล Code ของ Claude: ไฮไลต์บรรทัด…
-- [delexw/codyssey](https://github.com/delexw/codyssey) - เปลี่ยนทุกเซสชัน Claude Code ให้เป็นการผจญภัยเล็ก ๆ…
+- [Demo-0416/claude-code-mods](https://github.com/Demo-0416/claude-code-mods) - Mods for Claude Code, as a plugin marketplace.
 - [derekwden-droid/message-timestamps](https://github.com/derekwden-droid/message-timestamps) - ม็อด Claude Code: แสดงเวลาในแต่ละ prompt และ reply ในเทอร์มินัลและแอปเดสก์ท็อป.
 - [devohmycode/ccmods](https://github.com/devohmycode/ccmods) - ม็อด Claude Code ที่เขียนเป็นฮุกฟังก์ชัน และมาร์เก็ตเพลสที่นำเสนอม็อดเหล่านี้…
-- [DiegoCarrillo32/claude-plugins](https://github.com/DiegoCarrillo32/claude-plugins) - ม็อด Claude Code และระบบการออกแบบ: crab-crew และระบบการออกแบบ Crab Crew.
-- [DiegoHeer/claude-mods](https://github.com/DiegoHeer/claude-mods) - My Claude Code mods, shared as a plugin marketplace.
 - [divramod/divramod-claude-code-mods](https://github.com/divramod/divramod-claude-code-mods) - ม็อดโค้ด Claude ของ divramod: แผงแบบเรียลไทม์และการปรับแต่งอินเทอร์เฟซของ…
-- [DominikSch004/claude-mods](https://github.com/DominikSch004/claude-mods) - ตัวดัดแปลงโค้ด Claude ที่ฉันใช้ในทุกเครื่อง: savvy-progress, filetree, skins…
-- [dot-agi/arrester](https://github.com/dot-agi/arrester) - Claude Code mod: after a guard blocks a tool call, it stops recognized detours…
-- [dot-agi/downrange](https://github.com/dot-agi/downrange) - Claude Code mod: background jobs in one view, with progress and ETAs read from…
-- [dot-agi/high-command](https://github.com/dot-agi/high-command) - Claude Code mod: one inbox for messages from teammates, named subagents and…
-- [dot-agi/sandbox-tuner](https://github.com/dot-agi/sandbox-tuner) - Claude Code mod: explains sandbox blocks and turns repeated blocks into…
-- [drprofi114-star/claude-mods](https://github.com/drprofi114-star/claude-mods)
-- [EggmanPDX/claude-mods](https://github.com/EggmanPDX/claude-mods) - mods.
+- [dot-agi/arrester](https://github.com/dot-agi/arrester) - ม็อด Claude Code: หลังจาก guard บล็อกการเรียกใช้เครื่องมือ จะหยุด detour…
+- [dot-agi/downrange](https://github.com/dot-agi/downrange) - ม็อด Claude Code: งานเบื้องหลังในมุมมองเดียว…
+- [dot-agi/high-command](https://github.com/dot-agi/high-command) - ม็อด Claude Code: กล่องข้อความเข้าเดียวสำหรับข้อความจากเพื่อนร่วมทีม…
+- [dot-agi/sandbox-tuner](https://github.com/dot-agi/sandbox-tuner) - ม็อด Claude Code: อธิบายการบล็อกของ sandbox และเปลี่ยนการบล็อกซ้ำ ๆ…
 - [Egrn/claude-code-mutedit](https://github.com/Egrn/claude-code-mutedit) - เฮ้ ปิดเสียงแล้ว! ทิ้ง diff ตัด riff ไม่มีการแก้ไขอีก เครดิตก็น้อยลง.
 - [eric1hua/claudemods-desktop-statusline](https://github.com/eric1hua/claudemods-desktop-statusline) - ม็อด Claude Code: การใช้งาน subscription (5h / 7d) เป็นแถบเหนือ prompt ในแอป…
-- [evasuka/work-meter](https://github.com/evasuka/work-meter) - Claude Code mod：在輸入框上方顯示工作進度與帳號額度剩餘.
 - [fanoisme/claude-mods](https://github.com/fanoisme/claude-mods) - ตัวดัดแปลงที่ออกแบบด้วย Motion สำหรับโค้ด Claude…
-- [Flo0806/fh-claude-mods](https://github.com/Flo0806/fh-claude-mods) - ตลาดม็อด Claude.
 - [floheissler/cc-worktree-radar](https://github.com/floheissler/cc-worktree-radar) - เรดาร์แบบเรียลไทม์ของ branch แบบขนานและ worktree ของคุณเหนือ prompt: อันไหน…
-- [Gabrielmtvp/claude-code-mods](https://github.com/Gabrielmtvp/claude-code-mods) - ม็อด Claude Code ของฉัน.
-- [GarvitNangru/claude-code-mods](https://github.com/GarvitNangru/claude-code-mods) - ม็อดและสกินสำหรับ Claude Code: แถบความคืบหน้าแบบเรียลไทม์สำหรับงานของ Claude…
-- [Gat0rRex/claude-mods](https://github.com/Gat0rRex/claude-mods) - Claude Code mods (function-hook plugins): context band, loose ends, checkpoint…
-- [gauravruhela07/claude-mods](https://github.com/gauravruhela07/claude-mods) - Seven Claude Code mods: savvy-progress, skins, filetree, cache-tax…
+- [Gat0rRex/claude-mods](https://github.com/Gat0rRex/claude-mods) - ม็อด Claude Code (ปลั๊กอิน function-hook): แถบบริบท ประเด็นค้าง…
 - [GeckoKing9/claude-code-copy-button](https://github.com/GeckoKing9/claude-code-copy-button) - กด Ctrl+คลิกเพื่อคัดลอกลิงก์บน code block ทุกอันในคำตอบของ Claude Code…
 - [gecm0/jev-mod](https://github.com/gecm0/jev-mod) - ตัวดัดแปลง jev: $.jev สำหรับโค้ด Claude คำตัดสินแบบมีชนิดจาก TypeSafe Jev.
-- [Gersom/claude-mod-cache-watch](https://github.com/Gersom/claude-mod-cache-watch) - ม็อด Claude Code: แผงที่แสดงว่าแคชของ prompts อุ่นหรือเย็น.
 - [Gersom/gersom-claude-mods](https://github.com/Gersom/gersom-claude-mods) - ม็อดสำหรับ Claude Code: ปลั๊กอิน hooks เช่น usage-meter.
-- [Gharib89/claude-mods](https://github.com/Gharib89/claude-mods) - ม็อด Claude Code (ปลั๊กอิน function-hook) ติดตั้งผ่าน marketplace เดียว.
 - [gonzalonicolasr/claude-code-nerv](https://github.com/gonzalonicolasr/claude-code-nerv) - แถบด้านข้างสไตล์ Evangelion สำหรับ Claude Code: บริบท โควตา กิจกรรม PRs…
-- [gsporto226/claude-mods](https://github.com/gsporto226/claude-mods) - ม็อด claude code ที่มีประโยชน์.
-- [Gxrco/Screen-peek](https://github.com/Gxrco/Screen-peek) - ปลั๊กอิน Claude-Code (ม็อด) ช่วยให้คุณเห็นว่าโมเดลกำลังทำอะไรขณะทำงาน.
-- [hamTotk/better-rewind](https://github.com/hamTotk/better-rewind) - Claude Code mod: rewind or summarize from any prompt or AskUserQuestion answer.
-- [hb03/claude-mods](https://github.com/hb03/claude-mods) - Deutschsprachige Mods für Claude Code: Kontext/Cache-Hinweise, offene Punkte…
 - [hellosverre/redgreen](https://github.com/hellosverre/redgreen) - ผลการทดสอบในแผง Claude Code: ความล้มเหลว, รายละเอียด…
 - [Huuuuung/think-meter](https://github.com/Huuuuung/think-meter) - ม็อด Claude Code: แต่ละคำตอบใช้เวลานานเท่าใด Claude ใช้เวลาคิดนานเท่าใด และ…
-- [im-adarsh/claude-mods](https://github.com/im-adarsh/claude-mods)
-- [jakerains/claudemods](https://github.com/jakerains/claudemods) - ม็อด Claude Code ขนาดเล็ก: มาตรวัดการใช้ context และ plan, มาตรวัด prompt-cache…
-- [Jang-seungminn/usage-hud](https://github.com/Jang-seungminn/usage-hud) - Claude Code mod: usage HUD above the prompt with two animated ASCII dogs.
-- [jeffyfung/claude-mods](https://github.com/jeffyfung/claude-mods) - พื้นที่สำหรับเก็บม็อด claude ของฉัน.
-- [jemsley06/reels-while-you-wait](https://github.com/jemsley06/reels-while-you-wait) - Claude Code mod: Instagram Reels in a small Safari window while Claude works.
+- [icedevil2001/auto-continue](https://github.com/icedevil2001/auto-continue) - Claude Code mod: waits out the 5-hour usage limit and sends &quot;continue&quot; for you.
 - [jessetsai1024/claude-ctx-panel](https://github.com/jessetsai1024/claude-ctx-panel) - แผงปริมาณ context ในแถบด้านข้าง: ปริมาณรวม การจัดหมวดหมู่…
 - [jessetsai1024/claude-files](https://github.com/jessetsai1024/claude-files) - รายการไฟล์ในแถบด้านข้าง: ไฟล์ใดถูกสร้าง แก้ไข หรือลบในการสนทนานี้…
 - [jessetsai1024/claude-maomao](https://github.com/jessetsai1024/claude-maomao) - 毛毛 กระต่ายฮอลแลนด์ลอปสีขาวดำสไตล์ 8 บิต วิ่งและกระโดดอยู่เหนือช่องป้อนข้อความ…
@@ -1807,41 +1718,26 @@ Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and 
 - [jessetsai1024/claude-timeline](https://github.com/jessetsai1024/claude-timeline) - ไทม์ไลน์ในแถบด้านข้าง: เวลาของรอบนี้ใช้ไปกับอะไรบ้าง.
 - [jessetsai1024/claude-tokens](https://github.com/jessetsai1024/claude-tokens) - การรับส่งโทเค็นในแถบด้านข้าง: ในแต่ละครั้งที่บทสนทนาหลักส่งโทเค็นให้ Anthropic…
 - [jessetsai1024/claude-whisper](https://github.com/jessetsai1024/claude-whisper) - ถุงถั่วแดงแสนซื่อสัตย์ของ claude code: หลังตอบเสร็จในแต่ละรอบ Claude…
-- [jgilb17/claude-mods](https://github.com/jgilb17/claude-mods)
 - [Jh-jaehyuk/plan-checklist](https://github.com/Jh-jaehyuk/plan-checklist) - เช็กลิสต์แผนสำหรับโค้ด Claude ที่มีหลักฐานเป็นเงื่อนไข…
 - [jimmysteinmetz/b-sides](https://github.com/jimmysteinmetz/b-sides) - ม็อดขนาดเล็กสำหรับ Claude Code เช่น slash commands ใหม่และแผงด้านข้าง.
-- [jkf87/mod-guide](https://github.com/jkf87/mod-guide) - Unofficial community guide to Claude Code mods (function hooks) in 6 languages…
-- [jorgehsy/claude-mods](https://github.com/jorgehsy/claude-mods) - แค็ตตาล็อกม็อดสำหรับ Claude Code.
 - [jpo-oss/claude-games](https://github.com/jpo-oss/claude-games) - เกมหลายผู้เล่นสำหรับเล่นภายใน Claude Code ขณะที่มันทำงาน.
-- [juampymdd/claude-code-model-picker](https://github.com/juampymdd/claude-code-model-picker) - Claude Code mod: pick the model and version for the next requests from a band…
-- [justmytwospence/claude-cache-guard](https://github.com/justmytwospence/claude-cache-guard) - ม็อด Claude Code: รักษาแคชพรอมต์ให้อุ่นขณะที่คุณไม่อยู่…
 - [KaiC5504/clawd-bar](https://github.com/KaiC5504/clawd-bar) - Clawd อาศัยอยู่ในแถบเหนือ prompt ของ Claude Code ของคุณ: แสดงบทบาทของเซสชัน…
-- [kaicodedocument/claude-code-usage-bar](https://github.com/kaicodedocument/claude-code-usage-bar) - ม็อด Claude Code ที่แสดงโควตาขีดจำกัดอัตราการใช้งาน โทเค็นเซสชัน…
 - [kajidog/cc-mods-tts](https://github.com/kajidog/cc-mods-tts) - ม็อดที่อ่านข้อความตอบกลับและการแจ้งเตือนของ Claude Code ด้วย VOICEVOX /…
-- [Kareem1809/chat-cigarette](https://github.com/Kareem1809/chat-cigarette) - 🚬 A Claude Code mod: a cigarette burns down with every message — when it.
-- [kba977/claude-code-pomodoro](https://github.com/kba977/claude-code-pomodoro) - A pomodoro timer above the Claude Code prompt (Claude Code mod).
 - [kbrdn1/claude-crosstalk](https://github.com/kbrdn1/claude-crosstalk) - ม็อด Claude สำหรับอ่านและเข้าร่วมการสนทนาระหว่างเซสชัน Claude Code ของคุณ…
-- [Khanthtutzin/subagent-crew](https://github.com/Khanthtutzin/subagent-crew) - Claude Code mod: running subagents as pixel Claude mascots above the prompt.
-- [KingP1197/claude-mods](https://github.com/KingP1197/claude-mods) - ม็อด Claude เพื่ออำนวยความสะดวกและปรับปรุงคุณภาพชีวิต.
+- [Khanthtutzin/subagent-crew](https://github.com/Khanthtutzin/subagent-crew) - ม็อด Claude Code: เรียกใช้ subagent ในรูปมาสคอตพิกเซล Claude เหนือพรอมต์.
 - [kjhq/haiku-compact](https://github.com/kjhq/haiku-compact) - บีบอัดเซสชัน claude code ที่ไม่ได้ใช้งานด้วย haiku…
 - [krishna-goutham-tls/cc-mods](https://github.com/krishna-goutham-tls/cc-mods) - ม็อด Claude Code สองตัว: folio บานหน้าต่างไฟล์ข้างแชต และ tint…
 - [kyledarling-io/claude-code-desktop-hud](https://github.com/kyledarling-io/claude-code-desktop-hud) - HUD งานแบบเรียลไทม์สำหรับ Claude Code Desktop: แถบเหนือ prompt ขณะที่ Claude…
-- [LordMordelon/claude-mods](https://github.com/LordMordelon/claude-mods) - Mods de Claude Code para los proyectos de Angel (Vremia).
 - [Lucas-CX/awesome-claude-mods](https://github.com/Lucas-CX/awesome-claude-mods) - คู่มือ Claude Code Mods ที่คัดสรรโดยชุมชน: กรณีการใช้งาน เดโมต้นฉบับ…
 - [M-i-k-e-l/agent-state](https://github.com/M-i-k-e-l/agent-state) - ม็อด Claude Code ที่แสดงว่า Claude กำลังทำอะไรในคำบรรยายแท็บ iTerm2…
-- [m-tababi/delegation-guard](https://github.com/m-tababi/delegation-guard) - ม็อด Claude Code: สะกิดเซสชันหลักให้มอบหมายงานให้ subagents และแสดง…
-- [MahadSalim/claude-mods](https://github.com/MahadSalim/claude-mods) - คอลเลกชันปลั๊กอินม็อด claude ส่วนตัวของฉัน.
-- [malinfossum/mango-buddy](https://github.com/malinfossum/mango-buddy) - A fluffy black cat above your Claude Code prompt.
-- [marcelmatula/claude-mods](https://github.com/marcelmatula/claude-mods) - ม็อด Claude Code ของ Marcel ในตลาดปลั๊กอินเดียว (marcel-mods).
+- [malinfossum/mango-buddy](https://github.com/malinfossum/mango-buddy) - แมวดำขนฟูเหนือพรอมป์ Claude Code ของคุณ เธอกะพริบตา ส่งเสียงคราง งีบหลับ…
 - [MarcusJellinghaus/claude-mode-gate](https://github.com/MarcusJellinghaus/claude-mode-gate) - ม็อด Claude Code พร้อมโปรไฟล์สิทธิ์ที่สลับได้: ค่าพื้นฐานที่ปลอดภัย…
 - [MDmubarak786/claude-mods](https://github.com/MDmubarak786/claude-mods) - ม็อดจากชุมชนสำหรับ Claude Code: ตัวป้องกัน, บานหน้าต่าง และคำสั่งที่ทำงานภายใน…
-- [mina-asham/claude-usage-stats](https://github.com/mina-asham/claude-usage-stats) - A Claude Code mod that shows your plan usage.
 - [mmedum/glimt](https://github.com/mmedum/glimt) - แผงด้านข้างเงียบ ๆ สำหรับ Claude Code: เซสชันนี้กำลังทำอะไร แผน เอเจนต์…
 - [mmedum/spor](https://github.com/mmedum/spor) - ใส่สิ่งที่ Claude Code พับเก็บไว้กลับมา: ไฟล์ที่ Claude อ่าน คำสั่งที่มันรัน…
 - [muellerei/enable-todo-tools](https://github.com/muellerei/enable-todo-tools) - ม็อด Claude Code ที่เปิดเครื่องมือ todo…
 - [muellerei/task-line](https://github.com/muellerei/task-line) - ม็อด Claude Code: หนึ่งบรรทัดต่อรายการงานเหนือพรอมต์ พร้อมงานปัจจุบัน…
 - [nachtgold/claude-code-connect-four](https://github.com/nachtgold/claude-code-connect-four) - เล่น Connect Four กับ AI ภายใน Claude Code (/connect-four).
-- [Nachx639/context-canary](https://github.com/Nachx639/context-canary) - นกคีรีบูนพิกเซลอาร์ตสำหรับ Claude Code: มันจะตายเมื่อ Claude…
 - [naoanao/agent-cross-check](https://github.com/naoanao/agent-cross-check) - ม็อดโค้ด Claude: เมื่อเอเจนต์เขียนโค้ดอีกตัว commit ลงใน repo ของคุณ Claude…
 - [naoanao/shared-repo-guard](https://github.com/naoanao/shared-repo-guard) - ม็อดโค้ด Claude สำหรับ repo ที่เอเจนต์ AI หลายตัวใช้ร่วมกัน…
 - [Nexus-nimdA/null-radio](https://github.com/Nexus-nimdA/null-radio) - แผงวิทยุอินเทอร์เน็ตไซเบอร์นีออนสำหรับโค้ด Claude - แป้นหมุน synthwave…
@@ -1849,29 +1745,18 @@ Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and 
 - [nu0ma/query-guard](https://github.com/nu0ma/query-guard) - เกราะป้องกัน SQL ใน Claude Code: ขออนุมัติก่อนที่ Claude จะรัน DELETE, UPDATE…
 - [OG-Matcha/tessera](https://github.com/OG-Matcha/tessera) - ม็อดเดียวสำหรับ Claude Code, Windows และ CJK มาก่อน…
 - [oguz-hd/claude-code-chime](https://github.com/oguz-hd/claude-code-chime) - Chime สำหรับ Claude Code: เสียงเมื่อ Claude ทำงานเสร็จ ต้องการข้อมูลจากคุณ…
-- [ohade/claude-mods](https://github.com/ohade/claude-mods) - ม็อด Claude Code: ภาพขนาดย่อและบรรทัดสถานะ.
 - [onk3sh/fix-on-edit](https://github.com/onk3sh/fix-on-edit)
 - [osaki42/awesome-claude-mods](https://github.com/osaki42/awesome-claude-mods) - ม็อด Claude Code ที่ดีที่สุด จัดเรียงตามสิ่งที่ม็อดเหล่านี้ทำให้คุณ…
-- [oscarcosmedev/claude-mods](https://github.com/oscarcosmedev/claude-mods)
-- [ozdeger/claude-looked-at-mod](https://github.com/ozdeger/claude-looked-at-mod) - ม็อด Claude Code: ดูทุกภาพและไฟล์ที่ตัวแทนของคุณเปิดดู.
 - [pablodiazjorge/impact-radius](https://github.com/pablodiazjorge/impact-radius) - ม็อด Claude Code ที่กักคำสั่ง shell ที่มีความเสี่ยง.
 - [Para-FR/claude-code-mods-fr](https://github.com/Para-FR/claude-code-mods-fr) - ม็อด Claude สองรายการสำหรับ Claude Code: garde-du-corps.
-- [Paradox07127/claude-utopia](https://github.com/Paradox07127/claude-utopia) - Claude Code mods with agent telemetry, timeline dashboards, mmrun cross-model…
 - [paragpandyareal/lazy-panda-panel](https://github.com/paragpandyareal/lazy-panda-panel) - Lazy Panda Panel สำหรับ Claude Code: ตรวจทานเอกสารโดยไม่ต้องยกอุ้งเท้า Excel…
-- [paragpandyareal/swear-slap](https://github.com/paragpandyareal/swear-slap) - Swear at Claude Code and a cartoon hand slaps back.
-- [paulpc2/claude-code-mods](https://github.com/paulpc2/claude-code-mods) - Claude Code mods: usage-both shows 5-hour and weekly usage above the prompt.
-- [pepperonas/path-links](https://github.com/pepperonas/path-links) - Claude Code mod: clickable paths in replies — click a folder to open it in…
+- [paragpandyareal/swear-slap](https://github.com/paragpandyareal/swear-slap) - สบถใส่ Claude Code แล้วมือการ์ตูนจะตบสวนกลับ ข้อความจะไม่ถูกส่ง…
 - [philarete173/claude_mods](https://github.com/philarete173/claude_mods) - แผงด้านข้างสถิติเซสชันแบบสดสำหรับแท็บ Code ของแอปเดสก์ท็อป Claude: บริบท…
-- [pkkid/claude-mods](https://github.com/pkkid/claude-mods) - ม็อดและ skills ต่าง ๆ สำหรับการตั้งค่า Claude Desktop ของฉัน.
 - [pradyb/claude-mods](https://github.com/pradyb/claude-mods) - ตัวดัดแปลงสำหรับโค้ด Claude: safety-guard…
-- [rafagomes/claude-code-mods](https://github.com/rafagomes/claude-code-mods) - Mods for Claude Code: function-hook plugins that run inside the session…
+- [rafagomes/claude-code-mods](https://github.com/rafagomes/claude-code-mods) - ม็อดสำหรับ Claude Code: ปลั๊กอิน function-hook ที่ทำงานภายในเซสชัน…
 - [rajib2k5/claude-market-watch](https://github.com/rajib2k5/claude-market-watch) - ม็อด Claude Code: ทิกเกอร์หุ้นแบบสด, แผง /quote, การแจ้งเตือนราคา, แถบตลาด…
 - [RedRoosterKey/claude-code-ssh-usage-band](https://github.com/RedRoosterKey/claude-code-ssh-usage-band) - ม็อด Claude Code: โฮสต์ SSH, RAM และขีดจำกัดการใช้งาน 5h/7d ในแถวเหนือพรอมต์.
-- [Rinze-Smits/ifc-viewer-claude-mod](https://github.com/Rinze-Smits/ifc-viewer-claude-mod) - IFC Viewer mod for Claude Code.
 - [Risdon8/push-ups](https://github.com/Risdon8/push-ups) - Claude Code mod: วิดพื้นระหว่างที่ Claude ทำงาน ไม่มี tokens.
-- [robinade/claude-mods-ko](https://github.com/robinade/claude-mods-ko) - Claude Code mod 한국어판 6종: 가정 기록, 쉬운 말, 아이디어 선반, 프롬프트 다듬기, 세션 모니터·트래커.
-- [Rsclub22/claude-mods](https://github.com/Rsclub22/claude-mods)
-- [RyanWeera/ai-router](https://github.com/RyanWeera/ai-router) - A Claude Code mod that routes tasks to other AI models.
 - [ryx2/slopshopper](https://github.com/ryx2/slopshopper) - ร้านม็อดสำหรับ Claude Code: ดึงม็อดจาก GitHub มาแสดงตัวอย่าง…
 - [saadk408/stepline](https://github.com/saadk408/stepline) - ม็อด Claude Code: เปลี่ยนแผนที่คุณอนุมัติในโหมด plan…
 - [saksham10arora-dotcom/awesome-claude-mods](https://github.com/saksham10arora-dotcom/awesome-claude-mods) - รายการม็อด Claude Code ที่คัดสรรมาอย่างดี ทุก รายการถูกโคลนและตรวจสอบด้วย…
@@ -1881,48 +1766,29 @@ Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and 
 - [saksham10arora-dotcom/claude-vhs](https://github.com/saksham10arora-dotcom/claude-vhs) - บันทึกการแก้ไขทุกครั้งที่ Claude ทำ…
 - [samaphp/session-links](https://github.com/samaphp/session-links) - ทุกลิงก์ที่ session ของคุณกล่าวถึง อยู่ในแถวเดียวเหนือ prompt Claude Code mod.
 - [sawzhang/hello-mod](https://github.com/sawzhang/hello-mod) - การสาธิตขั้นต่ำของ function hooks ใน Claude Code: แผง…
-- [shawnbotha/claude-mods](https://github.com/shawnbotha/claude-mods) - Different Claude mods.
-- [shelltime/claude-code-mods](https://github.com/shelltime/claude-code-mods) - Claude Code mods (ปลั๊กอิน function-hook) โดย ShellTime.
-- [shengyy/ccoverhead](https://github.com/shengyy/ccoverhead) - Claude Code mod for context, growth, quota, cache, native cost and agent…
-- [skryvets/claude-status-bar-mod](https://github.com/skryvets/claude-status-bar-mod) - Claude Code mod: ข้อมูลเซสชันแบบมีสีใต้พรอมต์ — บริบท โมเดล effort…
+- [shengyy/ccoverhead](https://github.com/shengyy/ccoverhead) - ม็อด Claude Code สำหรับบริบท การเติบโต โควตา แคช ค่าใช้จ่ายเนทีฟ…
 - [soulrocha/Claude-code-hero-journey](https://github.com/soulrocha/Claude-code-hero-journey) - 🦀 mod HUD RPG แสนอบอุ่นสำหรับ Claude Code.
-- [StalicJi/my-mods](https://github.com/StalicJi/my-mods) - marketplace Claude Code mod ส่วนตัว: clean-view, where-am-i, next-steps…
-- [Steady-Matter/spotter-pals](https://github.com/Steady-Matter/spotter-pals) - Spotter: a Claude Code mod with pixel Pals that hatch and grow as your helper…
 - [steven-ngle/blade-of-commits](https://github.com/steven-ngle/blade-of-commits) - ข้อความ commit แบบคลิกเดียวสำหรับ Claude Code พร้อม Malenia พิกเซลอาร์ตเต้นรำ.
-- [stillgbx/still-mods](https://github.com/stillgbx/still-mods) - Claude code mods.
-- [su-record/claude-mods](https://github.com/su-record/claude-mods) - Personal Claude Code mods.
-- [Sunkanxx/Mods](https://github.com/Sunkanxx/Mods) - Claude Code mods — marketplace sunkanxx-mods.
-- [Suyeo2025/claude-mods](https://github.com/Suyeo2025/claude-mods) - Claude Code mods: mini-bar HUD.
-- [SyntacticFlow/claude-mods](https://github.com/SyntacticFlow/claude-mods) - ปลั๊กอินสำหรับ Claude Code.
-- [systemNEO/claude-code-mods](https://github.com/systemNEO/claude-code-mods) - ม็อดสำหรับ Claude Code: delete-guard…
-- [takiguchi-yu/claude-mods](https://github.com/takiguchi-yu/claude-mods) - 手元で使う Claude Code の mod 置き場.
 - [Tanish-Dev/claude-usage-band](https://github.com/Tanish-Dev/claude-usage-band) - ม็อด Claude Code: ดูการใช้งานตามแผน Claude ของคุณ.
 - [tanwar-harsh/luff-crew-monitor](https://github.com/tanwar-harsh/luff-crew-monitor) - ม็อด Claude Code: แผงทีมแบบเรียลไทม์สำหรับเอเจนต์ย่อยทุกตัว.
-- [teambrilliant/claude-code-mods](https://github.com/teambrilliant/claude-code-mods)
-- [TFoxik/claude-model-router](https://github.com/TFoxik/claude-model-router) - Claude Code mod ที่เลือกโมเดลและ effort สำหรับงานแต่ละประเภท…
+- [Tejas242/airspace](https://github.com/Tejas242/airspace) - Air traffic control for parallel Claude Code sessions: one writer per file…
 - [TheBabaYaga/claude-session-flow](https://github.com/TheBabaYaga/claude-session-flow) - ม็อด Claude Code ที่แสดงเซสชันปัจจุบันในบานหน้าต่าง: พรอมต์แต่ละรายการ งานที่…
 - [theishandubey/claude-mods](https://github.com/theishandubey/claude-mods) - marketplace ปลั๊กอิน Claude Code ของม็อด: ปลั๊กอิน function-hooks ที่วาด band…
-- [timoncool/givememod](https://github.com/timoncool/givememod) - Claude Code mods on demand — a skill that reads your conversation and builds…
 - [tjanuki/claude-mod-agent-board](https://github.com/tjanuki/claude-mod-agent-board) - Claude Code mod: บานหน้าต่างที่เชื่อมไว้ซึ่งแสดง subagents…
-- [tksunw/usage-reporter](https://github.com/tksunw/usage-reporter) - Claude Code mod that writes your Claude usage limits to a file other tools can…
 - [Tum4s/sprout](https://github.com/Tum4s/sprout) - ม็อด Claude Code: แบนด์และแผงควบคุมที่ติดตาม subagents ของคุณ…
-- [tusharck/mods-for-claude](https://github.com/tusharck/mods-for-claude) - แค็ตตาล็อกคัดสรรของ Claude Code mods…
-- [VaitaR/claude-code-limits](https://github.com/VaitaR/claude-code-limits) - Claude Code mod: 5h/7d quota, context window, prompt-cache time left and…
+- [VaitaR/claude-code-limits](https://github.com/VaitaR/claude-code-limits) - ม็อด Claude Code: โควตา 5h/7d หน้าต่างบริบท เวลาที่เหลือของแคชพรอมป์…
 - [VAlux/claude-session-progress](https://github.com/VAlux/claude-session-progress) - ม็อด Claude Code…
 - [Vansitha/clawd-watch](https://github.com/Vansitha/clawd-watch) - Claude Code mods ขนาดเล็กสามรายการ: ดูว่า subagents ของคุณจะทำงานเสร็จเมื่อใด…
+- [varunmoka7/image-shrinker](https://github.com/varunmoka7/image-shrinker) - Shrinks big screenshots before Claude reads them, so long sessions last longer…
 - [varunmoka7/layman](https://github.com/varunmoka7/layman) - พูดว่า &quot;ฉันหลงทางแล้ว&quot; แล้ว Claude…
+- [varunmoka7/next-steps-autopilot](https://github.com/varunmoka7/next-steps-autopilot) - Shows suggested next prompts above the prompt box.
 - [varunmoka7/side-chat](https://github.com/varunmoka7/side-chat) - ถามคำถามข้างเคียงกับ Claude ในแผงข้างงานของคุณ บทสนทนาหลักจะไม่เห็นคำถามนี้…
 - [Victormartinsilva/MODS-CLAUDECODE](https://github.com/Victormartinsilva/MODS-CLAUDECODE) - Marketplace ของ mods สำหรับ Claude Code…
 - [vihrea1337/headroom](https://github.com/vihrea1337/headroom) - ตัวนับถอยหลัง rate limit และการคาดการณ์ burn rate สำหรับ Claude Code.
 - [vinkdc/roclaude](https://github.com/vinkdc/roclaude) - เลเยอร์ความปลอดภัย Roblox Studio สำหรับ Claude Code: การตรวจสอบ RemoteEvent…
-- [wipeer/claude-mods](https://github.com/wipeer/claude-mods) - ม็อดปรับปรุงการใช้งานเล็ก ๆ สำหรับ Claude Code.
-- [wmaq/wmaq-claude-mods](https://github.com/wmaq/wmaq-claude-mods) - Claude Code mods: stage-toons แถบความคืบหน้าเวิร์กโฟลว์เหนือพรอมต์พร้อมการ์ตูน…
 - [xinhuagu/oh-my-claude-mods](https://github.com/xinhuagu/oh-my-claude-mods) - Mods สำหรับ Claude Code agent-crew: ดู subagents ของคุณทำงานเป็นทีม pixel แบบสด…
-- [YeonwooSung/my-claude-code-mods](https://github.com/YeonwooSung/my-claude-code-mods)
-- [YohanGarcia/agent-taskboard](https://github.com/YohanGarcia/agent-taskboard) - A live task board for Claude Code: plan before building, follow every task…
+- [YohanGarcia/agent-taskboard](https://github.com/YohanGarcia/agent-taskboard) - กระดานงานแบบเรียลไทม์สำหรับ Claude Code: วางแผนก่อนสร้าง ติดตามทุกงาน สถานะ…
 - [zexion7873/usage-band](https://github.com/zexion7873/usage-band) - แถบ always-on เหนือ prompt ของ Claude Code: context fill และหน้าต่าง rate-limit…
-- [zh10only1/claude-code-mods](https://github.com/zh10only1/claude-code-mods) - Claude Code mods ส่วนตัว (plugin marketplace).
-- [zwbao/zebra-mod](https://github.com/zwbao/zebra-mod) - zebra-mod: a Claude Code mod that turns Claude Code into a rare-disease…
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - คอลเลกชันทรัพยากรชั้นเลิศที่คัดสรรมาเป็นพิเศษสำหรับเอเจนต์ที่ยอดเยี่ยมที่สุดอย่า…
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - ปลั๊กอิน Claude Code ที่แสดงสิ่งที่กำลังเกิดขึ้น - การใช้งานบริบท…
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 สถานะแบบบรรทัดที่สวยงามและปรับแต่งได้อย่างมากสำหรับ Claude Code CLI…
@@ -1937,19 +1803,19 @@ Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and 
 - [NYCU-Chung/cc-statusline](https://github.com/NYCU-Chung/cc-statusline) - แดชบอร์ดแถบสถานะที่ครอบคลุมสำหรับ Claude Code — ข้อมูลเซสชัน แถบโควตา…
 - [gwittebolle/claude-carbon](https://github.com/gwittebolle/claude-carbon) - claude-carbon: ติดตามรอยเท้าคาร์บอนของเซสชัน Claude Code ของคุณ.
 - [AwesomeZun/CC-statusline](https://github.com/AwesomeZun/CC-statusline) - statusline ดีไซน์สวยงามสำหรับ Claude Code โดย awesomejun.
-- [amirfish1/claude-command-center](https://github.com/amirfish1/claude-command-center) - One local board for Claude Code, Codex, Cursor and 5 more coding agents.
+- [a86582751/dsh-nexttavern](https://github.com/a86582751/dsh-nexttavern) - DeepSeek Harness 长篇角色扮演agent（DSH酒馆插件）：SillyTavern…
 - [JohnnyVizz/claude-kit](https://github.com/JohnnyVizz/claude-kit) - ทักษะและม็อด Claude Code สาธารณะ.
 - [escapeboy/claude-code-kit](https://github.com/escapeboy/claude-code-kit) - Skills, ม็อด, ซับเอเจนต์, ฮุก, คำสั่งสแลช และคู่มือสำหรับ Claude Code…
 - [mvalentsev/awesome-free-ai-coding](https://github.com/mvalentsev/awesome-free-ai-coding) - 📡 LLM APIs ฟรีอย่างถูกกฎหมายและเอเจนต์เขียนโค้ด — อัปเดตตัวเอง…
 - [kylesnowschwartz/tail-claude-hud](https://github.com/kylesnowschwartz/tail-claude-hud) - บรรทัดสถานะเทอร์มินัลสำหรับเซสชัน Claude Code.
 - [arturogarrido/claudinho](https://github.com/arturogarrido/claudinho) - ⚽ คะแนนสดฟุตบอล, โปรแกรมแข่ง และตารางอันดับสำหรับการแข่งขันที่คุณติดตาม.
-- [WormAlien/hub-cc](https://github.com/WormAlien/hub-cc) - Local control plane for Claude Code on Windows and macOS: switch LLM gateways…
+- [WormAlien/hub-cc](https://github.com/WormAlien/hub-cc) - คอนโทรลเพลนในเครื่องสำหรับ Claude Code บน Windows และ macOS: สลับเกตเวย์ LLM…
 - [johncattrall/keymap-ai](https://github.com/johncattrall/keymap-ai) - ทักษะ Agent…
 - [philoserf/claude-code-config](https://github.com/philoserf/claude-code-config) - การกำหนดค่า Claude Code ส่วนบุคคลที่มีการจัดการเวอร์ชันภายใน ~/.claude…
 - [ashafizullah/claude-code-muslim-mods](https://github.com/ashafizullah/claude-code-muslim-mods) - เวลาละหมาด วันที่ฮิจเราะห์ adhkar อายะฮ์ประจำวัน การถือศีลอดซุนนะฮ์ รอมฎอน…
 - [livlign/ccbit](https://github.com/livlign/ccbit) - บรรทัดสถานะที่รับรู้เซสชันสำหรับ Claude Code ใบหน้า kaomoji อ่าน transcript…
 - [benz-ai-x/dsh-research-graph](https://github.com/benz-ai-x/dsh-research-graph) - DSH Research Graph · 研图 — ปลั๊กอิน DeepSeek Harness สำหรับหัวข้อวิจัย…
-- [GoSlowPoke168/claude-statusline](https://github.com/GoSlowPoke168/claude-statusline) - Useful statusline for Claude Code that displays model, effort, context, cost…
+- [GoSlowPoke168/claude-statusline](https://github.com/GoSlowPoke168/claude-statusline) - Two-line truecolor statusline for Claude Code.
 - [pierrebelin/claude-code-toolkit](https://github.com/pierrebelin/claude-code-toolkit) - ชุดเครื่องมือ Claude Code แบบพกพาสำหรับ .NET DDD/Clean Architecture: เอเจนต์…
 - [hoobnn/hoobnn-agent-mods](https://github.com/hoobnn/hoobnn-agent-mods) - ชุดปลั๊กอินสำหรับ Claude Code, pi และ DeepSeek Harness: HUD แถบสถานะ…
 - [jcdendrite/claude-config](https://github.com/jcdendrite/claude-config) - การกำหนดค่าส่วนกลางแบบพกพาสำหรับ Claude Code: ทักษะแบบกำหนดเอง, ฮุก PreToolUse…
@@ -1962,7 +1828,7 @@ Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and 
 - [manson341349-beep/claude-desktop-mods](https://github.com/manson341349-beep/claude-desktop-mods) - ม็อดอย่างไม่เป็นทางการสำหรับแท็บ Code ของ Claude Desktop — usage-pet…
 - [romnycristopher/claude-am-mods](https://github.com/romnycristopher/claude-am-mods) - คลังเก็บม็อด Awesome Media ของ Claude Code.
 - [rootstudioyaml/sprag](https://github.com/rootstudioyaml/sprag) - ลดค่าใช้จ่าย token ของ Claude Code และ Codex…
-- [tedserbinski/claude-code-statusline](https://github.com/tedserbinski/claude-code-statusline) - Simple and useful status line setup for Claude Code.
+- [tedserbinski/claude-code-statusline](https://github.com/tedserbinski/claude-code-statusline) - การตั้งค่า status line ที่เรียบง่ายและมีประโยชน์สำหรับ Claude Code.
 - [aquahitt/claude-code-limit-alerts](https://github.com/aquahitt/claude-code-limit-alerts) - การแจ้งเตือนขีดจำกัดการใช้งานสำหรับ Claude Code: การแจ้งเตือน macOS…
 - [fbincon/claude-code-statusline](https://github.com/fbincon/claude-code-statusline) - status line ของ Claude Code ที่กำหนดค่าได้สำหรับ Linux, WSL, Windows และ macOS…
 - [JairoTorregrosa/claude-statusline](https://github.com/JairoTorregrosa/claude-statusline) - statusline Rust ที่รวดเร็วสำหรับ Claude Code — ใช้ payload เป็นหลัก, git…
@@ -1974,45 +1840,41 @@ Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and 
 - [Obednal97/claude-statusline-kit](https://github.com/Obednal97/claude-statusline-kit) - บรรทัดสถานะ Claude Code หลายแถว: ค่าใช้จ่าย, context %, git…
 - [salvanya/claude_code_statusline](https://github.com/salvanya/claude_code_statusline) - แถบสถานะพร้อมข้อมูลที่มีประโยชน์สำหรับ claude code.
 - [Screddyice/claude-code-harness](https://github.com/Screddyice/claude-code-harness) - เทมเพลตเริ่มต้นสำหรับจัดระเบียบเวิร์กสเปซ Claude Code แบบหลายบริษัท: เทมเพลต…
+- [spacegrowth/claude-relay](https://github.com/spacegrowth/claude-relay) - Claude Code plugin: a lead session delegates work packets to executor sessions…
 - [tc3oliver/claude-team-kit](https://github.com/tc3oliver/claude-team-kit) - ทีมเอเจนต์แบบเนทีฟ อยู่ภายใต้การควบคุม จำกัดจำนวนผู้ทำงานอย่างเข้มงวด…
 - [andkirby/claude-statusline](https://github.com/andkirby/claude-statusline) - statusline แบบกำหนดเองสำหรับ Claude Code — แถบ context…
-- [AsyrafHussin/claude-code-statusline](https://github.com/AsyrafHussin/claude-code-statusline) - A clean, informative status line for Claude Code — shows project, git status…
+- [AsyrafHussin/claude-code-statusline](https://github.com/AsyrafHussin/claude-code-statusline) - บรรทัดสถานะที่สะอาดและให้ข้อมูลสำหรับ Claude Code — แสดงโปรเจกต์ สถานะ git…
 - [bunderlog/claude-plugins](https://github.com/bunderlog/claude-plugins) - ตลาดปลั๊กอิน Claude Code พร้อม baloo: ทักษะ…
+- [charlie-818/claude-dispatch](https://github.com/charlie-818/claude-dispatch) - Phone control for a fleet of live Claude Code panes — attach to existing iTerm2…
 - [ChristianVerghis/claude-statusline](https://github.com/ChristianVerghis/claude-statusline) - บรรทัดสถานะ Claude Code: การใช้งานบริบท แถบโควตา 5h/7d เวลารีเซ็ต และสาขา git.
 - [ctfbio/claude-code-statusline](https://github.com/ctfbio/claude-code-statusline) - บรรทัดสถานะ Claude Code ระดับมืออาชีพ: ระยะเวลาเซสชัน…
 - [cvrt-gmbh/claude-statusline](https://github.com/cvrt-gmbh/claude-statusline) - บรรทัดสถานะที่รับรู้ข้อมูลการสมัครสมาชิกสำหรับ Claude Code.
-- [d3r3nic/claude-live-sessions](https://github.com/d3r3nic/claude-live-sessions) - ปลั๊กอิน Claude Code: บานหน้าต่างแสดงเซสชัน Claude Code และ Codex แบบสดบน Mac…
 - [diegorv/koko.claude-statusline](https://github.com/diegorv/koko.claude-statusline) - statusline ของเทอร์มินัลที่ครบครันสำหรับ Claude Code — Bun + TypeScript ไม่มี…
-- [eddywong888/claude-castle-mod](https://github.com/eddywong888/claude-castle-mod) - A Castlevania-style usage HUD mod for Claude Code: context blood meter…
 - [ejklock/claude-mermaid-render](https://github.com/ejklock/claude-mermaid-render) - ปลั๊กอิน Claude Code ที่แสดงไดอะแกรม Mermaid อย่างสวยงามในทรานสคริปต์: การ์ด…
 - [filtercoffeeway/claude-kit](https://github.com/filtercoffeeway/claude-kit) - เครื่องมือ skills และ agents สำหรับ Claude Code — เริ่มด้วย status line ที่แสดง…
-- [Furkan-rgb/claude-config](https://github.com/Furkan-rgb/claude-config) - การตั้งค่าส่วนกลางของ Claude Code: agents, skills, mods, settings.
+- [giribboy77-arch/claude-statusline](https://github.com/giribboy77-arch/claude-statusline) - Claude Code 커스텀 상태줄 (모델, effort, 컨텍스트, 캐시, 사용량 한도).
 - [Guidin9/claude-usage-footer](https://github.com/Guidin9/claude-usage-footer) - ปลั๊กอิน Claude Code: ดูขีดจำกัดการใช้งาน Claude 5…
 - [hardtomakeanadress/claude-code-deepseek-cost](https://github.com/hardtomakeanadress/claude-code-deepseek-cost) - ค่าใช้จ่าย API จริงของ DeepSeek สำหรับ Claude Code…
-- [HiramAA/claude-desktop-mods](https://github.com/HiramAA/claude-desktop-mods) - Mods para Claude Code y Claude Desktop en Windows con WSL: Docker y rendimiento…
 - [ihororlovskyi/claude-statusline](https://github.com/ihororlovskyi/claude-statusline) - บรรทัดสถานะ Claude Code พร้อมแถวแผงเอเจนต์.
 - [izahamyatim/claude-plugin-fizzy](https://github.com/izahamyatim/claude-plugin-fizzy) - 🚀 ซิงก์รายการสิ่งที่ต้องทำของ Claude ไปยัง Fizzy.do…
-- [J-J-E/claude-kanban](https://github.com/J-J-E/claude-kanban) - A markdown kanban board for Claude Code: cards are files, a board pane, and a…
-- [kernastra/claudecode](https://github.com/kernastra/claudecode) - A collection of Claude Code skills, mods, and other add ons that I.
+- [J-J-E/claude-kanban](https://github.com/J-J-E/claude-kanban) - บอร์ดคัมบังแบบ markdown สำหรับ Claude Code: การ์ดคือไฟล์ มีแผงบอร์ด…
 - [Kimmihappy793/claude-status-line](https://github.com/Kimmihappy793/claude-status-line) - แสดงแถบสถานะโดยละเอียดพร้อมรหัสสีสำหรับ Claude Code โดยแสดงบริบท สถานะ git…
 - [konnichiwab/claude-code-config](https://github.com/konnichiwab/claude-code-config) - เมนูการตั้งค่า บรรทัดสถานะ และการกำหนดค่าสำหรับ Claude Code.
-- [ldk00315-jpg/claude-code-voice-mod](https://github.com/ldk00315-jpg/claude-code-voice-mod) - คุยกับ Claude Code ด้วยเสียงบน Windows: Mod + helper ที่ใช้ codex app-server…
 - [matthewjschultz/claude-statusline](https://github.com/matthewjschultz/claude-statusline) - บรรทัดสถานะ Claude Code แบบกำหนดเอง พร้อมหน้าต่างบริบท การติดตามการใช้งาน API…
-- [melderan/claude-statusline-rust](https://github.com/melderan/claude-statusline-rust) - บรรทัดสถานะ Rust ที่รวดเร็วสำหรับ Claude Code.
-- [mgstegmaier/claude-plugins](https://github.com/mgstegmaier/claude-plugins) - ปลั๊กอิน claude, skills, mods และอื่น ๆ ที่สร้างขึ้นเองและปลอดกรง.
 - [msinclair-sudo/claude-code-setup](https://github.com/msinclair-sudo/claude-code-setup) - ตัวติดตั้งสภาพแวดล้อม Claude Code: skills, statusline, hooks, permissions…
+- [muemadennis/claude-code-command-center](https://github.com/muemadennis/claude-code-command-center) - Claude Code Live Dashboard 2026: Track Costs, Tokens &amp; Git Branch Status.
 - [oshnilia/claude-plugins](https://github.com/oshnilia/claude-plugins) - ปลั๊กอินและม็อด Claude Code สำหรับทำความเข้าใจว่า Claude ทำอะไร…
 - [peaceinitiativemenhadenoil263/claude-status-bar](https://github.com/peaceinitiativemenhadenoil263/claude-status-bar) - ตรวจสอบสถานะ Claude Code จากแถบเมนู macOS…
 - [pirncedark/afu-claude-statusline](https://github.com/pirncedark/afu-claude-statusline) - แถบสถานะหลายแถวสีสันสดใสสำหรับ Claude Code (แถบโควตา บริบท แผงเอเจนต์ย่อย).
 - [rainyfei/claude-statusline-win](https://github.com/rainyfei/claude-statusline-win) - บรรทัดสถานะ Claude Code สำหรับ Windows (PowerShell): แถบการใช้งาน…
-- [realkewal/claude-kit](https://github.com/realkewal/claude-kit) - ปลั๊กอิน Claude Code แถบการใช้งานจะแสดง rate limit…
 - [roy651/cc-plugins](https://github.com/roy651/cc-plugins) - ม็อด Bearings and Glossary สำหรับ Claude Code.
 - [Rubio-Enterprises/claude-statusline](https://github.com/Rubio-Enterprises/claude-statusline) - statusline แบบกำหนดเองสำหรับ Claude Code.
-- [satoramoto/awesome-claude](https://github.com/satoramoto/awesome-claude) - การกำหนดค่าและม็อดของ Claude Code พร้อมชุดคอมโพเนนต์ที่ใช้ร่วมกัน สนามทดลอง และ…
 - [thaiquangquy/claude.me](https://github.com/thaiquangquy/claude.me) - การกำหนดค่า Claude Code แบบพกพา: CLAUDE.md, settings, statusline, skills.
 - [Undone-drawknife974/claude-code-statusline](https://github.com/Undone-drawknife974/claude-code-statusline) - ติดตามการใช้บริบทของ Claude Code ค่าใช้จ่ายเซสชัน…
 - [UtakataKyosui/utakata-cc-mod](https://github.com/UtakataKyosui/utakata-cc-mod) - ชุด mod สำหรับ Claude Code.
+- [viplav-artha/claude-code-lessons](https://github.com/viplav-artha/claude-code-lessons) - A hands-on, verified deep-dive into Claude Code — CLAUDE.md, subagents, skills…
 - [vladimir-ks/ai-agile-claude-code-statusline](https://github.com/vladimir-ks/ai-agile-claude-code-statusline) - statusline สำหรับติดตามค่าใช้จ่ายและตรวจสอบเซสชันแบบเรียลไทม์สำหรับ Claude Code.
+- [wmkeza/claude-plugins](https://github.com/wmkeza/claude-plugins) - wmkeza.
 - [xinvxueyuan/cordis-plugin-secret](https://github.com/xinvxueyuan/cordis-plugin-secret) - ปลั๊กอิน Cordis / DeepSeek Harness — เอเจนต์ขอข้อมูลลับจากมนุษย์ใน conversation…
 - [yacb2/claude-statusline](https://github.com/yacb2/claude-statusline) - บรรทัดสถานะ Claude Code สามบรรทัด: ความลึกของบริบท ขีดจำกัดอัตราข้ามเซสชัน…
 - [YoniYon00/claude-feedback-rings](https://github.com/YoniYon00/claude-feedback-rings) - Context Rot Detector 2026 - ตัวตรวจสอบหน่วยความจำ AI…
@@ -2036,7 +1898,7 @@ Live GSD dashboard for Claude Code: roadmap, agent tree with forks, context and 
 DeepSeek Harness และ Cordis ไปถึงจุดเดียวกันจากคนละทิศทาง: สำหรับทั้งสองระบบ ปลั๊กอินคือกลไกม็อด ดังนั้นปลั๊กอินที่นั่นจึงเทียบเท่ากับม็อดที่นี่
 
 <details>
-<summary>🧵 <b><a href="https://github.com/ruvnet/ruflo">ruvnet/ruflo</a></b> · ⭐74299 · TypeScript · 👁️ observed · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/ruvnet/ruflo">ruvnet/ruflo</a></b> · ⭐74307 · TypeScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 สรุป
 
@@ -2056,7 +1918,7 @@ DeepSeek Harness และ Cordis ไปถึงจุดเดียวกั�
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **74299**  |
+| ดาว                  | **74307**  |
 | Push ล่าสุด            | 2026-10-11 |
 | ปรากฏในรายการครั้งแรก | 2026-10-04 |
 
@@ -2072,7 +1934,7 @@ DeepSeek Harness และ Cordis ไปถึงจุดเดียวกั�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/nexu-io/open-design">nexu-io/open-design</a></b> · ⭐100435 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/nexu-io/open-design">nexu-io/open-design</a></b> · ⭐100445 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 สรุป
 
@@ -2090,7 +1952,7 @@ DeepSeek Harness และ Cordis ไปถึงจุดเดียวกั�
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **100435** |
+| ดาว                  | **100445** |
 | Push ล่าสุด            | 2026-10-11 |
 | ปรากฏในรายการครั้งแรก | 2026-10-04 |
 
@@ -2106,7 +1968,7 @@ DeepSeek Harness และ Cordis ไปถึงจุดเดียวกั�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/tt-a1i/archify">tt-a1i/archify</a></b> · ⭐81723 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/tt-a1i/archify">tt-a1i/archify</a></b> · ⭐81766 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 สรุป
 
@@ -2124,7 +1986,7 @@ DeepSeek Harness และ Cordis ไปถึงจุดเดียวกั�
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **81723**  |
+| ดาว                  | **81766**  |
 | Push ล่าสุด            | 2026-10-11 |
 | ปรากฏในรายการครั้งแรก | 2026-10-04 |
 
@@ -2140,7 +2002,7 @@ DeepSeek Harness และ Cordis ไปถึงจุดเดียวกั�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/morluto/rea">morluto/rea</a></b> · ⭐76541 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/morluto/rea">morluto/rea</a></b> · ⭐78887 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 สรุป
 
@@ -2158,7 +2020,7 @@ DeepSeek Harness และ Cordis ไปถึงจุดเดียวกั�
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **76541**  |
+| ดาว                  | **78887**  |
 | Push ล่าสุด            | 2026-10-11 |
 | ปรากฏในรายการครั้งแรก | 2026-10-05 |
 
@@ -2174,7 +2036,7 @@ DeepSeek Harness และ Cordis ไปถึงจุดเดียวกั�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/esengine/DeepSeek-Reasonix">esengine/DeepSeek-Reasonix</a></b> · ⭐35760 · Go · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/esengine/DeepSeek-Reasonix">esengine/DeepSeek-Reasonix</a></b> · ⭐35758 · Go · 🔎 inferred · 0 天</summary>
 
 ##### 📝 สรุป
 
@@ -2192,7 +2054,7 @@ DeepSeek Harness และ Cordis ไปถึงจุดเดียวกั�
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **35760**  |
+| ดาว                  | **35758**  |
 | Push ล่าสุด            | 2026-10-11 |
 | ปรากฏในรายการครั้งแรก | 2026-10-06 |
 
@@ -2201,7 +2063,7 @@ DeepSeek Harness และ Cordis ไปถึงจุดเดียวกั�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/anywhere-labs/dsh-desktop">anywhere-labs/dsh-desktop</a></b> · ⭐30374 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/anywhere-labs/dsh-desktop">anywhere-labs/dsh-desktop</a></b> · ⭐30384 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 สรุป
 
@@ -2219,7 +2081,7 @@ DeepSeek Harness และ Cordis ไปถึงจุดเดียวกั�
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **30374**  |
+| ดาว                  | **30384**  |
 | Push ล่าสุด            | 2026-10-10 |
 | ปรากฏในรายการครั้งแรก | 2026-10-10 |
 
@@ -2235,7 +2097,7 @@ DeepSeek Harness และ Cordis ไปถึงจุดเดียวกั�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/titanwings/distilly">titanwings/distilly</a></b> · ⭐25474 · Python · 🔎 inferred · 18 天</summary>
+<summary>🧵 <b><a href="https://github.com/titanwings/distilly">titanwings/distilly</a></b> · ⭐25477 · Python · 🔎 inferred · 18 天</summary>
 
 ##### 📝 สรุป
 
@@ -2253,7 +2115,7 @@ Distilly — กลั่นวิธีคิดของพวกเขาใ�
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **25474**  |
+| ดาว                  | **25477**  |
 | Push ล่าสุด            | 2026-09-22 |
 | ปรากฏในรายการครั้งแรก | 2026-10-04 |
 
@@ -2296,7 +2158,7 @@ Meta-Framework ของความสามารถในการประ�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/zhu1090093659/dsh-web">zhu1090093659/dsh-web</a></b> · ⭐8598 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/zhu1090093659/dsh-web">zhu1090093659/dsh-web</a></b> · ⭐8605 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 สรุป
 
@@ -2314,7 +2176,7 @@ Meta-Framework ของความสามารถในการประ�
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **8598**   |
+| ดาว                  | **8605**   |
 | Push ล่าสุด            | 2026-10-10 |
 | ปรากฏในรายการครั้งแรก | 2026-10-04 |
 
@@ -2330,11 +2192,11 @@ Meta-Framework ของความสามารถในการประ�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/Ebony-Vinyl/dsh-our-free-model">Ebony-Vinyl/dsh-our-free-model</a></b> · ⭐7124 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/Ebony-Vinyl/dsh-our-free-model">Ebony-Vinyl/dsh-our-free-model</a></b> · ⭐7358 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 สรุป
 
-在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
+ติดตั้งปลั๊กอินนี้ใน dsh ก็ใช้งานได้ทันที ไม่ต้องเข้าสู่ระบบ สมัครสมาชิก หรือกรอก API Key ก็สามารถใช้โมเดลล้ำสมัย รวมถึง DeepSeek V4.1 Flash และ Kimi K3 ได้ — ฟรีอย่างสมบูรณ์ ไม่มีการจำกัดปริมาณการใช้งาน สิ่งที่คุณต้องทำคือติดตั้งปลั๊กอินนี้ใน dsh: ไม่ต้องเข้าสู่ระบบ ไม่ต้องสมัครสมาชิก ไม่ต้องใช้คีย์ API — โมเดลแนวหน้าพร้อมใช้งานทันที รวมถึง DeepSeek V4.1 Flash และ Kimi K3 ฟรีอย่างสมบูรณ์ ไม่มีการจำกัดการใช้งาน
 
 ##### 📌 ข้อมูลพื้นฐาน
 
@@ -2348,16 +2210,57 @@ Meta-Framework ของความสามารถในการประ�
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **7124**   |
+| ดาว                  | **7358**   |
 | Push ล่าสุด            | 2026-10-11 |
 | ปรากฏในรายการครั้งแรก | 2026-10-11 |
 
 🏷 `ai-agents` · `deepseek` · `deepseek-harness` · `developer-tools` · `dsh` · `dsh-plugin` · `free-model` · `llm`
 
+---
+
+<table><tr><th align="center" width="50%">🖼 รูปภาพ</th><th align="center" width="50%">🎬 วิดีโอ</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/ebony-vinyl--dsh-our-free-model/212e73dc2aecbd46.png" width="100%" alt="Ebony-Vinyl/dsh-our-free-model screenshot"></td>
+<td align="center" valign="top"><sub>ไม่มีสื่อเผยแพร่</sub></td>
+</tr></table>
+
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/ccch1mneyyy/dsh-TUI">ccch1mneyyy/dsh-TUI</a></b> · ⭐4270 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget">MeteorNOX/DeepSeek-Balance-Whale-Widget</a></b> · ⭐4441 · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 สรุป
+
+DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装
+
+##### 📌 ข้อมูลพื้นฐาน
+
+| ฟิลด์   | ค่า                                                                             |
+| ------- | ------------------------------------------------------------------------------ |
+| หมวดหมู่  | `ระบบนิเวศปลั๊กอินของ DSH และ Cordis`                                           |
+| หลักฐาน | `ประกาศว่าเป็นม็อด ปลั๊กอิน หรือฮุก แต่ไม่ได้ระบุรายละเอียดเกี่ยวกับพื้นที่ม็อดโดยเฉพาะ` |
+| ภาษา    | JavaScript                                                                     |
+
+##### 📊 ข้อมูล
+
+| ตัวชี้วัด             | ค่า         |
+| -------------------- | ---------- |
+| ดาว                  | **4441**   |
+| Push ล่าสุด            | 2026-10-11 |
+| ปรากฏในรายการครั้งแรก | 2026-10-11 |
+
+🏷 `cordis` · `deepseek` · `deepseek-harness` · `developer-tools` · `dsh` · `dsh-plugin` · `dsh-plugins` · `floating-widget`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 รูปภาพ</th><th align="center" width="50%">🎬 วิดีโอ</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/meteornox--deepseek-balance-whale-widget/c17efbb95a7522ee.png" width="100%" alt="MeteorNOX/DeepSeek-Balance-Whale-Widget screenshot"></td>
+<td align="center" valign="top"><sub>ไม่มีสื่อเผยแพร่</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/ccch1mneyyy/dsh-TUI">ccch1mneyyy/dsh-TUI</a></b> · ⭐4276 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 สรุป
 
@@ -2375,7 +2278,7 @@ Meta-Framework ของความสามารถในการประ�
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **4270**   |
+| ดาว                  | **4276**   |
 | Push ล่าสุด            | 2026-10-11 |
 | ปรากฏในรายการครั้งแรก | 2026-10-10 |
 
@@ -2391,11 +2294,11 @@ Meta-Framework ของความสามารถในการประ�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/dsh-tauri/deepseek-harness-desktop">dsh-tauri/deepseek-harness-desktop</a></b> · ⭐3144 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/dsh-tauri/deepseek-harness-desktop">dsh-tauri/deepseek-harness-desktop</a></b> · ⭐3150 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 สรุป
 
-DeepSeek Harness Tauri เวอร์ชันเดสก์ท็อป | ตัวติดตั้งขนาดเพียง 8mb ไม่ต้องตั้งค่าสภาพแวดล้อม มีปลั๊กอินที่ตั้งค่าไว้ล่วงหน้า Windows / macOS / Linux
+DeepSeek Harness รุ่นเดสก์ท็อป Tauri | ตัวติดตั้งขนาดเพียง 8 MB ไม่ต้องตั้งค่าสภาพแวดล้อม มีปลั๊กอินที่ตั้งค่าไว้ล่วงหน้า รองรับ Windows / macOS / Linux
 
 ##### 📌 ข้อมูลพื้นฐาน
 
@@ -2409,7 +2312,7 @@ DeepSeek Harness Tauri เวอร์ชันเดสก์ท็อป | ต
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **3144**   |
+| ดาว                  | **3150**   |
 | Push ล่าสุด            | 2026-10-11 |
 | ปรากฏในรายการครั้งแรก | 2026-10-11 |
 
@@ -2425,45 +2328,11 @@ DeepSeek Harness Tauri เวอร์ชันเดสก์ท็อป | ต
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/NanmiCoder/dsh-agent-teams">NanmiCoder/dsh-agent-teams</a></b> · ⭐2012 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/bowenliang123/dsh-context">bowenliang123/dsh-context</a></b> · ⭐1970 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 สรุป
 
-DeepSeek Harness 的 Agent Teams 多智能体协作插件，支持多个 AI Agent 组成团队，协同完成复杂任务，实现任务分配、并行执行、成员通信与团队协作。 AgentTeams plugin for DeepSeek Harness
-
-##### 📌 ข้อมูลพื้นฐาน
-
-| ฟิลด์   | ค่า                                                                             |
-| ------- | ------------------------------------------------------------------------------ |
-| หมวดหมู่  | `ระบบนิเวศปลั๊กอินของ DSH และ Cordis`                                           |
-| หลักฐาน | `ประกาศว่าเป็นม็อด ปลั๊กอิน หรือฮุก แต่ไม่ได้ระบุรายละเอียดเกี่ยวกับพื้นที่ม็อดโดยเฉพาะ` |
-| ภาษา    | JavaScript                                                                     |
-
-##### 📊 ข้อมูล
-
-| ตัวชี้วัด             | ค่า         |
-| -------------------- | ---------- |
-| ดาว                  | **2012**   |
-| Push ล่าสุด            | 2026-10-11 |
-| ปรากฏในรายการครั้งแรก | 2026-10-11 |
-
-🏷 `agentteams` · `deepseekharness` · `dsh` · `dsh-agent-teams` · `dsh-plugin`
-
----
-
-<table><tr><th align="center" width="50%">🖼 รูปภาพ</th><th align="center" width="50%">🎬 วิดีโอ</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/nanmicoder--dsh-agent-teams/b3647beca323c018.png" width="100%" alt="NanmiCoder/dsh-agent-teams screenshot"></td>
-<td align="center" valign="top"><sub>ไม่มีสื่อเผยแพร่</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/bowenliang123/dsh-context">bowenliang123/dsh-context</a></b> · ⭐1969 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 สรุป
-
-The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器和侧边栏与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。
+ปลั๊กอิน DeepSeek Harness ที่ดีที่สุดสำหรับการดูข้อมูลเชิงลึกและการจัดการบริบท พร้อมแดชบอร์ดบริบท / เบราว์เซอร์ / แถบด้านข้าง และคำสั่งบริบท สำหรับดูสถิติ องค์ประกอบ การแยกส่วน รายละเอียดการเปลี่ยนแปลงของบริบท ทำความเข้าใจว่าบริบทประกอบขึ้นอย่างไรและเปลี่ยนแปลงอย่างไร ปลั๊กอินแสดงภาพบริบทแบบครบวงจรสำหรับ DeepSeek Harness พร้อมแผง Context เบราว์เซอร์ แถบด้านข้าง และคำสั่ง Context สำหรับเจาะลึกองค์ประกอบ การเปลี่ยนแปลง การบีบอัด การตัดแต่ง และเหตุการณ์หรือการดำเนินการอื่น ๆ ของบริบท
 
 ##### 📌 ข้อมูลพื้นฐาน
 
@@ -2477,7 +2346,7 @@ The best DeepSeek Harness plugin for context insight and management, with contex
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **1969**   |
+| ดาว                  | **1970**   |
 | Push ล่าสุด            | 2026-10-11 |
 | ปรากฏในรายการครั้งแรก | 2026-10-11 |
 
@@ -2493,11 +2362,11 @@ The best DeepSeek Harness plugin for context insight and management, with contex
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/xmanrui/dsh-im">xmanrui/dsh-im</a></b> · ⭐1780 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/xmanrui/dsh-im">xmanrui/dsh-im</a></b> · ⭐1782 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 สรุป
 
-通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).
+เชื่อมต่อบอต IM เข้ากับ DeepSeek Harness ผ่าน QR code หรือข้อมูลรับรอง (รองรับ 9 ช่องทาง) เชื่อมต่อบอต IM เข้ากับ DeepSeek Harness ผ่าน QR code หรือข้อมูลรับรอง (9 ช่องทาง)
 
 ##### 📌 ข้อมูลพื้นฐาน
 
@@ -2511,7 +2380,7 @@ The best DeepSeek Harness plugin for context insight and management, with contex
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **1780**   |
+| ดาว                  | **1782**   |
 | Push ล่าสุด            | 2026-10-11 |
 | ปรากฏในรายการครั้งแรก | 2026-10-11 |
 
@@ -2527,11 +2396,45 @@ The best DeepSeek Harness plugin for context insight and management, with contex
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/EthanYoQ/AI-Novel-Writer">EthanYoQ/AI-Novel-Writer</a></b> · ⭐1394 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/AdamPlatin123/dsh-plugin-radar">AdamPlatin123/dsh-plugin-radar</a></b> · ⭐1463 · Python · 🔎 inferred · 0 天</summary>
 
 ##### 📝 สรุป
 
-AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版，支持本地和在线模型。AI Novel Writing Software: Organizes inspirations, characters, worldbuilding, outlines, chapter drafting, review, and revision into a controllable workflow. Features desktop apps for Windows/macOS, Ollama integration, and a DeepSeek Harness (DSH) plugin preview.
+DSH Plugin Radar — open-source ecosystem radar for DeepSeek Harness plugins: continuous discovery (21k+ candidates), k8s runtime validation (13k+ tests), 15-min snapshots; the catalog is a generated artifact — 开源 DSH 插件生态雷达：持续发现 2.1 万+ 候选、k8s 运行级实测 1.3 万+、15 分钟快照；插件目录为自动生成的产物
+
+##### 📌 ข้อมูลพื้นฐาน
+
+| ฟิลด์   | ค่า                                                                             |
+| ------- | ------------------------------------------------------------------------------ |
+| หมวดหมู่  | `ระบบนิเวศปลั๊กอินของ DSH และ Cordis`                                           |
+| หลักฐาน | `ประกาศว่าเป็นม็อด ปลั๊กอิน หรือฮุก แต่ไม่ได้ระบุรายละเอียดเกี่ยวกับพื้นที่ม็อดโดยเฉพาะ` |
+| ภาษา    | Python                                                                         |
+
+##### 📊 ข้อมูล
+
+| ตัวชี้วัด             | ค่า         |
+| -------------------- | ---------- |
+| ดาว                  | **1463**   |
+| Push ล่าสุด            | 2026-10-11 |
+| ปรากฏในรายการครั้งแรก | 2026-10-11 |
+
+🏷 `agent-plugins` · `continuous-validation` · `deepseek-harness` · `dsh` · `dsh-plugin` · `ecosystem-radar` · `plugin-registry`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 รูปภาพ</th><th align="center" width="50%">🎬 วิดีโอ</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/adamplatin123--dsh-plugin-radar/fb6ad7eb8891212c.jpg" width="100%" alt="AdamPlatin123/dsh-plugin-radar screenshot"></td>
+<td align="center" valign="top"><sub>ไม่มีสื่อเผยแพร่</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/EthanYoQ/AI-Novel-Writer">EthanYoQ/AI-Novel-Writer</a></b> · ⭐1395 · TypeScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 สรุป
+
+ซอฟต์แวร์สร้างนิยายด้วย AI: จัดระเบียบแรงบันดาลใจ ตัวละคร การสร้างโลก โครงเรื่อง การเขียนบท การตรวจทาน และการแก้ไขให้เป็นเวิร์กโฟลว์ที่ควบคุมได้ มีแอปเดสก์ท็อปสำหรับ Windows/macOS รองรับโมเดลภายในเครื่องและออนไลน์ ซอฟต์แวร์เขียนนิยายด้วย AI: จัดระเบียบแรงบันดาลใจ ตัวละคร การสร้างโลก โครงเรื่อง การร่างบท การตรวจทาน และการแก้ไขให้เป็นเวิร์กโฟลว์ที่ควบคุมได้ มีแอปเดสก์ท็อปสำหรับ Windows/macOS การผสานรวม Ollama และตัวอย่างปลั๊กอิน DeepSeek Harness (DSH)
 
 ##### 📌 ข้อมูลพื้นฐาน
 
@@ -2545,7 +2448,7 @@ AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作�
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **1394**   |
+| ดาว                  | **1395**   |
 | Push ล่าสุด            | 2026-10-11 |
 | ปรากฏในรายการครั้งแรก | 2026-10-11 |
 
@@ -2629,11 +2532,11 @@ AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/text2future/flowix">text2future/flowix</a></b> · ⭐453 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/omdsh-dev/dsh-genui">omdsh-dev/dsh-genui</a></b> · ⭐542 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 สรุป
 
-Notes for you, Memory for your agents. / 内置 Deepseek harness Agent / 适用 办公 & 写作 & Coding
+GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.
 
 ##### 📌 ข้อมูลพื้นฐาน
 
@@ -2647,27 +2550,27 @@ Notes for you, Memory for your agents. / 内置 Deepseek harness Agent / 适用 
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **453**    |
+| ดาว                  | **542**    |
 | Push ล่าสุด            | 2026-10-11 |
 | ปรากฏในรายการครั้งแรก | 2026-10-11 |
 
-🏷 `agent-memory` · `claude-code` · `codex-cli` · `desktop` · `dsh` · `dsh-plugin` · `dsh-plugin-desktop` · `hermes-agent`
+🏷 `dsh` · `dsh-plugin`
 
 ---
 
 <table><tr><th align="center" width="50%">🖼 รูปภาพ</th><th align="center" width="50%">🎬 วิดีโอ</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/text2future--flowix/9fc65a8848fe78ee.png" width="100%" alt="text2future/flowix screenshot"></td>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/text2future--flowix/ea3f84c8693d4236.gif" width="100%" alt="text2future/flowix animation"><br><sub>บันทึกแบบเคลื่อนไหว</sub></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/omdsh-dev--dsh-genui/cf8bd9040af17cab.png" width="100%" alt="omdsh-dev/dsh-genui screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/omdsh-dev--dsh-genui/1f990c9a328356e9.gif" width="100%" alt="omdsh-dev/dsh-genui animation"><br><sub>บันทึกแบบเคลื่อนไหว · <a href="https://raw.githubusercontent.com/omdsh-dev/dsh-genui/main/assets/demo.mp4">เปิดวิดีโอ</a></sub></td>
 </tr></table>
 
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/Mars-Sea/dsh-commandcode-provider">Mars-Sea/dsh-commandcode-provider</a></b> · ⭐377 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/Ikalus1988/MisakaNet">Ikalus1988/MisakaNet</a></b> · ⭐526 · Python · 🔎 inferred · 0 天</summary>
 
 ##### 📝 สรุป
 
-Command Code provider plugin for DeepSeek Harness (dsh). Adds Command Code model access, live model catalog, plan-aware model selection, reasoning effort, image input, web search, and multi-account support.
+📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. | https://misakanet.org
 
 ##### 📌 ข้อมูลพื้นฐาน
 
@@ -2675,22 +2578,22 @@ Command Code provider plugin for DeepSeek Harness (dsh). Adds Command Code model
 | ------- | ------------------------------------------------------------------------------ |
 | หมวดหมู่  | `ระบบนิเวศปลั๊กอินของ DSH และ Cordis`                                           |
 | หลักฐาน | `ประกาศว่าเป็นม็อด ปลั๊กอิน หรือฮุก แต่ไม่ได้ระบุรายละเอียดเกี่ยวกับพื้นที่ม็อดโดยเฉพาะ` |
-| ภาษา    | TypeScript                                                                     |
+| ภาษา    | Python                                                                         |
 
 ##### 📊 ข้อมูล
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **377**    |
+| ดาว                  | **526**    |
 | Push ล่าสุด            | 2026-10-11 |
 | ปรากฏในรายการครั้งแรก | 2026-10-11 |
 
-🏷 `command-code` · `commandcode` · `deepseek-harness` · `dsh` · `dsh-plugin` · `llm` · `llm-provider` · `plugin`
+🏷 `action` · `agents` · `cloudflare-workers` · `codex` · `cordis-plugin` · `d1` · `deepseek-harness` · `deepseek-harness-plugin`
 
 ---
 
 <table><tr><th align="center" width="50%">🖼 รูปภาพ</th><th align="center" width="50%">🎬 วิดีโอ</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/mars-sea--dsh-commandcode-provider/2f2256468a8af0b9.png" width="100%" alt="Mars-Sea/dsh-commandcode-provider screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/ikalus1988--misakanet/f6853900d49aba17.jpg" width="100%" alt="Ikalus1988/MisakaNet screenshot"></td>
 <td align="center" valign="top"><sub>ไม่มีสื่อเผยแพร่</sub></td>
 </tr></table>
 
@@ -2701,7 +2604,7 @@ Command Code provider plugin for DeepSeek Harness (dsh). Adds Command Code model
 
 ##### 📝 สรุป
 
-Your Intelligence, Orchestrated. Every builder. Every team. Every agent. For Everyone.
+สติปัญญาของคุณ จัดการอย่างเป็นระบบ ทุกผู้สร้าง ทุกทีม ทุก Agent สำหรับทุกคน
 
 ##### 📌 ข้อมูลพื้นฐาน
 
@@ -2731,11 +2634,45 @@ Your Intelligence, Orchestrated. Every builder. Every team. Every agent. For Eve
 </details>
 
 <details>
+<summary>🧵 <b><a href="https://github.com/xing-shuyin/pi-web-ui">xing-shuyin/pi-web-ui</a></b> · ⭐282 · TypeScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 สรุป
+
+Just open your browser — get all your work done.
+
+##### 📌 ข้อมูลพื้นฐาน
+
+| ฟิลด์   | ค่า                                                                             |
+| ------- | ------------------------------------------------------------------------------ |
+| หมวดหมู่  | `ระบบนิเวศปลั๊กอินของ DSH และ Cordis`                                           |
+| หลักฐาน | `ประกาศว่าเป็นม็อด ปลั๊กอิน หรือฮุก แต่ไม่ได้ระบุรายละเอียดเกี่ยวกับพื้นที่ม็อดโดยเฉพาะ` |
+| ภาษา    | TypeScript                                                                     |
+
+##### 📊 ข้อมูล
+
+| ตัวชี้วัด             | ค่า         |
+| -------------------- | ---------- |
+| ดาว                  | **282**    |
+| Push ล่าสุด            | 2026-10-11 |
+| ปรากฏในรายการครั้งแรก | 2026-10-11 |
+
+🏷 `dsh` · `dsh-desktop` · `dsh-plugin` · `pi` · `pi-web` · `pi-web-ui`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 รูปภาพ</th><th align="center" width="50%">🎬 วิดีโอ</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/xing-shuyin--pi-web-ui/926fb8bfa4f6062a.jpg" width="100%" alt="xing-shuyin/pi-web-ui screenshot"></td>
+<td align="center" valign="top"><sub>ไม่มีสื่อเผยแพร่</sub></td>
+</tr></table>
+
+</details>
+
+<details>
 <summary>🧵 <b><a href="https://github.com/acryldev/acryl">acryldev/acryl</a></b> · ⭐255 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 สรุป
 
-ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent.
+ACRYL - Agent Context Relay Yielding Lifecycles พื้นที่ทำงานถาวรหนึ่งแห่ง บริบทมาตรฐานหนึ่งชุด สำหรับ coding agent ใด ๆ
 
 ##### 📌 ข้อมูลพื้นฐาน
 
@@ -2759,40 +2696,6 @@ ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one c
 
 <table><tr><th align="center" width="50%">🖼 รูปภาพ</th><th align="center" width="50%">🎬 วิดีโอ</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/acryldev--acryl/47cfe6b23e87eea1.png" width="100%" alt="acryldev/acryl screenshot"></td>
-<td align="center" valign="top"><sub>ไม่มีสื่อเผยแพร่</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/cv-superding/dsh-deepseek-web-login">cv-superding/dsh-deepseek-web-login</a></b> · ⭐250 · JavaScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 สรุป
-
-ปลั๊กอิน DSH (DeepSeek Harness) อย่างไม่เป็นทางการ: ใช้โมเดลเว็บจาก chat.deepseek.com เป็นผู้ให้บริการ LLM — ดักจับการเข้าสู่ระบบผ่านเบราว์เซอร์ แก้โจทย์ PoW สตรีม SSE และเรียกใช้เครื่องมือด้วยการพรอมป์
-
-##### 📌 ข้อมูลพื้นฐาน
-
-| ฟิลด์   | ค่า                                                                             |
-| ------- | ------------------------------------------------------------------------------ |
-| หมวดหมู่  | `ระบบนิเวศปลั๊กอินของ DSH และ Cordis`                                           |
-| หลักฐาน | `ประกาศว่าเป็นม็อด ปลั๊กอิน หรือฮุก แต่ไม่ได้ระบุรายละเอียดเกี่ยวกับพื้นที่ม็อดโดยเฉพาะ` |
-| ภาษา    | JavaScript                                                                     |
-
-##### 📊 ข้อมูล
-
-| ตัวชี้วัด             | ค่า         |
-| -------------------- | ---------- |
-| ดาว                  | **250**    |
-| Push ล่าสุด            | 2026-10-10 |
-| ปรากฏในรายการครั้งแรก | 2026-10-09 |
-
-🏷 `browser-automation` · `cordis` · `cordis-plugin` · `deepseek` · `deepseek-harness` · `dsh` · `llm-provider`
-
----
-
-<table><tr><th align="center" width="50%">🖼 รูปภาพ</th><th align="center" width="50%">🎬 วิดีโอ</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/cv-superding--dsh-deepseek-web-login/b95392c45786ce03.png" width="100%" alt="cv-superding/dsh-deepseek-web-login screenshot"></td>
 <td align="center" valign="top"><sub>ไม่มีสื่อเผยแพร่</sub></td>
 </tr></table>
 
@@ -2833,11 +2736,11 @@ ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one c
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/T-Auto/dsh-ops">T-Auto/dsh-ops</a></b> · ⭐203 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/KelaoHu/dsh-lowtide">KelaoHu/dsh-lowtide</a></b> · ⭐170 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 สรุป
 
-Bash, PowerShell 7, and Rust-based tools for dsh on Windows to cut token usage. / 为windows的dsh提供bash、powershell7及rust的高性能tools来减少token消耗
+Time-shifting task delegation for DeepSeek Harness (dsh): plan tasks at leisure, they run unattended off-peak, come back to a report. Human-adjudicated, desktop + web.
 
 ##### 📌 ข้อมูลพื้นฐาน
 
@@ -2845,26 +2748,24 @@ Bash, PowerShell 7, and Rust-based tools for dsh on Windows to cut token usage. 
 | ------- | ------------------------------------------------------------------------------ |
 | หมวดหมู่  | `ระบบนิเวศปลั๊กอินของ DSH และ Cordis`                                           |
 | หลักฐาน | `ประกาศว่าเป็นม็อด ปลั๊กอิน หรือฮุก แต่ไม่ได้ระบุรายละเอียดเกี่ยวกับพื้นที่ม็อดโดยเฉพาะ` |
-| ภาษา    | JavaScript                                                                     |
+| ภาษา    | TypeScript                                                                     |
 
 ##### 📊 ข้อมูล
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **203**    |
+| ดาว                  | **170**    |
 | Push ล่าสุด            | 2026-10-11 |
 | ปรากฏในรายการครั้งแรก | 2026-10-11 |
 
-🏷 `dsh` · `dsh-plugin` · `dsh-plugins`
+🏷 `ai-agent` · `automation` · `batch-processing` · `cordis` · `deepseek` · `deepseek-harness` · `dsh-plugin` · `llm`
 
 ---
 
 <table><tr><th align="center" width="50%">🖼 รูปภาพ</th><th align="center" width="50%">🎬 วิดีโอ</th></tr><tr>
-<td align="center" valign="top"><img src="https://github.com/user-attachments/assets/7c9ba485-5323-42a2-b5a8-6dcda07f91c4" width="100%" alt="T-Auto/dsh-ops screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/kelaohu--dsh-lowtide/3d2509a82d1a3f11.png" width="100%" alt="KelaoHu/dsh-lowtide screenshot"></td>
 <td align="center" valign="top"><sub>ไม่มีสื่อเผยแพร่</sub></td>
 </tr></table>
-
-<sub>ดึงไฟล์จากคลังต้นทางโดยตรง เนื่องจากไม่ได้ประกาศใบอนุญาตที่อนุญาตให้แจกจ่ายต่อได้อย่างสะดวก</sub>
 
 </details>
 
@@ -2898,6 +2799,108 @@ Bash, PowerShell 7, and Rust-based tools for dsh on Windows to cut token usage. 
 <table><tr><th align="center" width="50%">🖼 รูปภาพ</th><th align="center" width="50%">🎬 วิดีโอ</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/totoro-qaq--dsh-plugin-bridge/568de849cd2e9608.png" width="100%" alt="Totoro-qaq/dsh-plugin-bridge screenshot"></td>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/totoro-qaq--dsh-plugin-bridge/b4a12cab0ba15f06.gif" width="100%" alt="Totoro-qaq/dsh-plugin-bridge animation"><br><sub>บันทึกแบบเคลื่อนไหว</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/WSL043/dsh-codex-subscription">WSL043/dsh-codex-subscription</a></b> · ⭐158 · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 สรุป
+
+Use your ChatGPT Plus / Pro (Codex) subscription in DeepSeek Harness (DSH): GPT-6 & Codex models, images, web search and quota via ChatGPT sign-in — no OpenAI API key. Beta: control DSH from the ChatGPT mobile app. 在 DSH 中使用 ChatGPT 订阅，并可用 ChatGPT 手机 App 远程控制。
+
+##### 📌 ข้อมูลพื้นฐาน
+
+| ฟิลด์   | ค่า                                                                             |
+| ------- | ------------------------------------------------------------------------------ |
+| หมวดหมู่  | `ระบบนิเวศปลั๊กอินของ DSH และ Cordis`                                           |
+| หลักฐาน | `ประกาศว่าเป็นม็อด ปลั๊กอิน หรือฮุก แต่ไม่ได้ระบุรายละเอียดเกี่ยวกับพื้นที่ม็อดโดยเฉพาะ` |
+| ภาษา    | JavaScript                                                                     |
+
+##### 📊 ข้อมูล
+
+| ตัวชี้วัด             | ค่า         |
+| -------------------- | ---------- |
+| ดาว                  | **158**    |
+| Push ล่าสุด            | 2026-10-11 |
+| ปรากฏในรายการครั้งแรก | 2026-10-11 |
+
+🏷 `ai-agent` · `chatgpt` · `chatgpt-plus` · `chatgpt-pro` · `chatgpt-subscription` · `codex` · `codex-cli-alternative` · `codex-subscription`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 รูปภาพ</th><th align="center" width="50%">🎬 วิดีโอ</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/wsl043--dsh-codex-subscription/0c3daa4061aa684e.webp" width="100%" alt="WSL043/dsh-codex-subscription screenshot"></td>
+<td align="center" valign="top"><sub>ไม่มีสื่อเผยแพร่</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/FeatherHunter/dsh-mattpocock-skills-deck">FeatherHunter/dsh-mattpocock-skills-deck</a></b> · ⭐132 · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 สรุป
+
+安装即自带mattpocock/skills v1.3.1的27个工程与效率技能，无需手动装技能。400亿token打造本插件，在原始技能之上提供10倍的开发效率，也能帮助新手更快上手该技能套件。全力支持GitHub issue；Markdown为预览版；GitLab暂不支持。感谢您的使用和支持💗
+
+##### 📌 ข้อมูลพื้นฐาน
+
+| ฟิลด์   | ค่า                                                                             |
+| ------- | ------------------------------------------------------------------------------ |
+| หมวดหมู่  | `ระบบนิเวศปลั๊กอินของ DSH และ Cordis`                                           |
+| หลักฐาน | `ประกาศว่าเป็นม็อด ปลั๊กอิน หรือฮุก แต่ไม่ได้ระบุรายละเอียดเกี่ยวกับพื้นที่ม็อดโดยเฉพาะ` |
+| ภาษา    | JavaScript                                                                     |
+
+##### 📊 ข้อมูล
+
+| ตัวชี้วัด             | ค่า         |
+| -------------------- | ---------- |
+| ดาว                  | **132**    |
+| Push ล่าสุด            | 2026-10-11 |
+| ปรากฏในรายการครั้งแรก | 2026-10-11 |
+
+🏷 `agent` · `ai` · `claude` · `deepseek-harness` · `dsh` · `dsh-better-sidebar` · `dsh-plugin` · `github-issues`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 รูปภาพ</th><th align="center" width="50%">🎬 วิดีโอ</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/featherhunter--dsh-mattpocock-skills-deck/c4bd78003446c161.png" width="100%" alt="FeatherHunter/dsh-mattpocock-skills-deck screenshot"></td>
+<td align="center" valign="top"><sub>ไม่มีสื่อเผยแพร่</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/flymysql/dsh-remote">flymysql/dsh-remote</a></b> · ⭐132 · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 สรุป
+
+Remote-work assistant for DeepSeek Harness (DSH): connect SSH (key or password), pick a remote workspace, operate with rw_* tools, and SFTP-mirror it into a real local DSH workspace.
+
+##### 📌 ข้อมูลพื้นฐาน
+
+| ฟิลด์   | ค่า                                                                             |
+| ------- | ------------------------------------------------------------------------------ |
+| หมวดหมู่  | `ระบบนิเวศปลั๊กอินของ DSH และ Cordis`                                           |
+| หลักฐาน | `ประกาศว่าเป็นม็อด ปลั๊กอิน หรือฮุก แต่ไม่ได้ระบุรายละเอียดเกี่ยวกับพื้นที่ม็อดโดยเฉพาะ` |
+| ภาษา    | JavaScript                                                                     |
+
+##### 📊 ข้อมูล
+
+| ตัวชี้วัด             | ค่า         |
+| -------------------- | ---------- |
+| ดาว                  | **132**    |
+| Push ล่าสุด            | 2026-10-11 |
+| ปรากฏในรายการครั้งแรก | 2026-10-11 |
+
+🏷 `deepseek-harness` · `dsh` · `dsh-plugin` · `remote` · `sftp` · `ssh` · `tunnel` · `workspace`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 รูปภาพ</th><th align="center" width="50%">🎬 วิดีโอ</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/flymysql--dsh-remote/714d273f27c6d75b.png" width="100%" alt="flymysql/dsh-remote screenshot"></td>
+<td align="center" valign="top"><sub>ไม่มีสื่อเผยแพร่</sub></td>
 </tr></table>
 
 </details>
@@ -2939,7 +2942,7 @@ Bash, PowerShell 7, and Rust-based tools for dsh on Windows to cut token usage. 
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/morluto/flameox">morluto/flameox</a></b> · ⭐120 · Python · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/morluto/flameox">morluto/flameox</a></b> · ⭐121 · Python · 🔎 inferred · 0 天</summary>
 
 ##### 📝 สรุป
 
@@ -2957,7 +2960,7 @@ Bash, PowerShell 7, and Rust-based tools for dsh on Windows to cut token usage. 
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **120**    |
+| ดาว                  | **121**    |
 | Push ล่าสุด            | 2026-10-10 |
 | ปรากฏในรายการครั้งแรก | 2026-10-11 |
 
@@ -2973,41 +2976,7 @@ Bash, PowerShell 7, and Rust-based tools for dsh on Windows to cut token usage. 
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/Noob-stupid/dsh-plugin-gating-hub">Noob-stupid/dsh-plugin-gating-hub</a></b> · ⭐99 · JavaScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 สรุป
-
-DSH plugin - ความปลอดภัยในการอัปเกรด framework และการควบคุม plugin gating: ตรวจสอบ contract ล่วงหน้า, จุด rollback, auto-rollback เมื่อเกิดความล้มเหลว, auto-disable ตามหลักฐาน; พร้อมตลาดปลั๊กอินหลายแหล่ง ไม่เป็นทางการ | DSH plugin: ความปลอดภัยในการอัปเกรด framework + plugin gating——ตรวจ contract ก่อนอัปเกรด, จุด rollback, rollback อัตโนมัติเมื่อล้มเหลว, ปิดใช้งานอัตโนมัติเฉพาะเมื่อมีหลักฐานยืนยัน; พร้อมตลาดปลั๊กอินหลายแหล่ง โปรเจกต์ชุมชนที่ไม่เป็นทางการ
-
-##### 📌 ข้อมูลพื้นฐาน
-
-| ฟิลด์   | ค่า                                                                             |
-| ------- | ------------------------------------------------------------------------------ |
-| หมวดหมู่  | `ระบบนิเวศปลั๊กอินของ DSH และ Cordis`                                           |
-| หลักฐาน | `ประกาศว่าเป็นม็อด ปลั๊กอิน หรือฮุก แต่ไม่ได้ระบุรายละเอียดเกี่ยวกับพื้นที่ม็อดโดยเฉพาะ` |
-| ภาษา    | JavaScript                                                                     |
-
-##### 📊 ข้อมูล
-
-| ตัวชี้วัด             | ค่า         |
-| -------------------- | ---------- |
-| ดาว                  | **99**     |
-| Push ล่าสุด            | 2026-10-11 |
-| ปรากฏในรายการครั้งแรก | 2026-10-11 |
-
-🏷 `ai-empower` · `cli` · `deepseek-harness` · `dsh` · `dsh-plugin` · `dsh-plugins` · `framework-upgrade` · `marketplace`
-
----
-
-<table><tr><th align="center" width="50%">🖼 รูปภาพ</th><th align="center" width="50%">🎬 วิดีโอ</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/noob-stupid--dsh-plugin-gating-hub/0b18270cf916dc1c.png" width="100%" alt="Noob-stupid/dsh-plugin-gating-hub screenshot"></td>
-<td align="center" valign="top"><sub>ไม่มีสื่อเผยแพร่</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/EricWang1358/dsh-web-studyhub">EricWang1358/dsh-web-studyhub</a></b> · ⭐85 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/EricWang1358/dsh-web-studyhub">EricWang1358/dsh-web-studyhub</a></b> · ⭐86 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 สรุป
 
@@ -3025,7 +2994,7 @@ StudyHub: ปลั๊กอิน DeepSeek Harness (DSH) ที่เปลี�
 
 | ตัวชี้วัด             | ค่า         |
 | -------------------- | ---------- |
-| ดาว                  | **85**     |
+| ดาว                  | **86**     |
 | Push ล่าสุด            | 2026-10-11 |
 | ปรากฏในรายการครั้งแรก | 2026-10-10 |
 
@@ -3035,40 +3004,6 @@ StudyHub: ปลั๊กอิน DeepSeek Harness (DSH) ที่เปลี�
 
 <table><tr><th align="center" width="50%">🖼 รูปภาพ</th><th align="center" width="50%">🎬 วิดีโอ</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/ericwang1358--dsh-web-studyhub/1e4a97948bc59f9d.jpg" width="100%" alt="EricWang1358/dsh-web-studyhub screenshot"></td>
-<td align="center" valign="top"><sub>ไม่มีสื่อเผยแพร่</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/Sev7eEn7/dsh-sieve">Sev7eEn7/dsh-sieve</a></b> · ⭐74 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 สรุป
-
-dsh-sieve: ปลั๊กอินวิศวกรรมบริบทและเพิ่มประสิทธิภาพโทเค็นสำหรับ DeepSeek Harness (DSH) — การกรองผลลัพธ์เครื่องมือ การตัดแต่งบริบท การเปิดเผยทักษะแบบค่อยเป็นค่อยไป เพย์โหลดเล็กลง 36% ในการเล่นซ้ำแบบออฟไลน์ ปลั๊กอินจัดการบริบทและประหยัดโทเค็นสำหรับ DSH
-
-##### 📌 ข้อมูลพื้นฐาน
-
-| ฟิลด์   | ค่า                                                                             |
-| ------- | ------------------------------------------------------------------------------ |
-| หมวดหมู่  | `ระบบนิเวศปลั๊กอินของ DSH และ Cordis`                                           |
-| หลักฐาน | `ประกาศว่าเป็นม็อด ปลั๊กอิน หรือฮุก แต่ไม่ได้ระบุรายละเอียดเกี่ยวกับพื้นที่ม็อดโดยเฉพาะ` |
-| ภาษา    | TypeScript                                                                     |
-
-##### 📊 ข้อมูล
-
-| ตัวชี้วัด             | ค่า         |
-| -------------------- | ---------- |
-| ดาว                  | **74**     |
-| Push ล่าสุด            | 2026-10-10 |
-| ปรากฏในรายการครั้งแรก | 2026-10-10 |
-
-🏷 `agent-tools` · `ai-agent` · `ai-coding` · `coding-agent` · `context-engineering` · `context-management` · `context-pruning` · `context-window`
-
----
-
-<table><tr><th align="center" width="50%">🖼 รูปภาพ</th><th align="center" width="50%">🎬 วิดีโอ</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/sev7een7--dsh-sieve/eab2b3c8b1588637.webp" width="100%" alt="Sev7eEn7/dsh-sieve screenshot"></td>
 <td align="center" valign="top"><sub>ไม่มีสื่อเผยแพร่</sub></td>
 </tr></table>
 
@@ -3111,137 +3046,83 @@ dsh-sieve: ปลั๊กอินวิศวกรรมบริบทแล
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/kukucaiCndy/Corum-Harness">kukucaiCndy/Corum-Harness</a></b> · ⭐62 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 สรุป
-
-基于 Deepseek-Harness 核心底座打造的桌面版 Agent.继承底坐全部能力。并补全 IDE 相关功能。
-
-##### 📌 ข้อมูลพื้นฐาน
-
-| ฟิลด์   | ค่า                                                                             |
-| ------- | ------------------------------------------------------------------------------ |
-| หมวดหมู่  | `ระบบนิเวศปลั๊กอินของ DSH และ Cordis`                                           |
-| หลักฐาน | `ประกาศว่าเป็นม็อด ปลั๊กอิน หรือฮุก แต่ไม่ได้ระบุรายละเอียดเกี่ยวกับพื้นที่ม็อดโดยเฉพาะ` |
-| ภาษา    | TypeScript                                                                     |
-
-##### 📊 ข้อมูล
-
-| ตัวชี้วัด             | ค่า         |
-| -------------------- | ---------- |
-| ดาว                  | **62**     |
-| Push ล่าสุด            | 2026-10-11 |
-| ปรากฏในรายการครั้งแรก | 2026-10-11 |
-
-🏷 `agent` · `agent-os` · `ai-agent` · `cordis` · `desktop-app` · `dsh` · `electron` · `harness`
-
----
-
-<table><tr><th align="center" width="50%">🖼 รูปภาพ</th><th align="center" width="50%">🎬 วิดีโอ</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/kukucaicndy--corum-harness/b8971b2831acec9e.png" width="100%" alt="kukucaiCndy/Corum-Harness screenshot"></td>
-<td align="center" valign="top"><sub>ไม่มีสื่อเผยแพร่</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/Contexera/dsh-agent-team">Contexera/dsh-agent-team</a></b> · ⭐57 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 สรุป
-
-dsh-agent-team gives DeepSeek Harness agents that don't reset: durable Members with their own memory, notes, and skills across sessions, rollovers, and restarts. You set the direction; agents coordinate through Channels and Tasks.
-
-##### 📌 ข้อมูลพื้นฐาน
-
-| ฟิลด์   | ค่า                                                                             |
-| ------- | ------------------------------------------------------------------------------ |
-| หมวดหมู่  | `ระบบนิเวศปลั๊กอินของ DSH และ Cordis`                                           |
-| หลักฐาน | `ประกาศว่าเป็นม็อด ปลั๊กอิน หรือฮุก แต่ไม่ได้ระบุรายละเอียดเกี่ยวกับพื้นที่ม็อดโดยเฉพาะ` |
-| ภาษา    | TypeScript                                                                     |
-
-##### 📊 ข้อมูล
-
-| ตัวชี้วัด             | ค่า         |
-| -------------------- | ---------- |
-| ดาว                  | **57**     |
-| Push ล่าสุด            | 2026-10-11 |
-| ปรากฏในรายการครั้งแรก | 2026-10-11 |
-
-🏷 `agent-orchestration` · `agent-team` · `ai-agents` · `deepseek` · `deepseek-harness` · `dsh` · `dsh-plugin` · `multi-agent`
-
----
-
-<table><tr><th align="center" width="50%">🖼 รูปภาพ</th><th align="center" width="50%">🎬 วิดีโอ</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/contexera--dsh-agent-team/25f8cc5a2a3231a3.png" width="100%" alt="Contexera/dsh-agent-team screenshot"></td>
-<td align="center" valign="top"><sub>ไม่มีสื่อเผยแพร่</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary><b>เพิ่มเติมในหมวดหมู่นี้</b> <sub>· 61</sub></summary>
+<summary><b>เพิ่มเติมในหมวดหมู่นี้</b> <sub>· 75</sub></summary>
 
 - [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - ตัวป้องกันก่อนการทำงานสำหรับเอเจนต์เขียนโค้ด AI โดยจะบล็อกคำสั่ง Git…
 - [hashgraph-online/awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins) - รายการปลั๊กอิน AI ที่ยอดเยี่ยมที่สุดที่คัดสรรแล้วสำหรับผู้ช่วย AI รวมถึง Claude…
+- [bruc3van/awesome-dsh-plugin](https://github.com/bruc3van/awesome-dsh-plugin) - 30 秒找到真正适合你的 DeepSeek Harness插件。每天自动抓取 GitHub 上的 `dsh-plugin`…
+- [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) - A curated list of plugins, skills, MCP servers, patch/profile layers…
 - [bradeGithub/DSH-Plugins-Marketplace](https://github.com/bradeGithub/DSH-Plugins-Marketplace) - ตลาดปลั๊กอิน DSH / DSH Plugin Marketplace: เรียกดู ติดตั้ง…
-- [ymh0000123/dsh-theme-endfield](https://github.com/ymh0000123/dsh-theme-endfield) - 终末地官网风格的 DSH Web 主题：奶油纸底、墨黑文字、信号黄强调、全直角工业编辑风.
+- [beancookie/awesome-dsh-plugin](https://github.com/beancookie/awesome-dsh-plugin) - Awesome DeepSeek Harness (DSH) Plugin.
+- [ymh0000123/dsh-theme-endfield](https://github.com/ymh0000123/dsh-theme-endfield) - ธีม DSH Web สไตล์เว็บไซต์ทางการของ终末地: พื้นกระดาษสีครีม ตัวอักษรสีดำหมึก…
 - [arcships/rutis](https://github.com/arcships/rutis) - runtime ปลั๊กอินสำหรับโปรแกรมที่ทำงานต่อเนื่อง — core Rust, plugins TypeScript…
-- [adamkhalile/luau-docs-oracle](https://github.com/adamkhalile/luau-docs-oracle) - Roblox Luau Bug Checker และ API Verifier ที่ดีที่สุด 2026 DevForum MCP Tool.
+- [like-study1/Oh-My-DSH](https://github.com/like-study1/Oh-My-DSH) - 🐳 DeepSeek Harness 插件聚合社区 — 自动同步 dsh-plugin 生态 · 精选目录 · 每 4 小时自动维护 | Oh-My-DSH…
+- [kukucaiCndy/Corum-Harness](https://github.com/kukucaiCndy/Corum-Harness) - Agent รุ่นเดสก์ท็อปที่สร้างบนแกนหลักของ Deepseek-Harness…
 - [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) - ไดเรกทอรีปลั๊กอิน DeepSeek Harness ที่อัปเดตอยู่เสมอ — รีเฟรชทุกชั่วโมง…
-- [Nyasers/DSHana](https://github.com/Nyasers/DSHana) - DSHana: DeepSeek Harness as a subagent for HanaAgent.
-- [PolinniZhong/dsh-knit](https://github.com/PolinniZhong/dsh-knit) - 面向 AI Coding Agent 的任务感知工作区上下文检索与生命周期追踪：按当前任务找到、组织并持续追踪最相关的文档、代码与媒体.
+- [PolinniZhong/dsh-knit](https://github.com/PolinniZhong/dsh-knit) - การดึงบริบทพื้นที่ทำงานและการติดตามวงจรชีวิตที่รับรู้ภารกิจสำหรับ AI Coding…
 - [kejixiaoliang/awesome-dsh-plugins](https://github.com/kejixiaoliang/awesome-dsh-plugins) - ไดเรกทอรีคัดสรรปลั๊กอิน DeepSeek Harness (DSH) — ปลั๊กอินชุมชนกว่า 280 รายการใน…
-- [universe-st/dsh-game-material-master](https://github.com/universe-st/dsh-game-material-master) - dsh游戏素材大师插件。接入seedream生图模型和minimax视频生成模型，可生成各种游戏素材.
+- [hyzyn/dsh-plugin-kit](https://github.com/hyzyn/dsh-plugin-kit) - Plugin family for the DeepSeek Harness (DSH) Web GUI: a pnpm monorepo with a…
+- [universe-st/dsh-game-material-master](https://github.com/universe-st/dsh-game-material-master) - ปลั๊กอินผู้เชี่ยวชาญด้านทรัพยากรเกม dsh เชื่อมต่อโมเดลสร้างภาพ seedream…
 - [Vncntvx/dsh-zotero](https://github.com/Vncntvx/dsh-zotero) - ชุดเครื่องมือ Zotero สำหรับ DeepSeek harness;
 - [KannaKuron/dsh-gitbash-shell](https://github.com/KannaKuron/dsh-gitbash-shell) - DSH plugin: Git Bash shell สำหรับ agent modes ทั้งหมดบน Windows.
+- [FeatherHunter/dsh-prompt](https://github.com/FeatherHunter/dsh-prompt) - DeepSeek Harness 的 Prompt 工具箱：别再复制粘贴——24 条深度模板随手点，/prompt 与智能推荐主动兜底，装好即用、可自定义.
+- [Andersen216/dsh-whale-girl-live2d](https://github.com/Andersen216/dsh-whale-girl-live2d) - 🐋 鲸鱼娘桌宠 · Whale Girl Live2D —— DSH（DeepSeek Harness）Web 界面里的 Live2D 桌宠：跟着 agent…
 - [NekroAI/nekro-nxt](https://github.com/NekroAI/nekro-nxt) - NekroNXT：ระบบเอเจนต์แชตกลุ่มหลายแพลตฟอร์มที่ขับเคลื่อนด้วย DeepSeek Harness…
-- [lizhiyao/oh-my-knowledge](https://github.com/lizhiyao/oh-my-knowledge) - OMK — Evidence-backed evaluation and observability for prompts, RAG, skills…
-- [dphmoblie/deepseek-harness-android](https://github.com/dphmoblie/deepseek-harness-android) - dsh安卓版：集成 DeepSeek Harness、Ubuntu 运行环境、插件与文件管理，以及用户授权的 Shizuku 和无障碍自动化.
-- [HaoyueQin/dsh-usage-statistics-panel](https://github.com/HaoyueQin/dsh-usage-statistics-panel) - DSH web plugin: per-day token usage statistics with a GitHub-style activity…
+- [zaofan-make/dsh-qqbot](https://github.com/zaofan-make/dsh-qqbot) - AI 统管 QQ 群组：审核放行、群发文件、沟通其他 web 会话的 AI！ ；气氛组担当：表情包自动入库、AI 自己决定开口、多预设多人格轮班陪聊!
+- [lizhiyao/oh-my-knowledge](https://github.com/lizhiyao/oh-my-knowledge) - OMK — การประเมินและการสังเกตการณ์สำหรับพรอมต์, RAG, ทักษะ, Agent…
+- [HaoyueQin/dsh-usage-statistics-panel](https://github.com/HaoyueQin/dsh-usage-statistics-panel) - ปลั๊กอินเว็บ DSH: สถิติการใช้โทเค็นรายวันพร้อมฮีตแมปกิจกรรมสไตล์ GitHub…
 - [siweina/dsh-novel-writer](https://github.com/siweina/dsh-novel-writer) - เวิร์กสเตชันการเขียนในเครื่องสำหรับผู้เขียนนิยายออนไลน์ภาษาจีน.
-- [TQSY114514/dsh-ui-appearance](https://github.com/TQSY114514/dsh-ui-appearance) - Appearance customization plugin for DeepSeek Harness: theme color palette…
-- [hyqhyq3/dsh-mcp-manager](https://github.com/hyqhyq3/dsh-mcp-manager) - MCP server manager plugin for DeepSeek Harness: Settings → MCP page, OAuth…
+- [awesome-deepseekharness/awesome-deepseek-harness](https://github.com/awesome-deepseekharness/awesome-deepseek-harness) - Community-curated DeepSeek Harness (dsh) plugins, tools, skills and learning…
+- [hyqhyq3/dsh-mcp-manager](https://github.com/hyqhyq3/dsh-mcp-manager) - ปลั๊กอินจัดการเซิร์ฟเวอร์ MCP สำหรับ DeepSeek Harness: หน้า Settings → MCP…
 - [Wenaixi/dsh-superpower](https://github.com/Wenaixi/dsh-superpower) - ปลั๊กอิน DeepSeek Harness: ทักษะด้านวิศวกรรม obra/superpowers จำนวน 15 รายการ…
-- [harrylabsj/kiwi](https://github.com/harrylabsj/kiwi) - A2A commerce negotiation runtime + DeepSeek Harness (dsh) plugin.
+- [harrylabsj/kiwi](https://github.com/harrylabsj/kiwi) - รันไทม์การเจรจาการค้าของ A2A + ปลั๊กอิน DeepSeek Harness (dsh) ติดตั้ง Kiwi…
 - [Imzl-zl/dsh-mcp-manager-ui](https://github.com/Imzl-zl/dsh-mcp-manager-ui) - UI จัดการเซิร์ฟเวอร์ MCP สำหรับ DeepSeek Harness Web — แผงลอย การนำเข้า JSON…
+- [YELEBAI/dsh-plugin-marketplace](https://github.com/YELEBAI/dsh-plugin-marketplace) - Verified plugin marketplace and autonomous registry for DeepSeek Harness.
 - [liustack/pptwise](https://github.com/liustack/pptwise) - PowerPoint จริง ไม่ใช่ HTML บอก AI ของคุณว่าต้องการครอบคลุมอะไร แล้ว pptwise…
 - [Wenaixi/dsh-ponytail](https://github.com/Wenaixi/dsh-ponytail) - ปลั๊กอิน DeepSeek Harness: โหมด DietrichGebert/ponytail lazy senior…
-- [godchen520/dsh-web-remote](https://github.com/godchen520/dsh-web-remote) - DSH 手机/外网远程访问插件：免配置公网隧道 + 局域网 HTTPS 直连 + 自定义公网链接/端口 + 微信机器人.
 - [Ianzhyh/workbuddy-to-dsh](https://github.com/Ianzhyh/workbuddy-to-dsh) - เปลี่ยนโมเดลที่เข้าสู่ระบบแล้วใน WorkBuddy เดสก์ท็อปบนเครื่องนี้.
-- [Sivan757/dsh-agent-plugins-market](https://github.com/Sivan757/dsh-agent-plugins-market) - One-stop skills, subagent, MCP and LSP manager for DeepSeek Harness (DSH)…
+- [Sivan757/dsh-agent-plugins-market](https://github.com/Sivan757/dsh-agent-plugins-market) - ตัวจัดการ skills, subagent, MCP และ LSP แบบครบวงจรสำหรับ DeepSeek Harness (DSH)…
+- [xxww0098/dsh-plugin-oauth-subs](https://github.com/xxww0098/dsh-plugin-oauth-subs) - ChatGPT Codex and xAI Grok subscription OAuth for DeepSeek Harness — PKCE /…
+- [muyuanjin/dsh-ptc-plus](https://github.com/muyuanjin/dsh-ptc-plus) - A session-bound agent-native REPL for DeepSeek Harness PTC mode.
 - [MicroMilo/upstream-radar](https://github.com/MicroMilo/upstream-radar) - การทดสอบความเข้ากันได้ของปลั๊กอิน DeepSeek Harness อย่างต่อเนื่อง…
-- [ai-yukin/dsh-0-tools](https://github.com/ai-yukin/dsh-0-tools) - Zero-cost, zero-hassle toolkit for DeepSeek Harness (DSH): one-click setup for…
 - [unStone/dsh-xray](https://github.com/unStone/dsh-xray) - X-ray สำหรับปลั๊กอิน DeepSeek Harness: ความสามารถที่ประกาศเทียบกับพฤติกรรมจริง…
 - [bonerush/dsh-obsidian-mem](https://github.com/bonerush/dsh-obsidian-mem) - ปลั๊กอินโฮสต์ DeepSeek Harness ที่เก็บเอกสารโปรเจกต์และหน่วยความจำระยะยาวเป็น…
-- [shenhuanageshei/dsh-team-link](https://github.com/shenhuanageshei/dsh-team-link) - Session deep links + full session export (markdown/JSON) + approved…
+- [chnjames/dsh-plugin-market](https://github.com/chnjames/dsh-plugin-market) - DSH 插件市场 — DeepSeek Harness 设置内一键安装社区插件，并提供公开目录站（浏览 / 复制安装命令）.
+- [cyanseek/dsh-landscape](https://github.com/cyanseek/dsh-landscape) - Agent-first DeepSeek Harness plugin intelligence: verify existing plugins…
+- [Cyning12/SpecWave](https://github.com/Cyning12/SpecWave) - SpecWave — multi-host coding CLI + P0 gates/Harness (Cursor/Claude/DSH).
+- [dsh-plugin-lab/dsh-workbuddy-bridge](https://github.com/dsh-plugin-lab/dsh-workbuddy-bridge) - DSH 插件：把 WorkBuddy 桌面 App 里的模型接入 DeepSeek Harness，零配置直接用。（原生嵌入&quot;设置-插件-插件配置&quot;）.
+- [Fayelin12/dsh-office](https://github.com/Fayelin12/dsh-office) - Agent-office dashboard for DeepSeek Harness (DSH): workspaces, sessions, token…
 - [victorwads/dsh-live-voice](https://github.com/victorwads/dsh-live-voice) - การสนทนาด้วยเสียงแบบ local-first สำหรับ DSH รัน speech recognition และ speech…
-- [YunongDai2005/dsh-theone](https://github.com/YunongDai2005/dsh-theone) - One chat for everything, no more hunting for old conversations.
+- [fan56/dsh-topics-memory](https://github.com/fan56/dsh-topics-memory) - Topic memory for LLM agents — edited, not accumulated: a topic keeps the…
 - [KannaKuron/dsh-ide-git](https://github.com/KannaKuron/dsh-ide-git) - ปลั๊กอิน DSH: หน้าต่างเครื่องมือ Git ระดับ IDE ในฐานะแท็บเนทีฟ…
 - [KannaKuron/dsh-ptc-cordis-preset](https://github.com/KannaKuron/dsh-ptc-cordis-preset) - โหมดสร้างสรรค์บนพื้นฐาน PTC mode: DSH plugin, สังเคราะห์การจัดลำดับเครื่องมือ…
+- [xbzbing/dsh-git-panel](https://github.com/xbzbing/dsh-git-panel) - DSH 插件：Web GUI 里的 IDE 风格 Git 面板——分支/提交历史总览、变更提交与 amend、文件浏览、代码与图片新旧差异对照、输入框分支标记…
+- [ywsldxk/dsh-plugin-stars](https://github.com/ywsldxk/dsh-plugin-stars) - DeepSeek Harness (DSH) plugin leaderboard &amp; directory｜DeepSeek…
+- [zhouzhencheng07/dsh-kit](https://github.com/zhouzhencheng07/dsh-kit) - Page capability kit for DeepSeek Harness (dsh): terminal dock, file tree…
 - [cherrchen/dsh-plugin-multi-root-workspace](https://github.com/cherrchen/dsh-plugin-multi-root-workspace) - workspace หลายโฟลเดอร์: ให้ Agent ของ DSH (DeepSeek Harness)…
 - [godv61/dsh-task-engine](https://github.com/godv61/dsh-task-engine) - ปลั๊กอินเวิร์กโฟลว์วิศวกรรมสำหรับ DeepSeek Harness: ขั้นตอนงาน บันทึกการตรวจสอบ…
 - [liceses/dsh-cosplay](https://github.com/liceses/dsh-cosplay) - ปลั๊กอิน role-playing ของ DSH: character cards.
-- [openbkn-ai/bkn-dsh](https://github.com/openbkn-ai/bkn-dsh) - OpenBKN.
+- [majiayu000/dsh-plugin-registry](https://github.com/majiayu000/dsh-plugin-registry) - Searchable DeepSeek Harness plugin registry with curated listings and…
 - [PerryLink/dsh-plugin-doctor](https://github.com/PerryLink/dsh-plugin-doctor) - มาตรฐานการตรวจสอบแบบไม่มีดีเพนเดนซีสำหรับปลั๊กอิน DeepSeek Harness (dsh)…
-- [TheYoungChen/dsh-plugin-market](https://github.com/TheYoungChen/dsh-plugin-market) - ตลาดปลั๊กอิน DeepSeek Harness - เรียกดู ค้นหา และติดตั้งปลั๊กอินจากหัวข้อ…
 - [viztor/dsh-opencode-patch](https://github.com/viztor/dsh-opencode-patch) - OpenCode บน DeepSeek Harness — ปลั๊กอิน DSH ที่ทำให้ OpenCode Zen +…
 - [AI-Scarlett/DSH-Store](https://github.com/AI-Scarlett/DSH-Store) - DSH STORE…
+- [anyuer678/dsh-logtimeline](https://github.com/anyuer678/dsh-logtimeline) - Query local log files with Chinese natural-language time expressions…
 - [Atelyx/Atelyx](https://github.com/Atelyx/Atelyx) - Atelyx คือเวิร์กสเตชันเดสก์ท็อปที่ขยายได้และยึดผู้ใช้เป็นศูนย์กลาง: การสนทนา…
-- [dsh-cc/dsh-cc](https://github.com/dsh-cc/dsh-cc) - A batteries-included coding agent for DeepSeek Harness — Claude Code-style…
+- [dsh-cc/dsh-cc](https://github.com/dsh-cc/dsh-cc) - coding agent ที่มีทุกอย่างพร้อมสำหรับ DeepSeek Harness — เวิร์กโฟลว์สไตล์…
 - [fangwen9527/dsh-composer-ux](https://github.com/fangwen9527/dsh-composer-ux) - ปลั๊กอินประสบการณ์การป้อนข้อมูลบนเว็บ DSH: สลับปุ่มส่ง/ขึ้นบรรทัดใหม่…
-- [heiheiha798/dsh-plugin-subagent-delete](https://github.com/heiheiha798/dsh-plugin-subagent-delete) - DSH plugin: delete_subagent tool + UI - release or permanently remove subagent…
-- [momasiku/dsh-pilot](https://github.com/momasiku/dsh-pilot) - Desktop automation for DeepSeek Harness: hands and eyes on the whole Windows…
 - [Mzy123l/dsh-plugin-remote-access](https://github.com/Mzy123l/dsh-plugin-remote-access) - มอบช่องทางเข้าถึงระยะไกลสำหรับ DeepSeek Harness รุ่นเดสก์ท็อป…
-- [sakanamaru/dsh-minato](https://github.com/sakanamaru/dsh-minato) - dsh-minato — 社区版本机部署运维套件 for DeepSeek Harness (dsh): install / start / monitor…
+- [sakanamaru/dsh-minato](https://github.com/sakanamaru/dsh-minato) - dsh-minato — ชุดเครื่องมือปรับใช้และดูแลระบบภายในเครื่องโดยชุมชนสำหรับ DeepSeek…
 - [tianyagk/dsh-tradewatcher](https://github.com/tianyagk/dsh-tradewatcher) - เว็บปลั๊กอิน DeepSeek Harness (DSH): แท็บ sidebar market-dashboard…
-- [yu381792/superlcm](https://github.com/yu381792/superlcm) - 五种载体，一座本地对话档案馆：原文归档、分层后台摘要、原文查证与跨工具接续。默认原生压缩，Claude Code 与 dsh harness 可选接管.
+- [yu381792/superlcm](https://github.com/yu381792/superlcm) - สื่อห้ารูปแบบ คลังบทสนทนาในเครื่องหนึ่งแห่ง: เก็บถาวรต้นฉบับ…
 - [argszero/cordis-plugin-sandbox-grant-advisor](https://github.com/argszero/cordis-plugin-sandbox-grant-advisor) - ปลั๊กอิน DeepSeek Harness: เปลี่ยนความล้มเหลวในการจัดเตรียม ACL ของแซนด์บ็อกซ์…
 - [argszero/cordis-plugin-empty-response-retry](https://github.com/argszero/cordis-plugin-empty-response-retry) - ทำให้การลองใช้โมเดลว่างเปล่าที่ไม่มีการระบุแหล่งที่มาสามารถลองใหม่ได้…
-- [denceee/dsh-everything-claude-code](https://github.com/denceee/dsh-everything-claude-code) - Adapts everything-claude-code to DeepSeek Harness: 11 skills, an ECC agent…
-- [Magica-Chen/dsh-preset-codex-claude](https://github.com/Magica-Chen/dsh-preset-codex-claude) - DeepSeek Harness agent preset: Codex and Claude Code as delegation subagents…
+- [denceee/dsh-everything-claude-code](https://github.com/denceee/dsh-everything-claude-code) - ปรับ everything-claude-code ให้เข้ากับ DeepSeek Harness: 11 สกิล…
+- [Magica-Chen/dsh-preset-codex-claude](https://github.com/Magica-Chen/dsh-preset-codex-claude) - พรีเซ็ตเอเจนต์ DeepSeek Harness: Codex และ Claude Code…
 - [validation-engineering/cordis-verus](https://github.com/validation-engineering/cordis-verus) - รันไทม์ปลั๊กอิน Rust ที่มีเคอร์เนลวงจรชีวิตซึ่ง Verus ตรวจสอบยืนยันแล้ว…
-- [mrpulor-gh/nuphus-mcp](https://github.com/mrpulor-gh/nuphus-mcp) - Desktop automation MCP server — computer use for any AI agent: control screen…
+- [YOU-SHOULD-KNOW-ME/antigrative-dashboard](https://github.com/YOU-SHOULD-KNOW-ME/antigrative-dashboard) - Inline Antigravity dashboard: tok/s, DSH-style cache hit rate, five-hour and…
 - [tellmewhattodo/dsh-serenity-plugin](https://github.com/tellmewhattodo/dsh-serenity-plugin) - dsh-serenity-plugin.
+- [HaydenSmith1121/dsh-plugins](https://github.com/HaydenSmith1121/dsh-plugins) - DeepSeek Harness (dsh) 插件市场 —— 目录（一个插件一个配置文件）+ 可视化面板 + 一键安装；插件本体在…
+- [SCP-008-1/dshop](https://github.com/SCP-008-1/dshop) - dsh 插件商城 - 基于 GitHub topic:dsh-plugin 自动发现与每小时定时同步.
 
 </details>
 
@@ -3501,19 +3382,17 @@ dsh-agent-team gives DeepSeek Harness agents that don't reset: durable Members w
 
 | ภาษา       | รายการ | ตัวอย่าง                                                                                                       |
 | ---------- | ------ | ------------------------------------------------------------------------------------------------------------- |
-| TypeScript | 383    | `anthropics/claude-code`, `anthropics/claude-code-action`, `hamzafer/claude-code-mods`                        |
-| JavaScript | 79     | `Enc-hanted/dsh-pulse`, `MIHassan3/DSH-Launcher`, `karanb192/awesome-claude-code-mods`                        |
-| Python     | 39     | `anthropics/claude-agent-sdk-python`, `anthropics/claude-code-security-review`, `alexgreensh/token-optimizer` |
-| Shell      | 27     | `anthropics/claude-agent-sdk-typescript`, `0xDarkMatter/claude-mods`, `BeLazy167/claude-mods-skill`           |
-| HTML       | 14     | `HeyCubit/effortless`, `awss1i/assay`, `darrell-tw/darrelltw-mods`                                            |
-| Go         | 7      | `cephalofoil/kitt`, `kylesnowschwartz/tail-claude-hud`, `livlign/ccbit`                                       |
-| Rust       | 6      | `persiyanov/herdr-reviewr`, `JairoTorregrosa/claude-statusline`, `melderan/claude-statusline-rust`            |
+| TypeScript | 307    | `anthropics/claude-code`, `anthropics/claude-code-action`, `hamzafer/claude-code-mods`                        |
+| JavaScript | 82     | `Enc-hanted/dsh-pulse`, `karanb192/awesome-claude-code-mods`, `karanb192/claude-code-mods`                    |
+| Python     | 40     | `anthropics/claude-agent-sdk-python`, `anthropics/claude-code-security-review`, `alexgreensh/token-optimizer` |
+| Shell      | 26     | `anthropics/claude-agent-sdk-typescript`, `0xDarkMatter/claude-mods`, `BeLazy167/claude-mods-skill`           |
+| HTML       | 13     | `awss1i/assay`, `darrell-tw/darrelltw-mods`, `omarcevi/claudemods`                                            |
+| Go         | 6      | `kylesnowschwartz/tail-claude-hud`, `livlign/ccbit`, `bunderlog/claude-plugins`                               |
+| Rust       | 4      | `persiyanov/herdr-reviewr`, `JairoTorregrosa/claude-statusline`, `arcships/rutis`                             |
 | PowerShell | 2      | `GoSlowPoke168/claude-statusline`, `rainyfei/claude-statusline-win`                                           |
-| Swift      | 2      | `bhargava-gumpula/claude-mods`, `peaceinitiativemenhadenoil263/claude-status-bar`                             |
 | C          | 1      | `reporails/arcade`                                                                                            |
 | C#         | 1      | `sakanamaru/dsh-minato`                                                                                       |
-| Kotlin     | 1      | `dphmoblie/deepseek-harness-android`                                                                          |
-| MDX        | 1      | `jkf87/mod-guide`                                                                                             |
+| Swift      | 1      | `peaceinitiativemenhadenoil263/claude-status-bar`                                                             |
 
 <sub>นับเฉพาะรายการที่ระบุภาษาเท่านั้น รายการเอกสารและการสนทนาจะไม่รวมอยู่ในตารางนี้</sub>
 
@@ -3525,4 +3404,4 @@ dsh-agent-team gives DeepSeek Harness agents that don't reset: durable Members w
 
 <sub>Independent community project. Not affiliated with, endorsed by, or reviewed by Anthropic. Claude Code, Claude and Anthropic are trademarks of Anthropic. Product behaviour changes without notice; verify anything load-bearing against the official documentation. Assets remain the property of their upstream projects and are reproduced only where a licence permits.</sub>
 
-<sub>อัปเดตล่าสุด · 2026-10-11T12:27:08+08:00</sub>
+<sub>อัปเดตล่าสุด · 2026-10-11T14:37:28+08:00</sub>
