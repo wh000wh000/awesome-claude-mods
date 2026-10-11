@@ -1076,3 +1076,32 @@
 - `+` [dshworks/awesome-dsh-plugins](https://github.com/dshworks/awesome-dsh-plugins) — inferred / dsh-cordis — ⭐16
 - `+` [miuzel/dsh-graph](https://github.com/miuzel/dsh-graph) — inferred / dsh-cordis — ⭐15
 - …另有 121 条新增
+
+## 2026-10-11T10:04:52+08:00
+- 收录总数 **624**；本次更新新增 **95**
+- `+` [strukto-ai/mirage](https://github.com/strukto-ai/mirage) — inferred / dsh-cordis — ⭐3682
+- `+` [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) — inferred / dsh-cordis — ⭐3409
+- `+` [AdamPlatin123/dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) — inferred / dsh-cordis — ⭐1462
+- `+` [devswha/herdr-web-ui](https://github.com/devswha/herdr-web-ui) — inferred / mods — ⭐775
+- `+` [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) — inferred / dsh-cordis — ⭐374
+- `+` [tingly-dev/tingly-box](https://github.com/tingly-dev/tingly-box) — inferred / dsh-cordis — ⭐351
+- `+` [xing-shuyin/pi-web-ui](https://github.com/xing-shuyin/pi-web-ui) — inferred / dsh-cordis — ⭐282
+- `+` [acryldev/acryl](https://github.com/acryldev/acryl) — inferred / dsh-cordis — ⭐255
+- `+` [zhu1090093659/dsh-trading](https://github.com/zhu1090093659/dsh-trading) — inferred / dsh-cordis — ⭐238
+- `+` [amirfish1/claude-command-center](https://github.com/amirfish1/claude-command-center) — inferred / mods — ⭐182
+- `+` [2BingLing/dsh-market](https://github.com/2BingLing/dsh-market) — inferred / dsh-cordis — ⭐138
+- `+` [mexiaosqwq/dsh-web-mobile](https://github.com/mexiaosqwq/dsh-web-mobile) — inferred / dsh-cordis — ⭐130
+- `+` [dickpy/dsh-imagegen](https://github.com/dickpy/dsh-imagegen) — inferred / dsh-cordis — ⭐103
+- `+` [PolinniZhong/dsh-knit](https://github.com/PolinniZhong/dsh-knit) — inferred / dsh-cordis — ⭐53
+- `+` [398894496-arch/DSH-KRouter](https://github.com/398894496-arch/DSH-KRouter) — inferred / mods — ⭐44
+- `+` [walkinglabs/awesome-deepseek-harness-plugins](https://github.com/walkinglabs/awesome-deepseek-harness-plugins) — inferred / official — ⭐43
+- `+` [universe-st/dsh-game-material-master](https://github.com/universe-st/dsh-game-material-master) — inferred / dsh-cordis — ⭐41
+- `+` [lhh010/dsh-ui-whale](https://github.com/lhh010/dsh-ui-whale) — inferred / dsh-cordis — ⭐41
+- `+` [lhh010/dsh-minigames](https://github.com/lhh010/dsh-minigames) — inferred / dsh-cordis — ⭐34
+- `+` [WormAlien/hub-cc](https://github.com/WormAlien/hub-cc) — inferred / mods — ⭐30
+- `+` [jingyi0605/Codingns4DSH](https://github.com/jingyi0605/Codingns4DSH) — inferred / dsh-cordis — ⭐30
+- `+` [ZhangFengshun/dsh-remote-ssh](https://github.com/ZhangFengshun/dsh-remote-ssh) — inferred / dsh-cordis — ⭐29
+- `+` [lizhiyao/oh-my-knowledge](https://github.com/lizhiyao/oh-my-knowledge) — inferred / dsh-cordis — ⭐23
+- `+` [HaoyueQin/dsh-usage-statistics-panel](https://github.com/HaoyueQin/dsh-usage-statistics-panel) — inferred / dsh-cordis — ⭐22
+- `+` [TQSY114514/dsh-ui-appearance](https://github.com/TQSY114514/dsh-ui-appearance) — inferred / dsh-cordis — ⭐22
+- …另有 70 条新增
