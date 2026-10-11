@@ -1221,3 +1221,32 @@
 - `+` [LikeACloud7/awesome-frontier-ai-papers](https://github.com/LikeACloud7/awesome-frontier-ai-papers) — inferred / mods — ⭐10
 - `+` [xiaoshenming/dsh-session-surgeon](https://github.com/xiaoshenming/dsh-session-surgeon) — inferred / dsh-cordis — ⭐10
 - …另有 45 条新增
+
+## 2026-10-11T21:07:20+08:00
+- 收录总数 **506**；本次更新新增 **84**
+- `+` [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) — official / official — ⭐9473
+- `+` [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) — official / official — ⭐8248
+- `+` [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) — official / official — ⭐6342
+- `+` [dsh-tauri/deepseek-harness-desktop](https://github.com/dsh-tauri/deepseek-harness-desktop) — inferred / dsh-cordis — ⭐3153
+- `+` [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) — official / official — ⭐1797
+- `+` [anywhere-labs/Agents-Anywhere](https://github.com/anywhere-labs/Agents-Anywhere) — inferred / dsh-cordis — ⭐1561
+- `+` [AdamPlatin123/dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) — inferred / dsh-cordis — ⭐1464
+- `+` [devswha/herdr-web-ui](https://github.com/devswha/herdr-web-ui) — inferred / mods — ⭐780
+- `+` [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) — inferred / dsh-cordis — ⭐374
+- `+` [xing-shuyin/pi-web-ui](https://github.com/xing-shuyin/pi-web-ui) — inferred / dsh-cordis — ⭐283
+- `+` [FishBottle7/opencode2dsh](https://github.com/FishBottle7/opencode2dsh) — inferred / dsh-cordis — ⭐173
+- `+` [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) — inferred / dsh-cordis — ⭐133
+- `+` [morluto/flameox](https://github.com/morluto/flameox) — inferred / dsh-cordis — ⭐130
+- `+` [WestFox-AwA/dsh-prompt-optimizer](https://github.com/WestFox-AwA/dsh-prompt-optimizer) — inferred / dsh-cordis — ⭐113
+- `+` [YOU-SHOULD-KNOW-ME/antigrative-dashboard](https://github.com/YOU-SHOULD-KNOW-ME/antigrative-dashboard) — unverified / dsh-cordis — ⭐75
+- `+` [L-Forster/open-jet](https://github.com/L-Forster/open-jet) — inferred / mods — ⭐66
+- `+` [skyf0xx/hedgehog](https://github.com/skyf0xx/hedgehog) — inferred / dsh-cordis — ⭐44
+- `+` [Jecvay/paseo-dsh-direct](https://github.com/Jecvay/paseo-dsh-direct) — unverified / dsh-cordis — ⭐37
+- `+` [backstabslash/goccc](https://github.com/backstabslash/goccc) — inferred / mods — ⭐35
+- `+` [PensiveFei/deep-read-summarize](https://github.com/PensiveFei/deep-read-summarize) — inferred / dsh-cordis — ⭐31
+- `+` [ZhangFengshun/dsh-remote-ssh](https://github.com/ZhangFengshun/dsh-remote-ssh) — inferred / dsh-cordis — ⭐30
+- `+` [anthropics/model-cards](https://github.com/anthropics/model-cards) — official / official — ⭐25
+- `+` [wingsky-1/dsh-plugin-hub](https://github.com/wingsky-1/dsh-plugin-hub) — inferred / dsh-cordis — ⭐24
+- `+` [lizhiyao/oh-my-knowledge](https://github.com/lizhiyao/oh-my-knowledge) — inferred / dsh-cordis — ⭐23
+- `+` [weishao2/tizhuang-agent-skills](https://github.com/weishao2/tizhuang-agent-skills) — inferred / dsh-cordis — ⭐23
+- …另有 59 条新增
