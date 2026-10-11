@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/entries-534-0d9488" alt="entries">
+  <img src="https://img.shields.io/badge/entries-595-0d9488" alt="entries">
   <img src="https://img.shields.io/badge/languages-20-1f6feb" alt="languages">
   <img src="https://img.shields.io/badge/refresh-every%202h-16a34a" alt="refresh">
   <a href="../LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="MIT"></a>
@@ -18,8 +18,8 @@
 <p align="center"><sub><a href="../README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.ru.md">Русский</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <b>हिन्दी</b> · <a href="README.tr.md">Türkçe</a> · <a href="README.vi.md">Tiếng Việt</a> · <a href="README.th.md">ไทย</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.pl.md">Polski</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.uk.md">Українська</a></sub></p>
 
 > [!NOTE]
-> **सक्रिय इंडेक्स** · अंतिम सिंक: `2026-10-11T23:26:48+08:00` (UTC+8)
-> · एंट्रीज़: **534** · नवीनतम अपडेट में जोड़े गए: **0** · कार्यान्वयन भाषाएँ: **12**
+> **सक्रिय इंडेक्स** · अंतिम सिंक: `2026-10-12T03:53:55+08:00` (UTC+8)
+> · एंट्रीज़: **595** · नवीनतम अपडेट में जोड़े गए: **0** · कार्यान्वयन भाषाएँ: **12**
 
 <sub>नीचे दी गई हर एंट्री को स्वचालित रूप से एकत्रित, फ़िल्टर और फिर से जाँचा गया है। यहाँ कुछ भी सशुल्क प्लेसमेंट नहीं है।</sub>
 
@@ -34,12 +34,12 @@
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/anthropics--claude-code-action/b852b554eaf6a231.jpg" width="100%" alt="anthropics/claude-code-action">
 <b>🏛️ <a href="https://github.com/anthropics/claude-code-action">anthropics/claude-code-action</a></b>
-<sub>⭐9474 · TypeScript · ✅ official</sub>
+<sub>⭐9478 · TypeScript · ✅ official</sub>
 </td>
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/alexgreensh/token-optimizer/main/skills/token-optimizer/assets/dashboard-demo.gif" width="100%" alt="alexgreensh/token-optimizer">
 <b>🧩 <a href="https://github.com/alexgreensh/token-optimizer">alexgreensh/token-optimizer</a></b>
-<sub>⭐2534 · Python · 👁️ observed</sub>
+<sub>⭐2535 · Python · 👁️ observed</sub>
 <sub>घोस्ट टोकन खोजें। उन्हें ठीक करें। compaction से बचें। context quality decay से बचें।</sub>
 </td>
 </tr>
@@ -47,7 +47,7 @@
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/ruvnet--ruflo/86b2691275e30a26.jpg" width="100%" alt="ruvnet/ruflo">
 <b>🧵 <a href="https://github.com/ruvnet/ruflo">ruvnet/ruflo</a></b>
-<sub>⭐74336 · TypeScript · 👁️ observed</sub>
+<sub>⭐74351 · TypeScript · 👁️ observed</sub>
 <sub>🌊 मूल agent harness। बुद्धिमान मल्टी-प्लेयर स्वार्म तैनात करें, स्वायत्त वर्कफ़्लो का समन्वय करें और संवादात्मक AI सिस्टम बनाएँ। इसमें अनुकूली मेमोरी, स्व-शिक्षण…</sub>
 </td>
 <td width="50%" valign="top">
@@ -62,8 +62,8 @@
 - [Claude Code मॉड क्या है](#claude-code-मड-कय-ह)
 - [एंट्रीज़ का मूल्यांकन कैसे किया जाता है](#एटरज-क-मलयकन-कस-कय-जत-ह)
 - [आधिकारिक: Anthropic की अपनी रिपॉज़िटरी और रिलीज़ नोट्स](#आधकरक-anthropic-क-अपन-रपजटर-और-रलज-नटस) — **14**
-- [मॉड: मॉड क्षमता से बनाए गए](#मड-मड-कषमत-स-बनए-गए) — **408**
-- [DSH और Cordis प्लगइन इकोसिस्टम](#dsh-और-cordis-पलगइन-इकससटम) — **101**
+- [मॉड: मॉड क्षमता से बनाए गए](#मड-मड-कषमत-स-बनए-गए) — **464**
+- [DSH और Cordis प्लगइन इकोसिस्टम](#dsh-और-cordis-पलगइन-इकससटम) — **106**
 - [लेखन, चर्चाएँ और वीडियो](#लखन-चरचए-और-वडय) — **11**
 - [कार्यान्वयन भाषा के अनुसार प्रोजेक्ट्स](#करयनवयन-भष-क-अनसर-परजकटस)
 
@@ -93,7 +93,7 @@ Claude Code में 2.1.287 से **मॉड** उपलब्ध हुए:
 Anthropic की अपनी Claude Code रिपॉज़िटरी और वे रिलीज़, जिन्होंने मॉड सतह को परिभाषित किया। सारांश के बजाय स्रोत से पढ़ें।
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code">anthropics/claude-code</a></b> · ⭐150172 · TypeScript · ✅ official · 0 天</summary>
+<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code">anthropics/claude-code</a></b> · ⭐150197 · TypeScript · ✅ official · 0 天</summary>
 
 ##### 📝 सारांश
 
@@ -113,14 +113,14 @@ Claude Code एक एजेंटिक कोडिंग टूल है ज
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **150172** |
-| अंतिम पुश        | 2026-10-10 |
+| स्टार             | **150197** |
+| अंतिम पुश        | 2026-10-11 |
 | पहली बार सूचीबद्ध | 2026-10-04 |
 
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code-action">anthropics/claude-code-action</a></b> · ⭐9474 · TypeScript · ✅ official · 1 天</summary>
+<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code-action">anthropics/claude-code-action</a></b> · ⭐9478 · TypeScript · ✅ official · 2 天</summary>
 
 ##### 📝 सारांश
 
@@ -138,7 +138,7 @@ Claude Code एक एजेंटिक कोडिंग टूल है ज
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **9474**   |
+| स्टार             | **9478**   |
 | अंतिम पुश        | 2026-10-09 |
 | पहली बार सूचीबद्ध | 2026-10-11 |
 
@@ -152,7 +152,7 @@ Claude Code एक एजेंटिक कोडिंग टूल है ज
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/anthropics/claude-agent-sdk-python">anthropics/claude-agent-sdk-python</a></b> · ⭐8248 · Python · ✅ official · 1 天</summary>
+<summary>🏛️ <b><a href="https://github.com/anthropics/claude-agent-sdk-python">anthropics/claude-agent-sdk-python</a></b> · ⭐8249 · Python · ✅ official · 2 天</summary>
 
 ##### 📝 सारांश
 
@@ -170,14 +170,14 @@ Claude Code एक एजेंटिक कोडिंग टूल है ज
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **8248**   |
+| स्टार             | **8249**   |
 | अंतिम पुश        | 2026-10-09 |
 | पहली बार सूचीबद्ध | 2026-10-11 |
 
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code-security-review">anthropics/claude-code-security-review</a></b> · ⭐6342 · Python · ✅ official · 241 天</summary>
+<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code-security-review">anthropics/claude-code-security-review</a></b> · ⭐6345 · Python · ✅ official · 242 天</summary>
 
 ##### 📝 सारांश
 
@@ -195,14 +195,14 @@ Claude Code एक एजेंटिक कोडिंग टूल है ज
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **6342**   |
+| स्टार             | **6345**   |
 | अंतिम पुश        | 2026-02-11 |
 | पहली बार सूचीबद्ध | 2026-10-11 |
 
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/anthropics/claude-agent-sdk-typescript">anthropics/claude-agent-sdk-typescript</a></b> · ⭐1797 · Shell · ✅ official · 1 天</summary>
+<summary>🏛️ <b><a href="https://github.com/anthropics/claude-agent-sdk-typescript">anthropics/claude-agent-sdk-typescript</a></b> · ⭐1798 · Shell · ✅ official · 2 天</summary>
 
 ##### 📝 सारांश
 
@@ -220,14 +220,14 @@ Claude Code एक एजेंटिक कोडिंग टूल है ज
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **1797**   |
+| स्टार             | **1798**   |
 | अंतिम पुश        | 2026-10-09 |
 | पहली बार सूचीबद्ध | 2026-10-11 |
 
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/anthropics/model-cards">anthropics/model-cards</a></b> · ⭐25 · ✅ official · 309 天</summary>
+<summary>🏛️ <b><a href="https://github.com/anthropics/model-cards">anthropics/model-cards</a></b> · ⭐25 · ✅ official · 310 天</summary>
 
 ##### 📝 सारांश
 
@@ -397,7 +397,7 @@ Compound shell command के nested part पर deny या ask rule का man
 यहाँ हर प्रविष्टि Claude Code द्वारा 2.1.287 में प्राप्त क्षमता के उपयोग का प्रमाण दिखाती है: यह `ui.render` के माध्यम से ड्रॉ करती है, किसी पेन, बैंड या कार्ड की स्वामी है, `$.ui.selection()` को पढ़ती है, `agent.spawn` के साथ टीममेट्स को स्पॉन करती है, या स्पष्ट रूप से कहती है कि यह एक मॉड है।
 
 <details>
-<summary>🧩 <b><a href="https://github.com/alexgreensh/token-optimizer">alexgreensh/token-optimizer</a></b> · ⭐2534 · Python · 👁️ observed · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/alexgreensh/token-optimizer">alexgreensh/token-optimizer</a></b> · ⭐2535 · Python · 👁️ observed · 0 天</summary>
 
 ##### 📝 सारांश
 
@@ -415,8 +415,8 @@ Compound shell command के nested part पर deny या ask rule का man
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **2534**   |
-| अंतिम पुश        | 2026-10-10 |
+| स्टार             | **2535**   |
+| अंतिम पुश        | 2026-10-11 |
 | पहली बार सूचीबद्ध | 2026-10-11 |
 
 🏷 `agentskills` · `claude-code` · `claude-code-mod` · `claude-code-skill` · `claude-plugin` · `codex` · `context-engineering` · `context-window`
@@ -433,13 +433,13 @@ Compound shell command के nested part पर deny या ask rule का man
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/karanb192/awesome-claude-code-mods">karanb192/awesome-claude-code-mods</a></b> · ⭐486 · JavaScript · 👁️ observed · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/karanb192/awesome-claude-code-mods">karanb192/awesome-claude-code-mods</a></b> · ⭐493 · JavaScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 सारांश
 
 सार्वजनिक Claude Code mods (function hooks) का community catalogue, GitHub से scan किया गया और इसमें बताया गया है कि प्रत्येक mod क्या read, write, run या network पर send कर सकता है। https://mods.aidojo.si/ browse करें
 
-<sub>🔧 कोड में उपयोग मिला: `data/seeds.txt`, `data/duplicates.txt`, `README.md`, `data/repos.txt`</sub>
+<sub>🔧 कोड में उपयोग मिला: `data/seeds.txt`, `README.md`, `data/repos.txt`, `finder/README.md`</sub>
 
 ##### 📌 मूलभूत तथ्य
 
@@ -453,7 +453,7 @@ Compound shell command के nested part पर deny या ask rule का man
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **486**    |
+| स्टार             | **493**    |
 | अंतिम पुश        | 2026-10-11 |
 | पहली बार सूचीबद्ध | 2026-10-04 |
 
@@ -462,49 +462,13 @@ Compound shell command के nested part पर deny या ask rule का man
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/aqua5230/usage">aqua5230/usage</a></b> · ⭐338 · Python · 👁️ observed · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/hamzafer/claude-code-mods">hamzafer/claude-code-mods</a></b> · ⭐187 · TypeScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 सारांश
 
-macOS menu bar & Windows tray app pinning Claude Code, Codex, Antigravity & Grok CLI quota, burn rate, and cost to your screen. Local-first, no LLM API calls. HTML reports, 14 themes.
+Claude Code mods: hooks पर आधारित plugins, जो prompt के ऊपर live lines, guards, panes और games जोड़ते हैं। Context bar, usage meter, Codex review watch, Markdown preview, Spotify now playing और बहुत कुछ।
 
-<sub>🔧 कोड में उपयोग मिला: `claude_pane/usage-dash/hooks/register.tsx`</sub>
-
-##### 📌 मूलभूत तथ्य
-
-| फ़ील्ड  | मान                                                                                |
-| ----- | ---------------------------------------------------------------------------------- |
-| श्रेणी | `मॉड: मॉड क्षमता से बनाए गए`                                                        |
-| प्रमाण | `इसके अपने पाठ में किसी मॉड API का नाम दिया गया है, या यह मॉड क्षमता घोषित करता है` |
-| भाषा  | Python                                                                             |
-
-##### 📊 डेटा
-
-| मेट्रिक           | मान        |
-| ---------------- | ---------- |
-| स्टार             | **338**    |
-| अंतिम पुश        | 2026-10-11 |
-| पहली बार सूचीबद्ध | 2026-10-11 |
-
-🏷 `ai-tools` · `anthropic` · `catppuccin` · `claude` · `claude-code` · `codex` · `cost-tracking` · `developer-tools`
-
----
-
-<table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/aqua5230--usage/6cfdc327f46c7392.png" width="100%" alt="aqua5230/usage screenshot"></td>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/aqua5230--usage/75f19ddf3cb83f7d.gif" width="100%" alt="aqua5230/usage animation"><br><sub>ऐनिमेटेड रिकॉर्डिंग</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧩 <b><a href="https://github.com/hamzafer/claude-code-mods">hamzafer/claude-code-mods</a></b> · ⭐186 · TypeScript · 👁️ observed · 2 天</summary>
-
-##### 📝 सारांश
-
-Claude Code mods: plugins built on hooks that add live lines above the prompt, guards, panes and games. Context bar, usage meter, Codex review watch, Markdown preview, Spotify now playing and more.
-
-<sub>🔧 कोड में उपयोग मिला: `mods/next-steps/hooks/register.tsx`, `mods/agent-radar/hooks/register.tsx`</sub>
+<sub>🔧 कोड में उपयोग मिला: `mods/next-steps/hooks/register.tsx`, `mods/agent-radar/hooks/register.tsx`, `mods/review-watch/hooks/register.tsx`</sub>
 
 ##### 📌 मूलभूत तथ्य
 
@@ -518,8 +482,8 @@ Claude Code mods: plugins built on hooks that add live lines above the prompt, g
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **186**    |
-| अंतिम पुश        | 2026-10-09 |
+| स्टार             | **187**    |
+| अंतिम पुश        | 2026-10-11 |
 | पहली बार सूचीबद्ध | 2026-10-11 |
 
 🏷 `ai-agents` · `anthropic` · `claude` · `claude-code` · `claude-code-mod` · `claude-code-mods` · `claude-code-plugins` · `developer-tools`
@@ -534,7 +498,7 @@ Claude Code mods: plugins built on hooks that add live lines above the prompt, g
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/karanb192/cache-tax">karanb192/cache-tax</a></b> · ⭐132 · TypeScript · 👁️ observed · 7 天</summary>
+<summary>🧩 <b><a href="https://github.com/karanb192/cache-tax">karanb192/cache-tax</a></b> · ⭐137 · TypeScript · 👁️ observed · 7 天</summary>
 
 ##### 📝 सारांश
 
@@ -552,7 +516,7 @@ Claude Code mods: plugins built on hooks that add live lines above the prompt, g
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **132**    |
+| स्टार             | **137**    |
 | अंतिम पुश        | 2026-10-04 |
 | पहली बार सूचीबद्ध | 2026-10-10 |
 
@@ -595,11 +559,11 @@ Web pages के लिए agent-native QA CLI। Deterministic, लिखने
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/hellosverre/claude-skins">hellosverre/claude-skins</a></b> · ⭐96 · TypeScript · 👁️ observed · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/iamumeransari/claude-show-your-work">iamumeransari/claude-show-your-work</a></b> · ⭐80 · TypeScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 सारांश
 
-Claude Code के लिए स्किन्स: आइकन वाली टूल पंक्तियाँ, diff, table और Mermaid चार्ट कार्ड, एक उपयोग बैंड और पंद्रह थीम। /skin उन्हें लाइव बदलता है।
+Claude Code images दिखाता है और videos सीधे आपके terminal में चलाता है: screenshots, Playwright recordings और synced before/after QA। Ghostty & kitty।
 
 ##### 📌 मूलभूत तथ्य
 
@@ -613,27 +577,27 @@ Claude Code के लिए स्किन्स: आइकन वाली �
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **96**     |
-| अंतिम पुश        | 2026-10-10 |
-| पहली बार सूचीबद्ध | 2026-10-10 |
+| स्टार             | **80**     |
+| अंतिम पुश        | 2026-10-11 |
+| पहली बार सूचीबद्ध | 2026-10-11 |
 
-🏷 `claude-code` · `claude-code-mod` · `claude-code-mods` · `claude-code-plugin` · `terminal` · `theme`
+🏷 `ai-agents` · `anthropic` · `claude` · `claude-code` · `claude-code-mod` · `claude-code-mods` · `claude-code-plugin` · `developer-tools`
 
 ---
 
 <table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/iamumeransari--claude-show-your-work/7a0af2143a7dfd15.jpg" width="100%" alt="iamumeransari/claude-show-your-work screenshot"></td>
 <td align="center" valign="top"><sub>कोई मीडिया प्रकाशित नहीं है</sub></td>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/hellosverre--claude-skins/e70c992c52ca2e70.gif" width="100%" alt="hellosverre/claude-skins animation"><br><sub>ऐनिमेटेड रिकॉर्डिंग</sub></td>
 </tr></table>
 
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/Tickloop/claude-mods">Tickloop/claude-mods</a></b> · ⭐77 · TypeScript · 👁️ observed · 2 天</summary>
+<summary>🧩 <b><a href="https://github.com/Tickloop/claude-mods">Tickloop/claude-mods</a></b> · ⭐78 · TypeScript · 👁️ observed · 3 天</summary>
 
 ##### 📝 सारांश
 
-A collection of claude code mods
+claude code mods का संग्रह
 
 ##### 📌 मूलभूत तथ्य
 
@@ -647,14 +611,14 @@ A collection of claude code mods
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **77**     |
+| स्टार             | **78**     |
 | अंतिम पुश        | 2026-10-08 |
 | पहली बार सूचीबद्ध | 2026-10-11 |
 
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/NahumLitvin/prismantis">NahumLitvin/prismantis</a></b> · ⭐75 · TypeScript · 👁️ observed · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/NahumLitvin/prismantis">NahumLitvin/prismantis</a></b> · ⭐76 · TypeScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 सारांश
 
@@ -672,7 +636,7 @@ Colorful, themeable Claude Code replies: 15 themes में tables, code, diagr
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **75**     |
+| स्टार             | **76**     |
 | अंतिम पुश        | 2026-10-11 |
 | पहली बार सूचीबद्ध | 2026-10-11 |
 
@@ -688,7 +652,7 @@ Colorful, themeable Claude Code replies: 15 themes में tables, code, diagr
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/scasella/claude-flightdeck">scasella/claude-flightdeck</a></b> · ⭐66 · TypeScript · 👁️ observed · 8 天</summary>
+<summary>🧩 <b><a href="https://github.com/scasella/claude-flightdeck">scasella/claude-flightdeck</a></b> · ⭐67 · TypeScript · 👁️ observed · 8 天</summary>
 
 ##### 📝 सारांश
 
@@ -706,7 +670,7 @@ Claude Code मॉड जो आपके टर्मिनल में ला
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **66**     |
+| स्टार             | **67**     |
 | अंतिम पुश        | 2026-10-02 |
 | पहली बार सूचीबद्ध | 2026-10-10 |
 
@@ -726,7 +690,7 @@ Claude Code मॉड जो आपके टर्मिनल में ला
 
 ##### 📝 सारांश
 
-Claude Code mods by Darrell Wang — bands above the prompt, zero model tokens. 台股／美股看板 + more to come.
+Darrell Wang के Claude Code mods — prompt के ऊपर bands, zero model tokens। 台股／美股 dashboard + आगे और भी।
 
 ##### 📌 मूलभूत तथ्य
 
@@ -751,9 +715,9 @@ Claude Code mods by Darrell Wang — bands above the prompt, zero model tokens. 
 
 ##### 📝 सारांश
 
-Expert skills, agents, commands, rules, hooks & output styles for Claude Code — session continuity + modern CLI tooling for real-world dev workflows
+Claude Code के लिए expert skills, agents, commands, rules, hooks और output styles — session continuity + वास्तविक development workflows के लिए आधुनिक CLI tooling
 
-<sub>🔧 कोड में उपयोग मिला: `justfile`, `skills/auto-skill/SKILL.md`, `skills/task-runner/SKILL.md`, `skills/find-replace/SKILL.md`</sub>
+<sub>🔧 कोड में उपयोग मिला: `skills/auto-skill/SKILL.md`, `skills/task-runner/SKILL.md`, `skills/find-replace/SKILL.md`</sub>
 
 ##### 📌 मूलभूत तथ्य
 
@@ -776,11 +740,40 @@ Expert skills, agents, commands, rules, hooks & output styles for Claude Code �
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/zycck/claude-mods">zycck/claude-mods</a></b> · ⭐46 · TypeScript · 👁️ observed · 2 天</summary>
+<summary>🧩 <b><a href="https://github.com/whyashthakker/awesome-claude-code-mods">whyashthakker/awesome-claude-code-mods</a></b> · ⭐50 · TypeScript · 👁️ observed · 8 天</summary>
 
 ##### 📝 सारांश
 
-Claude Code mods: live plan progress bars above the prompt
+Claude Code के साथ इस्तेमाल किए जा सकने वाले 100+ mods का संग्रह।
+
+<sub>🔧 कोड में उपयोग मिला: `README.md`, `docs/COMMUNITY_MODS.md`, `mods/agent-board/hooks/register.js`, `mods/desktop-agent-desk/hooks/register.js`</sub>
+
+##### 📌 मूलभूत तथ्य
+
+| फ़ील्ड  | मान                                                                                |
+| ----- | ---------------------------------------------------------------------------------- |
+| श्रेणी | `मॉड: मॉड क्षमता से बनाए गए`                                                        |
+| प्रमाण | `इसके अपने पाठ में किसी मॉड API का नाम दिया गया है, या यह मॉड क्षमता घोषित करता है` |
+| भाषा  | TypeScript                                                                         |
+
+##### 📊 डेटा
+
+| मेट्रिक           | मान        |
+| ---------------- | ---------- |
+| स्टार             | **50**     |
+| अंतिम पुश        | 2026-10-03 |
+| पहली बार सूचीबद्ध | 2026-10-11 |
+
+🏷 `claude` · `claude-code` · `claude-code-mod` · `claude-code-mods` · `claude-code-plugin`
+
+</details>
+
+<details>
+<summary>🧩 <b><a href="https://github.com/zycck/claude-mods">zycck/claude-mods</a></b> · ⭐46 · TypeScript · 👁️ observed · 3 天</summary>
+
+##### 📝 सारांश
+
+Claude Code mods: prompt के ऊपर live plan progress bars
 
 <sub>🔧 कोड में उपयोग मिला: `README.md`</sub>
 
@@ -805,40 +798,6 @@ Claude Code mods: live plan progress bars above the prompt
 <table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/zycck--claude-mods/49f09d1600b02c7a.gif" width="100%" alt="zycck/claude-mods screenshot"></td>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/zycck--claude-mods/25f4230871cb30f6.gif" width="100%" alt="zycck/claude-mods animation"><br><sub>ऐनिमेटेड रिकॉर्डिंग · <a href="https://raw.githubusercontent.com/zycck/claude-mods/main/media/plan-progress.mp4">वीडियो खोलें</a></sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧩 <b><a href="https://github.com/iamumeransari/claude-show-your-work">iamumeransari/claude-show-your-work</a></b> · ⭐44 · TypeScript · 👁️ observed · 0 天</summary>
-
-##### 📝 सारांश
-
-Claude Code images दिखाता है और videos सीधे आपके terminal में चलाता है: screenshots, Playwright recordings और synced before/after QA। Ghostty & kitty।
-
-##### 📌 मूलभूत तथ्य
-
-| फ़ील्ड  | मान                                                                                |
-| ----- | ---------------------------------------------------------------------------------- |
-| श्रेणी | `मॉड: मॉड क्षमता से बनाए गए`                                                        |
-| प्रमाण | `इसके अपने पाठ में किसी मॉड API का नाम दिया गया है, या यह मॉड क्षमता घोषित करता है` |
-| भाषा  | TypeScript                                                                         |
-
-##### 📊 डेटा
-
-| मेट्रिक           | मान        |
-| ---------------- | ---------- |
-| स्टार             | **44**     |
-| अंतिम पुश        | 2026-10-11 |
-| पहली बार सूचीबद्ध | 2026-10-11 |
-
-🏷 `ai-agents` · `anthropic` · `claude` · `claude-code` · `claude-code-mod` · `claude-code-mods` · `claude-code-plugin` · `developer-tools`
-
----
-
-<table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/iamumeransari--claude-show-your-work/7a0af2143a7dfd15.jpg" width="100%" alt="iamumeransari/claude-show-your-work screenshot"></td>
-<td align="center" valign="top"><sub>कोई मीडिया प्रकाशित नहीं है</sub></td>
 </tr></table>
 
 </details>
@@ -916,7 +875,7 @@ Claude Code images दिखाता है और videos सीधे आप�
 
 ##### 📝 सारांश
 
-A pixel Pokémon that lives above the prompt in Claude Code
+Claude Code में prompt के ऊपर रहने वाला pixel Pokémon
 
 ##### 📌 मूलभूत तथ्य
 
@@ -986,7 +945,7 @@ Claude Code के लिए glow-up: live cockpit pane, shareable themes, औ�
 
 ##### 📝 सारांश
 
-Xcode's build, tests, console and SwiftUI previews inside Claude Code
+Claude Code के भीतर Xcode का build, tests, console और SwiftUI previews
 
 ##### 📌 मूलभूत तथ्य
 
@@ -1020,7 +979,7 @@ Xcode's build, tests, console and SwiftUI previews inside Claude Code
 
 ##### 📝 सारांश
 
-Claude Code mods: 21 styles and a full set of features you turn on when you need them, for the terminal and the desktop app. · 一键为 Claude 换上新风格，并提供一整套按需开启的功能。
+Claude Code mods: 21 styles और features का पूरा सेट, जिन्हें terminal और desktop app के लिए आवश्यकता अनुसार चालू करें। · Claude को एक क्लिक में नई style दें और आवश्यकता अनुसार चालू की जा सकने वाली सुविधाओं का पूरा सेट पाएँ।
 
 ##### 📌 मूलभूत तथ्य
 
@@ -1050,11 +1009,11 @@ Claude Code mods: 21 styles and a full set of features you turn on when you need
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/promptadvisers/claude-mods-starter-kit">promptadvisers/claude-mods-starter-kit</a></b> · ⭐20 · JavaScript · 👁️ observed · 8 天</summary>
+<summary>🧩 <b><a href="https://github.com/promptadvisers/claude-mods-starter-kit">promptadvisers/claude-mods-starter-kit</a></b> · ⭐20 · JavaScript · 👁️ observed · 9 天</summary>
 
 ##### 📝 सारांश
 
-Ten Claude Code mods, beginner guides, creation prompts, safe demos, and a build-your-own template.
+दस Claude Code mods, beginner guides, creation prompts, safe demos और अपना template बनाने का विकल्प।
 
 ##### 📌 मूलभूत तथ्य
 
@@ -1088,7 +1047,7 @@ Ten Claude Code mods, beginner guides, creation prompts, safe demos, and a build
 
 ##### 📝 सारांश
 
-Claude Code mods: usage-band shows your 5h/7d limits, context window and cache hit rate above the prompt
+Claude Code mods: usage-band आपकी 5h/7d limits, context window और cache hit rate को prompt के ऊपर दिखाता है
 
 ##### 📌 मूलभूत तथ्य
 
@@ -1120,7 +1079,7 @@ Claude Code mods: usage-band shows your 5h/7d limits, context window and cache h
 
 ##### 📝 सारांश
 
-Claude Code mods that make Claude's questions easier to read and answer (qa-guide).
+Claude Code mods जो Claude के questions को पढ़ना और उत्तर देना आसान बनाते हैं (qa-guide)।
 
 ##### 📌 मूलभूत तथ्य
 
@@ -1188,7 +1147,7 @@ Claude Code मॉड: टोकन में संदर्भ, घड़ी �
 
 ##### 📝 सारांश
 
-Ten open-source mods for Claude Code: live panes, bands, status lines and tool-call guards. Burn meter, launch codes, session wrapped, boss fight, code pet and more.
+Claude Code के लिए दस open-source mods: live panes, bands, status lines और tool-call guards। Burn meter, launch codes, session wrapped, boss fight, code pet और बहुत कुछ।
 
 ##### 📌 मूलभूत तथ्य
 
@@ -1222,7 +1181,7 @@ Ten open-source mods for Claude Code: live panes, bands, status lines and tool-c
 
 ##### 📝 सारांश
 
-Two Claude Code mods: Codex computer-use bridge and coordinated Claude sessions. Source, build prompts, setup and tests.
+दो Claude Code mods: Codex computer-use bridge और coordinated Claude sessions। Source, build prompts, setup और tests।
 
 ##### 📌 मूलभूत तथ्य
 
@@ -1284,11 +1243,47 @@ Two Claude Code mods: Codex computer-use bridge and coordinated Claude sessions.
 </details>
 
 <details>
+<summary>🧩 <b><a href="https://github.com/Arunjay4213/claude-mods">Arunjay4213/claude-mods</a></b> · ⭐9 · TypeScript · 👁️ observed · 26 天</summary>
+
+##### 📝 सारांश
+
+Mods के रूप में बनाए गए Claude Code के session trackers: context window, plan quota burn rate और per-turn cost
+
+##### 📌 मूलभूत तथ्य
+
+| फ़ील्ड  | मान                                                                                |
+| ----- | ---------------------------------------------------------------------------------- |
+| श्रेणी | `मॉड: मॉड क्षमता से बनाए गए`                                                        |
+| प्रमाण | `इसके अपने पाठ में किसी मॉड API का नाम दिया गया है, या यह मॉड क्षमता घोषित करता है` |
+| भाषा  | TypeScript                                                                         |
+
+##### 📊 डेटा
+
+| मेट्रिक           | मान        |
+| ---------------- | ---------- |
+| स्टार             | **9**      |
+| अंतिम पुश        | 2026-09-15 |
+| पहली बार सूचीबद्ध | 2026-10-04 |
+
+🏷 `claude-code` · `claude-code-plugin` · `claude-mods` · `developer-tools` · `function-hooks` · `terminal`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/Arunjay4213/claude-mods/main/docs/demo.gif" width="100%" alt="Arunjay4213/claude-mods screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/Arunjay4213/claude-mods/main/docs/demo.gif" width="100%" alt="Arunjay4213/claude-mods animation"><br><sub>ऐनिमेटेड रिकॉर्डिंग</sub></td>
+</tr></table>
+
+<sub>अपस्ट्रीम रिपॉज़िटरी से एसेट हॉट-लिंक किया गया है, क्योंकि पुनर्वितरण-अनुकूल लाइसेंस घोषित नहीं किया गया था।</sub>
+
+</details>
+
+<details>
 <summary>🧩 <b><a href="https://github.com/deepsteve/deepsteve">deepsteve/deepsteve</a></b> · ⭐9 · JavaScript · 👁️ observed · 2 天</summary>
 
 ##### 📝 सारांश
 
-A UI around your Claude Code and Codex terminals that your agents build, so the only model in your head is yours.
+आपके Claude Code और Codex terminals के लिए UI, जिसे आपके agents बनाते हैं, ताकि आपके दिमाग में एकमात्र model आपका अपना हो।
 
 <sub>🔧 कोड में उपयोग मिला: `CLAUDE.md`</sub>
 
@@ -1324,7 +1319,7 @@ A UI around your Claude Code and Codex terminals that your agents build, so the 
 
 ##### 📝 सारांश
 
-KOZMOS — live, visual mods for Claude Code (CLI + desktop): bands above the prompt, sidebars, status ticker, companions, guards and sound.
+KOZMOS — Claude Code (CLI + desktop) के लिए live, visual mods: prompt के ऊपर bands, sidebars, status ticker, companions, guards और sound।
 
 <sub>🔧 कोड में उपयोग मिला: `mods/compass/README.md`, `mods/blackbox/README.md`, `mods/orrery/README.md`</sub>
 
@@ -1356,47 +1351,11 @@ KOZMOS — live, visual mods for Claude Code (CLI + desktop): bands above the pr
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/Arunjay4213/claude-mods">Arunjay4213/claude-mods</a></b> · ⭐8 · TypeScript · 👁️ observed · 25 天</summary>
-
-##### 📝 सारांश
-
-Mods के रूप में बनाए गए Claude Code के session trackers: context window, plan quota burn rate और per-turn cost
-
-##### 📌 मूलभूत तथ्य
-
-| फ़ील्ड  | मान                                                                                |
-| ----- | ---------------------------------------------------------------------------------- |
-| श्रेणी | `मॉड: मॉड क्षमता से बनाए गए`                                                        |
-| प्रमाण | `इसके अपने पाठ में किसी मॉड API का नाम दिया गया है, या यह मॉड क्षमता घोषित करता है` |
-| भाषा  | TypeScript                                                                         |
-
-##### 📊 डेटा
-
-| मेट्रिक           | मान        |
-| ---------------- | ---------- |
-| स्टार             | **8**      |
-| अंतिम पुश        | 2026-09-15 |
-| पहली बार सूचीबद्ध | 2026-10-04 |
-
-🏷 `claude-code` · `claude-code-plugin` · `claude-mods` · `developer-tools` · `function-hooks` · `terminal`
-
----
-
-<table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/Arunjay4213/claude-mods/main/docs/demo.gif" width="100%" alt="Arunjay4213/claude-mods screenshot"></td>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/Arunjay4213/claude-mods/main/docs/demo.gif" width="100%" alt="Arunjay4213/claude-mods animation"><br><sub>ऐनिमेटेड रिकॉर्डिंग</sub></td>
-</tr></table>
-
-<sub>अपस्ट्रीम रिपॉज़िटरी से एसेट हॉट-लिंक किया गया है, क्योंकि पुनर्वितरण-अनुकूल लाइसेंस घोषित नहीं किया गया था।</sub>
-
-</details>
-
-<details>
 <summary>🧩 <b><a href="https://github.com/az9713/claude-mod-pack">az9713/claude-mod-pack</a></b> · ⭐8 · TypeScript · 👁️ observed · 7 天</summary>
 
 ##### 📝 सारांश
 
-Six Claude Code mods in one plugin (Token Weather, Cache Keeper, Wait What, Prompt Queue, Snake, Blast Radius) with per-mod switches, plus a mods-vs-hooks report.
+एक plugin में छह Claude Code mods (Token Weather, Cache Keeper, Wait What, Prompt Queue, Snake, Blast Radius), प्रत्येक mod के लिए switches के साथ, और mods-vs-hooks रिपोर्ट।
 
 ##### 📌 मूलभूत तथ्य
 
@@ -1428,7 +1387,7 @@ Six Claude Code mods in one plugin (Token Weather, Cache Keeper, Wait What, Prom
 
 ##### 📝 सारांश
 
-개발동생의 Claude Code mods 모음. 택시 팩: 미터기, 내비, 과속 단속 카메라, 블랙박스
+개발동생 के Claude Code mods का संग्रह। टैक्सी पैक: मीटर, नेविगेशन, speeding camera, dashcam
 
 ##### 📌 मूलभूत तथ्य
 
@@ -1494,7 +1453,7 @@ Six Claude Code mods in one plugin (Token Weather, Cache Keeper, Wait What, Prom
 
 ##### 📝 सारांश
 
-Claude Code mods: 像素螃蟹用量面板 usage-hud + 终端里可点的 HTML 链接和一键复制代码卡片 html-shelf
+Claude Code mods: pixel crab usage panel usage-hud + terminal में क्लिक किए जा सकने वाले HTML links और one-click code-copy cards html-shelf
 
 ##### 📌 मूलभूत तथ्य
 
@@ -1522,140 +1481,184 @@ Claude Code mods: 像素螃蟹用量面板 usage-hud + 终端里可点的 HTML �
 </details>
 
 <details>
-<summary><b>इस श्रेणी में और</b> <sub>· 374</sub></summary>
+<summary>🧩 <b><a href="https://github.com/arasovic/claude-code-mods">arasovic/claude-code-mods</a></b> · ⭐6 · TypeScript · 👁️ observed · 0 天</summary>
 
-- [whyashthakker/awesome-claude-code-mods](https://github.com/whyashthakker/awesome-claude-code-mods) - Collection of 100+ mods you can use with Claude Code.
+##### 📝 सारांश
+
+Claude Code के लिए Mods: function-hook plugins जो terminal UI में live panes और behaviour जोड़ते हैं
+
+##### 📌 मूलभूत तथ्य
+
+| फ़ील्ड  | मान                                                                                |
+| ----- | ---------------------------------------------------------------------------------- |
+| श्रेणी | `मॉड: मॉड क्षमता से बनाए गए`                                                        |
+| प्रमाण | `इसके अपने पाठ में किसी मॉड API का नाम दिया गया है, या यह मॉड क्षमता घोषित करता है` |
+| भाषा  | TypeScript                                                                         |
+
+##### 📊 डेटा
+
+| मेट्रिक           | मान        |
+| ---------------- | ---------- |
+| स्टार             | **6**      |
+| अंतिम पुश        | 2026-10-10 |
+| पहली बार सूचीबद्ध | 2026-10-04 |
+
+🏷 `ai-agents` · `ai-coding` · `anthropic` · `claude` · `claude-code` · `claude-code-mods` · `claude-code-plugin` · `claude-code-plugins`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/arasovic--claude-code-mods/a8e330d8ce6f7bad.png" width="100%" alt="arasovic/claude-code-mods screenshot"></td>
+<td align="center" valign="top"><sub>कोई मीडिया प्रकाशित नहीं है</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary><b>इस श्रेणी में और</b> <sub>· 430</sub></summary>
+
 - [karanb192/claude-code-mods](https://github.com/karanb192/claude-code-mods) - Claude Mods और उन्हें बनाने के tools: पहले एक builder skill, फिर mods.
-- [ucsandman/claude-harness](https://github.com/ucsandman/claude-harness) - The Claude Code harness I run every day, published under this name since day…
-- [kagamiurayama/claude-code-roof-mod](https://github.com/kagamiurayama/claude-code-roof-mod) - 用 Claude Mods 给 Claude Code 换屋顶：不改二进制，把系统提示和英文提醒换成你自己的字（2.1.287+）.
-- [nateherkai/claude-code-mods](https://github.com/nateherkai/claude-code-mods) - Four Claude Code mods: Cache Keeper, Recording Mode, Goal Meter, and Collision…
-- [Hangghost/learning-hacker-claude-mod](https://github.com/Hangghost/learning-hacker-claude-mod) - Learning Hacker 的 Claude Code mods：把 agent 的運作畫成看得懂的東西.
-- [kakha13/claude](https://github.com/kakha13/claude) - Claude Code mods that fix and translate your prompts before Claude reads them.
+- [ucsandman/claude-harness](https://github.com/ucsandman/claude-harness) - Claude Code harness जिसे मैं हर दिन चलाता हूँ, पहले दिन से इसी नाम के अंतर्गत…
+- [kagamiurayama/claude-code-roof-mod](https://github.com/kagamiurayama/claude-code-roof-mod) - Claude Mods से Claude Code की छत बदलें: binary बदले बिना system prompt और…
+- [nateherkai/claude-code-mods](https://github.com/nateherkai/claude-code-mods) - चार Claude Code mods: Cache Keeper, Recording Mode, Goal Meter और Collision…
+- [Hangghost/learning-hacker-claude-mod](https://github.com/Hangghost/learning-hacker-claude-mod) - Learning Hacker के Claude Code mods: agent के संचालन को समझने योग्य रूप में…
+- [kakha13/claude](https://github.com/kakha13/claude) - Claude Code mods जो Claude द्वारा पढ़े जाने से पहले आपके prompts को ठीक और…
+- [nekyialabs/claude-code-toolkit](https://github.com/nekyialabs/claude-code-toolkit) - Nekyia Labs के Claude Code mods और skills, जिन्हें एक स्थायी घर में रहने वाले…
 - [rashedInt32/glass](https://github.com/rashedInt32/glass) - Claude Code के टर्मिनल ट्रांसक्रिप्ट के लिए डेस्कटॉप-ऐप जैसा रूप, एक mod के रूप…
 - [xuanji86/claude-agentpane](https://github.com/xuanji86/claude-agentpane) - Claude Code के लिए एक साइड पैन: सेशन द्वारा चलाए गए सबएजेंट, प्रत्येक क्या कर…
-- [AgriciDaniel/claude-mods-brain](https://github.com/AgriciDaniel/claude-mods-brain) - Source-cited Obsidian knowledge base about Claude Code mods: how they work, how…
+- [AgriciDaniel/claude-mods-brain](https://github.com/AgriciDaniel/claude-mods-brain) - Claude Code के बारे में स्रोत-उद्धृत Obsidian नॉलेज बेस: ये कैसे काम करते हैं…
 - [letswritetw/claude-mod-open-todos](https://github.com/letswritetw/claude-mod-open-todos) - Claude Desktop (Code tab) sidebar panel: आपके सभी Claude Code sessions में…
-- [nekyialabs/claude-code-toolkit](https://github.com/nekyialabs/claude-code-toolkit) - Claude Code mods and skills from Nekyia Labs, built and used daily by AIs…
-- [BeLazy167/claude-mods-skill](https://github.com/BeLazy167/claude-mods-skill) - Skill that teaches Claude Code agents to build Claude Mods.
+- [BeLazy167/claude-mods-skill](https://github.com/BeLazy167/claude-mods-skill) - एक skill जो Claude Code agents को Claude Mods (function-hook plugins) बनाने का…
 - [letswritetw/claude-mod-token-usage](https://github.com/letswritetw/claude-mod-token-usage) - Claude Desktop (Code tab) input box के ऊपर usage bar: 5h / 7d quota, token…
 - [omarcevi/claudemods](https://github.com/omarcevi/claudemods) - Community Claude mods, plugins &amp; skills, एक marketplace से installable.
-- [KilimcininKorOglu/claude-code-mods](https://github.com/KilimcininKorOglu/claude-code-mods) - Claude Mods (function-hooks plugins) for Claude Code.
-- [baselane-sh/mods-catalog](https://github.com/baselane-sh/mods-catalog) - The Baselane mods gallery: Claude Code mods, checked and pinned.
+- [KilimcininKorOglu/claude-code-mods](https://github.com/KilimcininKorOglu/claude-code-mods) - Claude Code के लिए Claude Mods (function-hooks plugins)।.
+- [baselane-sh/mods-catalog](https://github.com/baselane-sh/mods-catalog) - Baselane mods gallery: Claude Code mods, जाँचे और pinned किए हुए।…
 - [eighteyes/cactus](https://github.com/eighteyes/cactus) - संवादी एजेंट्स के साथ काम करने वाले मनुष्यों के लिए निर्णय कतार CLI/TUI। एजेंट…
 - [xuanji86/claude-statuspane](https://github.com/xuanji86/claude-statuspane) - Claude Code के लिए एक फ़्लोटिंग स्टेटस कार्ड — मॉडल, कॉन्टेक्स्ट, रेट सीमाएँ…
-- [arasovic/claude-code-mods](https://github.com/arasovic/claude-code-mods) - Claude Code के लिए Mods: function-hook plugins जो terminal UI में live panes और…
-- [danyuchn/claude-mods](https://github.com/danyuchn/claude-mods) - Claude Code mods: screen-guard masks names and secrets while you screen-share;
+- [danyuchn/claude-mods](https://github.com/danyuchn/claude-mods) - Claude Code mods: screen-guard screen-share के दौरान नामों और secrets को mask…
 - [helenkwok/gsd-status-mod](https://github.com/helenkwok/gsd-status-mod) - Claude Code के लिए लाइव GSD dashboard: roadmap, forks सहित agent tree, context…
-- [magidandrew/cx](https://github.com/magidandrew/cx) - Claude Code Extensions. Unlock the full power of Claude.
+- [magidandrew/cx](https://github.com/magidandrew/cx) - Claude Code Extensions। Claude की पूरी शक्ति अनलॉक करें।.
 - [markneonin/paneline](https://github.com/markneonin/paneline) - Claude Code mod (plugin) जो Activity, Files, Agents, Context और MCP tabs वाला…
-- [mishgoldenberg/claude-mods](https://github.com/mishgoldenberg/claude-mods) - Panels, guardrails and quality-of-life mods for Claude Code: context, usage…
-- [ofeklevy11/claude-code-hud](https://github.com/ofeklevy11/claude-code-hud) - Two Claude Code mods above the prompt box: context-window meter, 5-hour limit…
-- [VedantAndhale/claude-pro-kit](https://github.com/VedantAndhale/claude-pro-kit) - Make the Claude Pro plan last longer: Claude Code mods for an exact usage HUD…
+- [mishgoldenberg/claude-mods](https://github.com/mishgoldenberg/claude-mods) - Claude Code के लिए panels, guardrails और quality-of-life mods: context, usage…
+- [ofeklevy11/claude-code-hud](https://github.com/ofeklevy11/claude-code-hud) - Prompt box के ऊपर दो Claude Code mods: context-window meter, 5-hour limit…
+- [VedantAndhale/claude-pro-kit](https://github.com/VedantAndhale/claude-pro-kit) - Claude Pro plan को अधिक समय तक चलाएँ: सटीक usage HUD, छोटा shell output और…
 - [xuanji86/claude-mdview](https://github.com/xuanji86/claude-mdview) - Claude Code जिन markdown फ़ाइलों के नाम लेता है, उन्हें पढ़कर सेशन के बगल में…
 - [leopiney/wolfbud-claude-mod](https://github.com/leopiney/wolfbud-claude-mod) - Claude Code के लिए voice coworker। ElevenLabs conversational AI द्वारा संचालित…
-- [borabiricik/claude-mods](https://github.com/borabiricik/claude-mods) - Claude Code mods: typing-speed, a live typing speedometer with per-prompt stats.
+- [borabiricik/claude-mods](https://github.com/borabiricik/claude-mods) - Claude Code mods: typing-speed, प्रत्येक prompt के statistics वाला live typing…
 - [charimsma/dopa-mode](https://github.com/charimsma/dopa-mode) - Claude Code के लिए Fireworks: हर keystroke, tool call, commit और green test…
-- [DrishtantKaushal/AwesomeClaudeCodeMods](https://github.com/DrishtantKaushal/AwesomeClaudeCodeMods) - Discover Claude Code mods, plugins and extensions with animated demos, category…
-- [galElmalah/claude-mods](https://github.com/galElmalah/claude-mods) - Claude Code mod: mermaid diagrams drawn inline in the transcript.
+- [DrishtantKaushal/AwesomeClaudeCodeMods](https://github.com/DrishtantKaushal/AwesomeClaudeCodeMods) - Animated demos, category lists और direct source links के साथ Claude Code mods…
+- [galElmalah/claude-mods](https://github.com/galElmalah/claude-mods) - Claude Code mod: transcript में inline बनाए गए mermaid diagrams.
+- [GarvitNangru/claude-code-mods](https://github.com/GarvitNangru/claude-code-mods) - Mods and skins for Claude Code: a live progress bar for Claude.
 - [ha-ptt0601/cc-mods](https://github.com/ha-ptt0601/cc-mods) - छोटे Claude Code mods (function-hook plugins): session-switcher और अन्य.
-- [hahmjuntae/claude-mods-image-preview](https://github.com/hahmjuntae/claude-mods-image-preview) - Claude Code mod: pasted image thumbnails above the prompt, in any terminal.
-- [Jhonatan-de-Souza/ClaudeMods](https://github.com/Jhonatan-de-Souza/ClaudeMods) - Claude Code mods: Claude Tools menu, Zen mode, terminal themes, effort and mode…
-- [LeeHigma0201/claude-code-mods](https://github.com/LeeHigma0201/claude-code-mods) - Claude Code mods: mod-scout.
-- [Nongfsq/frank-claude-cockpit](https://github.com/Nongfsq/frank-claude-cockpit) - Two Claude Code mods for running many sessions at once: a context card above…
-- [ayagmar/claude-modmgr](https://github.com/ayagmar/claude-modmgr) - modmgr: discover, inspect, toggle and update Claude Code mods.
+- [hahmjuntae/claude-mods-image-preview](https://github.com/hahmjuntae/claude-mods-image-preview) - Claude Code mod: किसी भी terminal में prompt के ऊपर pasted image thumbnails.
+- [Jhonatan-de-Souza/ClaudeMods](https://github.com/Jhonatan-de-Souza/ClaudeMods) - Claude Code mods: Claude Tools menu, Zen mode, terminal themes, effort और mode…
+- [LeeHigma0201/claude-code-mods](https://github.com/LeeHigma0201/claude-code-mods) - Claude Code mods: mod-scout (आपके सबसे अधिक उपयोग वाले mods खोजता है)…
+- [Nongfsq/frank-claude-cockpit](https://github.com/Nongfsq/frank-claude-cockpit) - एक साथ कई sessions चलाने के लिए दो Claude Code mods: prompt के ऊपर context card…
+- [ayagmar/claude-modmgr](https://github.com/ayagmar/claude-modmgr) - modmgr: Claude Code mods खोजें, जाँचें, toggle करें और update करें.
 - [Boom-Vitt/boombignose-mods](https://github.com/Boom-Vitt/boombignose-mods) - Claude Code mods: context bar, agents panel, PDPA blur.
-- [claude-code-mods/best-claude-code-mods](https://github.com/claude-code-mods/best-claude-code-mods) - Best Claude Code Mods: hand-picked, validated, pinned.
+- [claude-code-mods/best-claude-code-mods](https://github.com/claude-code-mods/best-claude-code-mods) - श्रेष्ठ Claude Code Mods: चुनिंदा, validated, pinned। एक /plugin marketplace…
 - [dominicrico/jev-router](https://github.com/dominicrico/jev-router) - Claude Code plugin: स्वचालित Claude model routing। प्रत्येक prompt, step और…
 - [FynnXland/fynn-mods](https://github.com/FynnXland/fynn-mods) - Claude Code के लिए six mods: animated Clawd mascot, usage-limit और prompt-cache…
-- [GoneTone/cc-askpass](https://github.com/GoneTone/cc-askpass) - एक Claude Code mod जो Claude को sudo की आवश्यकता वाले कमांड चलाने देता है, बजाय…
-- [Hula-Hoop-AI/supermods](https://github.com/Hula-Hoop-AI/supermods) - A marketplace of mods for Claude Code: a step debugger for the agent loop, git…
+- [Hula-Hoop-AI/supermods](https://github.com/Hula-Hoop-AI/supermods) - Claude Code के लिए mods का marketplace: agent loop के लिए step debugger, git…
 - [ice-lfernandes/claude-code-mods](https://github.com/ice-lfernandes/claude-code-mods) - छह Claude Code mods: prompt के ऊपर plan limits और context, permission prompts…
 - [mertkayacs/ultramod](https://github.com/mertkayacs/ultramod) - Claude Code के लिए सर्वश्रेष्ठ ऑल-इन-वन mod pack: usage limits और context HUD…
 - [mthli/cc-shorts](https://github.com/mthli/cc-shorts) - अपने Claude Code में YouTube Shorts चलाएँ 💃.
 - [NarenDawar/narens-claude-toolkit](https://github.com/NarenDawar/narens-claude-toolkit) - Naren का Claude टूलकिट: Claude Code के लिए skills, mods और MCP servers। प्लगइन…
 - [neteye-platform/cc-split-diff-view](https://github.com/neteye-platform/cc-split-diff-view) - Claude Code मॉड जो Edit और Write diffs को साथ-साथ दो columns में दिखाता है.
-- [raresmun/claude-mods](https://github.com/raresmun/claude-mods) - Mods for Claude Code: Clawd, a tiny pixel mascot who acts out what Claude is…
-- [reporails/arcade](https://github.com/reporails/arcade) - Classic desktop games as Claude Code mods, played in a pane while Claude works.
+- [raresmun/claude-mods](https://github.com/raresmun/claude-mods) - Claude Code के लिए Mods: Clawd, एक छोटा pixel mascot जो Claude के काम को अभिनय…
+- [reporails/arcade](https://github.com/reporails/arcade) - Classic desktop games, Claude Code mods के रूप में, जिन्हें Claude के काम करने…
 - [testy-cool/awesome-claude-code-mods](https://github.com/testy-cool/awesome-claude-code-mods) - Claude Code मॉड की एक चयनित सूची, प्लगइन मार्केटप्लेस के रूप में इंस्टॉल करने…
+- [timoncool/givememod](https://github.com/timoncool/givememod) - मांग पर Claude Code mods — एक skill जो आपकी conversation पढ़कर आपके लिए उपयुक्त…
 - [xsyetopz/dotclaude](https://github.com/xsyetopz/dotclaude) - Harness engineering के प्रति जुनूनी एक Rustacean द्वारा डिज़ाइन किया गया अत्यंत…
-- [yash-gadodia/claude-mods](https://github.com/yash-gadodia/claude-mods) - Claude Code mods that keep an agent honest — function hooks that guard scope…
-- [alexcz-a11y/claude-mods](https://github.com/alexcz-a11y/claude-mods) - My collection of Claude Code mods, one mod per directory.
+- [yash-gadodia/claude-mods](https://github.com/yash-gadodia/claude-mods) - Claude Code mods जो agent को ईमानदार बनाए रखते हैं — function hooks जो scope की…
+- [alexcz-a11y/claude-mods](https://github.com/alexcz-a11y/claude-mods) - मेरे Claude Code mods का संग्रह, प्रत्येक डायरेक्टरी में एक mod.
 - [ArgonQQ/sipp](https://github.com/ArgonQQ/sipp) - 💧 Claude Code के लिए एक passive-aggressive पानी पीने की याद दिलाने वाला। शून्य…
+- [bostonaholic/claude-mods](https://github.com/bostonaholic/claude-mods) - The Claude Code mods I use.
 - [chenyuxiaojin/cyxj-notch](https://github.com/chenyuxiaojin/cyxj-notch) - macOS Code के लिए Claude नॉच डैशबोर्ड: उपयोग सीमाएँ, खुले सत्र, कार्य प्रगति…
-- [DarioFontanel/claude-code-mods](https://github.com/DarioFontanel/claude-code-mods) - Mod per Claude Code: barra della prompt cache, prossimi passi, bottoni rapidi e…
-- [dougcunha/claude-mods](https://github.com/dougcunha/claude-mods) - Mods for Claude Code: panes, commands and hooks built with the plugin…
-- [ElirazKed/claude-code-pr-watch](https://github.com/ElirazKed/claude-code-pr-watch) - Claude Code mod: session द्वारा खोले या push किए गए GitHub PRs का live pane…
+- [Danovich/turntype](https://github.com/Danovich/turntype) - A typing test for the time while Claude works. A Claude Code mod.
+- [DarioFontanel/claude-code-mods](https://github.com/DarioFontanel/claude-code-mods) - Claude Code के लिए mod: prompt cache बार, अगले कदम, त्वरित बटन और बदलावों का…
+- [dougcunha/claude-mods](https://github.com/dougcunha/claude-mods) - Claude Code के लिए Mods: plugin function-hooks API के साथ बनाए गए panes…
+- [drkokorev/context-diet](https://github.com/drkokorev/context-diet) - Trims huge tool outputs before they fill Claude Code.
 - [estruyf/claude-stats-mod](https://github.com/estruyf/claude-stats-mod) - एक Claude Code mod जो आपके usage limits और spend को prompt के ऊपर band में…
 - [herman925/925-cc-plugins](https://github.com/herman925/925-cc-plugins) - Herman के Claude Code मॉड (मार्केटप्लेस herman-mods).
-- [homieyangg/claude-code-mods](https://github.com/homieyangg/claude-code-mods) - Claude Code mods: progress bars for plans, a ledger of what Claude left…
-- [i-harsha-reddy/naruto-mod](https://github.com/i-harsha-reddy/naruto-mod) - Claude Code के लिए एक पिक्सेल-आर्ट Naruto साथी: 20 निंजा, 60 जुत्सु, जो Claude…
+- [homieyangg/claude-code-mods](https://github.com/homieyangg/claude-code-mods) - Claude Code mods: योजनाओं के लिए progress bars, Claude द्वारा चलाए जा रहे…
 - [lorenzh/rabe](https://github.com/lorenzh/rabe) - देखें कि Claude Code background में क्या चलाता है: subagents, Codex jobs…
+- [macleodlabs-ai/claudeflow](https://github.com/macleodlabs-ai/claudeflow) - Claude Code mods by MacLeod Labs: streams untangles a session.
 - [MankhongGarden/claude-code-mods-field-notes](https://github.com/MankhongGarden/claude-code-mods-field-notes) - Windows पर Claude Code mods पर day-one field notes: एक context/quota fuel bar…
-- [MichaelP17/claude-mods](https://github.com/MichaelP17/claude-mods) - Mods I made and personally use in my Claude Code setup.
+- [MichaelP17/claude-mods](https://github.com/MichaelP17/claude-mods) - वे mods जिन्हें मैंने अपने Claude Code सेटअप में बनाया और व्यक्तिगत रूप से…
+- [olddonkey/cache-refresher](https://github.com/olddonkey/cache-refresher) - Claude Code mod: shows when the prompt cache expires and what a lapse would…
 - [patitow/claude-mod-cost-visibility](https://github.com/patitow/claude-mod-cost-visibility) - Claude Code mod: prompt के ऊपर live cost, context और plan-quota meters.
 - [rbartoli/agent-usage-guard](https://github.com/rbartoli/agent-usage-guard) - एक Claude Code मॉड जो सबएजेंट फ़ैन-आउट, भारी-कॉन्टेक्स्ट प्रॉम्प्ट और रिट्राई…
-- [schreibse/claude-code-mods](https://github.com/schreibse/claude-code-mods) - code-mods for claude.
+- [revenantworks/claude-skills](https://github.com/revenantworks/claude-skills) - 28 Agent Skills for Claude in five packs.
+- [schreibse/claude-code-mods](https://github.com/schreibse/claude-code-mods) - claude के लिए code-mods.
 - [shimo4228/harness-scope](https://github.com/shimo4228/harness-scope) - एक Claude Code मॉड जो नामित प्रोफ़ाइलों के साथ प्रति repo आपकी global skills…
 - [simplecore-inc/claude-mods](https://github.com/simplecore-inc/claude-mods) - Claude Code प्लगइन (मॉड): कई Claude खातों के बीच बदलें, स्टेटस बैंड में उपयोग…
 - [Singh-AP/awesome-claude-mods](https://github.com/Singh-AP/awesome-claude-mods) - 🧩 परीक्षित, एक-कमांड-इंस्टॉल Claude Code मॉड: YOLO मोड के लिए सुरक्षा अवरोध…
-- [Sma1lboy/claude-mods](https://github.com/Sma1lboy/claude-mods) - Mods for Claude Code: plugins built on function hooks.
+- [Sma1lboy/claude-mods](https://github.com/Sma1lboy/claude-mods) - Claude Code के लिए Mods: function hooks पर बनाए गए plugins.
 - [smukh/roll-credits](https://github.com/smukh/roll-credits) - आपके कोडिंग सेशन के लिए फ़िल्म-शैली क्रेडिट। बिना मॉडल कॉल या टेलीमेट्री वाला…
-- [Szotasz/claude-mods](https://github.com/Szotasz/claude-mods) - Saját Claude Code mod-ok pluginpiaca.
-- [theonly1me/claude-code-mods](https://github.com/theonly1me/claude-code-mods) - A bunch of claude code mods built by me.
-- [timoncool/givememod](https://github.com/timoncool/givememod) - मांग पर Claude Code mods — एक skill जो आपकी conversation पढ़कर आपके लिए उपयुक्त…
-- [Unayung/cc-mods-youtube](https://github.com/Unayung/cc-mods-youtube) - A cliamp-backed YouTube player inside Claude Code (Claude Code mod).
-- [VladLeus/claude-mods](https://github.com/VladLeus/claude-mods) - Claude Code mods: agent-fleet dashboard and autopilot (local-mods marketplace).
-- [vynnlee/mods](https://github.com/vynnlee/mods) - Claude Code mods by vynnlee. One folder per mod, installable from one…
+- [Szotasz/claude-mods](https://github.com/Szotasz/claude-mods) - मेरे Claude Code mod-ok का plugin marketplace.
+- [theonly1me/claude-code-mods](https://github.com/theonly1me/claude-code-mods) - मेरे द्वारा बनाए गए claude code mods का एक समूह.
+- [y-hirakaw/claude-code-mods](https://github.com/y-hirakaw/claude-code-mods) - Claude Code mods। touch-map: देखें कि Claude ने किन फ़ाइलों को सूचीबद्ध, पढ़ा…
 - [yodakeisuke/claudelingo](https://github.com/yodakeisuke/claudelingo) - Claude Code के साथ काम करते हुए कोई विदेशी भाषा सीखें.
 - [alaturqua/tower-mods](https://github.com/alaturqua/tower-mods) - एक नियंत्रण टावर से अनेक repos में अनेक sessions चलाने के लिए Claude Code mods.
 - [alexlifexyz/p3c-guard](https://github.com/alexlifexyz/p3c-guard) - जब एजेंट Java लिखता है, तो Alibaba Java नियम (p3c) का उल्लंघन करने वाला कोड…
 - [andrewbakercloudscale/claude-code-cost-sidebar](https://github.com/andrewbakercloudscale/claude-code-cost-sidebar) - Claude Code के लिए live cost, token और context usage sidebar: एक mod, जो…
 - [aosmcleod/next-up-mod](https://github.com/aosmcleod/next-up-mod) - Claude Code mod: हर session में Claude द्वारा सुझाए गए follow-ups का backlog…
+- [atharv6f/headway](https://github.com/atharv6f/headway) - Goal, tasks and agents above your Claude Code prompt — zero setup.
 - [BjoernSchotte/ccmod-amp](https://github.com/BjoernSchotte/ccmod-amp) - Claude Code के अंदर Internet radio: cliamp sidebar, mini player, favorites…
 - [Bocskay-Botond/claude-code-mods](https://github.com/Bocskay-Botond/claude-code-mods) - मज़ेदार, उपयोगी Claude Code mods: आपके prompt के ऊपर एक pixel critter, Agent…
-- [CalvoSeko/claude-factory-mod](https://github.com/CalvoSeko/claude-factory-mod) - agent-graph: a Claude Code mod for designing and running graphs of agents…
+- [CalvoSeko/claude-factory-mod](https://github.com/CalvoSeko/claude-factory-mod) - agent-graph: agents के graphs को डिज़ाइन और चलाने के लिए एक Claude Code mod…
 - [chrisluo5311/squad-chat](https://github.com/chrisluo5311/squad-chat) - Claude cooking कर रहा है। अपनी squad से chat करें। आपके Claude Code session के…
+- [comertial/comertial-mods](https://github.com/comertial/comertial-mods) - वास्तविक Engineers के लिए Claude Code mods.
+- [CrazyCoder/claude-desktop-recap](https://github.com/CrazyCoder/claude-desktop-recap) - Claude Code&#x27;s terminal session recap, in the Claude desktop app&#x27;s Code tab.
 - [darkomarijaan/nexus-mod](https://github.com/darkomarijaan/nexus-mod) - All-in-one Claude Code mod: live HUD, सुरक्षा गार्ड.
 - [DarkVelours/claude-code-galactic-battle](https://github.com/DarkVelours/claude-code-galactic-battle) - Claude Code के prompt के ऊपर, उसके काम करने के दौरान space battle।.
 - [Davron2004/slash-coverage](https://github.com/Davron2004/slash-coverage) - देखें कि प्रत्येक Claude Code agent के context में कौन-सी files हैं, और…
-- [dbroadhurst/claude-mod-todos](https://github.com/dbroadhurst/claude-mod-todos) - Claude Code mod: a pane summarising the remaining todos, with Do, Chat, Defer…
 - [drakulavich/cogload](https://github.com/drakulavich/cogload) - अपना दिमाग ठंडा रखें। आपके Claude Code दिनों के लिए एक थर्मामीटर: आपकी डिस्क पर…
 - [EgonLeitner/dashband](https://github.com/EgonLeitner/dashband) - Claude Code के लिए prompt cache, context और plan limits एक नज़र में, prompt…
 - [enhki/claude-mods](https://github.com/enhki/claude-mods) - terminal और desktop app के लिए छोटे Claude Code mods.
+- [erte-del/claude-mods](https://github.com/erte-del/claude-mods) - Claude Code mods (plugin marketplace): live sidebar with context, cost and…
 - [ewxgwy1987/claude-code-progress-board](https://github.com/ewxgwy1987/claude-code-progress-board) - Claude Code mod: tasks, subagents, workflow runs, goal और tool calls के लिए…
 - [ewxgwy1987/claude-code-session-toc](https://github.com/ewxgwy1987/claude-code-session-toc) - Claude Code mod: पूरे session की clickable, timestamped table of contents…
 - [ewxgwy1987/claude-code-usage-meter](https://github.com/ewxgwy1987/claude-code-usage-meter) - Claude Code mod: prompt के ऊपर plan rate limits, context fill, session cost और…
 - [Exdenta/ambient-spanish](https://github.com/Exdenta/ambient-spanish) - Claude CLI skill + mod जो agent replies में Spanish शब्द जोड़ता है.
-- [FrBmt-BIGetNouf/alarum-claude-mod](https://github.com/FrBmt-BIGetNouf/alarum-claude-mod) - Your Alarum events above Claude Code.
+- [FrBmt-BIGetNouf/alarum-claude-mod](https://github.com/FrBmt-BIGetNouf/alarum-claude-mod) - Claude Code के prompt के ऊपर आपके Alarum events: अभी क्या आया है, और उसे agent…
 - [FrBmt-BIGetNouf/floatee-claude-mod](https://github.com/FrBmt-BIGetNouf/floatee-claude-mod) - आपका Floatee backlog Claude Code के prompt के ऊपर: अपने todos को एक क्लिक में…
 - [gonzalonicolasr/claude-code-nerv](https://github.com/gonzalonicolasr/claude-code-nerv) - Claude Code के लिए Evangelion शैली की sidebar: context, quota, activity, PRs…
 - [gregdotca/ccmod-the-machine](https://github.com/gregdotca/ccmod-the-machine) - एक Claude Code मॉड जो इसे Person of Interest के The Machine के रूप में नया रूप…
 - [HyunjunJeon/claude-workflow-mods](https://github.com/HyunjunJeon/claude-workflow-mods) - dag-workflow: subagents के अनिवार्य, सत्यापित DAG workflows के लिए Claude Code…
 - [ibrahimkobeissy/claude-mods](https://github.com/ibrahimkobeissy/claude-mods) - Claude Code के लिए ओपन-सोर्स मॉड्स: पेन, स्टेटस लाइनें, टोस्ट, टूल गार्ड और…
+- [jduerrmann/agent-crew](https://github.com/jduerrmann/agent-crew) - एक Claude Code मॉड: प्रत्येक सबएजेंट के लिए एक पेन, उनके द्वारा छुई गई फ़ाइलें…
 - [jonyfs/astrolabe](https://github.com/jonyfs/astrolabe) - 🧭 Claude Code mod: session status, live Spec Kit progress और usage-window…
 - [kongyo2/context-view](https://github.com/kongyo2/context-view) - प्रॉम्प्ट के ऊपर एक पंक्ति के रूप में संदर्भ विंडो, उसी तरह प्रदर्शित की गई है…
 - [kyledarling-io/claude-code-desktop-hud](https://github.com/kyledarling-io/claude-code-desktop-hud) - Claude Code Desktop के लिए लाइव टास्क HUD: Claude के काम करने के दौरान…
 - [m4cd4r4/clear-resume](https://github.com/m4cd4r4/clear-resume) - Claude Code के लिए निःशुल्क, open-source plugin। /clear करने से पहले, Claude एक…
-- [maxsoldev/pstash](https://github.com/maxsoldev/pstash) - Stash prompts for later and pop them back into Claude Code.
+- [maxsoldev/pstash](https://github.com/maxsoldev/pstash) - Prompts को बाद के लिए stash करें और उन्हें Claude Code के input box में वापस…
 - [Mechazawa/claude-inline-images](https://github.com/Mechazawa/claude-inline-images) - Claude Code mod जो Ghostty और kitty में छवियाँ इनलाइन दिखाता है.
 - [meganemura/pull-request-pane](https://github.com/meganemura/pull-request-pane) - एक Claude Mod जो ट्रांसक्रिप्ट के बगल वाले पेन में सत्र के GitHub pull requests…
-- [nkapila6/sfx-gen](https://github.com/nkapila6/sfx-gen) - Claude Code mod: generate sound effects from text prompts with a local Stable…
+- [muctebadikmen/claude-code-araclari](https://github.com/muctebadikmen/claude-code-araclari) - Claude Code modları: otomatik devir ve ilerleme çubuğu.
+- [nkapila6/sfx-gen](https://github.com/nkapila6/sfx-gen) - Claude Code mod: स्थानीय Stable Audio model (sa3.cpp) के साथ text prompts से…
+- [NMenzel/claude-devtools-mod](https://github.com/NMenzel/claude-devtools-mod) - Claude DevTools: a debugger for Claude Code tool calls.
 - [NotRedFox/NotRedFoxs-Claude-skills](https://github.com/NotRedFox/NotRedFoxs-Claude-skills) - Claude Code skills: docs fact-checker, code auditor, bug-memory log, mod और…
 - [pepperonas/loc-today](https://github.com/pepperonas/loc-today) - Claude Code mod: सभी sessions में Claude द्वारा आज की code lines — नई, संपादित…
 - [pepperonas/path-links](https://github.com/pepperonas/path-links) - Claude Code mod: replies में clickable paths — folder पर क्लिक करके उसे Finder…
 - [rezzminator/buddy](https://github.com/rezzminator/buddy) - Claude Code buddy plugin: आपके प्रॉम्प्ट के ऊपर एक ASCII companion जो आपके नियम…
 - [roma-vibe/jev-governor](https://github.com/roma-vibe/jev-governor) - Claude Code mod: Jev-निर्देशित मॉडल/प्रयास रूटिंग, शब्दशः संदर्भ संपीड़न और कम…
 - [samfrmr/barmkin-mod](https://github.com/samfrmr/barmkin-mod) - Claude Code mods: Claude Code के लिए सुरक्षा परत - सीक्रेट रिडैक्शन, अविश्वसनीय…
+- [seanrobertwright/claude-mods](https://github.com/seanrobertwright/claude-mods) - A collection of Claude Code mods.
 - [Sennjen/claude-sdlc](https://github.com/Sennjen/claude-sdlc) - Claude Code plugin और mod: एक AI-native SDLC.
 - [SeongGwangJu/k-mods](https://github.com/SeongGwangJu/k-mods) - शानदार Claude Code मॉड संग्रह | क्लॉड Code मॉड संग्रह। Claude Code को स्टेटस…
 - [soulrocha/Claude-code-hero-journey](https://github.com/soulrocha/Claude-code-hero-journey) - 🦀 Claude Code के लिए एक cozy RPG HUD mod.
-- [Spardutti/claude-mods](https://github.com/Spardutti/claude-mods) - Claude Code mods: live panels and hooks for daily work.
+- [Spardutti/claude-mods](https://github.com/Spardutti/claude-mods) - Claude Code mods: दैनिक कार्य के लिए live panels और hooks.
 - [tanujarun/it-speaks](https://github.com/tanujarun/it-speaks) - It Speaks: एक Claude Code mod जो अनुरोध पर Claude के उत्तर और आपके prompts को…
 - [timoncool/slapbox](https://github.com/timoncool/slapbox) - 🍑 जब Claude गड़बड़ करे तो उसे Spank करें — Claude Code के लिए stress-relief…
 - [TroyJLorents-GH/mod-squad](https://github.com/TroyJLorents-GH/mod-squad) - Claude Code मॉड: live panes, cost-aware model routing और safety guards के लिए…
 - [valeryia-piatrova/token-hamster](https://github.com/valeryia-piatrova/token-hamster) - 🐹 Claude Code mod &amp; plugin: usage monitor, token tracker और statusline। Live…
-- [y-hirakaw/claude-code-mods](https://github.com/y-hirakaw/claude-code-mods) - Claude Code mods। touch-map: देखें कि Claude ने किन फ़ाइलों को सूचीबद्ध, पढ़ा…
+- [VictorGambarini/jev-mod](https://github.com/VictorGambarini/jev-mod) - A Claude Code mod that hands the small decisions to a cheap decision model…
 - [yuntaengtaeng/snitch](https://github.com/yuntaengtaeng/snitch) - Claude Code mod जो live बताता है कि Claude ने कौन-सी files बदलीं और क्यों…
+- [afterever/claude-mods](https://github.com/afterever/claude-mods) - Claude Code mods by afterever (plugin marketplace).
+- [ajkatom/claude-mods](https://github.com/ajkatom/claude-mods)
+- [Akurganow/model-router](https://github.com/Akurganow/model-router) - Claude Code mod: route each subagent to the cheapest Claude model, judged by…
 - [alan-oliv/claude-mods](https://github.com/alan-oliv/claude-mods) - Claude Code mods: प्रॉम्प्ट के ऊपर सत्र आँकड़ा कार्ड.
 - [Aler1x/claude-cat](https://github.com/Aler1x/claude-cat) - Claude Code prompt के ऊपर animated braille cat.
 - [alinaqi/mixture-of-models-claude-mod](https://github.com/alinaqi/mixture-of-models-claude-mod) - Claude Code मॉड: सस्ता काम GLM/Kimi को चाइल्ड Claude Code के ज़रिए भेजता है और…
@@ -1663,49 +1666,66 @@ Claude Code mods: 像素螃蟹用量面板 usage-hud + 终端里可点的 HTML �
 - [ambervdberg/smartcompact](https://github.com/ambervdberg/smartcompact) - एक Claude Code mod जो context window को छोटा रखने के लिए compact करने का…
 - [an80sPWNstar/claude-mods](https://github.com/an80sPWNstar/claude-mods) - Claude Code के लिए Claude Mods: token-meter.
 - [anderson-spider/claude-mods](https://github.com/anderson-spider/claude-mods) - anderson-spider द्वारा Claude Code प्लगइन मार्केटप्लेस.
-- [andrej-kolic/claude-mods](https://github.com/andrej-kolic/claude-mods) - General-purpose mods for Claude Code: bands, panes, toasts and hooks.
+- [andrej-kolic/claude-mods](https://github.com/andrej-kolic/claude-mods) - Claude Code के लिए सामान्य-उद्देश्य वाले mods: bands, panes, toasts और hooks।…
+- [arslan-charyyev/claude-mods](https://github.com/arslan-charyyev/claude-mods) - My private Claude Code mods.
 - [Ashley-Pettit/lgtm-flash](https://github.com/Ashley-Pettit/lgtm-flash) - हर कोड परिवर्तन के बाद LGTM Lines का जहाज़ आगे निकल जाता है — एक Claude Code मॉड.
 - [Ashley-Pettit/villager-hp](https://github.com/Ashley-Pettit/villager-hp) - आपकी Claude उपयोग सीमाएँ एक एनिमेटेड ग्रामीण स्वास्थ्य कार्ड के रूप में…
+- [AskTinNguyen/ather-mods](https://github.com/AskTinNguyen/ather-mods) - Claude Code mods for the S2 team (the ather marketplace).
+- [astrosteveo/plain-english](https://github.com/astrosteveo/plain-english) - A Claude Code mod that makes Claude write plain English and flags its usual…
 - [Atanur/deskfit](https://github.com/Atanur/deskfit) - Claude के काम करते समय short workouts: daily goal, streaks, badges और optional…
-- [atharv6f/waypoint](https://github.com/atharv6f/waypoint) - Claude Code प्रॉम्प्ट के बगल में प्लान, टास्क और एजेंट की प्रगति — एक Claude…
 - [aycandv/claude-usage-meter](https://github.com/aycandv/claude-usage-meter) - Claude Code के लिए एक usage board: model के अनुसार खर्च.
 - [barneym/claude-context-bar](https://github.com/barneym/claude-context-bar) - एक Claude Code मॉड: prompt के ऊपर लाइव context-window विवरण। न्यूनतम पहुँच: कोई…
-- [bastianfuchs/claude-code-cache-warm](https://github.com/bastianfuchs/claude-code-cache-warm) - Claude Code मॉड जो फ़ुटर में प्रॉम्प्ट-कैश काउंटडाउन दिखाता है और आपके दूर रहने…
 - [benjaminr/nowplaying](https://github.com/benjaminr/nowplaying) - Claude Code के लिए Now Playing mod: prompt के ऊपर Apple Music और Spotify, cover…
-- [benlrice/logpane](https://github.com/benlrice/logpane) - Claude Code mod: a pane that tails the files your Bash calls write to.
 - [broening/claude-mods](https://github.com/broening/claude-mods) - Claude Code के लिए मॉड: Cache-Uhr, Blast Radius, Vorschlaege, Arbeitsliste…
 - [Carismarkus/clowl](https://github.com/Carismarkus/clowl) - आपके Claude Code के लिए बस एक उल्लू.
+- [cesarroger/skill-deck](https://github.com/cesarroger/skill-deck) - A Claude Code mod: keep skills manual-only and switch them on in profiles, per…
 - [cGradying/claude-code-cockpit](https://github.com/cGradying/claude-code-cockpit) - एक-पंक्ति Claude Code band (cache countdown, context, limits, next task) और सात…
+- [chamonkey-crypto/claude-mods](https://github.com/chamonkey-crypto/claude-mods)
 - [ChaseWNorton/claude-doom](https://github.com/ChaseWNorton/claude-doom) - मूल Doom इंजन, जिसमें Freedoom शामिल है, Claude Code के अंदर खेलने योग्य। Mac…
+- [chshin84/claude-mods](https://github.com/chshin84/claude-mods) - Claude Code 단어 사전 패널과 상태 표시줄 플러그인.
 - [cldotdev/claude-todo-list](https://github.com/cldotdev/claude-todo-list) - एक Claude Code mod, जो बातचीत में खुले items की चलती सूची रखता है और उसे prompt…
 - [comertial/claude-pending-changes](https://github.com/comertial/claude-pending-changes) - टर्मिनल छोड़े बिना, Claude द्वारा छुई गई हर फ़ाइल की समीक्षा पुल रिक्वेस्ट की…
-- [comertial/comertial-mods](https://github.com/comertial/comertial-mods) - वास्तविक Engineers के लिए Claude Code mods.
+- [dalemorgan04/claude-mods](https://github.com/dalemorgan04/claude-mods) - Claude Mods.
+- [darshk07/claude-mods](https://github.com/darshk07/claude-mods)
+- [davidparys/claude-mods](https://github.com/davidparys/claude-mods) - Claude Code mods: rule-keeper saves your corrections as permanent rules.
 - [davidurco/cc-tamagotchi](https://github.com/davidurco/cc-tamagotchi) - एक Tamagotchi जो Claude Code के अंदर रहता है: वह hatch होता है, Claude द्वारा…
-- [degterev/swiftui-preview-mod](https://github.com/degterev/swiftui-preview-mod) - Claude Code mod: SwiftUI previews rendered by Xcode, shown in a terminal pane.
+- [dbroadhurst/claude-mod-goal](https://github.com/dbroadhurst/claude-mod-goal) - A Goal pane for Claude Code: the overall goal Claude is working toward, why…
+- [densi97/claude-code-command-log](https://github.com/densi97/claude-code-command-log) - Claude Code Mod to explain commands ran by the agent.
 - [devohmycode/ccmods](https://github.com/devohmycode/ccmods) - Claude Code मॉड फ़ंक्शन हुक के रूप में लिखे गए हैं, और उन्हें उपलब्ध कराने वाला…
+- [diamondT/claude-mods](https://github.com/diamondT/claude-mods)
+- [dieg666/claude-herald](https://github.com/dieg666/claude-herald) - A Claude Code mod: a band above the prompt with Claude news and the breaking or…
 - [dot-agi/arrester](https://github.com/dot-agi/arrester) - Claude Code मॉड: जब कोई guard टूल कॉल को रोकता है, तो यह उसी लक्ष्य की पहचानी…
 - [dot-agi/downrange](https://github.com/dot-agi/downrange) - Claude Code मॉड: एक ही दृश्य में background jobs, वास्तविक output से पढ़ी गई…
 - [dot-agi/high-command](https://github.com/dot-agi/high-command) - Claude Code मॉड: teammates, नामित subagents और अन्य sessions के संदेशों के लिए…
 - [dot-agi/sandbox-tuner](https://github.com/dot-agi/sandbox-tuner) - Claude Code मॉड: sandbox blocks समझाता है और बार-बार होने वाले blocks को…
+- [DragosMocrii/proc-stats](https://github.com/DragosMocrii/proc-stats) - Claude Code mod: status line with the session.
 - [dricosnyman/claude-favourites](https://github.com/dricosnyman/claude-favourites) - Claude Code के लिए Favourites: आपके commands और skills के लिए one-click icons.
+- [Dyarchia/dyarchia](https://github.com/Dyarchia/dyarchia) - Dyarchia: Build and Kanban on every surface.
 - [Egrn/claude-code-mutedit](https://github.com/Egrn/claude-code-mutedit) - Hey, Muted it! diff को छोड़ो riff को काटो, अब edits नहीं credits कम.
+- [Eiyuo/Claude-Mods](https://github.com/Eiyuo/Claude-Mods)
+- [ekinertac/claude-code-mods](https://github.com/ekinertac/claude-code-mods) - Claude Code mods: rewrite-prompt (Ctrl+P rewrites your draft before you send it).
+- [elijah-rou/agent-kit](https://github.com/elijah-rou/agent-kit) - Instructions, skills, Pi extensions, and Claude Code mods for Pi, Codex, and…
 - [EmanueleNene/claude-mods](https://github.com/EmanueleNene/claude-mods) - Claude कोड मॉड्स: delete-guard (फ़ाइल हटाने की पुष्टि) और octopus-crew…
 - [eric1hua/claudemods-desktop-statusline](https://github.com/eric1hua/claudemods-desktop-statusline) - Claude Code mod: Desktop app और terminal में prompt के ऊपर band के रूप में…
-- [ErnestTramp/claude-critters](https://github.com/ErnestTramp/claude-critters) - Claude Code मॉड: आपके बैकग्राउंड एजेंट पिक्सेल क्रिटर्स के रूप में, प्रत्येक…
+- [fatihkartal35/claude-mods](https://github.com/fatihkartal35/claude-mods) - Claude Code mods: auto-model-detector routes each prompt to the right model and…
 - [floheissler/cc-worktree-radar](https://github.com/floheissler/cc-worktree-radar) - प्रॉम्प्ट के ऊपर आपकी समानांतर ब्रांचों और वर्कट्रीज़ का लाइव रडार: कौन-सी…
-- [gaius-codius/ostrakon](https://github.com/gaius-codius/ostrakon) - एक Claude Code mod जो काम के बीच विचारों को कैप्चर करने, उन्हें प्रोजेक्ट्स और…
-- [GeckoKing9/claude-code-copy-button](https://github.com/GeckoKing9/claude-code-copy-button) - Claude Code के उत्तरों में प्रत्येक कोड ब्लॉक पर Ctrl+क्लिक से लिंक कॉपी करें…
+- [Gat0rRex/claude-mods](https://github.com/Gat0rRex/claude-mods) - Claude Code mods (function-hook plugins): context band, loose ends, checkpoint…
 - [Gharib89/claude-mods](https://github.com/Gharib89/claude-mods) - Claude कोड मॉड्स (फ़ंक्शन-हुक प्लगइन्स), एक ही मार्केटप्लेस के ज़रिए इंस्टॉल…
+- [gomymy64/claude-code-mods-cheatsheet](https://github.com/gomymy64/claude-code-mods-cheatsheet)
 - [gotzastory/my-mods](https://github.com/gotzastory/my-mods) - Claude Code mods: context-bar-plus (कॉन्टेक्स्ट बार, कोटा, सबएजेंट मोड).
-- [Hsiang-LinC/vault-jot](https://github.com/Hsiang-LinC/vault-jot) - Claude Code मॉड: किसी भी सत्र से विचारों को Obsidian वॉल्ट इनबॉक्स में कैप्चर…
+- [hahahahahahahahah6/mod-audit](https://github.com/hahahahahahahahah6/mod-audit) - Static supply-chain auditor for Claude Code Mods — local, offline, stdlib-only.
+- [hahahahahahahahah6/task-progress-mod](https://github.com/hahahahahahahahah6/task-progress-mod) - Claude Code Mod: live TodoWrite progress bar above the prompt.
+- [hb03/claude-mods](https://github.com/hb03/claude-mods) - Deutschsprachige Mods für Claude Code: Kontext/Cache-Hinweise, offene Punkte…
+- [humvnpvrvdox777/NextSteps](https://github.com/humvnpvrvdox777/NextSteps) - Claude Code mod: three next steps after each answer, in any language, with an…
 - [Huuuuung/think-meter](https://github.com/Huuuuung/think-meter) - Claude Code mod: हर उत्तर में कितना समय लगा, Claude ने कितनी देर सोचा, और…
 - [huynl-96/claude-mods](https://github.com/huynl-96/claude-mods) - Claude कोड मॉड्स: streamer-mode आपकी स्क्रीन साझा करते समय निजी पेन, बैंड और…
+- [hyperbola-bear/claude-mods](https://github.com/hyperbola-bear/claude-mods) - for my claude mods.
 - [iceberggymnast/claude-code-mods](https://github.com/iceberggymnast/claude-code-mods) - Claude Code function-hook plugins (mods).
 - [icedevil2001/auto-continue](https://github.com/icedevil2001/auto-continue) - Claude Code mod: 5 घंटे की usage limit पूरी होने तक प्रतीक्षा करता है और आपकी…
 - [imsungbin/quackpit-mod](https://github.com/imsungbin/quackpit-mod) - आपके Claude Code प्रॉम्प्ट के ऊपर एक कॉकपिट। बत्तख गेज पढ़ती है।.
-- [its-coughfee/pulse-file-tree](https://github.com/its-coughfee/pulse-file-tree) - Claude Code mod: sidebar file tree that pulses on files Claude just edited.
-- [jasonwblock/sdlc-tracker](https://github.com/jasonwblock/sdlc-tracker) - SDLC Tracker: एक Claude Code मॉड, जिसमें एक साइड पेन दिखाता है कि agentic SDLC…
-- [jduerrmann/agent-crew](https://github.com/jduerrmann/agent-crew) - एक Claude Code मॉड: प्रत्येक सबएजेंट के लिए एक पेन, उनके द्वारा छुई गई फ़ाइलें…
+- [ipartington/claude-mods](https://github.com/ipartington/claude-mods) - Claude Code mods (function-hook plugins): PR merge follow-through, /clear…
+- [jakerains/claudemods](https://github.com/jakerains/claudemods) - Small Claude Code mods: context and plan-usage gauges, a prompt-cache meter…
+- [jamesnguyen1309/claude-usage](https://github.com/jamesnguyen1309/claude-usage) - Claude Code mod: live token usage, models and subagents per prompt.
 - [jessetsai1024/claude-ctx-panel](https://github.com/jessetsai1024/claude-ctx-panel) - साइडबार का context उपयोग पैनल: कुल मात्रा, वर्गीकरण, हर राउंड की वृद्धि, सबसे…
 - [jessetsai1024/claude-files](https://github.com/jessetsai1024/claude-files) - साइडबार की फ़ाइल सूची: इस बातचीत में कौन-सी फ़ाइलें नई बनाई गईं, संशोधित की गईं…
 - [jessetsai1024/claude-maomao](https://github.com/jessetsai1024/claude-maomao) - 8-bit शैली का 毛毛 (काला-सफेद Holland lop rabbit) input box के ऊपर दौड़ता-कूदता…
@@ -1718,72 +1738,97 @@ Claude Code mods: 像素螃蟹用量面板 usage-hud + 终端里可点的 HTML �
 - [kajidog/cc-mods-tts](https://github.com/kajidog/cc-mods-tts) - Claude Code के उत्तरों और सूचनाओं को VOICEVOX / Irodori-TTS आदि से पढ़कर सुनाने…
 - [kbrdn1/claude-crosstalk](https://github.com/kbrdn1/claude-crosstalk) - आपके Claude Code sessions के बीच की बातचीत पढ़ने और उसमें शामिल होने के लिए एक…
 - [ke11/claude-mods](https://github.com/ke11/claude-mods) - Claude Code मॉड। PixBar: आपके प्रॉम्प्ट के ऊपर एक पिक्सेल प्राणी, जो आपकी बारी…
-- [Khanthtutzin/subagent-crew](https://github.com/Khanthtutzin/subagent-crew) - Claude Code mod: prompt के ऊपर pixel Claude mascots के रूप में subagents को…
+- [kkatsuyoshi/claude-mods](https://github.com/kkatsuyoshi/claude-mods) - claude mods.
 - [KKK12142/claude-mods](https://github.com/KKK12142/claude-mods) - Claude कोड मॉड्स (usage-meter, ...).
+- [koenrohrer/hearth-band](https://github.com/koenrohrer/hearth-band) - Claude Code mod: a pixel creature per model beside a prompt-cache campfire…
 - [krishna-goutham-tls/cc-mods](https://github.com/krishna-goutham-tls/cc-mods) - दो Claude Code मॉड्स: folio, चैट के बगल में एक फ़ाइल पेन, और tint, स्टेटस लाइन…
 - [kuehn-lars/cc-graph](https://github.com/kuehn-lars/cc-graph) - cc-graph: Claude Code जो कुछ जानता है उसका एक लाइव ग्राफ़।.
 - [leonidb/claude-code-mods](https://github.com/leonidb/claude-code-mods) - Claude Code के उत्तर की प्रतीक्षा करते समय अपना ध्यान भटकने न दें।.
-- [linsanmufilm-svg/claude-mods](https://github.com/linsanmufilm-svg/claude-mods) - Sanmu.
+- [linsanmufilm-svg/claude-mods](https://github.com/linsanmufilm-svg/claude-mods) - Sanmu के Claude Code mods — एक plugin marketplace (to-do side pane).
+- [LordMordelon/claude-mods](https://github.com/LordMordelon/claude-mods) - Mods de Claude Code para los proyectos de Angel (Vremia).
 - [Lucas-CX/awesome-claude-mods](https://github.com/Lucas-CX/awesome-claude-mods) - समुदाय द्वारा चयनित Claude Code Mods गाइड: उपयोग के मामले, मूल डेमो, संगतता के…
+- [LupusMalusDeviant/claude-mods](https://github.com/LupusMalusDeviant/claude-mods) - Single Claude Code mods from the Mod Box, each installable on its own.
+- [LupusMalusDeviant/mod-box](https://github.com/LupusMalusDeviant/mod-box) - Fourteen Claude Code mods in one plugin, each switchable, with a window to…
 - [M-i-k-e-l/agent-state](https://github.com/M-i-k-e-l/agent-state) - एक Claude Code mod जो iTerm2 tab subtitle में दिखाता है कि Claude क्या कर रहा…
 - [malinfossum/mango-buddy](https://github.com/malinfossum/mango-buddy) - आपके Claude Code prompt के ऊपर एक फूली हुई काली बिल्ली। वह पलकें झपकाती है…
 - [MarcusJellinghaus/claude-mode-gate](https://github.com/MarcusJellinghaus/claude-mode-gate) - switchable permission profiles वाला Claude Code mod: एक safe baseline, ऐसे…
+- [Mark-Hickey/claude-nine](https://github.com/Mark-Hickey/claude-nine) - Claude Code mods: Linear + PR watch, cortex mesh toasts, safe repo sync.
+- [MarkMerk/markmerk-mods](https://github.com/MarkMerk/markmerk-mods) - Small mods for Claude Code: runner-avatar, a little avatar that runs above your…
+- [Marnel8/claude-mods-](https://github.com/Marnel8/claude-mods-)
+- [martin-macak/claude-code-mod-tracking](https://github.com/martin-macak/claude-code-mod-tracking) - Claude Code mod for tracking related artifacts and references.
+- [mattbv/intent-ledger](https://github.com/mattbv/intent-ledger) - Claude Code mod: a live pane of the agent.
 - [MDmubarak786/claude-mods](https://github.com/MDmubarak786/claude-mods) - Claude Code के लिए सामुदायिक मॉड्स: गार्ड्स, पेन और Claude Code के अंदर चलने…
-- [merrickxxx/grill-pane](https://github.com/merrickxxx/grill-pane) - Claude Code mod: grilling interviews with clickable answers in a side pane.
 - [michaelblaess/turbo-mod](https://github.com/michaelblaess/turbo-mod) - Claude Code के लिए साइड पेन: Claude द्वारा लिखी गई फ़ाइलें, टर्मिनल स्प्लिट्स…
 - [micke-dahlgren/token-range-monitor](https://github.com/micke-dahlgren/token-range-monitor) - Claude Code मॉड: आपकी हाल की उपयोग दर के आधार पर रीसेट के समय आपकी साप्ताहिक और…
 - [mmedum/glimt](https://github.com/mmedum/glimt) - Claude Code के लिए एक शांत साइड पैन: यह सत्र क्या कर रहा है, इसकी योजना, इसके…
 - [mmedum/nuet](https://github.com/mmedum/nuet) - Claude कोड ट्रांसक्रिप्ट में प्रत्येक प्रॉम्प्ट और प्रत्येक उत्तर के ऊपर आपके…
 - [mmedum/spor](https://github.com/mmedum/spor) - जो Claude Code fold कर देता है उसे वापस रखता है: वे files जिन्हें Claude ने…
-- [moinsen-dev/speckit-xref](https://github.com/moinsen-dev/speckit-xref) - Keep the code on the spec: a Claude Code mod and a GitHub Spec Kit extension…
-- [mrsono0/ctx-footer](https://github.com/mrsono0/ctx-footer) - Claude Code mod: प्रॉम्प्ट फ़ुटर मोड स्लॉट में कॉन्टेक्स्ट विंडो उपयोग.
+- [mrkshw/cold-cache](https://github.com/mrkshw/cold-cache) - Claude Code mod: warns when a session.
 - [muellerei/enable-todo-tools](https://github.com/muellerei/enable-todo-tools) - Claude Code मॉड जो उन मॉडलों के लिए todo टूल्स को फिर से चालू करता है जो उन्हें…
-- [muellerei/sweet-spot](https://github.com/muellerei/sweet-spot) - Claude Code mod that waits for a safe pause, then hands your session over or…
+- [muellerei/sweet-spot](https://github.com/muellerei/sweet-spot) - Claude Code mod जो सुरक्षित विराम की प्रतीक्षा करता है, फिर आपके session को…
 - [muellerei/task-line](https://github.com/muellerei/task-line) - Claude Code मॉड: प्रॉम्प्ट के ऊपर कार्य सूची में प्रति कार्य एक पंक्ति, जिसमें…
 - [nachtgold/claude-code-connect-four](https://github.com/nachtgold/claude-code-connect-four) - Claude Code के अंदर AI के खिलाफ Connect Four खेलें (/connect-four).
 - [naoanao/agent-cross-check](https://github.com/naoanao/agent-cross-check) - Claude Code मॉड: जब कोई अन्य कोडिंग एजेंट आपके रिपॉज़िटरी में कमिट करता है, तो…
 - [naoanao/shared-repo-guard](https://github.com/naoanao/shared-repo-guard) - कई AI एजेंटों द्वारा साझा रिपॉज़िटरी के लिए Claude Code मॉड: सीक्रेट मानों को…
+- [Nelahia/claude-mods](https://github.com/Nelahia/claude-mods) - Installe et configure mes mods Claude Code en une commande.
+- [NeonOrchard/tab-alert](https://github.com/NeonOrchard/tab-alert) - Claude Code mod: flashes the terminal tab while Claude waits on you.
 - [nerevar48/nerevar-mods](https://github.com/nerevar48/nerevar-mods) - Claude Code मॉड्स मार्केटप्लेस.
-- [NicBritz/claude-code-mods](https://github.com/NicBritz/claude-code-mods) - Fun, free mods for Claude Code that never spend a token.
+- [netgfx/claude-flow-explainer](https://github.com/netgfx/claude-flow-explainer) - A Claude mod to guide the user step by step on how a flow or code works.
+- [NicBritz/claude-code-mods](https://github.com/NicBritz/claude-code-mods) - Claude Code के लिए मज़ेदार, मुफ़्त mods जो कभी token खर्च नहीं करते। सबसे पहले…
 - [nu0ma/query-guard](https://github.com/nu0ma/query-guard) - Claude Code में SQL के लिए एक सुरक्षा अवरोध: DB CLI (function hooks / Mods) के…
 - [OG-Matcha/tessera](https://github.com/OG-Matcha/tessera) - Claude Code, Windows के लिए एक मॉड और CJK प्रथम: किसी भी टर्मिनल में चिपकाई गई…
-- [onk3sh/fix-on-edit](https://github.com/onk3sh/fix-on-edit)
+- [ohade/claude-mods](https://github.com/ohade/claude-mods) - Claude Code mods: image thumbnails and the status line.
+- [Orbitmap/claude-mods](https://github.com/Orbitmap/claude-mods) - Claude Code mods made by the OrbitMap team.
 - [osaki42/awesome-claude-mods](https://github.com/osaki42/awesome-claude-mods) - सर्वश्रेष्ठ Claude Code Mods, आपके लिए वे क्या करते हैं इसके आधार पर क्रमबद्ध।…
+- [pakornkub/session-insight](https://github.com/pakornkub/session-insight) - Claude Code mod: session usage, skills and agents, with an agent diagram.
 - [Para-FR/claude-code-mods-fr](https://github.com/Para-FR/claude-code-mods-fr) - Claude Code के लिए दो Claude Mods: bodyguard.
+- [Paradox07127/claude-utopia](https://github.com/Paradox07127/claude-utopia) - Claude Code mods with agent telemetry, timeline dashboards, mmrun cross-model…
 - [paragpandyareal/swear-slap](https://github.com/paragpandyareal/swear-slap) - Claude Code को गाली दें और एक cartoon hand पलटकर थप्पड़ मारता है। संदेश कभी…
+- [paulosergio-jnr/claude-code-mods](https://github.com/paulosergio-jnr/claude-code-mods) - Claude Code Mods repo.
 - [philarete173/claude_mods](https://github.com/philarete173/claude_mods) - Claude desktop app के Code tab के लिए live session-stats side pane: context…
 - [pradyb/claude-mods](https://github.com/pradyb/claude-mods) - Claude Code के लिए मॉड: safety-guard विनाशकारी कमांड और गुप्त फ़ाइलों की पहुँच…
+- [ptsnac/claude-session-handoff](https://github.com/ptsnac/claude-session-handoff) - Claude Code mod: session timer and one-click handoff to a fresh context window.
 - [rajib2k5/claude-market-watch](https://github.com/rajib2k5/claude-market-watch) - Claude Code mod: live stock ticker, /quote pane, price alerts, market band, और…
-- [ray-amjad/cache-clock](https://github.com/ray-amjad/cache-clock) - Claude Code mod: a band above the prompt showing context used and a countdown…
-- [ray-amjad/diagram-pane](https://github.com/ray-amjad/diagram-pane) - Claude Code mod: a side pane that pins every diagram Claude draws and keeps a…
-- [ray-amjad/dream-pass](https://github.com/ray-amjad/dream-pass) - Claude Code mod: a dreaming pass that merges, rewrites and prunes Claude.
-- [ray-amjad/memory-fork](https://github.com/ray-amjad/memory-fork) - Claude Code मॉड: हर बारी के बाद बैकग्राउंड में ऑटो-मेमोरी को अद्यतन रखता है.
-- [ray-amjad/prompt-bouncer](https://github.com/ray-amjad/prompt-bouncer) - Claude Code mod: drops vague prompts before Claude sees them, and suggests the…
+- [ramtinJ95/claude-mods](https://github.com/ramtinJ95/claude-mods) - Claude Code mods, published as one plugin marketplace.
+- [ray-amjad/cache-clock](https://github.com/ray-amjad/cache-clock) - Claude Code mod: prompt के ऊपर एक band, जो उपयोग किए गए context और prompt cache…
+- [ray-amjad/diagram-pane](https://github.com/ray-amjad/diagram-pane) - Claude Code mod: एक side pane जो Claude द्वारा बनाए गए हर diagram को pin करता…
+- [ray-amjad/dream-pass](https://github.com/ray-amjad/dream-pass) - Claude Code mod: एक dreaming pass जो backup और undo के साथ Claude के memory…
+- [ray-amjad/prompt-bouncer](https://github.com/ray-amjad/prompt-bouncer) - Claude Code mod: Claude के देखने से पहले अस्पष्ट prompts को हटा देता है और…
+- [ray-amjad/secret-box](https://github.com/ray-amjad/secret-box) - Claude Code mod: Claude uses your secrets without seeing them.
+- [ray-amjad/transcript-redactor](https://github.com/ray-amjad/transcript-redactor) - A Claude Code mod that keeps secrets out of the session transcript: every key…
 - [RedRoosterKey/claude-code-ssh-usage-band](https://github.com/RedRoosterKey/claude-code-ssh-usage-band) - Claude Code mod: prompt के ऊपर एक पंक्ति में SSH host, RAM और 5h/7d usage limits.
 - [Risdon8/push-ups](https://github.com/Risdon8/push-ups) - Claude Code mod: Claude के काम करने के दौरान करने के लिए पुश-अप्स। कोई tokens…
-- [Rohitp/claude-mods](https://github.com/Rohitp/claude-mods) - Mods for claude code.
+- [robinade/claude-mods-ko](https://github.com/robinade/claude-mods-ko) - Claude Code mod 한국어판 6종: 가정 기록, 쉬운 말, 아이디어 선반, 프롬프트 다듬기, 세션 모니터·트래커.
+- [rogadev/paceline-mod](https://github.com/rogadev/paceline-mod) - paceline as a Claude Code mod: paces your usage limits in a line above the…
+- [Rohitp/claude-mods](https://github.com/Rohitp/claude-mods) - claude code के लिए Mods.
 - [saadk408/stepline](https://github.com/saadk408/stepline) - Claude Code मॉड: plan mode में आपके द्वारा अनुमोदित योजना को प्रॉम्प्ट के ऊपर…
 - [saksham10arora-dotcom/awesome-claude-mods](https://github.com/saksham10arora-dotcom/awesome-claude-mods) - Claude Code मॉड की हाथ से चुनी गई सूची। हर प्रविष्टि को क्लोन करके claude…
 - [saksham10arora-dotcom/claude-frugal](https://github.com/saksham10arora-dotcom/claude-frugal) - लागत-मुक्त मोड: सहायक एजेंट Haiku पर चलते हैं, और बड़ी फ़ाइलों व लॉग का सारांश…
 - [saksham10arora-dotcom/claude-lofi](https://github.com/saksham10arora-dotcom/claude-lofi) - एक lofi साउंडट्रैक जो सेशन के साथ चलता है: शांति, एकाग्रता, प्रवाह, और टेस्ट…
 - [saksham10arora-dotcom/claude-teach-me](https://github.com/saksham10arora-dotcom/claude-teach-me) - Claude के कोड लिखते समय सीखें: कोड बदलने वाली एक टर्न के बाद, उसी बदलाव के बारे…
 - [saksham10arora-dotcom/claude-vhs](https://github.com/saksham10arora-dotcom/claude-vhs) - Claude द्वारा किए गए हर संपादन की टेप: हर बदलाव को अपने-आप टाइप होते हुए फिर से…
-- [sam-ruff/account-switcher-claude-code-mod](https://github.com/sam-ruff/account-switcher-claude-code-mod) - claude code के लिए एक मॉड, जो आपको खातों के बीच स्विच करने देता है.
-- [samaphp/session-links](https://github.com/samaphp/session-links) - आपके session में उल्लिखित हर link, prompt के ऊपर एक row में। एक Claude Code mod।.
-- [sawzhang/hello-mod](https://github.com/sawzhang/hello-mod) - Claude Code फ़ंक्शन हुक का न्यूनतम प्रदर्शन: प्रॉम्प्ट के ऊपर रीयल-टाइम…
+- [SentientNr6/claude-mods](https://github.com/SentientNr6/claude-mods) - A collection of plugins for Claude.
 - [shahsanket2107/clarvis](https://github.com/shahsanket2107/clarvis) - Clarvis: Claude Code के लिए एक अनौपचारिक Avengers fan mod। आपके prompt के ऊपर…
 - [shengyy/ccoverhead](https://github.com/shengyy/ccoverhead) - prompt के ऊपर context, growth, quota, cache, native cost और agent activity, साथ…
 - [shezis/claude-model-router](https://github.com/shezis/claude-model-router) - Claude Code mod: simple turns और subagents को सस्ते models पर भेजें, आपके चुने…
+- [shissncg/claude-mods](https://github.com/shissncg/claude-mods)
+- [sidhantunnithan/jindan-cc-marketplace](https://github.com/sidhantunnithan/jindan-cc-marketplace) - Personal Claude Code mods.
+- [Spendry/claude-code-mods](https://github.com/Spendry/claude-code-mods) - Claude Code mods, installable as a plugin marketplace: deviation-kernel guards…
 - [speti4/doom-pane](https://github.com/speti4/doom-pane) - Claude Code पेन में मूल DOOM, बिना कुछ इंस्टॉल किए: इंजन मॉड के भीतर चलता है…
+- [StalicJi/my-mods](https://github.com/StalicJi/my-mods) - 個人 Claude Code mod…
+- [SteveAnthonyFM/subagent-guard](https://github.com/SteveAnthonyFM/subagent-guard) - Keep Claude.
 - [steven-ngle/blade-of-commits](https://github.com/steven-ngle/blade-of-commits) - dancing pixel-art Malenia के साथ Claude Code के लिए one-click commit messages.
+- [Sunkanxx/Mods](https://github.com/Sunkanxx/Mods) - Claude Code mods — marketplace sunkanxx-mods.
 - [Tanish-Dev/claude-usage-band](https://github.com/Tanish-Dev/claude-usage-band) - Clawd Meter — एक Claude कोड मॉड जो आपके Claude प्लान के उपयोग.
-- [TFoxik/claude-model-router](https://github.com/TFoxik/claude-model-router) - एक Claude Code मॉड जो हर प्रकार के कार्य के लिए मॉडल और प्रयास चुनता है, और…
-- [thangdo19/claude-code-mods](https://github.com/thangdo19/claude-code-mods) - Small mods that change how Claude Code looks and sounds.
+- [tartinerlabs/claude-code-mods](https://github.com/tartinerlabs/claude-code-mods)
+- [thangdo19/claude-code-mods](https://github.com/thangdo19/claude-code-mods) - छोटे mods जो Claude Code के दिखने और सुनाई देने के तरीके को बदलते हैं।.
 - [TheBabaYaga/claude-session-flow](https://github.com/TheBabaYaga/claude-session-flow) - एक Claude Code मॉड जो वर्तमान सेशन को एक पेन में दिखाता है: हर प्रॉम्प्ट, उसके…
 - [theishandubey/claude-mods](https://github.com/theishandubey/claude-mods) - mods का एक Claude Code plugin marketplace: function-hooks plugins जो Claude…
-- [thinhkhuat/prompt-enhancer](https://github.com/thinhkhuat/prompt-enhancer) - Claude Code mod: rewrites a rough prompt in place, naming fitting skills, open…
-- [tomfluff/claude-read-along](https://github.com/tomfluff/claude-read-along) - Listen to Claude Code.
-- [trietsch/claude-customizations](https://github.com/trietsch/claude-customizations) - Claude Code के लिए customizations.
+- [thinhkhuat/prompt-enhancer](https://github.com/thinhkhuat/prompt-enhancer) - Claude Code mod: rough prompt को उसी स्थान पर rewrite करता है, उपयुक्त skills…
+- [tomfluff/claude-read-along](https://github.com/tomfluff/claude-read-along) - Claude Code के उत्तर सुनें, जबकि पढ़े जा रहे वाक्य को highlight किया जाता है।…
+- [tunglt1810/claude-gadgets](https://github.com/tunglt1810/claude-gadgets) - Some Claude mods.
+- [twentynineteen/scrooge-context-vault](https://github.com/twentynineteen/scrooge-context-vault) - Claude Code mod: your context window as Scrooge McDuck.
+- [tyree88/tempered_plugins](https://github.com/tyree88/tempered_plugins) - Claude Code mods from Tempered Works: ship-state, timeline, limit-resume — plus…
 - [VaitaR/claude-code-limits](https://github.com/VaitaR/claude-code-limits) - Claude Code मॉड: prompt के ऊपर एक पंक्ति में 5h/7d quota, context window…
 - [VAlux/claude-session-progress](https://github.com/VAlux/claude-session-progress) - Claude Code मॉड: लंबे समय तक चलने वाले कार्यों के लिए एनिमेटेड प्रगति बैंड और…
 - [Vansitha/clawd-watch](https://github.com/Vansitha/clawd-watch) - तीन छोटे Claude Code mods: देखें कि आपके subagents कब समाप्त होंगे, Claude के…
@@ -1791,10 +1836,10 @@ Claude Code mods: 像素螃蟹用量面板 usage-hud + 终端里可点的 HTML �
 - [varunmoka7/layman](https://github.com/varunmoka7/layman) - &quot;I.
 - [varunmoka7/next-steps-autopilot](https://github.com/varunmoka7/next-steps-autopilot) - prompt box के ऊपर अगले prompts के सुझाव दिखाता है। /auto टाइप करें ताकि 10…
 - [varunmoka7/side-chat](https://github.com/varunmoka7/side-chat) - अपने काम के पास वाले pane में Claude से side question पूछें। Main conversation…
-- [Victormartinsilva/MODS-CLAUDECODE](https://github.com/Victormartinsilva/MODS-CLAUDECODE) - Claude Code के mods का marketplace, one-step installation और Portuguese में…
-- [vihrea1337/headroom](https://github.com/vihrea1337/headroom) - Claude Code के लिए rate-limit countdowns और burn-rate forecast.
-- [WeaponizedLego/claude-code-mods](https://github.com/WeaponizedLego/claude-code-mods) - My Claude Code mods.
-- [wnsogabriel/claude-mods](https://github.com/wnsogabriel/claude-mods) - Mods para o Claude Code: faixa de limites de uso (5h/semanal) e painel de…
+- [vihrea1337/pager](https://github.com/vihrea1337/pager) - Claude Code pings you in Telegram when a task is done or it waits for…
+- [WeaponizedLego/claude-code-mods](https://github.com/WeaponizedLego/claude-code-mods) - मेरे Claude Code mods.
+- [wimcraft/godville-pane](https://github.com/wimcraft/godville-pane) - A Claude Code mod: your Godville hero and diary in a sidebar.
+- [wnsogabriel/claude-mods](https://github.com/wnsogabriel/claude-mods) - Claude Code के लिए Mods: usage limits bar (5h/साप्ताहिक) और tasks/pending work…
 - [wukonigcom/quanta-costa](https://github.com/wukonigcom/quanta-costa) - 🧾 Claude Code plugin: आपके Claude Pro/Max usage limits, pace forecast, tokens…
 - [xinhuagu/oh-my-claude-mods](https://github.com/xinhuagu/oh-my-claude-mods) - Claude Code के लिए mods। agent-crew: अपने subagents को live pixel crew की तरह…
 - [yeonwooook/claude-study-latex](https://github.com/yeonwooook/claude-study-latex) - Claude के Claude desktop Code tab में replies के भीतर LaTeX math और optional…
@@ -1804,43 +1849,46 @@ Claude Code mods: 像素螃蟹用量面板 usage-hud + 终端里可点的 HTML �
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - एक Claude Code प्लगइन जो दिखाता है कि क्या हो रहा है - संदर्भ उपयोग, सक्रिय…
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Claude Code CLI के लिए powerline समर्थन, थीम्स और अन्य सुविधाओं वाली सुंदर…
 - [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - Claude Code के सिस्टम प्रॉम्प्ट के सभी भाग, 27 अंतर्निर्मित टूल विवरण, सब एजेंट…
+- [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) - AI video skill for Claude Code &amp; Codex — cinematic product videos with…
 - [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) - Claude Code से अधिकतम लाभ लेने के लिए 45+ सुझाव, मूल बातों से उन्नत स्तर तक…
-- [op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) - 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels &amp; WeChat 21:9+1:1…
+- [op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) - 🪧 Claude Code / Codex skill — Xiaohongshu कैरोसेल और WeChat 21:9+1:1 कवर जोड़े…
 - [Owloops/claude-powerline](https://github.com/Owloops/claude-powerline) - Claude Code के लिए सुंदर vim-style powerline.
 - [persiyanov/herdr-reviewr](https://github.com/persiyanov/herdr-reviewr) - टर्मिनल पेन में अपने कोडिंग एजेंट के diff की समीक्षा करें और लाइन टिप्पणियाँ…
+- [devswha/herdr-web-ui](https://github.com/devswha/herdr-web-ui) - Browser and phone client for herdr: chat and live terminal for every agent…
 - [uppinote20/claude-dashboard](https://github.com/uppinote20/claude-dashboard) - Claude Code के लिए व्यापक स्टेटस लाइन प्लगइन, जिसमें संदर्भ उपयोग, API दर…
-- [starbaser/ccproxy](https://github.com/starbaser/ccproxy) - Build mods for Claude Code: Hook any request, modify any response, /model…
-- [NYCU-Chung/cc-statusline](https://github.com/NYCU-Chung/cc-statusline) - A comprehensive statusline dashboard for Claude Code — session info, quota…
-- [gwittebolle/claude-carbon](https://github.com/gwittebolle/claude-carbon) - claude-carbon: track the carbon footprint of your Claude Code sessions.
-- [AwesomeZun/CC-statusline](https://github.com/AwesomeZun/CC-statusline) - An aesthetic statusline for Claude Code by awesomejun.
+- [starbaser/ccproxy](https://github.com/starbaser/ccproxy) - Claude Code के लिए mods बनाएँ: किसी भी request को hook करें, किसी भी response…
+- [NYCU-Chung/cc-statusline](https://github.com/NYCU-Chung/cc-statusline) - Claude Code के लिए व्यापक statusline dashboard — session info, quota bars…
+- [gwittebolle/claude-carbon](https://github.com/gwittebolle/claude-carbon) - claude-carbon: आपके Claude Code sessions के carbon footprint को track करें.
+- [AwesomeZun/CC-statusline](https://github.com/AwesomeZun/CC-statusline) - awesomejun द्वारा बनाया गया Claude Code के लिए आकर्षक statusline.
 - [a86582751/dsh-nexttavern](https://github.com/a86582751/dsh-nexttavern) - DeepSeek Harness का लंबे रूप वाला roleplay agent (DSH Tavern प्लगइन)…
-- [JohnnyVizz/claude-kit](https://github.com/JohnnyVizz/claude-kit) - Public Claude Code skills and mods.
-- [escapeboy/claude-code-kit](https://github.com/escapeboy/claude-code-kit) - Skills, mods, subagents, hooks, slash commands and guides for Claude Code…
-- [mvalentsev/awesome-free-ai-coding](https://github.com/mvalentsev/awesome-free-ai-coding) - 📡 Legal free LLM APIs &amp; coding agents — self-updating, probe-verified twice a…
+- [JohnnyVizz/claude-kit](https://github.com/JohnnyVizz/claude-kit) - Public Claude Code skills और mods.
+- [escapeboy/claude-code-kit](https://github.com/escapeboy/claude-code-kit) - Claude Code के लिए Skills, mods, subagents, hooks, slash commands और guides…
+- [mvalentsev/awesome-free-ai-coding](https://github.com/mvalentsev/awesome-free-ai-coding) - 📡 Legal free LLM APIs और coding agents — self-updating, सप्ताह में दो बार…
+- [chen731215-dev/dsh-tavern-v2](https://github.com/chen731215-dev/dsh-tavern-v2) - DeepSeek Harness Tavern Plugin - character card roleplay, worldbook management…
 - [backstabslash/goccc](https://github.com/backstabslash/goccc) - Claude Code के लिए तेज़, शून्य-निर्भरता लागत कैलकुलेटर और अनुकूलन योग्य…
 - [kylesnowschwartz/tail-claude-hud](https://github.com/kylesnowschwartz/tail-claude-hud) - Claude Code sessions के लिए terminal statusline.
 - [arturogarrido/claudinho](https://github.com/arturogarrido/claudinho) - ⚽ आपके द्वारा follow की जाने वाली competition.
 - [WormAlien/hub-cc](https://github.com/WormAlien/hub-cc) - Claude Code के लिए Windows और macOS पर local control plane: fixed endpoint के…
-- [johncattrall/keymap-ai](https://github.com/johncattrall/keymap-ai) - Agent Skill that turns your coding agent into a keyboard firmware expert.
-- [philoserf/claude-code-config](https://github.com/philoserf/claude-code-config) - व्यक्तिगत Claude Code configuration, ~/.claude के भीतर versioned — agents…
+- [johncattrall/keymap-ai](https://github.com/johncattrall/keymap-ai) - Agent Skill जो आपके coding agent को keyboard firmware expert में बदलता है।…
 - [ashafizullah/claude-code-muslim-mods](https://github.com/ashafizullah/claude-code-muslim-mods) - Claude Code के भीतर नमाज़ के समय, हिजरी तारीख, अज़कार, दैनिक आयत, सुन्नत रोज़ा…
-- [GooDAnDReaDY/dsh-image-gen](https://github.com/GooDAnDReaDY/dsh-image-gen) - Image generation &amp; visual processing suite for DeepSeek Harness: pluggable…
+- [philoserf/claude-code-config](https://github.com/philoserf/claude-code-config) - व्यक्तिगत Claude Code configuration, ~/.claude के भीतर versioned — agents…
+- [GooDAnDReaDY/dsh-image-gen](https://github.com/GooDAnDReaDY/dsh-image-gen) - DeepSeek Harness के लिए image generation और visual processing suite: pluggable…
 - [GoSlowPoke168/claude-statusline](https://github.com/GoSlowPoke168/claude-statusline) - Claude Code के लिए दो-पंक्ति truecolor statusline.
 - [proDreams/dsh-tidewatch](https://github.com/proDreams/dsh-tidewatch) - DeepSeek Harness के लिए तैरता हुआ peak/off-peak tide कार्ड: i18n (en/zh/ru)…
-- [hoobnn/hoobnn-agent-mods](https://github.com/hoobnn/hoobnn-agent-mods) - 适用于 Claude Code、pi 和 DeepSeek Harness 的插件合集：状态栏 HUD、任务进度条、Tailscale 节点状态等 ·…
+- [hoobnn/hoobnn-agent-mods](https://github.com/hoobnn/hoobnn-agent-mods) - Claude Code, pi और DeepSeek Harness के लिए plugin collection: status bar HUD…
 - [pierrebelin/claude-code-toolkit](https://github.com/pierrebelin/claude-code-toolkit) - .NET DDD/Clean Architecture के लिए पोर्टेबल Claude Code टूलकिट: सख्त TDD एजेंट…
 - [jcdendrite/claude-config](https://github.com/jcdendrite/claude-config) - Portable Claude Code global configuration: custom skills, PreToolUse hooks और…
 - [mutlumehmet/claude-plugins](https://github.com/mutlumehmet/claude-plugins) - Claude Code प्लगइन जिन्हें मैं हर दिन इस्तेमाल करता हूँ: skills और mods, इस तरह…
-- [manson341349-beep/claude-desktop-mods](https://github.com/manson341349-beep/claude-desktop-mods) - Unofficial mods for the Code tab of Claude Desktop — usage-pet: a usage band…
-- [bbeygel/claude-code-tama](https://github.com/bbeygel/claude-code-tama) - Tama, a Tamagotchi companion mod for Claude Code.
-- [darthmolen/hytale-claude-code-marketplace](https://github.com/darthmolen/hytale-claude-code-marketplace) - Marketplace for Claude Code Plugins and Skills to facilitate mods of the game…
+- [manson341349-beep/claude-desktop-mods](https://github.com/manson341349-beep/claude-desktop-mods) - Claude Desktop के Code tab के लिए अनौपचारिक mods — usage-pet: Clawd वाला usage…
+- [cmfok/dsh-feishucard](https://github.com/cmfok/dsh-feishucard) - DSH &lt;-&gt; Feishu (Lark) bridge, self-developed (not a fork): streaming reply card…
+- [darthmolen/hytale-claude-code-marketplace](https://github.com/darthmolen/hytale-claude-code-marketplace) - Hytale game के mods को आसान बनाने के लिए Claude Code Plugins और Skills का…
 - [frsorrentino/fable-director](https://github.com/frsorrentino/fable-director) - Claude Code के लिए token governance: शीर्ष मॉडल निर्देश देता है, execution सबसे…
 - [jeancarlo-javier/claude-status-bar](https://github.com/jeancarlo-javier/claude-status-bar) - Claude Code के लिए live workflow-phase status line.
-- [romnycristopher/claude-am-mods](https://github.com/romnycristopher/claude-am-mods) - Repository for Claude Code Awesome Media mods.
-- [rootstudioyaml/sprag](https://github.com/rootstudioyaml/sprag) - Claude Code और Codex का token खर्च घटाएँ: lookups और test runs को सस्ते models…
+- [romnycristopher/claude-am-mods](https://github.com/romnycristopher/claude-am-mods) - Claude Code Awesome Media mods के लिए repository।.
 - [tedserbinski/claude-code-statusline](https://github.com/tedserbinski/claude-code-statusline) - Claude Code के लिए सरल और उपयोगी status line setup.
-- [aquahitt/claude-code-limit-alerts](https://github.com/aquahitt/claude-code-limit-alerts) - Claude Code के लिए usage-limit alerts: macOS notifications, in-app warnings और…
+- [cesarschutz/claude-code-kit](https://github.com/cesarschutz/claude-code-kit) - Marketplace de plugins para o Claude Code: mods, skills, agentes, hooks…
 - [crosscountryridinggirlwonder916/claude-statusline](https://github.com/crosscountryridinggirlwonder916/claude-statusline) - बेहतर workspace awareness के लिए rate limits, वर्तमान directory और Git branch…
+- [eddundead/claude-poker](https://github.com/eddundead/claude-poker) - 8-bit Texas Hold.
 - [fbincon/claude-code-statusline](https://github.com/fbincon/claude-code-statusline) - Linux, WSL, Windows और macOS के लिए configurable Claude Code status line…
 - [JairoTorregrosa/claude-statusline](https://github.com/JairoTorregrosa/claude-statusline) - Claude Code के लिए तेज़ Rust Code स्टेटसलाइन — पेलोड-प्रथम, कैश्ड git, ~10ms…
 - [jsh135790/claude-code-capsule-panel](https://github.com/jsh135790/claude-code-capsule-panel) - Claude Code के लिए एक live usage dashboard — context breakdown, cache hits…
@@ -1850,39 +1898,39 @@ Claude Code mods: 像素螃蟹用量面板 usage-hud + 终端里可点的 HTML �
 - [salvanya/claude_code_statusline](https://github.com/salvanya/claude_code_statusline) - claude code के लिए उपयोगी जानकारी वाली statusline.
 - [tc3oliver/claude-team-kit](https://github.com/tc3oliver/claude-team-kit) - Native agent teams। आपके नियंत्रण में। Claude Code के लिए कठोर worker limits…
 - [yedidya-buildfy/claude-addons](https://github.com/yedidya-buildfy/claude-addons) - Claude Code add-ons: tab-status colored dot watcher + bundled GSD statusline.
-- [zach-source/claude-factory](https://github.com/zach-source/claude-factory) - Definable software factories for Claude Code on herdr: xstate station graphs, a…
+- [zach-source/claude-factory](https://github.com/zach-source/claude-factory) - herdr पर Claude Code के लिए परिभाषित किए जा सकने वाले software factories…
 - [akhilnalliboina/claude-usage-statusline](https://github.com/akhilnalliboina/claude-usage-statusline) - macOS और Linux के लिए Claude कोड उपयोग स्टेटस लाइन, जिसे herdr इंस्टॉलर प्लगइन…
-- [alexleveled/claude-read-aloud](https://github.com/alexleveled/claude-read-aloud) - Hear Claude Code.
+- [alfredwesterveld/claude-cache-status](https://github.com/alfredwesterveld/claude-cache-status) - Claude Code desktop mod: prompt-cache TTL countdown, hit rate and misses.
 - [andkirby/claude-statusline](https://github.com/andkirby/claude-statusline) - Claude Code के लिए custom statusline — usage percentage, context size, cost, और…
 - [AsyrafHussin/claude-code-statusline](https://github.com/AsyrafHussin/claude-code-statusline) - Claude Code के लिए एक साफ़, जानकारीपूर्ण status line — project, git status…
+- [aubinhaba/claude-code-payment-skills](https://github.com/aubinhaba/claude-code-payment-skills) - Claude Code plugin: code-review skills for payments, consistency, boundaries…
 - [BedirYilmaz/claude-crt-hud-mod](https://github.com/BedirYilmaz/claude-crt-hud-mod) - Claude CRT HUD Mod: Claude कोड के लिए CRT-शैली का स्टेटस पैनल, टर्मिनल और…
 - [bunderlog/claude-plugins](https://github.com/bunderlog/claude-plugins) - baloo के साथ Claude Code plugin marketplace: skills, एक agent जो project के…
+- [crafts69guy/claude-statusline.nvim](https://github.com/crafts69guy/claude-statusline.nvim) - Claude Code status line in Lua, with a live Neovim playground.
 - [ctfbio/claude-code-statusline](https://github.com/ctfbio/claude-code-statusline) - पेशेवर-स्तर की Claude Code statusline: session duration, ECB FX के साथ…
 - [cvrt-gmbh/claude-statusline](https://github.com/cvrt-gmbh/claude-statusline) - Claude Code के लिए सब्सक्रिप्शन-जागरूक स्टेटस लाइन.
 - [diegorv/koko.claude-statusline](https://github.com/diegorv/koko.claude-statusline) - Claude Code के लिए एक समृद्ध terminal statusline — Bun + TypeScript, runtime…
-- [ejklock/claude-mermaid-render](https://github.com/ejklock/claude-mermaid-render) - Claude Code plugin जो transcript में Mermaid आरेखों को सुंदर ढंग से रेंडर करता…
+- [fbandres/ccmods](https://github.com/fbandres/ccmods) - Mods for Claude Code: live panes, gauges and more, installable as plugins.
 - [filtercoffeeway/claude-kit](https://github.com/filtercoffeeway/claude-kit) - Claude Code के लिए tools, skills, और agents — model, branch, PR, context size…
 - [giribboy77-arch/claude-statusline](https://github.com/giribboy77-arch/claude-statusline) - Claude Code कस्टम statusline (model, effort, context, cache, usage limit).
 - [hardtomakeanadress/claude-code-deepseek-cost](https://github.com/hardtomakeanadress/claude-code-deepseek-cost) - Claude Code के लिए वास्तविक DeepSeek API खर्च: DeepSeek की पीक/ऑफ़-पीक दरों पर…
 - [hieuvo/claude-imgview](https://github.com/hieuvo/claude-imgview) - Claude Code के भीतर preview images: किसी reply के नीचे chip पर hover करके…
-- [ihororlovskyi/claude-statusline](https://github.com/ihororlovskyi/claude-statusline) - एजेंट पैनल पंक्तियों वाली Claude Code स्टेटस लाइन.
+- [irfanfaraaz/claude-kit](https://github.com/irfanfaraaz/claude-kit) - My Claude Code setup: mods, skills and plugins.
 - [izahamyatim/claude-plugin-fizzy](https://github.com/izahamyatim/claude-plugin-fizzy) - 🚀 वास्तविक समय में टीम की दृश्यता के लिए Claude के todos को Fizzy.do से सिंक…
-- [konnichiwab/claude-code-config](https://github.com/konnichiwab/claude-code-config) - Claude Code सेटिंग्स मेनू, स्टेटसलाइन और कॉन्फ़िगरेशन.
+- [kernastra/claudecode](https://github.com/kernastra/claudecode) - A collection of Claude Code skills, mods, and other add ons that I.
 - [Leechlike-intangibleasset343/claude-code-statusline](https://github.com/Leechlike-intangibleasset343/claude-code-statusline) - संदर्भ, लागत, अवधि, git शाखा, दर सीमाएँ और लाइव उपयोग दिखाने वाले कॉम्पैक्ट…
-- [msetsma/claude-style](https://github.com/msetsma/claude-style) - Claude Code style mod: prompt bubbles, tool-call cards and rails, framed bands…
 - [msinclair-sudo/claude-code-setup](https://github.com/msinclair-sudo/claude-code-setup) - Claude Code environment installer: skills, statusline, hooks, permissions और एक…
+- [muemadennis/claude-code-command-center](https://github.com/muemadennis/claude-code-command-center) - Claude Code Live Dashboard 2026: Track Costs, Tokens &amp; Git Branch Status.
 - [OpenClawFarm/claude-statusline](https://github.com/OpenClawFarm/claude-statusline) - Claude Code के लिए HUD-style status line — network health, TPS, context…
-- [oshnilia/claude-plugins](https://github.com/oshnilia/claude-plugins) - यह समझने के लिए Claude Code plugins और mods कि Claude क्या करता है: पढ़ने योग्य…
-- [pbhwheeler/claude-config](https://github.com/pbhwheeler/claude-config) - Portable Claude Code config: settings.json, hooks, status line, and a bootstrap…
-- [pirncedark/afu-claude-statusline](https://github.com/pirncedark/afu-claude-statusline) - Claude Code के लिए रंगीन बहु-पंक्ति स्टेटस बार (कोटा बार, संदर्भ, सबएजेंट पैनल).
-- [rainyfei/claude-statusline-win](https://github.com/rainyfei/claude-statusline-win) - Windows के लिए Claude Code स्टेटस लाइन (PowerShell): उपयोग बार, गति संबंधी…
+- [parisgroup-ai/claude-statusline](https://github.com/parisgroup-ai/claude-statusline) - @parisgroup-ai/claude-statusline — Claude Code statusline for macOS + Linux.
+- [rotemx-10x/claude-code-statusline](https://github.com/rotemx-10x/claude-code-statusline) - A two-line status line for Claude Code.
+- [satoramoto/awesome-claude](https://github.com/satoramoto/awesome-claude) - Claude Code config and mods, with a shared component kit, a playground and…
 - [Sofia-D4L/claude-conf](https://github.com/Sofia-D4L/claude-conf) - Claude Code का पोर्टेबल कॉन्फ़िगरेशन (statusline + इंस्टॉलर).
 - [SohamShirsat/claude-cockpit](https://github.com/SohamShirsat/claude-cockpit) - Claude Code के लिए एक छोटा डैशबोर्ड: संदर्भ %, कैश काउंटडाउन, 5-घंटे और…
 - [speti4/claude-statusline](https://github.com/speti4/claude-statusline) - Claude Code के लिए कस्टम टर्मिनल स्थिति पट्टी: मॉडल, निर्देशिका, git स्थिति…
 - [thaiquangquy/claude.me](https://github.com/thaiquangquy/claude.me) - पोर्टेबल Claude Code कॉन्फ़िगरेशन: CLAUDE.md, सेटिंग्स, स्टेटसलाइन, स्किल्स.
 - [Tina0529/claude-session-radar](https://github.com/Tina0529/claude-session-radar) - Claude Code desktop (macOS) mod: click-to-jump session notifications…
-- [unlocked-spark/claude-code-earshot](https://github.com/unlocked-spark/claude-code-earshot) - Claude कोड के लिए स्क्रीन रीडर साथी मॉड (Unlocked Spark Foundation).
-- [viplav-artha/claude-code-lessons](https://github.com/viplav-artha/claude-code-lessons) - Claude Code पर व्यावहारिक, सत्यापित गहन अध्ययन — CLAUDE.md, subagents, skills…
+- [vibe-coding-labs/claude-code-status-skills](https://github.com/vibe-coding-labs/claude-code-status-skills) - Claude Code status line: the current model ID, the hostname, a clickable git…
 - [vladimir-ks/ai-agile-claude-code-statusline](https://github.com/vladimir-ks/ai-agile-claude-code-statusline) - Claude Code के लिए real-time cost tracking और session monitoring statusline.
 - [warodan/vscode-claude-code-patch](https://github.com/warodan/vscode-claude-code-patch) - Claude Code skill (VS Code, Windows): चैट में फ़ाइल पथों के नीचे छवि…
 - [ymoud/claude-code-statusline](https://github.com/ymoud/claude-code-statusline) - Claude कोड स्टेटस लाइन: फ़ोल्डर, git ब्रांच, मॉडल, कॉन्टेक्स्ट विंडो उपयोग और…
@@ -1890,14 +1938,15 @@ Claude Code mods: 像素螃蟹用量面板 usage-hud + 终端里可点的 HTML �
 - [zhuyansen/awesome-claude-code-hooks](https://github.com/zhuyansen/awesome-claude-code-hooks) - Claude Code हुक, सबएजेंट और स्टेटसलाइन: प्रकार के अनुसार ओपन-सोर्स संग्रह और…
 - [tronschell/statusline.sh](https://github.com/tronschell/statusline.sh) - Claude Code statuslines के लिए visual builder। Browser में अपने terminal के…
 - [Magnus-Gille/tokenatlas](https://github.com/Magnus-Gille/tokenatlas) - Real-time token usage और estimated energy consumption दिखाने वाली Claude Code…
-- [ishuagrawal/clawdhouse](https://github.com/ishuagrawal/clawdhouse) - Mods for Claude Code: panes, bands and buddies built on function hooks.
-- [ashishsk93/baton-mods](https://github.com/ashishsk93/baton-mods) - Pass tasks between your Claude Code sessions.
-- [lahoramaker/mods-mcp](https://github.com/lahoramaker/mods-mcp) - This in a MCP server to control MODS, the modular cross platforms tool for…
-- [Rimcat-JA/translate-ck3-mods](https://github.com/Rimcat-JA/translate-ck3-mods) - Codex and Claude Code skill for translating CK3 mods with a local LLM.
-- [sTomerG/agent-kit](https://github.com/sTomerG/agent-kit) - Open-source mods and other extensions for Claude Code.
+- [ishuagrawal/clawdhouse](https://github.com/ishuagrawal/clawdhouse) - Claude Code के लिए Mods: function hooks पर बनाए गए panes, bands और buddies.
+- [timvdhoorn/cc-my-pi](https://github.com/timvdhoorn/cc-my-pi) - Claude Code-style UI bundle for the Pi coding agent — tool rendering, spinner…
+- [ashishsk93/baton-mods](https://github.com/ashishsk93/baton-mods) - अपने Claude Code sessions के बीच tasks भेजें। किसी change को उस session को…
+- [lahoramaker/mods-mcp](https://github.com/lahoramaker/mods-mcp) - MODS को नियंत्रित करने के लिए MCP server में यह, Fablabs के लिए modular…
+- [Rimcat-JA/translate-ck3-mods](https://github.com/Rimcat-JA/translate-ck3-mods) - स्थानीय LLM के साथ CK3 mods का अनुवाद करने के लिए Codex और Claude Code skill.
+- [sTomerG/agent-kit](https://github.com/sTomerG/agent-kit) - Claude Code के लिए open-source mods और अन्य extensions.
 - [Apparux/cc-fusion](https://github.com/Apparux/cc-fusion) - Claude Code statusline: CCometixLine beauty + Claude HUD functionality.
-- [charlie947/mod-maker](https://github.com/charlie947/mod-maker) - Mod Maker: find what you ask Claude Code again and again, and turn it into a…
-- [Niedvin/ClauDiscobombulating](https://github.com/Niedvin/ClauDiscobombulating) - prompt-bar mod for Claude Code: usage limits, cache timer + alert, model/effort…
+- [charlie947/mod-maker](https://github.com/charlie947/mod-maker) - Mod Maker: वे चीज़ें खोजें जिन्हें आप Claude Code से बार-बार पूछते हैं और…
+- [Niedvin/ClauDiscobombulating](https://github.com/Niedvin/ClauDiscobombulating) - Claude Code के लिए prompt-bar mod: usage limits, cache timer और alert…
 
 </details>
 
@@ -1908,7 +1957,7 @@ Claude Code mods: 像素螃蟹用量面板 usage-hud + 终端里可点的 HTML �
 DeepSeek Harness और Cordis अलग दिशा से उसी स्थान तक पहुँचते हैं: उनके लिए प्लगइन ही मॉड तंत्र है, इसलिए वहाँ का प्लगइन यहाँ के मॉड के समकक्ष है।
 
 <details>
-<summary>🧵 <b><a href="https://github.com/ruvnet/ruflo">ruvnet/ruflo</a></b> · ⭐74336 · TypeScript · 👁️ observed · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/ruvnet/ruflo">ruvnet/ruflo</a></b> · ⭐74351 · TypeScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 सारांश
 
@@ -1928,7 +1977,7 @@ DeepSeek Harness और Cordis अलग दिशा से उसी स्थ
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **74336**  |
+| स्टार             | **74351**  |
 | अंतिम पुश        | 2026-10-11 |
 | पहली बार सूचीबद्ध | 2026-10-04 |
 
@@ -1944,7 +1993,7 @@ DeepSeek Harness और Cordis अलग दिशा से उसी स्थ
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/nexu-io/open-design">nexu-io/open-design</a></b> · ⭐100521 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/nexu-io/open-design">nexu-io/open-design</a></b> · ⭐100550 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 सारांश
 
@@ -1962,7 +2011,7 @@ DeepSeek Harness और Cordis अलग दिशा से उसी स्थ
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **100521** |
+| स्टार             | **100550** |
 | अंतिम पुश        | 2026-10-11 |
 | पहली बार सूचीबद्ध | 2026-10-04 |
 
@@ -1978,7 +2027,7 @@ DeepSeek Harness और Cordis अलग दिशा से उसी स्थ
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/morluto/rea">morluto/rea</a></b> · ⭐91711 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/morluto/rea">morluto/rea</a></b> · ⭐97943 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 सारांश
 
@@ -1996,7 +2045,7 @@ DeepSeek Harness और Cordis अलग दिशा से उसी स्थ
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **91711**  |
+| स्टार             | **97943**  |
 | अंतिम पुश        | 2026-10-11 |
 | पहली बार सूचीबद्ध | 2026-10-05 |
 
@@ -2012,7 +2061,7 @@ DeepSeek Harness और Cordis अलग दिशा से उसी स्थ
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/tt-a1i/archify">tt-a1i/archify</a></b> · ⭐81929 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/tt-a1i/archify">tt-a1i/archify</a></b> · ⭐82003 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 सारांश
 
@@ -2030,7 +2079,7 @@ DeepSeek Harness और Cordis अलग दिशा से उसी स्थ
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **81929**  |
+| स्टार             | **82003**  |
 | अंतिम पुश        | 2026-10-11 |
 | पहली बार सूचीबद्ध | 2026-10-04 |
 
@@ -2046,7 +2095,7 @@ DeepSeek Harness और Cordis अलग दिशा से उसी स्थ
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/esengine/DeepSeek-Reasonix">esengine/DeepSeek-Reasonix</a></b> · ⭐35760 · Go · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/esengine/DeepSeek-Reasonix">esengine/DeepSeek-Reasonix</a></b> · ⭐35766 · Go · 🔎 inferred · 0 天</summary>
 
 ##### 📝 सारांश
 
@@ -2064,7 +2113,7 @@ DeepSeek Harness और Cordis अलग दिशा से उसी स्थ
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **35760**  |
+| स्टार             | **35766**  |
 | अंतिम पुश        | 2026-10-11 |
 | पहली बार सूचीबद्ध | 2026-10-06 |
 
@@ -2073,11 +2122,11 @@ DeepSeek Harness और Cordis अलग दिशा से उसी स्थ
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/titanwings/distilly">titanwings/distilly</a></b> · ⭐25495 · Python · 🔎 inferred · 19 天</summary>
+<summary>🧵 <b><a href="https://github.com/titanwings/distilly">titanwings/distilly</a></b> · ⭐25500 · Python · 🔎 inferred · 19 天</summary>
 
 ##### 📝 सारांश
 
-Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
+Distilly — किसी भी Agent या Bot के लिए उनके सोचने के तरीके को पुनः उपयोग योग्य Skills में बदलें। पहले Colleague Skill（原同事 Skill） के नाम से जाना जाता था।
 
 ##### 📌 मूलभूत तथ्य
 
@@ -2091,7 +2140,7 @@ Distilly — Distill how they think into reusable Skills for any Agent or Bot. F
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **25495**  |
+| स्टार             | **25500**  |
 | अंतिम पुश        | 2026-09-22 |
 | पहली बार सूचीबद्ध | 2026-10-11 |
 
@@ -2107,11 +2156,11 @@ Distilly — Distill how they think into reusable Skills for any Agent or Bot. F
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/awesome-dsh-plugin/awesome-dsh-plugin">awesome-dsh-plugin/awesome-dsh-plugin</a></b> · ⭐18380 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/awesome-dsh-plugin/awesome-dsh-plugin">awesome-dsh-plugin/awesome-dsh-plugin</a></b> · ⭐18396 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 सारांश
 
-A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
+DeepSeek Harness (dsh) के लिए प्लगइनों की चुनी हुई सूची · DeepSeek Harness प्लगइनों की चयनित सूची
 
 ##### 📌 मूलभूत तथ्य
 
@@ -2125,7 +2174,7 @@ A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件�
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **18380**  |
+| स्टार             | **18396**  |
 | अंतिम पुश        | 2026-10-11 |
 | पहली बार सूचीबद्ध | 2026-10-11 |
 
@@ -2134,109 +2183,7 @@ A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/zhu1090093659/dsh-web">zhu1090093659/dsh-web</a></b> · ⭐8629 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 सारांश
-
-DeepSeek Harness (DSH) Web प्लगइन एग्रीगेशन इकोसिस्टम · हर चीज़ एक प्लगइन है, Creative Workshop के माध्यम से वितरित｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
-
-##### 📌 मूलभूत तथ्य
-
-| फ़ील्ड  | मान                                                                                      |
-| ----- | ---------------------------------------------------------------------------------------- |
-| श्रेणी | `DSH और Cordis प्लगइन इकोसिस्टम`                                                           |
-| प्रमाण | `मॉड, प्लगइन या हुक घोषित किया है, लेकिन विशेष रूप से मॉड सतह के बारे में कुछ नहीं बताया` |
-| भाषा  | TypeScript                                                                               |
-
-##### 📊 डेटा
-
-| मेट्रिक           | मान        |
-| ---------------- | ---------- |
-| स्टार             | **8629**   |
-| अंतिम पुश        | 2026-10-10 |
-| पहली बार सूचीबद्ध | 2026-10-04 |
-
-🏷 `cordis` · `deepseek-harness` · `dsh` · `dsh-plugin` · `dsh-web` · `dsh-web-ui`
-
----
-
-<table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/zhu1090093659--dsh-web/5153c3c61827ebb8.jpg" width="100%" alt="zhu1090093659/dsh-web screenshot"></td>
-<td align="center" valign="top"><sub>कोई मीडिया प्रकाशित नहीं है</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/Ebony-Vinyl/dsh-our-free-model">Ebony-Vinyl/dsh-our-free-model</a></b> · ⭐8510 · JavaScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 सारांश
-
-在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
-
-##### 📌 मूलभूत तथ्य
-
-| फ़ील्ड  | मान                                                                                      |
-| ----- | ---------------------------------------------------------------------------------------- |
-| श्रेणी | `DSH और Cordis प्लगइन इकोसिस्टम`                                                           |
-| प्रमाण | `मॉड, प्लगइन या हुक घोषित किया है, लेकिन विशेष रूप से मॉड सतह के बारे में कुछ नहीं बताया` |
-| भाषा  | JavaScript                                                                               |
-
-##### 📊 डेटा
-
-| मेट्रिक           | मान        |
-| ---------------- | ---------- |
-| स्टार             | **8510**   |
-| अंतिम पुश        | 2026-10-11 |
-| पहली बार सूचीबद्ध | 2026-10-11 |
-
-🏷 `ai-agents` · `deepseek` · `deepseek-harness` · `developer-tools` · `dsh` · `dsh-plugin` · `free-model` · `llm`
-
----
-
-<table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/ebony-vinyl--dsh-our-free-model/212e73dc2aecbd46.png" width="100%" alt="Ebony-Vinyl/dsh-our-free-model screenshot"></td>
-<td align="center" valign="top"><sub>कोई मीडिया प्रकाशित नहीं है</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/dsh-market/dsh-market">dsh-market/dsh-market</a></b> · ⭐6159 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 सारांश
-
-DeepSeek Harness के अंदर प्लगइन बाज़ार — ब्राउज़ करें, खोजें, एक-क्लिक में इंस्टॉल करें · DSH 可视化插件市场
-
-##### 📌 मूलभूत तथ्य
-
-| फ़ील्ड  | मान                                                                                      |
-| ----- | ---------------------------------------------------------------------------------------- |
-| श्रेणी | `DSH और Cordis प्लगइन इकोसिस्टम`                                                           |
-| प्रमाण | `मॉड, प्लगइन या हुक घोषित किया है, लेकिन विशेष रूप से मॉड सतह के बारे में कुछ नहीं बताया` |
-| भाषा  | TypeScript                                                                               |
-
-##### 📊 डेटा
-
-| मेट्रिक           | मान        |
-| ---------------- | ---------- |
-| स्टार             | **6159**   |
-| अंतिम पुश        | 2026-10-11 |
-| पहली बार सूचीबद्ध | 2026-10-11 |
-
-🏷 `deepseek-harness` · `dsh-plugin` · `marketplace`
-
----
-
-<table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/dsh-market--dsh-market/06b60aace017dab8.png" width="100%" alt="dsh-market/dsh-market screenshot"></td>
-<td align="center" valign="top"><sub>कोई मीडिया प्रकाशित नहीं है</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget">MeteorNOX/DeepSeek-Balance-Whale-Widget</a></b> · ⭐4486 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget">MeteorNOX/DeepSeek-Balance-Whale-Widget</a></b> · ⭐4492 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 सारांश
 
@@ -2254,7 +2201,7 @@ DeepSeek Harness（DSH）इंटरफ़ेस के निचले दा�
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **4486**   |
+| स्टार             | **4492**   |
 | अंतिम पुश        | 2026-10-11 |
 | पहली बार सूचीबद्ध | 2026-10-11 |
 
@@ -2270,7 +2217,7 @@ DeepSeek Harness（DSH）इंटरफ़ेस के निचले दा�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/ccch1mneyyy/dsh-TUI">ccch1mneyyy/dsh-TUI</a></b> · ⭐4286 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/ccch1mneyyy/dsh-TUI">ccch1mneyyy/dsh-TUI</a></b> · ⭐4292 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 सारांश
 
@@ -2288,7 +2235,7 @@ DSH का आधिकारिक रूप से सर्वाधिक �
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **4286**   |
+| स्टार             | **4292**   |
 | अंतिम पुश        | 2026-10-11 |
 | पहली बार सूचीबद्ध | 2026-10-10 |
 
@@ -2304,11 +2251,11 @@ DSH का आधिकारिक रूप से सर्वाधिक �
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/omdsh-dev/DSH-better-sidebar">omdsh-dev/DSH-better-sidebar</a></b> · ⭐4107 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/omdsh-dev/DSH-better-sidebar">omdsh-dev/DSH-better-sidebar</a></b> · ⭐4112 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 सारांश
 
-开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, side chat, Git, and sub-agent pages.
+खुला sidebar आधार, जो तृतीय-पक्ष विस्तारों को नए sidebar पृष्ठ पंजीकृत करने की सुविधा देता है। अंतर्निहित फ़ाइल रेंडरिंग/संपादन, टर्मिनल, साइड चैट, Git और sub-agent पृष्ठ ｜ Open sidebar foundation, तृतीय-पक्ष विस्तारों द्वारा नए sidebar पृष्ठ पंजीकृत करने का समर्थन। अंतर्निहित फ़ाइल रेंडरिंग/संपादन, टर्मिनल, साइड चैट, Git और sub-agent पृष्ठ।
 
 ##### 📌 मूलभूत तथ्य
 
@@ -2322,7 +2269,7 @@ DSH का आधिकारिक रूप से सर्वाधिक �
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **4107**   |
+| स्टार             | **4112**   |
 | अंतिम पुश        | 2026-10-11 |
 | पहली बार सूचीबद्ध | 2026-10-11 |
 
@@ -2338,7 +2285,34 @@ DSH का आधिकारिक रूप से सर्वाधिक �
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/dsh-tauri/deepseek-harness-desktop">dsh-tauri/deepseek-harness-desktop</a></b> · ⭐3119 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/strukto-ai/mirage">strukto-ai/mirage</a></b> · ⭐3682 · TypeScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 सारांश
+
+The World's First Virtual Terminal for AI Agents
+
+##### 📌 मूलभूत तथ्य
+
+| फ़ील्ड  | मान                                                                                      |
+| ----- | ---------------------------------------------------------------------------------------- |
+| श्रेणी | `DSH और Cordis प्लगइन इकोसिस्टम`                                                           |
+| प्रमाण | `मॉड, प्लगइन या हुक घोषित किया है, लेकिन विशेष रूप से मॉड सतह के बारे में कुछ नहीं बताया` |
+| भाषा  | TypeScript                                                                               |
+
+##### 📊 डेटा
+
+| मेट्रिक           | मान        |
+| ---------------- | ---------- |
+| स्टार             | **3682**   |
+| अंतिम पुश        | 2026-10-11 |
+| पहली बार सूचीबद्ध | 2026-10-12 |
+
+🏷 `agent-sandbox` · `agent-tools` · `ai-agents` · `bash` · `claude-code` · `dsh` · `dsh-plugin` · `fuse`
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/dsh-tauri/deepseek-harness-desktop">dsh-tauri/deepseek-harness-desktop</a></b> · ⭐3092 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 सारांश
 
@@ -2356,7 +2330,7 @@ DeepSeek Harness Tauri डेस्कटॉप संस्करण | के�
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **3119**   |
+| स्टार             | **3092**   |
 | अंतिम पुश        | 2026-10-11 |
 | पहली बार सूचीबद्ध | 2026-10-11 |
 
@@ -2372,7 +2346,111 @@ DeepSeek Harness Tauri डेस्कटॉप संस्करण | के�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/EthanYoQ/AI-Novel-Writer">EthanYoQ/AI-Novel-Writer</a></b> · ⭐1406 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/bowenliang123/dsh-context">bowenliang123/dsh-context</a></b> · ⭐1995 · TypeScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 सारांश
+
+The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器和侧边栏与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。
+
+##### 📌 मूलभूत तथ्य
+
+| फ़ील्ड  | मान                                                                                      |
+| ----- | ---------------------------------------------------------------------------------------- |
+| श्रेणी | `DSH और Cordis प्लगइन इकोसिस्टम`                                                           |
+| प्रमाण | `मॉड, प्लगइन या हुक घोषित किया है, लेकिन विशेष रूप से मॉड सतह के बारे में कुछ नहीं बताया` |
+| भाषा  | TypeScript                                                                               |
+
+##### 📊 डेटा
+
+| मेट्रिक           | मान        |
+| ---------------- | ---------- |
+| स्टार             | **1995**   |
+| अंतिम पुश        | 2026-10-11 |
+| पहली बार सूचीबद्ध | 2026-10-12 |
+
+🏷 `cordis-plugin` · `deepseek-harness` · `deepseek-harness-plugin` · `dsh-external` · `dsh-plugin` · `dsh-plugins`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/bowenliang123--dsh-context/573c0e5849eea852.png" width="100%" alt="bowenliang123/dsh-context screenshot"></td>
+<td align="center" valign="top"><sub>कोई मीडिया प्रकाशित नहीं है</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/xmanrui/dsh-im">xmanrui/dsh-im</a></b> · ⭐1837 · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 सारांश
+
+通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).
+
+##### 📌 मूलभूत तथ्य
+
+| फ़ील्ड  | मान                                                                                      |
+| ----- | ---------------------------------------------------------------------------------------- |
+| श्रेणी | `DSH और Cordis प्लगइन इकोसिस्टम`                                                           |
+| प्रमाण | `मॉड, प्लगइन या हुक घोषित किया है, लेकिन विशेष रूप से मॉड सतह के बारे में कुछ नहीं बताया` |
+| भाषा  | JavaScript                                                                               |
+
+##### 📊 डेटा
+
+| मेट्रिक           | मान        |
+| ---------------- | ---------- |
+| स्टार             | **1837**   |
+| अंतिम पुश        | 2026-10-11 |
+| पहली बार सूचीबद्ध | 2026-10-12 |
+
+🏷 `ai-agents` · `chatbot` · `cordis` · `deepseek` · `deepseek-harness` · `dingtalk-bot` · `discord-bot` · `dsh`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/xmanrui--dsh-im/cba81787088f67af.jpg" width="100%" alt="xmanrui/dsh-im screenshot"></td>
+<td align="center" valign="top"><sub>कोई मीडिया प्रकाशित नहीं है</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/anywhere-labs/Agents-Anywhere">anywhere-labs/Agents-Anywhere</a></b> · ⭐1577 · TypeScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 सारांश
+
+跨设备的开源Agent工作台
+
+##### 📌 मूलभूत तथ्य
+
+| फ़ील्ड  | मान                                                                                      |
+| ----- | ---------------------------------------------------------------------------------------- |
+| श्रेणी | `DSH और Cordis प्लगइन इकोसिस्टम`                                                           |
+| प्रमाण | `मॉड, प्लगइन या हुक घोषित किया है, लेकिन विशेष रूप से मॉड सतह के बारे में कुछ नहीं बताया` |
+| भाषा  | TypeScript                                                                               |
+
+##### 📊 डेटा
+
+| मेट्रिक           | मान        |
+| ---------------- | ---------- |
+| स्टार             | **1577**   |
+| अंतिम पुश        | 2026-10-11 |
+| पहली बार सूचीबद्ध | 2026-10-12 |
+
+🏷 `acp` · `agentclientprotocol` · `agents` · `claudecode` · `codex` · `codex-app` · `dsh` · `dsh-plugin`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/anywhere-labs/Agents-Anywhere/main/docs/images/readme-hero-zh.webp" width="100%" alt="anywhere-labs/Agents-Anywhere screenshot"></td>
+<td align="center" valign="top"><sub>कोई मीडिया प्रकाशित नहीं है</sub></td>
+</tr></table>
+
+<sub>अपस्ट्रीम रिपॉज़िटरी से एसेट हॉट-लिंक किया गया है, क्योंकि पुनर्वितरण-अनुकूल लाइसेंस घोषित नहीं किया गया था।</sub>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/EthanYoQ/AI-Novel-Writer">EthanYoQ/AI-Novel-Writer</a></b> · ⭐1410 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 सारांश
 
@@ -2390,7 +2468,7 @@ AI उपन्यास लेखन सॉफ़्टवेयर: प्र�
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **1406**   |
+| स्टार             | **1410**   |
 | अंतिम पुश        | 2026-10-11 |
 | पहली बार सूचीबद्ध | 2026-10-11 |
 
@@ -2406,7 +2484,7 @@ AI उपन्यास लेखन सॉफ़्टवेयर: प्र�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/vshulcz/deja-vu">vshulcz/deja-vu</a></b> · ⭐1171 · Go · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/vshulcz/deja-vu">vshulcz/deja-vu</a></b> · ⭐1172 · Go · 🔎 inferred · 0 天</summary>
 
 ##### 📝 सारांश
 
@@ -2424,7 +2502,7 @@ Claude Code, Codex, Cursor और 38 अन्य coding agents के लिए
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **1171**   |
+| स्टार             | **1172**   |
 | अंतिम पुश        | 2026-10-11 |
 | पहली बार सूचीबद्ध | 2026-10-04 |
 
@@ -2440,7 +2518,41 @@ Claude Code, Codex, Cursor और 38 अन्य coding agents के लिए
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/myYangyunfan/dsh_desktop">myYangyunfan/dsh_desktop</a></b> · ⭐704 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/agentrq/agentrq">agentrq/agentrq</a></b> · ⭐1140 · Go · 🔎 inferred · 0 天</summary>
+
+##### 📝 सारांश
+
+AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from wherever you want Mobile, Web, Desktop. Designed to work well with your own Claude subscriptions and any harness with ACP support.
+
+##### 📌 मूलभूत तथ्य
+
+| फ़ील्ड  | मान                                                                                      |
+| ----- | ---------------------------------------------------------------------------------------- |
+| श्रेणी | `DSH और Cordis प्लगइन इकोसिस्टम`                                                           |
+| प्रमाण | `मॉड, प्लगइन या हुक घोषित किया है, लेकिन विशेष रूप से मॉड सतह के बारे में कुछ नहीं बताया` |
+| भाषा  | Go                                                                                       |
+
+##### 📊 डेटा
+
+| मेट्रिक           | मान        |
+| ---------------- | ---------- |
+| स्टार             | **1140**   |
+| अंतिम पुश        | 2026-10-11 |
+| पहली बार सूचीबद्ध | 2026-10-12 |
+
+🏷 `acp-client` · `acp-gateway` · `agentic-ai` · `agentic-workflow` · `agents` · `ai-memory` · `claude-code` · `claude-plugin`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/agentrq--agentrq/71791429350e448f.png" width="100%" alt="agentrq/agentrq screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/agentrq--agentrq/e4115ab2a9de3317.gif" width="100%" alt="agentrq/agentrq animation"><br><sub>ऐनिमेटेड रिकॉर्डिंग</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/myYangyunfan/dsh_desktop">myYangyunfan/dsh_desktop</a></b> · ⭐705 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 सारांश
 
@@ -2458,7 +2570,7 @@ DeepSeek Harness (dsh) Windows डेस्कटॉप क्लाइंट - 
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **704**    |
+| स्टार             | **705**    |
 | अंतिम पुश        | 2026-10-11 |
 | पहली बार सूचीबद्ध | 2026-10-10 |
 
@@ -2474,45 +2586,11 @@ DeepSeek Harness (dsh) Windows डेस्कटॉप क्लाइंट - 
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/Ikalus1988/MisakaNet">Ikalus1988/MisakaNet</a></b> · ⭐526 · Python · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/vibeinging/dsh-desktop">vibeinging/dsh-desktop</a></b> · ⭐592 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 सारांश
 
-📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. | https://misakanet.org
-
-##### 📌 मूलभूत तथ्य
-
-| फ़ील्ड  | मान                                                                                      |
-| ----- | ---------------------------------------------------------------------------------------- |
-| श्रेणी | `DSH और Cordis प्लगइन इकोसिस्टम`                                                           |
-| प्रमाण | `मॉड, प्लगइन या हुक घोषित किया है, लेकिन विशेष रूप से मॉड सतह के बारे में कुछ नहीं बताया` |
-| भाषा  | Python                                                                                   |
-
-##### 📊 डेटा
-
-| मेट्रिक           | मान        |
-| ---------------- | ---------- |
-| स्टार             | **526**    |
-| अंतिम पुश        | 2026-10-11 |
-| पहली बार सूचीबद्ध | 2026-10-11 |
-
-🏷 `action` · `agents` · `cloudflare-workers` · `codex` · `cordis-plugin` · `d1` · `deepseek-harness` · `deepseek-harness-plugin`
-
----
-
-<table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/ikalus1988--misakanet/f6853900d49aba17.jpg" width="100%" alt="Ikalus1988/MisakaNet screenshot"></td>
-<td align="center" valign="top"><sub>कोई मीडिया प्रकाशित नहीं है</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/T-Auto/dsh-ops">T-Auto/dsh-ops</a></b> · ⭐334 · JavaScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 सारांश
-
-A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时
+DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.
 
 ##### 📌 मूलभूत तथ्य
 
@@ -2526,29 +2604,27 @@ A toolkit for low-level operations in DSH, designed to reduce token usage and ta
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **334**    |
+| स्टार             | **592**    |
 | अंतिम पुश        | 2026-10-11 |
-| पहली बार सूचीबद्ध | 2026-10-11 |
+| पहली बार सूचीबद्ध | 2026-10-12 |
 
-🏷 `dsh` · `dsh-plugin` · `dsh-plugins`
+🏷 `agentic-workflows` · `ai-agent` · `ai-workbench` · `data-analysis` · `deepseek-harness` · `desktop-app` · `dsh` · `dsh-plugin`
 
 ---
 
 <table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
-<td align="center" valign="top"><img src="https://github.com/user-attachments/assets/7c9ba485-5323-42a2-b5a8-6dcda07f91c4" width="100%" alt="T-Auto/dsh-ops screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/vibeinging--dsh-desktop/ccbf15d3a2c42437.png" width="100%" alt="vibeinging/dsh-desktop screenshot"></td>
 <td align="center" valign="top"><sub>कोई मीडिया प्रकाशित नहीं है</sub></td>
 </tr></table>
-
-<sub>अपस्ट्रीम रिपॉज़िटरी से एसेट हॉट-लिंक किया गया है, क्योंकि पुनर्वितरण-अनुकूल लाइसेंस घोषित नहीं किया गया था।</sub>
 
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/xing-shuyin/pi-web-ui">xing-shuyin/pi-web-ui</a></b> · ⭐284 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/d-dev0101/open-sea-skin">d-dev0101/open-sea-skin</a></b> · ⭐389 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 सारांश
 
-बस अपना ब्राउज़र खोलें — अपना सारा काम पूरा करें।
+🌊 DeepSeek Harness 海洋皮肤与动态主题 | Real-time ocean theme with adjustable waves, sunset & glass opacity. DSH plugin + Chrome/Edge extension; keeps your new-tab homepage.
 
 ##### 📌 मूलभूत तथ्य
 
@@ -2556,22 +2632,56 @@ A toolkit for low-level operations in DSH, designed to reduce token usage and ta
 | ----- | ---------------------------------------------------------------------------------------- |
 | श्रेणी | `DSH और Cordis प्लगइन इकोसिस्टम`                                                           |
 | प्रमाण | `मॉड, प्लगइन या हुक घोषित किया है, लेकिन विशेष रूप से मॉड सतह के बारे में कुछ नहीं बताया` |
-| भाषा  | TypeScript                                                                               |
+| भाषा  | JavaScript                                                                               |
 
 ##### 📊 डेटा
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **284**    |
+| स्टार             | **389**    |
 | अंतिम पुश        | 2026-10-11 |
-| पहली बार सूचीबद्ध | 2026-10-11 |
+| पहली बार सूचीबद्ध | 2026-10-12 |
 
-🏷 `dsh` · `dsh-desktop` · `dsh-plugin` · `pi` · `pi-web` · `pi-web-ui`
+🏷 `animated-background` · `chrome-extension` · `customization` · `deepseek` · `deepseek-harness` · `deepseek-theme` · `dsh` · `dsh-plugin`
 
 ---
 
 <table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/xing-shuyin--pi-web-ui/926fb8bfa4f6062a.jpg" width="100%" alt="xing-shuyin/pi-web-ui screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/d-dev0101--open-sea-skin/3d9689f0d936d1b0.png" width="100%" alt="d-dev0101/open-sea-skin screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/d-dev0101--open-sea-skin/ccd6ac3920478ffa.gif" width="100%" alt="d-dev0101/open-sea-skin animation"><br><sub>ऐनिमेटेड रिकॉर्डिंग</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/DDDMUC/dsh-free-search">DDDMUC/dsh-free-search</a></b> · ⭐369 · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 सारांश
+
+Free web search provider for DeepSeek Harness - DuckDuckGo backend, no API key needed
+
+##### 📌 मूलभूत तथ्य
+
+| फ़ील्ड  | मान                                                                                      |
+| ----- | ---------------------------------------------------------------------------------------- |
+| श्रेणी | `DSH और Cordis प्लगइन इकोसिस्टम`                                                           |
+| प्रमाण | `मॉड, प्लगइन या हुक घोषित किया है, लेकिन विशेष रूप से मॉड सतह के बारे में कुछ नहीं बताया` |
+| भाषा  | JavaScript                                                                               |
+
+##### 📊 डेटा
+
+| मेट्रिक           | मान        |
+| ---------------- | ---------- |
+| स्टार             | **369**    |
+| अंतिम पुश        | 2026-10-11 |
+| पहली बार सूचीबद्ध | 2026-10-12 |
+
+🏷 `bing` · `deepseek-harness` · `dsh` · `dsh-plugin` · `duckduckgo` · `web-search`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/dddmuc--dsh-free-search/ec034e713544ead5.png" width="100%" alt="DDDMUC/dsh-free-search screenshot"></td>
 <td align="center" valign="top"><sub>कोई मीडिया प्रकाशित नहीं है</sub></td>
 </tr></table>
 
@@ -2612,6 +2722,40 @@ ACRYL - Agent Context Relay Yielding Lifecycles. एक स्थायी works
 </details>
 
 <details>
+<summary>🧵 <b><a href="https://github.com/RevolutionLA/dsh-dream-skin">RevolutionLA/dsh-dream-skin</a></b> · ⭐225 · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 सारांश
+
+DeepSeek Harness 换肤 / 壁纸 / 主题包插件 (dsh-plugin) — 8 套 Mirage 主题、每用户强调色、壁纸2.0、主题包导入导出/分享链接、收藏与随机，纯原生 token 系统实现。
+
+##### 📌 मूलभूत तथ्य
+
+| फ़ील्ड  | मान                                                                                      |
+| ----- | ---------------------------------------------------------------------------------------- |
+| श्रेणी | `DSH और Cordis प्लगइन इकोसिस्टम`                                                           |
+| प्रमाण | `मॉड, प्लगइन या हुक घोषित किया है, लेकिन विशेष रूप से मॉड सतह के बारे में कुछ नहीं बताया` |
+| भाषा  | JavaScript                                                                               |
+
+##### 📊 डेटा
+
+| मेट्रिक           | मान        |
+| ---------------- | ---------- |
+| स्टार             | **225**    |
+| अंतिम पुश        | 2026-10-11 |
+| पहली बार सूचीबद्ध | 2026-10-12 |
+
+🏷 `deepseek-harness` · `dsh` · `dsh-plugin` · `dsh-plugin-theme` · `skin` · `theme` · `wallpaper`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/revolutionla--dsh-dream-skin/9ae1ef97a89d3ff0.png" width="100%" alt="RevolutionLA/dsh-dream-skin screenshot"></td>
+<td align="center" valign="top"><sub>कोई मीडिया प्रकाशित नहीं है</sub></td>
+</tr></table>
+
+</details>
+
+<details>
 <summary>🧵 <b><a href="https://github.com/luobosibing2/dsh-jev-plugin">luobosibing2/dsh-jev-plugin</a></b> · ⭐203 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 सारांश
@@ -2646,7 +2790,75 @@ ACRYL - Agent Context Relay Yielding Lifecycles. एक स्थायी works
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/KelaoHu/dsh-lowtide">KelaoHu/dsh-lowtide</a></b> · ⭐170 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/cocofhu/anime-find">cocofhu/anime-find</a></b> · ⭐176 · TypeScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 सारांश
+
+DeepSeek Harness 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力。
+
+##### 📌 मूलभूत तथ्य
+
+| फ़ील्ड  | मान                                                                                      |
+| ----- | ---------------------------------------------------------------------------------------- |
+| श्रेणी | `DSH और Cordis प्लगइन इकोसिस्टम`                                                           |
+| प्रमाण | `मॉड, प्लगइन या हुक घोषित किया है, लेकिन विशेष रूप से मॉड सतह के बारे में कुछ नहीं बताया` |
+| भाषा  | TypeScript                                                                               |
+
+##### 📊 डेटा
+
+| मेट्रिक           | मान        |
+| ---------------- | ---------- |
+| स्टार             | **176**    |
+| अंतिम पुश        | 2026-10-11 |
+| पहली बार सूचीबद्ध | 2026-10-12 |
+
+🏷 `anime` · `anime-search` · `bangumi` · `deepseek` · `deepseek-harness` · `dsh` · `dsh-plugin` · `magnet`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/cocofhu--anime-find/4e8000425bf8bf5f.jpg" width="100%" alt="cocofhu/anime-find screenshot"></td>
+<td align="center" valign="top"><sub>कोई मीडिया प्रकाशित नहीं है</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/xiajiajun516/dsh-config-manager">xiajiajun516/dsh-config-manager</a></b> · ⭐176 · TypeScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 सारांश
+
+DeepSeek Harness (DSH) backup & restore plugin — export, import, migrate and sync your complete DSH configuration, plugins, MCP servers, skills and workspace. One-click migration to another machine.
+
+##### 📌 मूलभूत तथ्य
+
+| फ़ील्ड  | मान                                                                                      |
+| ----- | ---------------------------------------------------------------------------------------- |
+| श्रेणी | `DSH और Cordis प्लगइन इकोसिस्टम`                                                           |
+| प्रमाण | `मॉड, प्लगइन या हुक घोषित किया है, लेकिन विशेष रूप से मॉड सतह के बारे में कुछ नहीं बताया` |
+| भाषा  | TypeScript                                                                               |
+
+##### 📊 डेटा
+
+| मेट्रिक           | मान        |
+| ---------------- | ---------- |
+| स्टार             | **176**    |
+| अंतिम पुश        | 2026-10-11 |
+| पहली बार सूचीबद्ध | 2026-10-12 |
+
+🏷 `backup` · `cli` · `config-manager` · `configuration` · `cordis` · `deepseek` · `deepseek-harness` · `dsh`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/xiajiajun516--dsh-config-manager/52a2f3587f8e40b4.png" width="100%" alt="xiajiajun516/dsh-config-manager screenshot"></td>
+<td align="center" valign="top"><sub>कोई मीडिया प्रकाशित नहीं है</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/KelaoHu/dsh-lowtide">KelaoHu/dsh-lowtide</a></b> · ⭐172 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 सारांश
 
@@ -2664,7 +2876,7 @@ DeepSeek Harness (dsh) के लिए समय-स्थानांतरि
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **170**    |
+| स्टार             | **172**    |
 | अंतिम पुश        | 2026-10-11 |
 | पहली बार सूचीबद्ध | 2026-10-11 |
 
@@ -2714,7 +2926,41 @@ DeepSeek Harness (dsh) के लिए समय-स्थानांतरि
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/morluto/flameox">morluto/flameox</a></b> · ⭐133 · Python · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/WSL043/dsh-codex-subscription">WSL043/dsh-codex-subscription</a></b> · ⭐160 · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 सारांश
+
+Use your ChatGPT Plus / Pro (Codex) subscription in DeepSeek Harness (DSH): GPT-6 & Codex models, images, web search and quota via ChatGPT sign-in — no OpenAI API key. Beta: control DSH from the ChatGPT mobile app. 在 DSH 中使用 ChatGPT 订阅，并可用 ChatGPT 手机 App 远程控制。
+
+##### 📌 मूलभूत तथ्य
+
+| फ़ील्ड  | मान                                                                                      |
+| ----- | ---------------------------------------------------------------------------------------- |
+| श्रेणी | `DSH और Cordis प्लगइन इकोसिस्टम`                                                           |
+| प्रमाण | `मॉड, प्लगइन या हुक घोषित किया है, लेकिन विशेष रूप से मॉड सतह के बारे में कुछ नहीं बताया` |
+| भाषा  | JavaScript                                                                               |
+
+##### 📊 डेटा
+
+| मेट्रिक           | मान        |
+| ---------------- | ---------- |
+| स्टार             | **160**    |
+| अंतिम पुश        | 2026-10-11 |
+| पहली बार सूचीबद्ध | 2026-10-12 |
+
+🏷 `ai-agent` · `chatgpt` · `chatgpt-plus` · `chatgpt-pro` · `chatgpt-subscription` · `codex` · `codex-cli-alternative` · `codex-subscription`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/wsl043--dsh-codex-subscription/0c3daa4061aa684e.webp" width="100%" alt="WSL043/dsh-codex-subscription screenshot"></td>
+<td align="center" valign="top"><sub>कोई मीडिया प्रकाशित नहीं है</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/morluto/flameox">morluto/flameox</a></b> · ⭐142 · Python · 🔎 inferred · 0 天</summary>
 
 ##### 📝 सारांश
 
@@ -2732,7 +2978,7 @@ DeepSeek Harness (dsh) के लिए समय-स्थानांतरि
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **133**    |
+| स्टार             | **142**    |
 | अंतिम पुश        | 2026-10-11 |
 | पहली बार सूचीबद्ध | 2026-10-11 |
 
@@ -2748,7 +2994,41 @@ DeepSeek Harness (dsh) के लिए समय-स्थानांतरि
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/Nwflower/dsh-claude-style">Nwflower/dsh-claude-style</a></b> · ⭐132 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/FeatherHunter/dsh-mattpocock-skills-deck">FeatherHunter/dsh-mattpocock-skills-deck</a></b> · ⭐134 · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 सारांश
+
+安装即自带mattpocock/skills v1.3.1的27个工程与效率技能，无需手动装技能。400亿token打造本插件，在原始技能之上提供10倍的开发效率，也能帮助新手更快上手该技能套件。全力支持GitHub issue；Markdown为预览版；GitLab暂不支持。感谢您的使用和支持💗
+
+##### 📌 मूलभूत तथ्य
+
+| फ़ील्ड  | मान                                                                                      |
+| ----- | ---------------------------------------------------------------------------------------- |
+| श्रेणी | `DSH और Cordis प्लगइन इकोसिस्टम`                                                           |
+| प्रमाण | `मॉड, प्लगइन या हुक घोषित किया है, लेकिन विशेष रूप से मॉड सतह के बारे में कुछ नहीं बताया` |
+| भाषा  | JavaScript                                                                               |
+
+##### 📊 डेटा
+
+| मेट्रिक           | मान        |
+| ---------------- | ---------- |
+| स्टार             | **134**    |
+| अंतिम पुश        | 2026-10-11 |
+| पहली बार सूचीबद्ध | 2026-10-12 |
+
+🏷 `agent` · `ai` · `claude` · `deepseek-harness` · `dsh` · `dsh-better-sidebar` · `dsh-plugin` · `github-issues`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/featherhunter--dsh-mattpocock-skills-deck/c4bd78003446c161.png" width="100%" alt="FeatherHunter/dsh-mattpocock-skills-deck screenshot"></td>
+<td align="center" valign="top"><sub>कोई मीडिया प्रकाशित नहीं है</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/Nwflower/dsh-claude-style">Nwflower/dsh-claude-style</a></b> · ⭐133 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 सारांश
 
@@ -2766,7 +3046,7 @@ DeepSeek Harness के लिए Claude Code डेस्कटॉप थीम
 
 | मेट्रिक           | मान        |
 | ---------------- | ---------- |
-| स्टार             | **132**    |
+| स्टार             | **133**    |
 | अंतिम पुश        | 2026-10-11 |
 | पहली बार सूचीबद्ध | 2026-10-10 |
 
@@ -2780,40 +3060,6 @@ DeepSeek Harness के लिए Claude Code डेस्कटॉप थीम
 </tr></table>
 
 <sub>अपस्ट्रीम रिपॉज़िटरी से एसेट हॉट-लिंक किया गया है, क्योंकि पुनर्वितरण-अनुकूल लाइसेंस घोषित नहीं किया गया था।</sub>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/Sutera-Diffusus/dsh-whale-musume">Sutera-Diffusus/dsh-whale-musume</a></b> · ⭐120 · JavaScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 सारांश
-
-DeepSeek Harness desktop pet plugin: 元气鲸鱼娘看板娘 आपके साथ code लिखती है 🐋 DSH desktop 0.2.0-rc.2 और पुराने Web (desktop pet / mascot, local-first) का समर्थन।
-
-##### 📌 मूलभूत तथ्य
-
-| फ़ील्ड  | मान                                                                                      |
-| ----- | ---------------------------------------------------------------------------------------- |
-| श्रेणी | `DSH और Cordis प्लगइन इकोसिस्टम`                                                           |
-| प्रमाण | `मॉड, प्लगइन या हुक घोषित किया है, लेकिन विशेष रूप से मॉड सतह के बारे में कुछ नहीं बताया` |
-| भाषा  | JavaScript                                                                               |
-
-##### 📊 डेटा
-
-| मेट्रिक           | मान        |
-| ---------------- | ---------- |
-| स्टार             | **120**    |
-| अंतिम पुश        | 2026-10-11 |
-| पहली बार सूचीबद्ध | 2026-10-11 |
-
-🏷 `ai-assistant` · `ai-companion` · `cordis` · `cute` · `deepseek` · `deepseek-harness` · `desktop-app` · `desktop-mascot`
-
----
-
-<table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/sutera-diffusus--dsh-whale-musume/cb85aa05cce65f77.png" width="100%" alt="Sutera-Diffusus/dsh-whale-musume screenshot"></td>
-<td align="center" valign="top"><sub>कोई मीडिया प्रकाशित नहीं है</sub></td>
-</tr></table>
 
 </details>
 
@@ -2852,279 +3098,80 @@ DSH प्लगइन · इंजेक्शन-आधारित ऑप्�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/JingbiaoMei/Tokdash">JingbiaoMei/Tokdash</a></b> · ⭐85 · Python · 🔎 inferred · 0 天</summary>
+<summary><b>इस श्रेणी में और</b> <sub>· 72</sub></summary>
 
-##### 📝 सारांश
-
-Agent Dashboard: Visualization and analytics for Sessions and Quota Usage. Track, analyze, and optimize token usage across providers with heatmaps, cost tracking, token counting and quota resets..
-
-##### 📌 मूलभूत तथ्य
-
-| फ़ील्ड  | मान                                                                                      |
-| ----- | ---------------------------------------------------------------------------------------- |
-| श्रेणी | `DSH और Cordis प्लगइन इकोसिस्टम`                                                           |
-| प्रमाण | `मॉड, प्लगइन या हुक घोषित किया है, लेकिन विशेष रूप से मॉड सतह के बारे में कुछ नहीं बताया` |
-| भाषा  | Python                                                                                   |
-
-##### 📊 डेटा
-
-| मेट्रिक           | मान        |
-| ---------------- | ---------- |
-| स्टार             | **85**     |
-| अंतिम पुश        | 2026-10-11 |
-| पहली बार सूचीबद्ध | 2026-10-11 |
-
-🏷 `agent` · `analytics` · `anthropic` · `claude-code` · `claude-code-plugin` · `codex` · `codex-cli` · `dashboard`
-
----
-
-<table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/jingbiaomei--tokdash/cb7e85100dfe6e93.png" width="100%" alt="JingbiaoMei/Tokdash screenshot"></td>
-<td align="center" valign="top"><sub>कोई मीडिया प्रकाशित नहीं है</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/kukucaiCndy/Corum-Harness">kukucaiCndy/Corum-Harness</a></b> · ⭐66 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 सारांश
-
-Deepseek-Harness के मुख्य आधार पर निर्मित डेस्कटॉप Agent। आधार की सभी क्षमताएँ विरासत में मिलती हैं और IDE से संबंधित सुविधाएँ भी पूरी की गई हैं।
-
-##### 📌 मूलभूत तथ्य
-
-| फ़ील्ड  | मान                                                                                      |
-| ----- | ---------------------------------------------------------------------------------------- |
-| श्रेणी | `DSH और Cordis प्लगइन इकोसिस्टम`                                                           |
-| प्रमाण | `मॉड, प्लगइन या हुक घोषित किया है, लेकिन विशेष रूप से मॉड सतह के बारे में कुछ नहीं बताया` |
-| भाषा  | TypeScript                                                                               |
-
-##### 📊 डेटा
-
-| मेट्रिक           | मान        |
-| ---------------- | ---------- |
-| स्टार             | **66**     |
-| अंतिम पुश        | 2026-10-11 |
-| पहली बार सूचीबद्ध | 2026-10-11 |
-
-🏷 `agent` · `agent-os` · `ai-agent` · `cordis` · `desktop-app` · `dsh` · `electron` · `harness`
-
----
-
-<table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/kukucaicndy--corum-harness/b8971b2831acec9e.png" width="100%" alt="kukucaiCndy/Corum-Harness screenshot"></td>
-<td align="center" valign="top"><sub>कोई मीडिया प्रकाशित नहीं है</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/whyihaveyou/dsh-suite">whyihaveyou/dsh-suite</a></b> · ⭐59 · HTML · 🔎 inferred · 0 天</summary>
-
-##### 📝 सारांश
-
-जीवंत DeepSeek Harness plugin directory — हर घंटे refresh, प्रतिदिन compatibility-tested, in-app plugin store और scaffolder के साथ। DSH plugin जीवंत directory: हर घंटे refresh, प्रतिदिन वास्तविक compatibility test, अंतर्निर्मित plugin store और scaffolder।
-
-##### 📌 मूलभूत तथ्य
-
-| फ़ील्ड  | मान                                                                                      |
-| ----- | ---------------------------------------------------------------------------------------- |
-| श्रेणी | `DSH और Cordis प्लगइन इकोसिस्टम`                                                           |
-| प्रमाण | `मॉड, प्लगइन या हुक घोषित किया है, लेकिन विशेष रूप से मॉड सतह के बारे में कुछ नहीं बताया` |
-| भाषा  | HTML                                                                                     |
-
-##### 📊 डेटा
-
-| मेट्रिक           | मान        |
-| ---------------- | ---------- |
-| स्टार             | **59**     |
-| अंतिम पुश        | 2026-10-11 |
-| पहली बार सूचीबद्ध | 2026-10-06 |
-
-🏷 `agent-framework` · `awesome-list` · `cordis` · `deepseek` · `deepseek-harness` · `developer-tools` · `dsh` · `dsh-plugin`
-
----
-
-<table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/whyihaveyou--dsh-suite/e9daf3bb6313ff1b.png" width="100%" alt="whyihaveyou/dsh-suite screenshot"></td>
-<td align="center" valign="top"><sub>कोई मीडिया प्रकाशित नहीं है</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/Contexera/dsh-agent-team">Contexera/dsh-agent-team</a></b> · ⭐57 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 सारांश
-
-dsh-agent-team gives DeepSeek Harness agents that don't reset: durable Members with their own memory, notes, and skills across sessions, rollovers, and restarts. You set the direction; agents coordinate through Channels and Tasks.
-
-##### 📌 मूलभूत तथ्य
-
-| फ़ील्ड  | मान                                                                                      |
-| ----- | ---------------------------------------------------------------------------------------- |
-| श्रेणी | `DSH और Cordis प्लगइन इकोसिस्टम`                                                           |
-| प्रमाण | `मॉड, प्लगइन या हुक घोषित किया है, लेकिन विशेष रूप से मॉड सतह के बारे में कुछ नहीं बताया` |
-| भाषा  | TypeScript                                                                               |
-
-##### 📊 डेटा
-
-| मेट्रिक           | मान        |
-| ---------------- | ---------- |
-| स्टार             | **57**     |
-| अंतिम पुश        | 2026-10-11 |
-| पहली बार सूचीबद्ध | 2026-10-11 |
-
-🏷 `agent-orchestration` · `agent-team` · `ai-agents` · `deepseek` · `deepseek-harness` · `dsh` · `dsh-plugin` · `multi-agent`
-
----
-
-<table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/contexera--dsh-agent-team/25f8cc5a2a3231a3.png" width="100%" alt="Contexera/dsh-agent-team screenshot"></td>
-<td align="center" valign="top"><sub>कोई मीडिया प्रकाशित नहीं है</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/PolinniZhong/dsh-knit">PolinniZhong/dsh-knit</a></b> · ⭐53 · JavaScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 सारांश
-
-AI Coding Agent के लिए task-aware workspace context retrieval और lifecycle tracking: वर्तमान task के अनुसार सबसे प्रासंगिक documents, code और media खोजें, व्यवस्थित करें और लगातार track करें। पूरी तरह स्थानीय, शून्य model calls, शून्य network।  AI coding agents के लिए task-aware workspace context retrieval और lifecycle tracking। वर्तमान task के लिए सबसे प्रासंगिक workspace context खोजें, व्यवस्थित करें और track करें — स्थानीय रूप से, नियतात्मक तरीके से, शून्य model calls, शून्य network।
-
-##### 📌 मूलभूत तथ्य
-
-| फ़ील्ड  | मान                                                                                      |
-| ----- | ---------------------------------------------------------------------------------------- |
-| श्रेणी | `DSH और Cordis प्लगइन इकोसिस्टम`                                                           |
-| प्रमाण | `मॉड, प्लगइन या हुक घोषित किया है, लेकिन विशेष रूप से मॉड सतह के बारे में कुछ नहीं बताया` |
-| भाषा  | JavaScript                                                                               |
-
-##### 📊 डेटा
-
-| मेट्रिक           | मान        |
-| ---------------- | ---------- |
-| स्टार             | **53**     |
-| अंतिम पुश        | 2026-10-11 |
-| पहली बार सूचीबद्ध | 2026-10-11 |
-
-🏷 `agent-tools` · `ai-agent` · `cordis` · `deepseek` · `deepseek-harness` · `developer-tools` · `dsh` · `dsh-better-sidebar`
-
----
-
-<table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/polinnizhong--dsh-knit/e98f690af54d1e8d.png" width="100%" alt="PolinniZhong/dsh-knit screenshot"></td>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/polinnizhong--dsh-knit/338cb6ef3e90368c.gif" width="100%" alt="PolinniZhong/dsh-knit animation"><br><sub>ऐनिमेटेड रिकॉर्डिंग</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/universe-st/dsh-game-material-master">universe-st/dsh-game-material-master</a></b> · ⭐43 · JavaScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 सारांश
-
-dsh गेम assets master plugin। seedream image generation model और minimax video generation model से जुड़कर विभिन्न game assets जनरेट कर सकता है।
-
-##### 📌 मूलभूत तथ्य
-
-| फ़ील्ड  | मान                                                                                      |
-| ----- | ---------------------------------------------------------------------------------------- |
-| श्रेणी | `DSH और Cordis प्लगइन इकोसिस्टम`                                                           |
-| प्रमाण | `मॉड, प्लगइन या हुक घोषित किया है, लेकिन विशेष रूप से मॉड सतह के बारे में कुछ नहीं बताया` |
-| भाषा  | JavaScript                                                                               |
-
-##### 📊 डेटा
-
-| मेट्रिक           | मान        |
-| ---------------- | ---------- |
-| स्टार             | **43**     |
-| अंतिम पुश        | 2026-10-11 |
-| पहली बार सूचीबद्ध | 2026-10-11 |
-
-🏷 `chroma-key` · `cordis` · `deepseek-harness` · `dsh-plugin` · `ffmpeg` · `game-assets` · `image-generation` · `koishi`
-
----
-
-<table><tr><th align="center" width="50%">🖼 इमेज</th><th align="center" width="50%">🎬 वीडियो</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/universe-st--dsh-game-material-master/9ce5badff3c3ac1c.png" width="100%" alt="universe-st/dsh-game-material-master screenshot"></td>
-<td align="center" valign="top"><sub>कोई मीडिया प्रकाशित नहीं है</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary><b>इस श्रेणी में और</b> <sub>· 67</sub></summary>
-
-- [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - A pre-execution guard for AI coding agents.
+- [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - AI coding agents के लिए निष्पादन-पूर्व सुरक्षा अवरोध। यह tool call चलने से पहले…
 - [hashgraph-online/awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins) - Claude Code, OpenAI Codex / ChatGPT, Gemini, Antigravity, Pi / Oh My Pi, Grok…
-- [imsai-sh/awesome-deepseek-harness-plugins](https://github.com/imsai-sh/awesome-deepseek-harness-plugins) - DeepSeek Harness plugin store, marketplace and hub — 11,000+ dsh plugins with…
+- [bruc3van/awesome-dsh-plugin](https://github.com/bruc3van/awesome-dsh-plugin) - 30 秒找到真正适合你的 DeepSeek Harness插件。每天自动抓取 GitHub 上的 `dsh-plugin`…
 - [FishBottle7/opencode2dsh](https://github.com/FishBottle7/opencode2dsh) - DSH प्लगइन — DeepSeek Harness (DSH) के लिए निःशुल्क OpenCode Zen मॉडल। निःशुल्क…
 - [bradeGithub/DSH-Plugins-Marketplace](https://github.com/bradeGithub/DSH-Plugins-Marketplace) - DSH插件市场 / DSH Plugin Marketplace: DeepSeek Harness Web GUI में GitHub…
 - [arcships/rutis](https://github.com/arcships/rutis) - ऐसे software के लिए plugin runtime, जो स्वयं पर iteration करता है — वह…
-- [like-study1/Oh-My-DSH](https://github.com/like-study1/Oh-My-DSH) - 🐳 DeepSeek Harness 插件聚合社区 — 自动同步 dsh-plugin 生态 · 精选目录 · 每 4 小时自动维护 | Oh-My-DSH…
-- [PensiveFei/dsh-secure-audit](https://github.com/PensiveFei/dsh-secure-audit) - Read-only security &amp; compliance plugin for DeepSeek Harness: prompt-injection…
+- [EricWang1358/dsh-web-studyhub](https://github.com/EricWang1358/dsh-web-studyhub) - StudyHub: a DeepSeek Harness (DSH) plugin that turns your own material into…
+- [kukucaiCndy/Corum-Harness](https://github.com/kukucaiCndy/Corum-Harness) - Deepseek-Harness के मुख्य आधार पर निर्मित डेस्कटॉप Agent। आधार की सभी क्षमताएँ…
+- [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) - जीवंत DeepSeek Harness plugin directory — हर घंटे refresh, प्रतिदिन…
+- [PolinniZhong/dsh-knit](https://github.com/PolinniZhong/dsh-knit) - AI Coding Agent के लिए task-aware workspace context retrieval और lifecycle…
+- [KongFangXun/sofagent](https://github.com/KongFangXun/sofagent) - sofagent is an open-source FDE Harness for AI coding agents — on entry, write…
 - [kejixiaoliang/awesome-dsh-plugins](https://github.com/kejixiaoliang/awesome-dsh-plugins) - DeepSeek Harness (DSH) प्लगइन्स की चुनिंदा निर्देशिका — 14 श्रेणियों में 280+…
-- [HOWILLMAKEIT/dsh-model-context-catalog](https://github.com/HOWILLMAKEIT/dsh-model-context-catalog) - DeepSeek Harness plugin: llm-pi-ai model की सटीक context window बनाए रखता है और…
-- [Vncntvx/dsh-zotero](https://github.com/Vncntvx/dsh-zotero) - DeepSeek harness के लिए Zotero toolkit;
-- [KannaKuron/dsh-gitbash-shell](https://github.com/KannaKuron/dsh-gitbash-shell) - DSH plugin: Windows पर सभी agent modes के लिए Git Bash shell.
-- [PensiveFei/deep-read-summarize](https://github.com/PensiveFei/deep-read-summarize) - पुस्तकों/शोधपत्रों/वीडियो/वेब के लिए गहन पठन और सारांश कार्यप्रवाह — प्लगइन…
-- [gulagala001/oh-my-dsh](https://github.com/gulagala001/oh-my-dsh) - 让你的 DSH，火力全开。长上下文、任务验证、提示词优化、代码理解、电脑操作与四套完整主题.
-- [ZhangFengshun/dsh-remote-ssh](https://github.com/ZhangFengshun/dsh-remote-ssh) - DSH वेब प्लगइन: VSCode Remote-SSH-जैसा रिमोट विकास.
+- [GZX2211/dsh-Visual-Workflow](https://github.com/GZX2211/dsh-Visual-Workflow) - 可视化 Agent 编排平台｜基于 DeepSeek Harness，支持 Workflow、Multi-Agent、元编排、MCP 与…
+- [universe-st/dsh-game-material-master](https://github.com/universe-st/dsh-game-material-master) - dsh गेम assets master plugin। seedream image generation model और minimax video…
+- [HOWILLMAKEIT/dsh-model-context-catalog](https://github.com/HOWILLMAKEIT/dsh-model-context-catalog) - DeepSeek Harness 插件：一键匹配模型上下文窗口，展示容量来源，支持勾选批量配置、已有窗口管理和手动编辑.
 - [NekroAI/nekro-nxt](https://github.com/NekroAI/nekro-nxt) - NekroNXT: DeepSeek Harness (DSH) पर आधारित multi-platform group-chat agent…
-- [omdsh-dev/dsh-office](https://github.com/omdsh-dev/dsh-office) - ऑफिस के तीन मुख्य tools! DeepSeek Harness (dsh) के लिए Office document tools…
-- [zaofan-make/dsh-qqbot](https://github.com/zaofan-make/dsh-qqbot) - AI 统管 QQ 群组：审核放行、群发文件、沟通其他 web 会话的 AI！ ；气氛组担当：表情包自动入库、AI 自己决定开口、多预设多人格轮班陪聊!
-- [dphmoblie/deepseek-harness-android](https://github.com/dphmoblie/deepseek-harness-android) - dsh安卓版: DeepSeek Harness, Ubuntu रनटाइम वातावरण, प्लगइन्स और फ़ाइल प्रबंधन, साथ…
 - [wingsky-1/dsh-plugin-hub](https://github.com/wingsky-1/dsh-plugin-hub) - DSH (DeepSeek Harness) वेब GUI प्लगइन संग्रह — कार्य सूचनाएँ, प्रदाता उपयोग…
-- [gjj-star/dsh-conversation-navigator](https://github.com/gjj-star/dsh-conversation-navigator) - DSH session navigation.
-- [HaoyueQin/dsh-usage-statistics-panel](https://github.com/HaoyueQin/dsh-usage-statistics-panel) - DSH web plugin: GitHub-style activity heatmap, cache hit-rate curve और…
 - [awesome-deepseekharness/awesome-deepseek-harness](https://github.com/awesome-deepseekharness/awesome-deepseek-harness) - समुदाय द्वारा चुने गए DeepSeek Harness (dsh) प्लगइन, tools, skills और सीखने के…
-- [CLICGGER-TYPES/dsh-piggy](https://github.com/CLICGGER-TYPES/dsh-piggy) - 🐖 DeepSeek Harness 养成插件，也可作为 Windows/Linux/macOS 桌面宠物运行；支持成长、学习、打工、钓鱼、图鉴与换肤.
 - [hyqhyq3/dsh-mcp-manager](https://github.com/hyqhyq3/dsh-mcp-manager) - DeepSeek Harness के लिए MCP server manager प्लगइन: Settings → MCP पृष्ठ, OAuth…
-- [Wenaixi/dsh-superpower](https://github.com/Wenaixi/dsh-superpower) - DeepSeek Harness प्लगइन: 15 obra/superpowers इंजीनियरिंग स्किल्स, द्विभाषी…
+- [BotHarness/DeepSeekBot](https://github.com/BotHarness/DeepSeekBot) - Open-source GrokBot alternative built on DeepSeek Harness.
 - [harrylabsj/kiwi](https://github.com/harrylabsj/kiwi) - A2A commerce negotiation runtime + DeepSeek Harness (dsh) प्लगइन। Kiwi इंस्टॉल…
-- [Imzl-zl/dsh-toolbox-ui](https://github.com/Imzl-zl/dsh-toolbox-ui) - Toolbox panel for DeepSeek Harness Web: MCP manager.
-- [mistnest/dsh-cuigengji-plugin](https://github.com/mistnest/dsh-cuigengji-plugin) - 催更姬：大肥鱼 के लिए एक उपन्यास वर्कबेंच। मुख्य पाठ लिखें, सेटिंग व्यवस्थित करें…
+- [Imzl-zl/dsh-toolbox-ui](https://github.com/Imzl-zl/dsh-toolbox-ui) - DeepSeek Harness Web के लिए Toolbox panel: MCP manager.
 - [Y1X1n/dsh-prompt-optimizer](https://github.com/Y1X1n/dsh-prompt-optimizer) - DeepSeek Harness plugin · भेजने वाले बार में एक-क्लिक «优化» prompt draft…
+- [YELEBAI/dsh-plugin-marketplace](https://github.com/YELEBAI/dsh-plugin-marketplace) - Verified plugin marketplace and autonomous registry for DeepSeek Harness.
 - [liustack/pptwise](https://github.com/liustack/pptwise) - वास्तविक PowerPoint, HTML नहीं। अपने AI को बताएँ कि क्या कवर करना है और pptwise…
-- [Roarpeng/GraphFlow](https://github.com/Roarpeng/GraphFlow) - Local-first code knowledge graph and context harness for coding agents.
+- [Roarpeng/GraphFlow](https://github.com/Roarpeng/GraphFlow) - Coding agents के लिए local-first code knowledge graph और context harness। MCP +…
+- [dshworks/awesome-dsh-plugins](https://github.com/dshworks/awesome-dsh-plugins) - Spam-filtered, open-data registry of DeepSeek Harness (dsh) plugins, bundles…
 - [AmethystLuna/embedded-workbench](https://github.com/AmethystLuna/embedded-workbench) - Embedded C/C++ AI engineering plugin — firmware skills.
-- [Ianzhyh/workbuddy-to-dsh](https://github.com/Ianzhyh/workbuddy-to-dsh) - 把本机 WorkBuddy 桌面端已登录的模型（DeepSeek / GLM / Kimi / MiniMax 等）变成本地的 OpenAI 与…
-- [Sivan757/dsh-agent-plugins-market](https://github.com/Sivan757/dsh-agent-plugins-market) - DeepSeek Harness (DSH) के लिए एकीकृत skills, subagent, MCP और LSP manager…
-- [WTStarMark/dsh-plugin-mesh](https://github.com/WTStarMark/dsh-plugin-mesh) - 把带 dsh 系列 GitHub 标签的仓库，画成一张可交互的生态网络图.
-- [sueccku/dsh-plugin-wps-office-next](https://github.com/sueccku/dsh-plugin-wps-office-next) - 在 DeepSeek Harness（DSH）里用中文对话操作 WPS 表格 / 文字 / 演示：读写数据、排版、公式图表、批量转 PDF.
+- [Ianzhyh/workbuddy-to-dsh](https://github.com/Ianzhyh/workbuddy-to-dsh) - स्थानीय WorkBuddy desktop app में पहले से login किए गए models.
 - [MichaelShii/dsh-plugin-teamflow](https://github.com/MichaelShii/dsh-plugin-teamflow) - dsh plugin teamflow.
 - [MicroMilo/upstream-radar](https://github.com/MicroMilo/upstream-radar) - DeepSeek Harness प्लगइनों के लिए हमेशा सक्रिय संगतता परीक्षण: सटीक रिलीज़, पृथक…
 - [falling-ts/dsh-force-compact](https://github.com/falling-ts/dsh-force-compact) - स्थानीय-प्रथम एजेंटों के लिए आक्रामक संदर्भ संपीड़न। self-hosted llama.cpp पर…
-- [GooDAnDReaDY/dsh-subscriptions](https://github.com/GooDAnDReaDY/dsh-subscriptions) - OAuth subscription LLM providers for DeepSeek Harness: ChatGPT Codex, Claude…
-- [chengshenyangtai/dsh-workbuddy-trae-qoder-connect](https://github.com/chengshenyangtai/dsh-workbuddy-trae-qoder-connect) - 把 WorkBuddy（多账号/企业版）、Trae CN / TRAE SOLO CN、Qoder CN 三家订阅聚合进同一个 DSH…
+- [GooDAnDReaDY/dsh-key-rotation](https://github.com/GooDAnDReaDY/dsh-key-rotation) - Per-provider API key rotation for DeepSeek Harness: key pools, automatic 429…
+- [yoza10635/dsh-argp](https://github.com/yoza10635/dsh-argp) - Guarded context compaction for DeepSeek Harness (dsh): the LLM proposes…
+- [GooDAnDReaDY/dsh-voice](https://github.com/GooDAnDReaDY/dsh-voice) - Voice input for DeepSeek Harness: dictation and voice messages with…
+- [vecnode/vncode](https://github.com/vecnode/vncode) - vncode 🤖 Agent-Human IDE ⌨️ Web and Desktop versions, bundles Plugins, Skills…
+- [bonerush/dsh-obsidian-mem](https://github.com/bonerush/dsh-obsidian-mem) - DeepSeek Harness host plugin that keeps project documents and long-term memory…
+- [cccakeee/awesome-dsh-plugins](https://github.com/cccakeee/awesome-dsh-plugins) - A curated, evidence-led directory of DeepSeek Harness (DSH) plugins: verified…
+- [GooDAnDReaDY/dsh-clinebot](https://github.com/GooDAnDReaDY/dsh-clinebot) - Native ClineBot / ClinePass provider companion plugin for DeepSeek Harness (DSH).
 - [unStone/dsh-xray](https://github.com/unStone/dsh-xray) - DeepSeek Harness प्लगइन्स के लिए X-ray: घोषित क्षमताएँ बनाम वास्तविक व्यवहार।…
-- [zzhang82/Agent-Memory-Bridge](https://github.com/zzhang82/Agent-Memory-Bridge) - Persistent engineering memory for coding agents over MCP.
-- [dsh-plugin-lab/dsh-workbuddy-bridge](https://github.com/dsh-plugin-lab/dsh-workbuddy-bridge) - DSH प्लगइन: WorkBuddy डेस्कटॉप App के मॉडल को DeepSeek Harness से जोड़ें और…
-- [lkhfrgc/scholar-llm-wiki](https://github.com/lkhfrgc/scholar-llm-wiki) - अनुसंधान और साहित्य समीक्षा के लिए ज्ञान-आधार टूलकिट। AI agents शोधपत्रों…
-- [xbzbing/dsh-git-panel](https://github.com/xbzbing/dsh-git-panel) - DSH 插件：Web GUI 里的 IDE 风格 Git 面板——分支/提交历史总览、变更提交与 amend、文件浏览、代码与图片新旧差异对照、输入框分支标记…
-- [xyrrrrr-r/dsh-eval-control](https://github.com/xyrrrrr-r/dsh-eval-control) - Host-side DSH evaluation control plugin for aeval：一次评测试次的配置注入、预算封顶与证据归属.
-- [AmethystLuna/logicprobe](https://github.com/AmethystLuna/logicprobe) - Design और code का claim verification: factual claims को source code से मिलाना…
+- [chnjames/dsh-plugin-market](https://github.com/chnjames/dsh-plugin-market) - DSH 插件市场 — DeepSeek Harness 设置内一键安装社区插件，并提供公开目录站（浏览 / 复制安装命令）.
+- [GooDAnDReaDY/dsh-lanmode](https://github.com/GooDAnDReaDY/dsh-lanmode) - Mobile gateway and secure local network access for DeepSeek Harness WebUI.
+- [shenhuanageshei/dsh-team-link](https://github.com/shenhuanageshei/dsh-team-link) - Session deep links + full session export (markdown/JSON) + approved…
+- [GooDAnDReaDY/dsh-moa](https://github.com/GooDAnDReaDY/dsh-moa) - Mixture of Agents (MoA) plugin for DeepSeek Harness with /moa slash command…
+- [KannaKuron/dsh-ide-git](https://github.com/KannaKuron/dsh-ide-git) - DSH plugin: an IDE-grade Git tool window as a native dsh-better-sidebar tab…
+- [ywsldxk/dsh-plugin-stars](https://github.com/ywsldxk/dsh-plugin-stars) - DeepSeek Harness (DSH) plugin leaderboard &amp; directory｜DeepSeek…
+- [chen731215-dev/dsh-muv-table](https://github.com/chen731215-dev/dsh-muv-table) - MUV Variable Table Editor - tavern companion plugin for DeepSeek Harness…
 - [cherrchen/dsh-plugin-multi-root-workspace](https://github.com/cherrchen/dsh-plugin-multi-root-workspace) - Multi-folder workspace: DSH (DeepSeek Harness) के Agent को केवल main directory…
+- [GooDAnDReaDY/dsh-gitea](https://github.com/GooDAnDReaDY/dsh-gitea) - Gitea/Forgejo toolkit for DeepSeek Harness: issues, PRs, CI, releases…
+- [jinhuang712/dsh-survey](https://github.com/jinhuang712/dsh-survey) - Questionnaire-style batch questioning plugin for DeepSeek Harness: 10+…
+- [majiayu000/dsh-plugin-registry](https://github.com/majiayu000/dsh-plugin-registry) - Searchable DeepSeek Harness plugin registry with curated listings and…
 - [PerryLink/dsh-plugin-doctor](https://github.com/PerryLink/dsh-plugin-doctor) - DeepSeek Harness (dsh) plugins के लिए zero-dependency verification standard…
-- [Retr67/dsh-opencode-models](https://github.com/Retr67/dsh-opencode-models) - DeepSeek Harness (DSH) plugin: one-click OpenCode Go model sync in the settings…
-- [umineko987/dsh-search-enhance](https://github.com/umineko987/dsh-search-enhance) - 提供 Grok-compatible 网页搜索、保留来源分页、Context7 与 Exa 文档检索、有界网页提取、站点映射、离线研究计划和只读诊断.
+- [Retr67/dsh-opencode-models](https://github.com/Retr67/dsh-opencode-models) - DeepSeek Harness (DSH) plugin: settings panel में one-click OpenCode Go model…
+- [TheYoungChen/dsh-plugin-market](https://github.com/TheYoungChen/dsh-plugin-market) - DeepSeek Harness plugin market - browse, search &amp; install dsh-plugin topic…
 - [viztor/dsh-opencode-patch](https://github.com/viztor/dsh-opencode-patch) - DeepSeek Harness पर OpenCode — DSH plugin जो OpenCode Zen + Go free-tier models…
 - [AI-Scarlett/DSH-Store](https://github.com/AI-Scarlett/DSH-Store) - DSH STORE — DeepSeek Harness के लिए तृतीय-पक्ष प्लगइन मार्केटप्लेस और सुरक्षित…
 - [Atelyx/Atelyx](https://github.com/Atelyx/Atelyx) - Atelyx एक मानव-केंद्रित, विस्तार योग्य डेस्कटॉप कार्यक्षेत्र है: संवाद, नोट्स…
 - [dsh-cc/dsh-cc](https://github.com/dsh-cc/dsh-cc) - DeepSeek Harness के लिए batteries-included coding agent — Claude Code-style…
-- [ItQianChen/dsh-github-flow](https://github.com/ItQianChen/dsh-github-flow) - 让 DeepSeek Harness Agent 拥有操作 GitHub 的原生手脚!
+- [GooDAnDReaDY/dsh-tts](https://github.com/GooDAnDReaDY/dsh-tts) - Natural speech synthesis plugin for DeepSeek Harness.
+- [ItQianChen/dsh-github-flow](https://github.com/ItQianChen/dsh-github-flow) - DeepSeek Harness Agent को GitHub संचालित करने के लिए मूलभूत हाथ-पैर दें! gh CLI…
 - [sakanamaru/dsh-minato](https://github.com/sakanamaru/dsh-minato) - dsh-minato — DeepSeek Harness (dsh) के लिए community version local deployment…
-- [SuperWheel/cliworker-now](https://github.com/SuperWheel/cliworker-now) - DeepSeek Harness 多 CLI 智能体侧栏插件：独立对话、账号管理、角色预设与任务续聊.
+- [Seelerc/dsh-plugin-delete-archived](https://github.com/Seelerc/dsh-plugin-delete-archived) - Permanently delete archived DeepSeek Harness sessions along with their on-disk…
 - [tianyagk/dsh-tradewatcher](https://github.com/tianyagk/dsh-tradewatcher) - DeepSeek Harness (DSH) web plugin: market-dashboard sidebar tab पर नज़र — hover…
+- [tiphareth0/dsh-hardssh](https://github.com/tiphareth0/dsh-hardssh) - Run your work with existing DSH plugins on remote servers, across any number of…
 - [argszero/cordis-plugin-empty-response-retry](https://github.com/argszero/cordis-plugin-empty-response-retry) - किसी अनामित खाली मॉडल प्रयास को दोबारा प्रयास करने योग्य बनाता है, उस एक…
+- [argszero/cordis-plugin-goal-progress-guard](https://github.com/argszero/cordis-plugin-goal-progress-guard) - Progress judgement for dsh autonomous goal rounds: defer the loop while…
 - [eovidiu/cordis-ios](https://github.com/eovidiu/cordis-ios) - ऐसे plugins जो अपने पीछे सफ़ाई कर लेते हैं: iOS और macOS के लिए cordis plugin…
 - [Magica-Chen/dsh-preset-codex-claude](https://github.com/Magica-Chen/dsh-preset-codex-claude) - DeepSeek Harness agent preset: Codex और Claude Code delegation subagents के रूप…
 - [validation-engineering/cordis-verus](https://github.com/validation-engineering/cordis-verus) - Verus-verified lifecycle kernel और Cordis compatibility adapters वाला एक Rust…
-- [helloHupc/dsh-plugin-hub](https://github.com/helloHupc/dsh-plugin-hub) - DSH 插件聚合站:全网 DeepSeek Harness 插件聚合检索,多源自动去重分类,每小时刷新 |…
-- [ArisaYamatogi/dsh-lecture-copilot](https://github.com/ArisaYamatogi/dsh-lecture-copilot) - A Dsh plugin that automatically records, translates lecture and generates notes…
+- [YOU-SHOULD-KNOW-ME/antigrative-dashboard](https://github.com/YOU-SHOULD-KNOW-ME/antigrative-dashboard) - Inline Antigravity dashboard: tok/s, DSH-style cache hit rate, five-hour and…
+- [Jecvay/paseo-dsh-direct](https://github.com/Jecvay/paseo-dsh-direct) - DeepSeek Harness 的 Paseo Provider Plugin (Direct Provider).
+- [SCP-008-1/dshop](https://github.com/SCP-008-1/dshop) - dsh 插件商城 - 基于 GitHub topic:dsh-plugin 自动发现与每小时定时同步.
 
 </details>
 
@@ -3135,7 +3182,7 @@ dsh गेम assets master plugin। seedream image generation model और min
 मॉड क्षमता के बारे में लेख, चर्चाएँ और वीडियो।
 
 <details>
-<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49925102">Claude Code Mods</a></b> · ⭐6 · 👁️ observed · 9 天</summary>
+<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49925102">Claude Code Mods</a></b> · ⭐6 · 👁️ observed · 10 天</summary>
 
 ##### 📝 सारांश
 
@@ -3201,7 +3248,7 @@ dsh गेम assets master plugin। seedream image generation model और min
 </details>
 
 <details>
-<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49925800">Claude Code Mods: plugins may now modify deeper behavior</a></b> · ⭐3 · 👁️ observed · 9 天</summary>
+<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49925800">Claude Code Mods: plugins may now modify deeper behavior</a></b> · ⭐3 · 👁️ observed · 10 天</summary>
 
 ##### 📝 सारांश
 
@@ -3223,7 +3270,7 @@ dsh गेम assets master plugin। seedream image generation model और min
 </details>
 
 <details>
-<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49926243">Getting started with Claude Code mods</a></b> · ⭐3 · 👁️ observed · 9 天</summary>
+<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49926243">Getting started with Claude Code mods</a></b> · ⭐3 · 👁️ observed · 10 天</summary>
 
 ##### 📝 सारांश
 
@@ -3245,7 +3292,7 @@ dsh गेम assets master plugin। seedream image generation model और min
 </details>
 
 <details>
-<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49945600">Show HN: Terminal Gym – a Claude mod that makes you do pushups between prompts</a></b> · ⭐3 · 👁️ observed · 7 天</summary>
+<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49945600">Show HN: Terminal Gym – a Claude mod that makes you do pushups between prompts</a></b> · ⭐3 · 👁️ observed · 8 天</summary>
 
 ##### 📝 सारांश
 
@@ -3289,7 +3336,7 @@ Hi HN, मैंने इसे अपने लिए बनाया और �
 </details>
 
 <details>
-<summary>📰 <b><a href="https://news.ycombinator.com/item?id=50024345">Agent-config&amp;Claude Code mods</a></b> · ⭐2 · 👁️ observed · 1 天</summary>
+<summary>📰 <b><a href="https://news.ycombinator.com/item?id=50024345">Agent-config&amp;Claude Code mods</a></b> · ⭐2 · 👁️ observed · 2 天</summary>
 
 ##### 📝 सारांश
 
@@ -3384,17 +3431,17 @@ Hi HN, मैंने इसे अपने लिए बनाया और �
 
 | भाषा       | एंट्रीज़ | उदाहरण प्रोजेक्ट्स                                                                                               |
 | ---------- | ------ | ------------------------------------------------------------------------------------------------------------- |
-| TypeScript | 338    | `anthropics/claude-code`, `anthropics/claude-code-action`, `hamzafer/claude-code-mods`                        |
-| JavaScript | 79     | `karanb192/awesome-claude-code-mods`, `karanb192/claude-code-mods`, `ucsandman/claude-harness`                |
-| Python     | 40     | `anthropics/claude-agent-sdk-python`, `anthropics/claude-code-security-review`, `alexgreensh/token-optimizer` |
-| Shell      | 24     | `anthropics/claude-agent-sdk-typescript`, `0xDarkMatter/claude-mods`, `BeLazy167/claude-mods-skill`           |
-| HTML       | 12     | `awss1i/assay`, `darrell-tw/darrelltw-mods`, `omarcevi/claudemods`                                            |
-| Go         | 5      | `backstabslash/goccc`, `kylesnowschwartz/tail-claude-hud`, `bunderlog/claude-plugins`                         |
-| Rust       | 5      | `persiyanov/herdr-reviewr`, `JairoTorregrosa/claude-statusline`, `OpenClawFarm/claude-statusline`             |
-| PowerShell | 2      | `GoSlowPoke168/claude-statusline`, `rainyfei/claude-statusline-win`                                           |
+| TypeScript | 382    | `anthropics/claude-code`, `anthropics/claude-code-action`, `hamzafer/claude-code-mods`                        |
+| JavaScript | 96     | `karanb192/awesome-claude-code-mods`, `karanb192/claude-code-mods`, `ucsandman/claude-harness`                |
+| Python     | 35     | `anthropics/claude-agent-sdk-python`, `anthropics/claude-code-security-review`, `alexgreensh/token-optimizer` |
+| Shell      | 23     | `anthropics/claude-agent-sdk-typescript`, `0xDarkMatter/claude-mods`, `BeLazy167/claude-mods-skill`           |
+| HTML       | 15     | `awss1i/assay`, `darrell-tw/darrelltw-mods`, `omarcevi/claudemods`                                            |
+| Go         | 6      | `backstabslash/goccc`, `kylesnowschwartz/tail-claude-hud`, `bunderlog/claude-plugins`                         |
+| Rust       | 6      | `persiyanov/herdr-reviewr`, `JairoTorregrosa/claude-statusline`, `OpenClawFarm/claude-statusline`             |
 | C          | 1      | `reporails/arcade`                                                                                            |
 | C#         | 1      | `sakanamaru/dsh-minato`                                                                                       |
-| Kotlin     | 1      | `dphmoblie/deepseek-harness-android`                                                                          |
+| Lua        | 1      | `crafts69guy/claude-statusline.nvim`                                                                          |
+| PowerShell | 1      | `GoSlowPoke168/claude-statusline`                                                                             |
 | Swift      | 1      | `eovidiu/cordis-ios`                                                                                          |
 
 <sub>केवल वे प्रविष्टियाँ गिनी जाती हैं जिनमें भाषा घोषित की गई हो। दस्तावेज़ और चर्चा प्रविष्टियाँ इस तालिका से बाहर रखी गई हैं।</sub>
@@ -3407,4 +3454,4 @@ Hi HN, मैंने इसे अपने लिए बनाया और �
 
 <sub>स्वतंत्र सामुदायिक प्रोजेक्ट। Anthropic से संबद्ध, अनुमोदित या समीक्षित नहीं। Claude Code, Claude और Anthropic, Anthropic के ट्रेडमार्क हैं। उत्पाद का व्यवहार बिना सूचना बदला जा सकता है; किसी भी महत्वपूर्ण जानकारी को आधिकारिक दस्तावेज़ के आधार पर सत्यापित करें। एसेट अपने मूल प्रोजेक्ट्स की संपत्ति बने रहते हैं और केवल वहीं पुनरुत्पादित किए गए हैं जहाँ लाइसेंस इसकी अनुमति देता है।</sub>
 
-<sub>अंतिम अपडेट · 2026-10-11T23:26:48+08:00</sub>
+<sub>अंतिम अपडेट · 2026-10-12T03:53:55+08:00</sub>

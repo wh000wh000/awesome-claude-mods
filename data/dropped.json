@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-11T23:18:36+08:00",
- "count": 115,
+ "updated_at": "2026-10-12T03:45:37+08:00",
+ "count": 119,
  "policy": {
   "min_stars": 5,
   "min_description_chars": 40
@@ -40,7 +40,7 @@
    "description_chars": 39,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-10T18:58:53+08:00",
-   "last_seen_dropped": "2026-10-11T23:18:36+08:00"
+   "last_seen_dropped": "2026-10-12T03:45:37+08:00"
   },
   {
    "at": "2026-10-09T20:58:12+08:00",
@@ -243,7 +243,7 @@
    "description_chars": 31,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-04T22:03:03+08:00",
-   "last_seen_dropped": "2026-10-11T21:07:22+08:00"
+   "last_seen_dropped": "2026-10-12T03:45:37+08:00"
   },
   {
    "at": "2026-10-05T00:33:04+08:00",
@@ -363,7 +363,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-11T05:50:47+08:00",
-   "last_seen_dropped": "2026-10-11T23:18:36+08:00"
+   "last_seen_dropped": "2026-10-12T03:45:37+08:00"
   },
   {
    "at": "2026-10-05T01:24:38+08:00",
@@ -522,6 +522,30 @@
    "last_seen_dropped": "2026-10-09T18:44:03+08:00"
   },
   {
+   "at": "2026-10-12T03:45:35+08:00",
+   "id": "gh:argszero/cordis-plugin-thinking-loop-guard",
+   "name": "argszero/cordis-plugin-thinking-loop-guard",
+   "url": "https://github.com/argszero/cordis-plugin-thinking-loop-guard",
+   "stars": 4,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-10-12T03:45:35+08:00",
+   "last_seen_dropped": "2026-10-12T03:45:37+08:00"
+  },
+  {
+   "at": "2026-10-12T03:45:35+08:00",
+   "id": "gh:argszero/cordis-plugin-turn-budget-guard",
+   "name": "argszero/cordis-plugin-turn-budget-guard",
+   "url": "https://github.com/argszero/cordis-plugin-turn-budget-guard",
+   "stars": 1,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-10-12T03:45:35+08:00",
+   "last_seen_dropped": "2026-10-12T03:45:37+08:00"
+  },
+  {
    "at": "2026-10-04T22:03:03+08:00",
    "id": "gh:asermax/pi-cc-plugins",
    "name": "asermax/pi-cc-plugins",
@@ -651,7 +675,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-04T22:03:03+08:00",
-   "last_seen_dropped": "2026-10-11T23:18:36+08:00"
+   "last_seen_dropped": "2026-10-12T03:45:37+08:00"
   },
   {
    "at": "2026-10-04T22:04:33+08:00",
@@ -702,6 +726,18 @@
    "last_seen_dropped": "2026-10-05T12:41:53+08:00"
   },
   {
+   "at": "2026-10-12T03:45:35+08:00",
+   "id": "gh:drscrewdriver/dsh-perm-gate",
+   "name": "drscrewdriver/dsh-perm-gate",
+   "url": "https://github.com/drscrewdriver/dsh-perm-gate",
+   "stars": 3,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-10-12T03:45:35+08:00",
+   "last_seen_dropped": "2026-10-12T03:45:37+08:00"
+  },
+  {
    "at": "2026-10-07T07:52:50+08:00",
    "id": "gh:drscrewdriver/dsh-session-guard",
    "name": "drscrewdriver/dsh-session-guard",
@@ -747,7 +783,7 @@
    "description_chars": 28,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-09T16:31:11+08:00",
-   "last_seen_dropped": "2026-10-11T23:18:36+08:00"
+   "last_seen_dropped": "2026-10-12T03:45:37+08:00"
   },
   {
    "at": "2026-10-09T16:31:11+08:00",
@@ -778,12 +814,12 @@
    "id": "gh:foxhsiao/claude-code-statusline",
    "name": "foxhsiao/claude-code-statusline",
    "url": "https://github.com/foxhsiao/claude-code-statusline",
-   "stars": 0,
+   "stars": 1,
    "evidence": "inferred",
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-07T07:52:50+08:00",
-   "last_seen_dropped": "2026-10-11T23:18:36+08:00"
+   "last_seen_dropped": "2026-10-12T03:45:37+08:00"
   },
   {
    "at": "2026-10-05T00:33:04+08:00",
@@ -1037,6 +1073,18 @@
    "last_seen_dropped": "2026-10-05T10:26:05+08:00"
   },
   {
+   "at": "2026-10-12T03:45:35+08:00",
+   "id": "gh:pooryam92/claude-kit",
+   "name": "pooryam92/claude-kit",
+   "url": "https://github.com/pooryam92/claude-kit",
+   "stars": 1,
+   "evidence": "inferred",
+   "description_chars": 20,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-10-12T03:45:35+08:00",
+   "last_seen_dropped": "2026-10-12T03:45:37+08:00"
+  },
+  {
    "at": "2026-10-04T22:04:33+08:00",
    "id": "gh:pvliesdonk/claude-plugins",
    "name": "pvliesdonk/claude-plugins",
@@ -1286,7 +1334,7 @@
    "description_chars": 30,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-05T00:33:04+08:00",
-   "last_seen_dropped": "2026-10-11T10:04:54+08:00"
+   "last_seen_dropped": "2026-10-12T03:45:37+08:00"
   },
   {
    "at": "2026-10-04T22:03:03+08:00",

@@ -1279,3 +1279,32 @@
 - `+` [mvalentsev/awesome-free-ai-coding](https://github.com/mvalentsev/awesome-free-ai-coding) — inferred / mods — ⭐58
 - `+` [Contexera/dsh-agent-team](https://github.com/Contexera/dsh-agent-team) — inferred / dsh-cordis — ⭐57
 - …另有 120 条新增
+
+## 2026-10-12T03:45:35+08:00
+- 收录总数 **595**；本次更新新增 **147**
+- `+` [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) — inferred / mods — ⭐11286
+- `+` [strukto-ai/mirage](https://github.com/strukto-ai/mirage) — inferred / dsh-cordis — ⭐3682
+- `+` [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context) — inferred / dsh-cordis — ⭐1995
+- `+` [xmanrui/dsh-im](https://github.com/xmanrui/dsh-im) — inferred / dsh-cordis — ⭐1837
+- `+` [anywhere-labs/Agents-Anywhere](https://github.com/anywhere-labs/Agents-Anywhere) — inferred / dsh-cordis — ⭐1577
+- `+` [agentrq/agentrq](https://github.com/agentrq/agentrq) — inferred / dsh-cordis — ⭐1140
+- `+` [devswha/herdr-web-ui](https://github.com/devswha/herdr-web-ui) — inferred / mods — ⭐811
+- `+` [vibeinging/dsh-desktop](https://github.com/vibeinging/dsh-desktop) — inferred / dsh-cordis — ⭐592
+- `+` [bruc3van/awesome-dsh-plugin](https://github.com/bruc3van/awesome-dsh-plugin) — inferred / dsh-cordis — ⭐403
+- `+` [d-dev0101/open-sea-skin](https://github.com/d-dev0101/open-sea-skin) — inferred / dsh-cordis — ⭐389
+- `+` [DDDMUC/dsh-free-search](https://github.com/DDDMUC/dsh-free-search) — inferred / dsh-cordis — ⭐369
+- `+` [RevolutionLA/dsh-dream-skin](https://github.com/RevolutionLA/dsh-dream-skin) — inferred / dsh-cordis — ⭐225
+- `+` [xiajiajun516/dsh-config-manager](https://github.com/xiajiajun516/dsh-config-manager) — inferred / dsh-cordis — ⭐176
+- `+` [cocofhu/anime-find](https://github.com/cocofhu/anime-find) — inferred / dsh-cordis — ⭐176
+- `+` [WSL043/dsh-codex-subscription](https://github.com/WSL043/dsh-codex-subscription) — inferred / dsh-cordis — ⭐160
+- `+` [FeatherHunter/dsh-mattpocock-skills-deck](https://github.com/FeatherHunter/dsh-mattpocock-skills-deck) — inferred / dsh-cordis — ⭐134
+- `+` [EricWang1358/dsh-web-studyhub](https://github.com/EricWang1358/dsh-web-studyhub) — inferred / dsh-cordis — ⭐90
+- `+` [YOU-SHOULD-KNOW-ME/antigrative-dashboard](https://github.com/YOU-SHOULD-KNOW-ME/antigrative-dashboard) — unverified / dsh-cordis — ⭐82
+- `+` [KongFangXun/sofagent](https://github.com/KongFangXun/sofagent) — inferred / dsh-cordis — ⭐52
+- `+` [GZX2211/dsh-Visual-Workflow](https://github.com/GZX2211/dsh-Visual-Workflow) — inferred / dsh-cordis — ⭐46
+- `+` [chen731215-dev/dsh-tavern-v2](https://github.com/chen731215-dev/dsh-tavern-v2) — inferred / mods — ⭐43
+- `+` [Jecvay/paseo-dsh-direct](https://github.com/Jecvay/paseo-dsh-direct) — unverified / dsh-cordis — ⭐37
+- `+` [BotHarness/DeepSeekBot](https://github.com/BotHarness/DeepSeekBot) — inferred / dsh-cordis — ⭐20
+- `+` [YELEBAI/dsh-plugin-marketplace](https://github.com/YELEBAI/dsh-plugin-marketplace) — inferred / dsh-cordis — ⭐20
+- `+` [dshworks/awesome-dsh-plugins](https://github.com/dshworks/awesome-dsh-plugins) — inferred / dsh-cordis — ⭐16
+- …另有 122 条新增

@@ -1,39 +1,39 @@
 {
- "generated_at": "2026-10-11T23:18:36+08:00",
- "total": 534,
+ "generated_at": "2026-10-12T03:45:37+08:00",
+ "total": 595,
  "new_this_tick": 0,
  "by_category": {
   "official": 14,
-  "mods": 408,
-  "dsh-cordis": 101,
+  "mods": 464,
+  "dsh-cordis": 106,
   "writing": 11
  },
  "by_evidence": {
   "official": 14,
-  "observed": 322,
-  "inferred": 186,
-  "unverified": 12
+  "observed": 374,
+  "inferred": 193,
+  "unverified": 14
  },
  "by_tier": {
   "official": 14,
-  "community": 520
+  "community": 581
  },
  "by_language": {
-  "TypeScript": 338,
-  "JavaScript": 79,
-  "Python": 40,
-  "Shell": 24,
-  "HTML": 12,
-  "Rust": 5,
-  "Go": 5,
-  "PowerShell": 2,
+  "TypeScript": 382,
+  "JavaScript": 96,
+  "Python": 35,
+  "Shell": 23,
+  "HTML": 15,
+  "Rust": 6,
+  "Go": 6,
   "C": 1,
-  "Kotlin": 1,
+  "PowerShell": 1,
+  "Lua": 1,
   "C#": 1,
   "Swift": 1
  },
- "repos": 515,
+ "repos": 576,
  "models": 0,
  "discussions": 11,
- "total_stars": 790677
+ "total_stars": 796640
 }
