@@ -1192,3 +1192,32 @@
 - `+` [1321928757/dsh-mysql](https://github.com/1321928757/dsh-mysql) — inferred / dsh-cordis — ⭐7
 - `+` [mokuyoaxis/dsh-iris](https://github.com/mokuyoaxis/dsh-iris) — inferred / dsh-cordis — ⭐7
 - …另有 121 条新增
+
+## 2026-10-11T18:56:17+08:00
+- 收录总数 **584**；本次更新新增 **70**
+- `+` [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) — inferred / dsh-cordis — ⭐6133
+- `+` [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) — inferred / mods — ⭐5152
+- `+` [strukto-ai/mirage](https://github.com/strukto-ai/mirage) — inferred / dsh-cordis — ⭐3682
+- `+` [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context) — inferred / dsh-cordis — ⭐1978
+- `+` [DDDMUC/dsh-free-search](https://github.com/DDDMUC/dsh-free-search) — inferred / dsh-cordis — ⭐365
+- `+` [imsai-sh/awesome-deepseek-harness-plugins](https://github.com/imsai-sh/awesome-deepseek-harness-plugins) — inferred / dsh-cordis — ⭐275
+- `+` [RevolutionLA/dsh-dream-skin](https://github.com/RevolutionLA/dsh-dream-skin) — inferred / dsh-cordis — ⭐225
+- `+` [Sutera-Diffusus/dsh-whale-musume](https://github.com/Sutera-Diffusus/dsh-whale-musume) — inferred / dsh-cordis — ⭐120
+- `+` [kuangre123/codex-switch](https://github.com/kuangre123/codex-switch) — inferred / official — ⭐70
+- `+` [adamkhalile/luau-docs-oracle](https://github.com/adamkhalile/luau-docs-oracle) — inferred / dsh-cordis — ⭐70
+- `+` [1475505/miliastra-beyond-simulator](https://github.com/1475505/miliastra-beyond-simulator) — inferred / dsh-cordis — ⭐57
+- `+` [HOWILLMAKEIT/dsh-model-context-catalog](https://github.com/HOWILLMAKEIT/dsh-model-context-catalog) — inferred / dsh-cordis — ⭐34
+- `+` [omdsh-dev/dsh-office](https://github.com/omdsh-dev/dsh-office) — inferred / dsh-cordis — ⭐26
+- `+` [gjj-star/dsh-conversation-navigator](https://github.com/gjj-star/dsh-conversation-navigator) — inferred / dsh-cordis — ⭐23
+- `+` [mistnest/dsh-cuigengji-plugin](https://github.com/mistnest/dsh-cuigengji-plugin) — inferred / dsh-cordis — ⭐19
+- `+` [Y1X1n/dsh-prompt-optimizer](https://github.com/Y1X1n/dsh-prompt-optimizer) — inferred / dsh-cordis — ⭐19
+- `+` [rezon-aki/dsh-streamfold](https://github.com/rezon-aki/dsh-streamfold) — inferred / dsh-cordis — ⭐18
+- `+` [dshworks/awesome-dsh-plugins](https://github.com/dshworks/awesome-dsh-plugins) — inferred / dsh-cordis — ⭐16
+- `+` [TecFancy/dsh-auth-gate](https://github.com/TecFancy/dsh-auth-gate) — inferred / dsh-cordis — ⭐15
+- `+` [xxww0098/dsh-plugin-oauth-subs](https://github.com/xxww0098/dsh-plugin-oauth-subs) — inferred / dsh-cordis — ⭐13
+- `+` [white0dew/awesome-dsh-plugins](https://github.com/white0dew/awesome-dsh-plugins) — inferred / dsh-cordis — ⭐12
+- `+` [muyuanjin/dsh-ptc-plus](https://github.com/muyuanjin/dsh-ptc-plus) — inferred / dsh-cordis — ⭐12
+- `+` [moguiyu/dsh-tavily](https://github.com/moguiyu/dsh-tavily) — inferred / mods — ⭐10
+- `+` [LikeACloud7/awesome-frontier-ai-papers](https://github.com/LikeACloud7/awesome-frontier-ai-papers) — inferred / mods — ⭐10
+- `+` [xiaoshenming/dsh-session-surgeon](https://github.com/xiaoshenming/dsh-session-surgeon) — inferred / dsh-cordis — ⭐10
+- …另有 45 条新增
