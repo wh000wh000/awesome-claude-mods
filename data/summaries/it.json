@@ -60,6 +60,7 @@
  "1c3f533347abefdf": "Mod di Claude Code che visualizza le differenze di Edit e Write in due colonne affiancate",
  "1c4bd9852986a2c7": "Un mod per Claude Code che attiva o disattiva le tue competenze, i tuoi agenti, le tue regole e i tuoi strumenti globali per repository, usando profili con nome. Nel mio repository di scrittura, ha nascosto 94 delle 101 competenze con una sola riga.",
  "1d44300fc5227cce": "Mod di Claude Code per i worktree git: /terminal e /worktree-files aprono un terminale o un albero dei file nel worktree in cui lavora una conversazione",
+ "1d8812dd577ceb55": "Claude Modifica del codice: stima quanto resterà dei tuoi limiti settimanali e di 5 ore di Claude al momento del ripristino, in base al tuo tasso di utilizzo recente",
  "1ddb713953efb708": "Sei mod di Claude Code in un unico plugin (Token Weather, Cache Keeper, Wait What, Prompt Queue, Snake, Blast Radius) con interruttori per singolo mod, più un rapporto mod-vs-hook.",
  "1de21a76d9c20f34": "Un elenco curato di mod di Claude Code, installabili come marketplace di plugin: temi, pannelli, righe di stato, ritratti.",
  "1eb314737166b4b2": "Tutte le parti del prompt di sistema di Claude Code, 27 descrizioni degli strumenti integrati, prompt dei sottoagenti (Plan/Explore/Task), prompt di utilità (CLAUDE.md, compact, statusline, magic docs, WebFetch, comando Bash, revisione della sicurezza, creazione di agenti). Aggiornato per ogni versione di Claude Code.",

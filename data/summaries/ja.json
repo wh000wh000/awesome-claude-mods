@@ -541,6 +541,7 @@
  "ed2851bb111043b4": "NekroNXT：DeepSeek Harness（DSH）ベースのマルチプラットフォーム・グループチャットエージェントシステム｜DSHを基盤とするマルチプラットフォーム・グループチャットエージェントシステム",
  "ed7c21eced5d5109": "Claudeが読む前にプロンプトを修正・翻訳するClaude Code mods",
  "edaa5ea7b8d4b16b": "切り替え可能な権限プロファイルを備えたClaude Code mod：安全なベースライン、オン／オフを切り替えられる名前付きプロファイル、それ以外はすべて確認を求める。",
+ "edd9dab73e030299": "Claude Code用のmodで、Claudeに平易な英語を書かせ、よくある文章上の癖を指摘します。",
  "ee2b65a6483ab20e": "Claude Code用のmodショップ：GitHubからmodsを取得し、プレビューを表示し、マーケットプレイスで提供します",
  "ee41f0452543ed57": "Claude Code、pi、DeepSeek Harness 向けのプラグインコレクション：ステータスバー HUD、タスク進捗バー、Tailscale ノード状態など · コーディングエージェントハーネス向け Mods",
  "ee620eba9d93a6ec": "Claude Codeのステータスラインでウィンドウごとに編集可能なラベル。Pacto（pacto.global）が提供",

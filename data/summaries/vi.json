@@ -60,6 +60,7 @@
  "1c3f533347abefdf": "Mod Claude Code vẽ các thay đổi khác biệt của Edit và Write trong hai cột cạnh nhau",
  "1c4bd9852986a2c7": "Một mod Claude Code bật hoặc tắt các skill, agent, rule và tool toàn cục của bạn theo từng repo bằng các profile có tên. Trong repo viết lách của tôi, nó ẩn 94 trong số 101 skill chỉ với một dòng.",
  "1d44300fc5227cce": "Các mod cho Claude Code dành cho git worktree: /terminal và /worktree-files mở một terminal hoặc cây tệp trong worktree nơi cuộc trò chuyện đang hoạt động",
+ "1d8812dd577ceb55": "Claude Chỉnh sửa mã: dự đoán phần còn lại của các giới hạn Claude hàng tuần và 5 giờ của bạn tại thời điểm đặt lại, dựa trên tốc độ sử dụng gần đây",
  "1ddb713953efb708": "Sáu bản mod Claude Code trong một plugin (Token Weather, Cache Keeper, Wait What, Prompt Queue, Snake, Blast Radius) với công tắc riêng cho từng mod, cùng báo cáo mods-so-với-hooks.",
  "1de21a76d9c20f34": "Danh sách được tuyển chọn các mod Claude Code, có thể cài đặt dưới dạng một plugin marketplace: theme, ngăn, dòng trạng thái, ảnh chân dung.",
  "1eb314737166b4b2": "Tất cả các phần trong system prompt của Claude Code, 27 mô tả công cụ tích hợp sẵn, prompt của tác tử con (Plan/Explore/Task), prompt tiện ích (CLAUDE.md, compact, statusline, magic docs, WebFetch, Bash cmd, security review, agent creation). Được cập nhật cho từng phiên bản Claude Code.",
