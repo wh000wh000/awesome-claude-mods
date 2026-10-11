@@ -1250,3 +1250,32 @@
 - `+` [lizhiyao/oh-my-knowledge](https://github.com/lizhiyao/oh-my-knowledge) — inferred / dsh-cordis — ⭐23
 - `+` [weishao2/tizhuang-agent-skills](https://github.com/weishao2/tizhuang-agent-skills) — inferred / dsh-cordis — ⭐23
 - …另有 59 条新增
+
+## 2026-10-11T23:18:34+08:00
+- 收录总数 **534**；本次更新新增 **145**
+- `+` [titanwings/distilly](https://github.com/titanwings/distilly) — inferred / dsh-cordis — ⭐25495
+- `+` [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) — inferred / dsh-cordis — ⭐18380
+- `+` [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) — inferred / dsh-cordis — ⭐8510
+- `+` [op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) — inferred / mods — ⭐7461
+- `+` [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) — inferred / dsh-cordis — ⭐4107
+- `+` [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) — inferred / dsh-cordis — ⭐1589
+- `+` [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) — inferred / dsh-cordis — ⭐526
+- `+` [starbaser/ccproxy](https://github.com/starbaser/ccproxy) — inferred / mods — ⭐351
+- `+` [aqua5230/usage](https://github.com/aqua5230/usage) — observed / mods — ⭐338
+- `+` [T-Auto/dsh-ops](https://github.com/T-Auto/dsh-ops) — inferred / dsh-cordis — ⭐334
+- `+` [imsai-sh/awesome-deepseek-harness-plugins](https://github.com/imsai-sh/awesome-deepseek-harness-plugins) — inferred / dsh-cordis — ⭐275
+- `+` [NYCU-Chung/cc-statusline](https://github.com/NYCU-Chung/cc-statusline) — inferred / mods — ⭐264
+- `+` [gwittebolle/claude-carbon](https://github.com/gwittebolle/claude-carbon) — inferred / mods — ⭐211
+- `+` [AwesomeZun/CC-statusline](https://github.com/AwesomeZun/CC-statusline) — inferred / mods — ⭐193
+- `+` [hamzafer/claude-code-mods](https://github.com/hamzafer/claude-code-mods) — observed / mods — ⭐186
+- `+` [JohnnyVizz/claude-kit](https://github.com/JohnnyVizz/claude-kit) — inferred / mods — ⭐140
+- `+` [escapeboy/claude-code-kit](https://github.com/escapeboy/claude-code-kit) — inferred / mods — ⭐91
+- `+` [like-study1/Oh-My-DSH](https://github.com/like-study1/Oh-My-DSH) — inferred / dsh-cordis — ⭐90
+- `+` [PensiveFei/dsh-secure-audit](https://github.com/PensiveFei/dsh-secure-audit) — inferred / dsh-cordis — ⭐85
+- `+` [JingbiaoMei/Tokdash](https://github.com/JingbiaoMei/Tokdash) — inferred / dsh-cordis — ⭐85
+- `+` [Tickloop/claude-mods](https://github.com/Tickloop/claude-mods) — observed / mods — ⭐77
+- `+` [darrell-tw/darrelltw-mods](https://github.com/darrell-tw/darrelltw-mods) — observed / mods — ⭐65
+- `+` [0xDarkMatter/claude-mods](https://github.com/0xDarkMatter/claude-mods) — observed / mods — ⭐59
+- `+` [mvalentsev/awesome-free-ai-coding](https://github.com/mvalentsev/awesome-free-ai-coding) — inferred / mods — ⭐58
+- `+` [Contexera/dsh-agent-team](https://github.com/Contexera/dsh-agent-team) — inferred / dsh-cordis — ⭐57
+- …另有 120 条新增
