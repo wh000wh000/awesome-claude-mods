@@ -1105,3 +1105,32 @@
 - `+` [HaoyueQin/dsh-usage-statistics-panel](https://github.com/HaoyueQin/dsh-usage-statistics-panel) — inferred / dsh-cordis — ⭐22
 - `+` [TQSY114514/dsh-ui-appearance](https://github.com/TQSY114514/dsh-ui-appearance) — inferred / dsh-cordis — ⭐22
 - …另有 70 条新增
+
+## 2026-10-11T12:21:59+08:00
+- 收录总数 **592**；本次更新新增 **53**
+- `+` [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) — inferred / dsh-cordis — ⭐7124
+- `+` [dsh-tauri/deepseek-harness-desktop](https://github.com/dsh-tauri/deepseek-harness-desktop) — inferred / dsh-cordis — ⭐3144
+- `+` [NanmiCoder/dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) — inferred / dsh-cordis — ⭐2012
+- `+` [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context) — inferred / dsh-cordis — ⭐1969
+- `+` [xmanrui/dsh-im](https://github.com/xmanrui/dsh-im) — inferred / dsh-cordis — ⭐1780
+- `+` [EthanYoQ/AI-Novel-Writer](https://github.com/EthanYoQ/AI-Novel-Writer) — inferred / dsh-cordis — ⭐1394
+- `+` [text2future/flowix](https://github.com/text2future/flowix) — inferred / dsh-cordis — ⭐453
+- `+` [Mars-Sea/dsh-commandcode-provider](https://github.com/Mars-Sea/dsh-commandcode-provider) — inferred / dsh-cordis — ⭐377
+- `+` [mrpulor-gh/nuphus-mcp](https://github.com/mrpulor-gh/nuphus-mcp) — unverified / dsh-cordis — ⭐322
+- `+` [T-Auto/dsh-ops](https://github.com/T-Auto/dsh-ops) — inferred / dsh-cordis — ⭐203
+- `+` [ymh0000123/dsh-theme-endfield](https://github.com/ymh0000123/dsh-theme-endfield) — inferred / dsh-cordis — ⭐134
+- `+` [Noob-stupid/dsh-plugin-gating-hub](https://github.com/Noob-stupid/dsh-plugin-gating-hub) — inferred / dsh-cordis — ⭐99
+- `+` [kukucaiCndy/Corum-Harness](https://github.com/kukucaiCndy/Corum-Harness) — inferred / dsh-cordis — ⭐62
+- `+` [Contexera/dsh-agent-team](https://github.com/Contexera/dsh-agent-team) — inferred / dsh-cordis — ⭐57
+- `+` [Nyasers/DSHana](https://github.com/Nyasers/DSHana) — inferred / dsh-cordis — ⭐56
+- `+` [dphmoblie/deepseek-harness-android](https://github.com/dphmoblie/deepseek-harness-android) — inferred / dsh-cordis — ⭐22
+- `+` [hyqhyq3/dsh-mcp-manager](https://github.com/hyqhyq3/dsh-mcp-manager) — inferred / dsh-cordis — ⭐21
+- `+` [harrylabsj/kiwi](https://github.com/harrylabsj/kiwi) — inferred / dsh-cordis — ⭐20
+- `+` [Sivan757/dsh-agent-plugins-market](https://github.com/Sivan757/dsh-agent-plugins-market) — inferred / dsh-cordis — ⭐13
+- `+` [GoSlowPoke168/claude-statusline](https://github.com/GoSlowPoke168/claude-statusline) — inferred / mods — ⭐8
+- `+` [tellmewhattodo/dsh-serenity-plugin](https://github.com/tellmewhattodo/dsh-serenity-plugin) — unverified / dsh-cordis — ⭐8
+- `+` [ai-yukin/dsh-0-tools](https://github.com/ai-yukin/dsh-0-tools) — inferred / dsh-cordis — ⭐8
+- `+` [helenkwok/gsd-status-mod](https://github.com/helenkwok/gsd-status-mod) — observed / mods — ⭐6
+- `+` [YunongDai2005/dsh-theone](https://github.com/YunongDai2005/dsh-theone) — inferred / dsh-cordis — ⭐6
+- `+` [shenhuanageshei/dsh-team-link](https://github.com/shenhuanageshei/dsh-team-link) — inferred / dsh-cordis — ⭐6
+- …另有 28 条新增
