@@ -1366,3 +1366,32 @@
 - `+` [Berkay2002/berkays-mods](https://github.com/Berkay2002/berkays-mods) — observed / mods — ⭐0
 - `+` [gvart/claude-config](https://github.com/gvart/claude-config) — inferred / mods — ⭐0
 - …另有 9 条新增
+
+## 2026-10-12T10:19:40+08:00
+- 收录总数 **588**；本次更新新增 **66**
+- `+` [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) — inferred / dsh-cordis — ⭐4294
+- `+` [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context) — inferred / dsh-cordis — ⭐1999
+- `+` [PC2005-cloud/dsh-pet](https://github.com/PC2005-cloud/dsh-pet) — inferred / dsh-cordis — ⭐1257
+- `+` [bruc3van/awesome-dsh-plugin](https://github.com/bruc3van/awesome-dsh-plugin) — inferred / dsh-cordis — ⭐403
+- `+` [Han-1413141/dsh-cost-meter](https://github.com/Han-1413141/dsh-cost-meter) — inferred / dsh-cordis — ⭐390
+- `+` [tingly-dev/tingly-box](https://github.com/tingly-dev/tingly-box) — inferred / dsh-cordis — ⭐351
+- `+` [drewnekota/cetus](https://github.com/drewnekota/cetus) — inferred / dsh-cordis — ⭐146
+- `+` [xcisxc29/dsh-wechat](https://github.com/xcisxc29/dsh-wechat) — inferred / dsh-cordis — ⭐112
+- `+` [kenz1117/dsh-ui-usage-billing](https://github.com/kenz1117/dsh-ui-usage-billing) — inferred / dsh-cordis — ⭐77
+- `+` [Nyasers/DSHana](https://github.com/Nyasers/DSHana) — inferred / dsh-cordis — ⭐56
+- `+` [walkinglabs/awesome-deepseek-harness-plugins](https://github.com/walkinglabs/awesome-deepseek-harness-plugins) — inferred / official — ⭐43
+- `+` [ZhangFengshun/dsh-remote-ssh](https://github.com/ZhangFengshun/dsh-remote-ssh) — inferred / dsh-cordis — ⭐30
+- `+` [Airmetro/dsh-update-checker](https://github.com/Airmetro/dsh-update-checker) — inferred / dsh-cordis — ⭐20
+- `+` [ZK-Andy/dsh-continual-evolve](https://github.com/ZK-Andy/dsh-continual-evolve) — inferred / dsh-cordis — ⭐20
+- `+` [ppy-web/dsh-plugin-xiaomi-mimo-tts](https://github.com/ppy-web/dsh-plugin-xiaomi-mimo-tts) — inferred / dsh-cordis — ⭐19
+- `+` [1na-ko/dsh-hdc-bridge](https://github.com/1na-ko/dsh-hdc-bridge) — inferred / official — ⭐19
+- `+` [xxww0098/dsh-plugin-oauth-subs](https://github.com/xxww0098/dsh-plugin-oauth-subs) — inferred / dsh-cordis — ⭐13
+- `+` [dabaicai001/star-dsh-desktop](https://github.com/dabaicai001/star-dsh-desktop) — inferred / dsh-cordis — ⭐12
+- `+` [evoelsewhere/evoflux](https://github.com/evoelsewhere/evoflux) — inferred / dsh-cordis — ⭐11
+- `+` [xiaoshenming/dsh-session-surgeon](https://github.com/xiaoshenming/dsh-session-surgeon) — inferred / dsh-cordis — ⭐10
+- `+` [liuup/dsh-latex-tools](https://github.com/liuup/dsh-latex-tools) — inferred / dsh-cordis — ⭐10
+- `+` [morlay/dsh-plugin](https://github.com/morlay/dsh-plugin) — inferred / dsh-cordis — ⭐8
+- `+` [tellmewhattodo/dsh-serenity-plugin](https://github.com/tellmewhattodo/dsh-serenity-plugin) — unverified / dsh-cordis — ⭐8
+- `+` [1321928757/dsh-mysql](https://github.com/1321928757/dsh-mysql) — inferred / dsh-cordis — ⭐7
+- `+` [William2333ZZ/mywork-deepseekharness](https://github.com/William2333ZZ/mywork-deepseekharness) — inferred / mods — ⭐7
+- …另有 41 条新增
