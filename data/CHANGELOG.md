@@ -1540,3 +1540,32 @@
 - `+` [cc-friend/ccost](https://github.com/cc-friend/ccost) — inferred / mods — ⭐4
 - `+` [PerryLink/perrylink](https://github.com/PerryLink/perrylink) — inferred / dsh-cordis — ⭐4
 - …另有 49 条新增
+
+## 2026-10-13T01:48:30+08:00
+- 收录总数 **601**；本次更新新增 **153**
+- `+` [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) — inferred / dsh-cordis — ⭐18510
+- `+` [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) — inferred / mods — ⭐11465
+- `+` [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) — inferred / dsh-cordis — ⭐6267
+- `+` [strukto-ai/mirage](https://github.com/strukto-ai/mirage) — inferred / dsh-cordis — ⭐3680
+- `+` [xmanrui/dsh-im](https://github.com/xmanrui/dsh-im) — inferred / dsh-cordis — ⭐1909
+- `+` [najmuzzaman-mohammad/gawkbot](https://github.com/najmuzzaman-mohammad/gawkbot) — inferred / mods — ⭐1493
+- `+` [cv-superding/dsh-deepseek-web-login](https://github.com/cv-superding/dsh-deepseek-web-login) — inferred / dsh-cordis — ⭐261
+- `+` [acryldev/acryl](https://github.com/acryldev/acryl) — inferred / dsh-cordis — ⭐255
+- `+` [PerryLink/dsh-research-report](https://github.com/PerryLink/dsh-research-report) — inferred / dsh-cordis — ⭐214
+- `+` [PerryLink/dsh-industry-research](https://github.com/PerryLink/dsh-industry-research) — inferred / mods — ⭐214
+- `+` [dshplugin/dsh-plugin-hub](https://github.com/dshplugin/dsh-plugin-hub) — inferred / dsh-cordis — ⭐201
+- `+` [wenbin-wb/dsh-bridge](https://github.com/wenbin-wb/dsh-bridge) — inferred / dsh-cordis — ⭐194
+- `+` [a86582751/dsh-nexttavern](https://github.com/a86582751/dsh-nexttavern) — inferred / mods — ⭐168
+- `+` [jaccen/Awesome-Gaussian-Skills](https://github.com/jaccen/Awesome-Gaussian-Skills) — inferred / dsh-cordis — ⭐161
+- `+` [PerryLink/dsh-memento](https://github.com/PerryLink/dsh-memento) — inferred / dsh-cordis — ⭐141
+- `+` [xcisxc29/dsh-wechat](https://github.com/xcisxc29/dsh-wechat) — inferred / dsh-cordis — ⭐136
+- `+` [PerryLink/dsh-permission-rules](https://github.com/PerryLink/dsh-permission-rules) — inferred / dsh-cordis — ⭐122
+- `+` [amlyczz/dsh-agy-link](https://github.com/amlyczz/dsh-agy-link) — inferred / dsh-cordis — ⭐101
+- `+` [YOU-SHOULD-KNOW-ME/antigrative-dashboard](https://github.com/YOU-SHOULD-KNOW-ME/antigrative-dashboard) — unverified / dsh-cordis — ⭐92
+- `+` [Fishsb/dsh-prompt-enhancer](https://github.com/Fishsb/dsh-prompt-enhancer) — inferred / dsh-cordis — ⭐90
+- `+` [JingbiaoMei/Tokdash](https://github.com/JingbiaoMei/Tokdash) — inferred / dsh-cordis — ⭐85
+- `+` [PerryLink/dsh-mcp-panel](https://github.com/PerryLink/dsh-mcp-panel) — inferred / official — ⭐74
+- `+` [adamkhalile/luau-docs-oracle](https://github.com/adamkhalile/luau-docs-oracle) — inferred / dsh-cordis — ⭐70
+- `+` [PerryLink/dsh-fund-research](https://github.com/PerryLink/dsh-fund-research) — inferred / dsh-cordis — ⭐68
+- `+` [Nyasers/DSHana](https://github.com/Nyasers/DSHana) — inferred / dsh-cordis — ⭐56
+- …另有 128 条新增
