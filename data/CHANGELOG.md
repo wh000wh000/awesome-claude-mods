@@ -1482,3 +1482,32 @@
 - `+` [PeterBon/dsh-hooks](https://github.com/PeterBon/dsh-hooks) — inferred / dsh-cordis — ⭐6
 - `+` [dsh-plugin-lab/dsh-workbuddy-bridge](https://github.com/dsh-plugin-lab/dsh-workbuddy-bridge) — inferred / dsh-cordis — ⭐6
 - …另有 65 条新增
+
+## 2026-10-12T19:09:23+08:00
+- 收录总数 **605**；本次更新新增 **76**
+- `+` [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) — inferred / mods — ⭐5222
+- `+` [dsh-tauri/deepseek-harness-desktop](https://github.com/dsh-tauri/deepseek-harness-desktop) — inferred / dsh-cordis — ⭐3054
+- `+` [hyhmrright/brooks-lint](https://github.com/hyhmrright/brooks-lint) — inferred / dsh-cordis — ⭐1514
+- `+` [DDDMUC/dsh-free-search](https://github.com/DDDMUC/dsh-free-search) — inferred / dsh-cordis — ⭐372
+- `+` [RevolutionLA/dsh-dream-skin](https://github.com/RevolutionLA/dsh-dream-skin) — inferred / dsh-cordis — ⭐230
+- `+` [morluto/flameox](https://github.com/morluto/flameox) — inferred / dsh-cordis — ⭐176
+- `+` [yyh-001/dsh-meme](https://github.com/yyh-001/dsh-meme) — inferred / dsh-cordis — ⭐173
+- `+` [Totoro-qaq/dsh-plugin-bridge](https://github.com/Totoro-qaq/dsh-plugin-bridge) — inferred / dsh-cordis — ⭐165
+- `+` [01Virex/dsh-status-rotator](https://github.com/01Virex/dsh-status-rotator) — inferred / dsh-cordis — ⭐139
+- `+` [Sutera-Diffusus/dsh-whale-musume](https://github.com/Sutera-Diffusus/dsh-whale-musume) — inferred / dsh-cordis — ⭐121
+- `+` [wqty123/dsh-browser](https://github.com/wqty123/dsh-browser) — inferred / dsh-cordis — ⭐108
+- `+` [Tabbit-Browser/dsh-tabbit](https://github.com/Tabbit-Browser/dsh-tabbit) — inferred / dsh-cordis — ⭐107
+- `+` [ChanMeng666/echook](https://github.com/ChanMeng666/echook) — inferred / mods — ⭐87
+- `+` [Tkingxiao/dsh-any-background](https://github.com/Tkingxiao/dsh-any-background) — inferred / dsh-cordis — ⭐43
+- `+` [Jecvay/paseo-dsh-direct](https://github.com/Jecvay/paseo-dsh-direct) — unverified / dsh-cordis — ⭐38
+- `+` [KannaKuron/dsh-gitbash-shell](https://github.com/KannaKuron/dsh-gitbash-shell) — inferred / dsh-cordis — ⭐33
+- `+` [YRN-playmaker/dsh-wallpaper_share](https://github.com/YRN-playmaker/dsh-wallpaper_share) — inferred / dsh-cordis — ⭐31
+- `+` [ZhangFengshun/dsh-remote-ssh](https://github.com/ZhangFengshun/dsh-remote-ssh) — inferred / dsh-cordis — ⭐30
+- `+` [huaizhuanghub/dsh-persona-dafeiyu](https://github.com/huaizhuanghub/dsh-persona-dafeiyu) — inferred / dsh-cordis — ⭐29
+- `+` [gjj-star/dsh-conversation-navigator](https://github.com/gjj-star/dsh-conversation-navigator) — inferred / dsh-cordis — ⭐23
+- `+` [ZK-Andy/dsh-continual-evolve](https://github.com/ZK-Andy/dsh-continual-evolve) — inferred / dsh-cordis — ⭐20
+- `+` [KCNyu/clawock](https://github.com/KCNyu/clawock) — inferred / dsh-cordis — ⭐19
+- `+` [webkubor/dsh-llm-hub](https://github.com/webkubor/dsh-llm-hub) — inferred / dsh-cordis — ⭐18
+- `+` [webkubor/dsh-env-inspector](https://github.com/webkubor/dsh-env-inspector) — inferred / dsh-cordis — ⭐17
+- `+` [webkubor/dsh-mirror](https://github.com/webkubor/dsh-mirror) — inferred / dsh-cordis — ⭐17
+- …另有 51 条新增
