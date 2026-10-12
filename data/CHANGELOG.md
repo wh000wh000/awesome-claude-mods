@@ -1424,3 +1424,32 @@
 - `+` [baosfeng/my-dsh-plugins](https://github.com/baosfeng/my-dsh-plugins) — inferred / dsh-cordis — ⭐13
 - `+` [benz-ai-x/dsh-research-graph](https://github.com/benz-ai-x/dsh-research-graph) — inferred / mods — ⭐8
 - …另有 27 条新增
+
+## 2026-10-12T14:43:34+08:00
+- 收录总数 **602**；本次更新新增 **158**
+- `+` [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) — inferred / dsh-cordis — ⭐9885
+- `+` [dsh-tauri/deepseek-harness-desktop](https://github.com/dsh-tauri/deepseek-harness-desktop) — inferred / dsh-cordis — ⭐3051
+- `+` [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context) — inferred / dsh-cordis — ⭐2004
+- `+` [anywhere-labs/Agents-Anywhere](https://github.com/anywhere-labs/Agents-Anywhere) — inferred / dsh-cordis — ⭐1595
+- `+` [AdamPlatin123/dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) — inferred / dsh-cordis — ⭐1466
+- `+` [LivXue/dsh-plugin-shop](https://github.com/LivXue/dsh-plugin-shop) — inferred / dsh-cordis — ⭐1009
+- `+` [1692775560/dsh-Mimir-Academic-research](https://github.com/1692775560/dsh-Mimir-Academic-research) — inferred / dsh-cordis — ⭐548
+- `+` [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) — inferred / dsh-cordis — ⭐526
+- `+` [xing-shuyin/pi-web-ui](https://github.com/xing-shuyin/pi-web-ui) — inferred / dsh-cordis — ⭐289
+- `+` [sixtysevenlf/dsh-blender-plugin](https://github.com/sixtysevenlf/dsh-blender-plugin) — inferred / dsh-cordis — ⭐214
+- `+` [a86582751/dsh-nexttavern](https://github.com/a86582751/dsh-nexttavern) — inferred / mods — ⭐167
+- `+` [beancookie/awesome-dsh-plugin](https://github.com/beancookie/awesome-dsh-plugin) — inferred / dsh-cordis — ⭐164
+- `+` [daha1216/dsh-adult-tension](https://github.com/daha1216/dsh-adult-tension) — inferred / dsh-cordis — ⭐162
+- `+` [MichengAI/dsh-codex-ui](https://github.com/MichengAI/dsh-codex-ui) — inferred / dsh-cordis — ⭐136
+- `+` [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) — inferred / dsh-cordis — ⭐133
+- `+` [MichengAI/dsh-archive-manager](https://github.com/MichengAI/dsh-archive-manager) — inferred / dsh-cordis — ⭐120
+- `+` [MichengAI/dsh-skills-manager](https://github.com/MichengAI/dsh-skills-manager) — inferred / dsh-cordis — ⭐117
+- `+` [MichengAI/dsh-agency-agents](https://github.com/MichengAI/dsh-agency-agents) — inferred / dsh-cordis — ⭐110
+- `+` [like-study1/Oh-My-DSH](https://github.com/like-study1/Oh-My-DSH) — inferred / dsh-cordis — ⭐90
+- `+` [YOU-SHOULD-KNOW-ME/antigrative-dashboard](https://github.com/YOU-SHOULD-KNOW-ME/antigrative-dashboard) — unverified / dsh-cordis — ⭐87
+- `+` [SaM-runtime/claude-console](https://github.com/SaM-runtime/claude-console) — observed / mods — ⭐74
+- `+` [KongFangXun/sofagent](https://github.com/KongFangXun/sofagent) — inferred / dsh-cordis — ⭐52
+- `+` [MichengAI/dsh-im-connect](https://github.com/MichengAI/dsh-im-connect) — inferred / dsh-cordis — ⭐46
+- `+` [398894496-arch/KRouter](https://github.com/398894496-arch/KRouter) — inferred / dsh-cordis — ⭐44
+- `+` [BotHarness/DeepSeekBot](https://github.com/BotHarness/DeepSeekBot) — inferred / dsh-cordis — ⭐32
+- …另有 133 条新增
