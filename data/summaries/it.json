@@ -481,6 +481,7 @@
  "df9da31010483c1e": "Clarvis: un mod fan non ufficiale di Avengers per Claude Code. Eroi sopra il tuo prompt, un HUD live di token e costi, un arcade pixel e un teatro a fumetti.",
  "dfb3cc89ee68008d": "Marketplace privato di mod di Claude Code",
  "dff66cb05486eb01": "Aggiunto `prompt.autocomplete`, un evento a cui una mod si aggancia per aggiungere le proprie righe all'elenco di completamento automatico della casella del prompt Aggiunto il caching del prompt a `$.model.complete` per le mod: `prompt` e `system` prendono blocchi di testo, e `cache: true` su un blocco mette in cache la richiesta fino a esso Aggiunti agenti di workflow all'hook della mod `agent.spawn`, con la loro esecuzione e indice, così una mod può rifiutarli Corretti Write, Edit, NotebookEdit e righe LSP, e singole righe Read, Grep e Glob, nascondendo il motivo per cui una mod ha negato la chiamata: la riga ora mostra il motivo Corretto l'hook `config.set`, `state.set`, `env.set` o `agent.spawn` di una mod che nega dop",
+ "e014b11f1bedec1e": "Una bacheca a onde in tempo reale del piano della tua sessione sopra il prompt Code di Claude. Una mod Code di Claude.",
  "e02e6bb4a29fb7c8": "Marketplace delle mie mod per Claude Code",
  "e0644a5a72bdecf0": "Una mod di Claude Code: un riquadro per ogni subagente, i file che modifica e l'utilizzo e il costo della tua sessione.",
  "e0bd22a63152ef2d": "Un marketplace di mod per Claude Code: un debugger passo-passo per il ciclo dell'agente, suggerimenti sull'account Git, una riga di stato del worktree e altro.",

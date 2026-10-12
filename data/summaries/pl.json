@@ -356,6 +356,7 @@
  "a15fc1c09160b868": "Wtyczka DeepSeek Harness (DSH) do tworzenia i przywracania kopii zapasowych — eksportuj, importuj, migruj i synchronizuj kompletną konfigurację DSH, wtyczki, serwery MCP, umiejętności i obszar roboczy. Migracja na inny komputer jednym kliknięciem.",
  "a1eb9f30441c553e": "Mod Claude Code: zamienia plan zatwierdzony w trybie planu w aktywną listę kontrolną nad promptem, odhaczając każdy krok, gdy Claude go ukończy",
  "a1f4eea414b6e7b2": "Repozytorium modów Claude Code używanych lokalnie",
+ "a28b2d8a1ed0b12f": "Windows Pasek stanu PowerShell dla Claude: limity 5-godzinne i tygodniowe z odliczaniem do resetu, pasek okna kontekstu oraz progi kolorów. Bez zależności.",
  "a2bc0aed90340095": "Modyfikacje Claude Code: usage-band pokazuje limity 5h/7d, okno kontekstu i współczynnik trafień pamięci podręcznej nad monitem",
  "a2c2245802e6a2bd": "Wygląd aplikacji desktopowej dla transkrypcji terminala Claude Code, jako mod",
  "a2cbc4b5f248edf6": "Modyfikacje Code dla Claude: automatyczna zmiana i pasek postępu. Po turecku, instalowane za pomocą kilku poleceń.",
