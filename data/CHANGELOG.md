@@ -1598,3 +1598,32 @@
 - `+` [yangzhe1991/dsh-web-enhance](https://github.com/yangzhe1991/dsh-web-enhance) — inferred / dsh-cordis — ⭐3
 - `+` [Atelyx/Atelyx](https://github.com/Atelyx/Atelyx) — inferred / dsh-cordis — ⭐3
 - …另有 33 条新增
+
+## 2026-10-13T06:15:48+08:00
+- 收录总数 **585**；本次更新新增 **36**
+- `+` [alexgreensh/token-optimizer](https://github.com/alexgreensh/token-optimizer) — observed / mods — ⭐2543
+- `+` [wecode-ai/Wegent](https://github.com/wecode-ai/Wegent) — inferred / dsh-cordis — ⭐870
+- `+` [vibeinging/dsh-desktop](https://github.com/vibeinging/dsh-desktop) — inferred / dsh-cordis — ⭐593
+- `+` [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) — inferred / dsh-cordis — ⭐526
+- `+` [daha1216/dsh-adult-tension](https://github.com/daha1216/dsh-adult-tension) — inferred / dsh-cordis — ⭐167
+- `+` [AskTheWay/dsh-auto-memory](https://github.com/AskTheWay/dsh-auto-memory) — inferred / dsh-cordis — ⭐106
+- `+` [AskTheWay/dsh-jev-interceptor](https://github.com/AskTheWay/dsh-jev-interceptor) — inferred / dsh-cordis — ⭐27
+- `+` [tronschell/statusline.sh](https://github.com/tronschell/statusline.sh) — unverified / mods — ⭐23
+- `+` [StvLi/dsh-ros2](https://github.com/StvLi/dsh-ros2) — inferred / dsh-cordis — ⭐23
+- `+` [helloHupc/dsh-plugin-hub](https://github.com/helloHupc/dsh-plugin-hub) — unverified / dsh-cordis — ⭐19
+- `+` [liang-today/dsh-liangxiang](https://github.com/liang-today/dsh-liangxiang) — inferred / dsh-cordis — ⭐9
+- `+` [vecnode/vncode](https://github.com/vecnode/vncode) — inferred / dsh-cordis — ⭐8
+- `+` [pierrebelin/claude-code-toolkit](https://github.com/pierrebelin/claude-code-toolkit) — inferred / mods — ⭐6
+- `+` [fschmutz/claude-usage-panel](https://github.com/fschmutz/claude-usage-panel) — inferred / official — ⭐6
+- `+` [ayingQAQ/dsh-web-launcher](https://github.com/ayingQAQ/dsh-web-launcher) — inferred / dsh-cordis — ⭐6
+- `+` [arkme-senx/arkme-dsh-plugin](https://github.com/arkme-senx/arkme-dsh-plugin) — unverified / dsh-cordis — ⭐4
+- `+` [jeancarlo-javier/claude-status-bar](https://github.com/jeancarlo-javier/claude-status-bar) — inferred / mods — ⭐3
+- `+` [CodyAMaughan/meme-factory](https://github.com/CodyAMaughan/meme-factory) — observed / mods — ⭐2
+- `+` [VaitaR/claude-code-limits](https://github.com/VaitaR/claude-code-limits) — observed / mods — ⭐1
+- `+` [arthurseredaa/herdr-pane-peek](https://github.com/arthurseredaa/herdr-pane-peek) — observed / mods — ⭐0
+- `+` [finalpantasy/claude-mod-hider](https://github.com/finalpantasy/claude-mod-hider) — observed / mods — ⭐0
+- `+` [benelog/claude-mods](https://github.com/benelog/claude-mods) — observed / mods — ⭐0
+- `+` [sam-ruff/account-switcher-claude-code-mod](https://github.com/sam-ruff/account-switcher-claude-code-mod) — observed / mods — ⭐0
+- `+` [lucianokatze/mk-usage](https://github.com/lucianokatze/mk-usage) — observed / mods — ⭐0
+- `+` [philarete173/claude_mods](https://github.com/philarete173/claude_mods) — observed / mods — ⭐0
+- …另有 11 条新增

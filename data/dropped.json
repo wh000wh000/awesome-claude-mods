@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-13T04:03:01+08:00",
- "count": 123,
+ "updated_at": "2026-10-13T06:15:50+08:00",
+ "count": 124,
  "policy": {
   "min_stars": 5,
   "min_description_chars": 40
@@ -40,7 +40,7 @@
    "description_chars": 39,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-10T18:58:53+08:00",
-   "last_seen_dropped": "2026-10-13T04:03:01+08:00"
+   "last_seen_dropped": "2026-10-13T06:15:50+08:00"
   },
   {
    "at": "2026-10-09T20:58:12+08:00",
@@ -243,7 +243,7 @@
    "description_chars": 31,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-04T22:03:03+08:00",
-   "last_seen_dropped": "2026-10-13T04:03:01+08:00"
+   "last_seen_dropped": "2026-10-13T06:15:50+08:00"
   },
   {
    "at": "2026-10-05T00:33:04+08:00",
@@ -256,6 +256,18 @@
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-05T00:33:04+08:00",
    "last_seen_dropped": "2026-10-05T00:33:05+08:00"
+  },
+  {
+   "at": "2026-10-13T06:15:48+08:00",
+   "id": "gh:IrvingAguilar/claude-agent-todos",
+   "name": "IrvingAguilar/claude-agent-todos",
+   "url": "https://github.com/IrvingAguilar/claude-agent-todos",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 31,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-10-13T06:15:48+08:00",
+   "last_seen_dropped": "2026-10-13T06:15:50+08:00"
   },
   {
    "at": "2026-10-05T00:33:04+08:00",
@@ -531,7 +543,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-12T03:45:35+08:00",
-   "last_seen_dropped": "2026-10-13T04:03:01+08:00"
+   "last_seen_dropped": "2026-10-13T06:15:50+08:00"
   },
   {
    "at": "2026-10-12T03:45:35+08:00",
@@ -675,7 +687,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-04T22:03:03+08:00",
-   "last_seen_dropped": "2026-10-13T04:03:01+08:00"
+   "last_seen_dropped": "2026-10-13T06:15:50+08:00"
   },
   {
    "at": "2026-10-04T22:04:33+08:00",
@@ -771,7 +783,7 @@
    "description_chars": 32,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-13T01:48:30+08:00",
-   "last_seen_dropped": "2026-10-13T04:03:01+08:00"
+   "last_seen_dropped": "2026-10-13T06:15:50+08:00"
   },
   {
    "at": "2026-10-09T20:58:12+08:00",
@@ -795,7 +807,7 @@
    "description_chars": 28,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-09T16:31:11+08:00",
-   "last_seen_dropped": "2026-10-13T04:03:01+08:00"
+   "last_seen_dropped": "2026-10-13T06:15:50+08:00"
   },
   {
    "at": "2026-10-09T16:31:11+08:00",
@@ -831,7 +843,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-07T07:52:50+08:00",
-   "last_seen_dropped": "2026-10-13T04:03:01+08:00"
+   "last_seen_dropped": "2026-10-13T06:15:50+08:00"
   },
   {
    "at": "2026-10-05T00:33:04+08:00",
@@ -1226,7 +1238,7 @@
    "description_chars": 20,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-08T00:26:54+08:00",
-   "last_seen_dropped": "2026-10-13T04:03:01+08:00"
+   "last_seen_dropped": "2026-10-13T06:15:50+08:00"
   },
   {
    "at": "2026-10-07T10:15:37+08:00",
@@ -1394,7 +1406,7 @@
    "description_chars": 35,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-08T10:39:21+08:00",
-   "last_seen_dropped": "2026-10-13T04:03:01+08:00"
+   "last_seen_dropped": "2026-10-13T06:15:50+08:00"
   },
   {
    "at": "2026-10-06T02:13:19+08:00",
