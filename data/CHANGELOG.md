@@ -1395,3 +1395,32 @@
 - `+` [1321928757/dsh-mysql](https://github.com/1321928757/dsh-mysql) — inferred / dsh-cordis — ⭐7
 - `+` [William2333ZZ/mywork-deepseekharness](https://github.com/William2333ZZ/mywork-deepseekharness) — inferred / mods — ⭐7
 - …另有 41 条新增
+
+## 2026-10-12T12:33:11+08:00
+- 收录总数 **485**；本次更新新增 **52**
+- `+` [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) — inferred / dsh-cordis — ⭐13402
+- `+` [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) — inferred / dsh-cordis — ⭐8643
+- `+` [loopx-project/loopx](https://github.com/loopx-project/loopx) — inferred / dsh-cordis — ⭐6245
+- `+` [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) — inferred / mods — ⭐5205
+- `+` [Clearailhc/clearai-dsh](https://github.com/Clearailhc/clearai-dsh) — inferred / dsh-cordis — ⭐1083
+- `+` [aerovato/operator-memory](https://github.com/aerovato/operator-memory) — inferred / dsh-cordis — ⭐426
+- `+` [zhu1090093659/dsh-trading](https://github.com/zhu1090093659/dsh-trading) — inferred / dsh-cordis — ⭐239
+- `+` [WSL043/dsh-codex-subscription](https://github.com/WSL043/dsh-codex-subscription) — inferred / dsh-cordis — ⭐162
+- `+` [sorsama/deepseek-harness-mobile](https://github.com/sorsama/deepseek-harness-mobile) — inferred / dsh-cordis — ⭐146
+- `+` [tencent-connect/dsh-qqbot](https://github.com/tencent-connect/dsh-qqbot) — inferred / dsh-cordis — ⭐128
+- `+` [Amakurai/dsh-liketavern](https://github.com/Amakurai/dsh-liketavern) — inferred / mods — ⭐118
+- `+` [sjh9714/dsh-win32](https://github.com/sjh9714/dsh-win32) — inferred / official — ⭐111
+- `+` [EricWang1358/dsh-web-studyhub](https://github.com/EricWang1358/dsh-web-studyhub) — inferred / dsh-cordis — ⭐91
+- `+` [zexadev/dsh-tether](https://github.com/zexadev/dsh-tether) — inferred / dsh-cordis — ⭐59
+- `+` [Vncntvx/dsh-zotero](https://github.com/Vncntvx/dsh-zotero) — inferred / dsh-cordis — ⭐33
+- `+` [vritser/dsh-emacs](https://github.com/vritser/dsh-emacs) — inferred / dsh-cordis — ⭐32
+- `+` [cheshireez/dsh-skill-hub](https://github.com/cheshireez/dsh-skill-hub) — inferred / official — ⭐28
+- `+` [zaofan-make/dsh-qqbot](https://github.com/zaofan-make/dsh-qqbot) — inferred / dsh-cordis — ⭐26
+- `+` [dphmoblie/deepseek-harness-android](https://github.com/dphmoblie/deepseek-harness-android) — inferred / dsh-cordis — ⭐24
+- `+` [StvLi/dsh-ros2](https://github.com/StvLi/dsh-ros2) — inferred / dsh-cordis — ⭐23
+- `+` [CLICGGER-TYPES/dsh-piggy](https://github.com/CLICGGER-TYPES/dsh-piggy) — inferred / dsh-cordis — ⭐21
+- `+` [SeverusZh/dsh-plugin-subagent-director](https://github.com/SeverusZh/dsh-plugin-subagent-director) — inferred / dsh-cordis — ⭐20
+- `+` [helloHupc/dsh-plugin-hub](https://github.com/helloHupc/dsh-plugin-hub) — unverified / dsh-cordis — ⭐18
+- `+` [baosfeng/my-dsh-plugins](https://github.com/baosfeng/my-dsh-plugins) — inferred / dsh-cordis — ⭐13
+- `+` [benz-ai-x/dsh-research-graph](https://github.com/benz-ai-x/dsh-research-graph) — inferred / mods — ⭐8
+- …另有 27 条新增
