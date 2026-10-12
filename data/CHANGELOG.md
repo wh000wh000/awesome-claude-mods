@@ -1337,3 +1337,32 @@
 - `+` [Malkiz/claude-reply-comments](https://github.com/Malkiz/claude-reply-comments) — observed / mods — ⭐0
 - `+` [HectorBailey/claude-mods](https://github.com/HectorBailey/claude-mods) — observed / mods — ⭐0
 - …另有 13 条新增
+
+## 2026-10-12T08:10:17+08:00
+- 收录总数 **583**；本次更新新增 **34**
+- `+` [Q00/ouroboros](https://github.com/Q00/ouroboros) — inferred / dsh-cordis — ⭐6203
+- `+` [AdamPlatin123/dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) — inferred / dsh-cordis — ⭐1465
+- `+` [xing-shuyin/pi-web-ui](https://github.com/xing-shuyin/pi-web-ui) — inferred / dsh-cordis — ⭐285
+- `+` [a86582751/dsh-nexttavern](https://github.com/a86582751/dsh-nexttavern) — inferred / mods — ⭐164
+- `+` [2BingLing/dsh-market](https://github.com/2BingLing/dsh-market) — inferred / dsh-cordis — ⭐139
+- `+` [HeyCubit/effortless](https://github.com/HeyCubit/effortless) — observed / mods — ⭐127
+- `+` [Links2008/DeepSeek-Harness-Desktop](https://github.com/Links2008/DeepSeek-Harness-Desktop) — inferred / dsh-cordis — ⭐41
+- `+` [Lixiaoyiao/deepseek-harness-action](https://github.com/Lixiaoyiao/deepseek-harness-action) — inferred / dsh-cordis — ⭐27
+- `+` [billLiao/awesome-dsh-plugin](https://github.com/billLiao/awesome-dsh-plugin) — inferred / dsh-cordis — ⭐15
+- `+` [muyuanjin/dsh-ptc-plus](https://github.com/muyuanjin/dsh-ptc-plus) — inferred / dsh-cordis — ⭐12
+- `+` [dsh-pub/dsh-pub](https://github.com/dsh-pub/dsh-pub) — inferred / dsh-cordis — ⭐7
+- `+` [babarot/c-c-statusline](https://github.com/babarot/c-c-statusline) — unverified / mods — ⭐6
+- `+` [cyanseek/dsh-landscape](https://github.com/cyanseek/dsh-landscape) — inferred / dsh-cordis — ⭐6
+- `+` [lmzhen/dsh-evolution](https://github.com/lmzhen/dsh-evolution) — inferred / dsh-cordis — ⭐3
+- `+` [oMaN-Rod/claude-code-widgets](https://github.com/oMaN-Rod/claude-code-widgets) — observed / mods — ⭐2
+- `+` [rezzminator/tool-visibility-controller](https://github.com/rezzminator/tool-visibility-controller) — observed / mods — ⭐1
+- `+` [petershk/explain-permission](https://github.com/petershk/explain-permission) — observed / mods — ⭐0
+- `+` [UsamaSadiq/claude-mods](https://github.com/UsamaSadiq/claude-mods) — observed / mods — ⭐0
+- `+` [MkGut/claude-tutor](https://github.com/MkGut/claude-tutor) — observed / mods — ⭐0
+- `+` [luwux/keepwarm](https://github.com/luwux/keepwarm) — observed / mods — ⭐0
+- `+` [kevinbadi/creatoros-claude-plugin](https://github.com/kevinbadi/creatoros-claude-plugin) — inferred / mods — ⭐0
+- `+` [jkf87/mod-guide](https://github.com/jkf87/mod-guide) — observed / mods — ⭐0
+- `+` [Wowbagger1994/claude-mods](https://github.com/Wowbagger1994/claude-mods) — observed / mods — ⭐0
+- `+` [Berkay2002/berkays-mods](https://github.com/Berkay2002/berkays-mods) — observed / mods — ⭐0
+- `+` [gvart/claude-config](https://github.com/gvart/claude-config) — inferred / mods — ⭐0
+- …另有 9 条新增

@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/entries-591-0d9488" alt="entries">
+  <img src="https://img.shields.io/badge/entries-583-0d9488" alt="entries">
   <img src="https://img.shields.io/badge/languages-20-1f6feb" alt="languages">
   <img src="https://img.shields.io/badge/refresh-every%202h-16a34a" alt="refresh">
   <a href="../LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="MIT"></a>
@@ -18,8 +18,8 @@
 <p align="center"><sub><a href="../README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.ru.md">Русский</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.vi.md">Tiếng Việt</a> · <a href="README.th.md">ไทย</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.pl.md">Polski</a> · <a href="README.nl.md">Nederlands</a> · <b>Українська</b></sub></p>
 
 > [!NOTE]
-> **Актуальний індекс** · Остання синхронізація: `2026-10-12T06:04:10+08:00` (UTC+8)
-> · Записи: **591** · Додано під час останнього оновлення: **0** · Мови реалізації: **12**
+> **Актуальний індекс** · Остання синхронізація: `2026-10-12T08:14:15+08:00` (UTC+8)
+> · Записи: **583** · Додано під час останнього оновлення: **0** · Мови реалізації: **13**
 
 <sub>Кожен наведений нижче запис було автоматично зібрано, відфільтровано та повторно перевірено. Тут немає платних розміщень.</sub>
 
@@ -39,7 +39,7 @@
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/alexgreensh/token-optimizer/main/skills/token-optimizer/assets/dashboard-demo.gif" width="100%" alt="alexgreensh/token-optimizer">
 <b>🧩 <a href="https://github.com/alexgreensh/token-optimizer">alexgreensh/token-optimizer</a></b>
-<sub>⭐2535 · Python · 👁️ observed</sub>
+<sub>⭐2537 · Python · 👁️ observed</sub>
 <sub>Знайдіть примарні токени. Виправте їх. Переживіть ущільнення. Уникайте погіршення якості контексту.</sub>
 </td>
 </tr>
@@ -47,7 +47,7 @@
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/ruvnet--ruflo/86b2691275e30a26.jpg" width="100%" alt="ruvnet/ruflo">
 <b>🧵 <a href="https://github.com/ruvnet/ruflo">ruvnet/ruflo</a></b>
-<sub>⭐74358 · TypeScript · 👁️ observed</sub>
+<sub>⭐74360 · TypeScript · 👁️ observed</sub>
 <sub>🌊 Оригінальний агентний рушій. Розгортайте інтелектуальні багатокористувацькі рої, координуйте автономні робочі процеси та створюйте розмовні системи ШІ. Серед…</sub>
 </td>
 <td width="50%" valign="top">
@@ -62,7 +62,7 @@
 - [Що таке мод для Claude Code](#що-таке-мод-для-claude-code)
 - [Як оцінюються записи](#як-оцінюються-записи)
 - [Офіційні: власні репозиторії та примітки до випусків Anthropic](#офіційні-власні-репозиторії-та-примітки-до-випусків-anthropic) — **14**
-- [Моди: створені за допомогою можливості модифікації](#моди-створені-за-допомогою-можливості-модифікації) — **460**
+- [Моди: створені за допомогою можливості модифікації](#моди-створені-за-допомогою-можливості-модифікації) — **452**
 - [Екосистеми плагінів DSH і Cordis](#екосистеми-плагінів-dsh-і-cordis) — **106**
 - [Тексти, обговорення та відео](#тексти-обговорення-та-відео) — **11**
 - [Проєкти за мовою реалізації](#проєкти-за-мовою-реалізації)
@@ -93,7 +93,7 @@ Claude Code отримав **моди** у версії 2.1.287: розшире�
 Anthropic's own Claude Code repositories, and the releases that defined the mod surface. Read from the source rather than summarised.
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code">anthropics/claude-code</a></b> · ⭐150215 · TypeScript · ✅ official · 0 天</summary>
+<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code">anthropics/claude-code</a></b> · ⭐150230 · TypeScript · ✅ official · 0 天</summary>
 
 ##### 📝 Опис
 
@@ -113,7 +113,7 @@ Claude Code — це агентний інструмент для програм
 
 | Метрика                 | Значення   |
 | ----------------------- | ---------- |
-| Зірки                   | **150215** |
+| Зірки                   | **150230** |
 | Останній push           | 2026-10-11 |
 | Вперше додано до списку | 2026-10-04 |
 
@@ -397,7 +397,7 @@ Claude Code — це агентний інструмент для програм
 Кожен запис тут містить докази використання можливості, яку Claude Code отримав у версії 2.1.287: він виводить дані через `ui.render`, має власну панель, смугу або картку, читає `$.ui.selection()`, запускає колег за допомогою `agent.spawn` або прямо називає себе модом.
 
 <details>
-<summary>🧩 <b><a href="https://github.com/alexgreensh/token-optimizer">alexgreensh/token-optimizer</a></b> · ⭐2535 · Python · 👁️ observed · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/alexgreensh/token-optimizer">alexgreensh/token-optimizer</a></b> · ⭐2537 · Python · 👁️ observed · 0 天</summary>
 
 ##### 📝 Опис
 
@@ -415,7 +415,7 @@ Claude Code — це агентний інструмент для програм
 
 | Метрика                 | Значення   |
 | ----------------------- | ---------- |
-| Зірки                   | **2535**   |
+| Зірки                   | **2537**   |
 | Останній push           | 2026-10-11 |
 | Вперше додано до списку | 2026-10-11 |
 
@@ -433,7 +433,7 @@ Claude Code — це агентний інструмент для програм
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/karanb192/awesome-claude-code-mods">karanb192/awesome-claude-code-mods</a></b> · ⭐497 · JavaScript · 👁️ observed · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/karanb192/awesome-claude-code-mods">karanb192/awesome-claude-code-mods</a></b> · ⭐498 · JavaScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 Опис
 
@@ -453,7 +453,7 @@ Claude Code — це агентний інструмент для програм
 
 | Метрика                 | Значення   |
 | ----------------------- | ---------- |
-| Зірки                   | **497**    |
+| Зірки                   | **498**    |
 | Останній push           | 2026-10-11 |
 | Вперше додано до списку | 2026-10-04 |
 
@@ -462,7 +462,7 @@ Claude Code — це агентний інструмент для програм
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/hamzafer/claude-code-mods">hamzafer/claude-code-mods</a></b> · ⭐188 · TypeScript · 👁️ observed · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/hamzafer/claude-code-mods">hamzafer/claude-code-mods</a></b> · ⭐191 · TypeScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 Опис
 
@@ -482,7 +482,7 @@ Claude Code — це агентний інструмент для програм
 
 | Метрика                 | Значення   |
 | ----------------------- | ---------- |
-| Зірки                   | **188**    |
+| Зірки                   | **191**    |
 | Останній push           | 2026-10-11 |
 | Вперше додано до списку | 2026-10-11 |
 
@@ -498,7 +498,7 @@ Claude Code — це агентний інструмент для програм
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/karanb192/cache-tax">karanb192/cache-tax</a></b> · ⭐142 · TypeScript · 👁️ observed · 7 天</summary>
+<summary>🧩 <b><a href="https://github.com/karanb192/cache-tax">karanb192/cache-tax</a></b> · ⭐144 · TypeScript · 👁️ observed · 7 天</summary>
 
 ##### 📝 Опис
 
@@ -516,7 +516,7 @@ Claude Code — це агентний інструмент для програм
 
 | Метрика                 | Значення   |
 | ----------------------- | ---------- |
-| Зірки                   | **142**    |
+| Зірки                   | **144**    |
 | Останній push           | 2026-10-04 |
 | Вперше додано до списку | 2026-10-10 |
 
@@ -527,6 +527,42 @@ Claude Code — це агентний інструмент для програм
 <table><tr><th align="center" width="50%">🖼 Зображення</th><th align="center" width="50%">🎬 Відео</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/karanb192--cache-tax/9ba5b1dbc9440791.png" width="100%" alt="karanb192/cache-tax screenshot"></td>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/karanb192--cache-tax/e1a7cdd41b0efd1b.gif" width="100%" alt="karanb192/cache-tax animation"><br><sub>анімований запис · <a href="https://raw.githubusercontent.com/karanb192/cache-tax/main/docs/assets/cache-cost-explainer.mp4">Відкрити відео</a></sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧩 <b><a href="https://github.com/HeyCubit/effortless">HeyCubit/effortless</a></b> · ⭐127 · HTML · 👁️ observed · 0 天</summary>
+
+##### 📝 Опис
+
+Claude Code mod: picks the reasoning effort for every prompt, shows the prompt cache and context, and hands off or compacts in one click
+
+<sub>🔧 Знайдено використання в коді: `docs/agent-panel/PLAN.md`, `hooks/register.tsx`</sub>
+
+##### 📌 Основні факти
+
+| Поле          | Значення                                                                  |
+| ------------- | ------------------------------------------------------------------------- |
+| Категорія     | `Моди: створені за допомогою можливості модифікації`                      |
+| Підтвердження | `у власному тексті згадується мод API або заявлено підтримку модифікацій` |
+| Мова          | HTML                                                                      |
+
+##### 📊 Дані
+
+| Метрика                 | Значення   |
+| ----------------------- | ---------- |
+| Зірки                   | **127**    |
+| Останній push           | 2026-10-11 |
+| Вперше додано до списку | 2026-10-12 |
+
+🏷 `ai-tools` · `anthropic` · `claude` · `claude-code` · `claude-code-plugin` · `developer-tools` · `prompt-caching`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Зображення</th><th align="center" width="50%">🎬 Відео</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/heycubit--effortless/ad0a6472f7a34cd7.png" width="100%" alt="HeyCubit/effortless screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/heycubit--effortless/fcef2f9593961020.gif" width="100%" alt="HeyCubit/effortless animation"><br><sub>анімований запис</sub></td>
 </tr></table>
 
 </details>
@@ -563,7 +599,7 @@ QA CLI для вебсторінок, створений для агентів. 
 
 ##### 📝 Опис
 
-Skins for Claude Code: tool rows with icons, diff, table and Mermaid chart cards, a usage band and fifteen themes. /skin swaps them live.
+Скіни для Claude Code: рядки інструментів з іконками, картки diff, таблиць і діаграм Mermaid, смуга використання та п’ятнадцять тем. /skin змінює їх наживо.
 
 ##### 📌 Основні факти
 
@@ -593,7 +629,7 @@ Skins for Claude Code: tool rows with icons, diff, table and Mermaid chart cards
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/iamumeransari/claude-show-your-work">iamumeransari/claude-show-your-work</a></b> · ⭐91 · TypeScript · 👁️ observed · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/iamumeransari/claude-show-your-work">iamumeransari/claude-show-your-work</a></b> · ⭐98 · TypeScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 Опис
 
@@ -611,7 +647,7 @@ Claude Code показує зображення та відтворює віде
 
 | Метрика                 | Значення   |
 | ----------------------- | ---------- |
-| Зірки                   | **91**     |
+| Зірки                   | **98**     |
 | Останній push           | 2026-10-11 |
 | Вперше додано до списку | 2026-10-11 |
 
@@ -686,7 +722,7 @@ Claude Code показує зображення та відтворює віде
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/scasella/claude-flightdeck">scasella/claude-flightdeck</a></b> · ⭐67 · TypeScript · 👁️ observed · 9 天</summary>
+<summary>🧩 <b><a href="https://github.com/scasella/claude-flightdeck">scasella/claude-flightdeck</a></b> · ⭐68 · TypeScript · 👁️ observed · 9 天</summary>
 
 ##### 📝 Опис
 
@@ -704,7 +740,7 @@ Claude Code показує зображення та відтворює віде
 
 | Метрика                 | Значення   |
 | ----------------------- | ---------- |
-| Зірки                   | **67**     |
+| Зірки                   | **68**     |
 | Останній push           | 2026-10-02 |
 | Вперше додано до списку | 2026-10-10 |
 
@@ -745,40 +781,13 @@ Claude Code показує зображення та відтворює віде
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/0xDarkMatter/claude-mods">0xDarkMatter/claude-mods</a></b> · ⭐59 · Shell · 👁️ observed · 4 天</summary>
-
-##### 📝 Опис
-
-Експертні Skills, агенти, команди, правила, хуки та стилі виведення для Claude Code — безперервність сеансів + сучасні інструменти CLI для реальних робочих процесів розробки
-
-<sub>🔧 Знайдено використання в коді: `justfile`, `skills/auto-skill/SKILL.md`, `skills/task-runner/SKILL.md`, `skills/find-replace/SKILL.md`</sub>
-
-##### 📌 Основні факти
-
-| Поле          | Значення                                                                  |
-| ------------- | ------------------------------------------------------------------------- |
-| Категорія     | `Моди: створені за допомогою можливості модифікації`                      |
-| Підтвердження | `у власному тексті згадується мод API або заявлено підтримку модифікацій` |
-| Мова          | Shell                                                                     |
-
-##### 📊 Дані
-
-| Метрика                 | Значення   |
-| ----------------------- | ---------- |
-| Зірки                   | **59**     |
-| Останній push           | 2026-10-07 |
-| Вперше додано до списку | 2026-10-11 |
-
-🏷 `agent-skills` · `ai-agents` · `ai-tools` · `anthropic` · `claude` · `claude-code` · `claude-skills` · `developer-tools`
-
-</details>
-
-<details>
 <summary>🧩 <b><a href="https://github.com/zycck/claude-mods">zycck/claude-mods</a></b> · ⭐46 · TypeScript · 👁️ observed · 3 天</summary>
 
 ##### 📝 Опис
 
 Модифікації Claude Code: динамічні індикатори прогресу плану над запитом
+
+<sub>🔧 Знайдено використання в коді: `README.md`</sub>
 
 ##### 📌 Основні факти
 
@@ -806,7 +815,7 @@ Claude Code показує зображення та відтворює віде
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/henrik-thevibe/Claude-Fables">henrik-thevibe/Claude-Fables</a></b> · ⭐32 · TypeScript · 👁️ observed · 8 天</summary>
+<summary>🧩 <b><a href="https://github.com/henrik-thevibe/Claude-Fables">henrik-thevibe/Claude-Fables</a></b> · ⭐32 · TypeScript · 👁️ observed · 9 天</summary>
 
 ##### 📝 Опис
 
@@ -1050,7 +1059,7 @@ Claude Code показує зображення та відтворює віде
 
 ##### 📝 Опис
 
-Use Codex, GLM, and other coding agents as Claude Code subagents.
+Використовуйте Codex, GLM та інших агентів програмування як субагентів Claude Code.
 
 ##### 📌 Основні факти
 
@@ -1065,7 +1074,7 @@ Use Codex, GLM, and other coding agents as Claude Code subagents.
 | Метрика                 | Значення   |
 | ----------------------- | ---------- |
 | Зірки                   | **16**     |
-| Останній push           | 2026-10-11 |
+| Останній push           | 2026-10-12 |
 | Вперше додано до списку | 2026-10-12 |
 
 🏷 `agent-orchestration` · `ai-agents` · `claude-code` · `claude-code-mods` · `claude-code-plugin` · `codex` · `developer-tools` · `glm`
@@ -1116,7 +1125,7 @@ Use Codex, GLM, and other coding agents as Claude Code subagents.
 
 ##### 📝 Опис
 
-Claude Code mod that keeps the prompt cache warm and shows each refresh's cost and saving
+Модифікація Claude Code, яка підтримує кеш запитів прогрітим і показує вартість та економію кожного оновлення
 
 ##### 📌 Основні факти
 
@@ -1141,6 +1150,38 @@ Claude Code mod that keeps the prompt cache warm and shows each refresh's cost a
 <table><tr><th align="center" width="50%">🖼 Зображення</th><th align="center" width="50%">🎬 Відео</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/paulbkim-dev--claude-code-cache-warmer/5d291d279a3967a1.gif" width="100%" alt="paulbkim-dev/claude-code-cache-warmer screenshot"></td>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/paulbkim-dev--claude-code-cache-warmer/5d291d279a3967a1.gif" width="100%" alt="paulbkim-dev/claude-code-cache-warmer animation"><br><sub>анімований запис</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧩 <b><a href="https://github.com/promptadvisers/claude-mods-computer-use-threads">promptadvisers/claude-mods-computer-use-threads</a></b> · ⭐12 · JavaScript · 👁️ observed · 6 天</summary>
+
+##### 📝 Опис
+
+Дві модифікації Claude Code: міст Codex computer-use і скоординовані сеанси Claude. Вихідний код, підказки для збірки, налаштування й тести.
+
+##### 📌 Основні факти
+
+| Поле          | Значення                                                                  |
+| ------------- | ------------------------------------------------------------------------- |
+| Категорія     | `Моди: створені за допомогою можливості модифікації`                      |
+| Підтвердження | `у власному тексті згадується мод API або заявлено підтримку модифікацій` |
+| Мова          | JavaScript                                                                |
+
+##### 📊 Дані
+
+| Метрика                 | Значення   |
+| ----------------------- | ---------- |
+| Зірки                   | **12**     |
+| Останній push           | 2026-10-05 |
+| Вперше додано до списку | 2026-10-11 |
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Зображення</th><th align="center" width="50%">🎬 Відео</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/promptadvisers--claude-mods-computer-use-threads/c08dc292e500cd09.png" width="100%" alt="promptadvisers/claude-mods-computer-use-threads screenshot"></td>
+<td align="center" valign="top"><sub>медіа не опубліковано</sub></td>
 </tr></table>
 
 </details>
@@ -1248,38 +1289,6 @@ Claude Code mod that keeps the prompt cache warm and shows each refresh's cost a
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/promptadvisers/claude-mods-computer-use-threads">promptadvisers/claude-mods-computer-use-threads</a></b> · ⭐11 · JavaScript · 👁️ observed · 6 天</summary>
-
-##### 📝 Опис
-
-Дві модифікації Claude Code: міст Codex computer-use і скоординовані сеанси Claude. Вихідний код, підказки для збірки, налаштування й тести.
-
-##### 📌 Основні факти
-
-| Поле          | Значення                                                                  |
-| ------------- | ------------------------------------------------------------------------- |
-| Категорія     | `Моди: створені за допомогою можливості модифікації`                      |
-| Підтвердження | `у власному тексті згадується мод API або заявлено підтримку модифікацій` |
-| Мова          | JavaScript                                                                |
-
-##### 📊 Дані
-
-| Метрика                 | Значення   |
-| ----------------------- | ---------- |
-| Зірки                   | **11**     |
-| Останній push           | 2026-10-05 |
-| Вперше додано до списку | 2026-10-11 |
-
----
-
-<table><tr><th align="center" width="50%">🖼 Зображення</th><th align="center" width="50%">🎬 Відео</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/promptadvisers--claude-mods-computer-use-threads/c08dc292e500cd09.png" width="100%" alt="promptadvisers/claude-mods-computer-use-threads screenshot"></td>
-<td align="center" valign="top"><sub>медіа не опубліковано</sub></td>
-</tr></table>
-
-</details>
-
-<details>
 <summary>🧩 <b><a href="https://github.com/furqan-khan07/pixelband">furqan-khan07/pixelband</a></b> · ⭐10 · TypeScript · 👁️ observed · 7 天</summary>
 
 ##### 📝 Опис
@@ -1350,7 +1359,7 @@ Claude Code mod that keeps the prompt cache warm and shows each refresh's cost a
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/deepsteve/deepsteve">deepsteve/deepsteve</a></b> · ⭐9 · JavaScript · 👁️ observed · 3 天</summary>
+<summary>🧩 <b><a href="https://github.com/deepsteve/deepsteve">deepsteve/deepsteve</a></b> · ⭐9 · JavaScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 Опис
 
@@ -1371,7 +1380,7 @@ Claude Code mod that keeps the prompt cache warm and shows each refresh's cost a
 | Метрика                 | Значення   |
 | ----------------------- | ---------- |
 | Зірки                   | **9**      |
-| Останній push           | 2026-10-08 |
+| Останній push           | 2026-10-11 |
 | Вперше додано до списку | 2026-10-11 |
 
 🏷 `ai-coding` · `ai-tools` · `browser-terminal` · `claude-code` · `codex` · `coding-agent` · `developer-tools` · `devtools`
@@ -1520,8 +1529,9 @@ Markdown, який відображається в полі запиту Claude 
 </details>
 
 <details>
-<summary><b>Більше в цій категорії</b> <sub>· 426</sub></summary>
+<summary><b>Більше в цій категорії</b> <sub>· 418</sub></summary>
 
+- [0xDarkMatter/claude-mods](https://github.com/0xDarkMatter/claude-mods) - Експертні Skills, агенти, команди, правила, хуки та стилі виведення для Claude…
 - [whyashthakker/awesome-claude-code-mods](https://github.com/whyashthakker/awesome-claude-code-mods) - Колекція з понад 100 модифікацій, які можна використовувати з Claude Code.
 - [karanb192/claude-code-mods](https://github.com/karanb192/claude-code-mods) - Модифікації Claude і інструменти для їх створення: спочатку навичка створення…
 - [ucsandman/claude-harness](https://github.com/ucsandman/claude-harness) - Середовище Claude Code, яке я використовую щодня, опубліковане під цією назвою…
@@ -1551,6 +1561,7 @@ Markdown, який відображається в полі запиту Claude 
 - [ofeklevy11/claude-code-hud](https://github.com/ofeklevy11/claude-code-hud) - Два моди Claude Code над полем запиту: індикатор контекстного вікна, 5-годинний…
 - [VedantAndhale/claude-pro-kit](https://github.com/VedantAndhale/claude-pro-kit) - Зробіть тариф Claude Pro довговічнішим: моди Claude Code для точного HUD…
 - [xuanji86/claude-mdview](https://github.com/xuanji86/claude-mdview) - Читає markdown-файли, назви яким дає Claude Code, відображає їх поруч із…
+- [hahmjuntae/claude-mods-image-preview](https://github.com/hahmjuntae/claude-mods-image-preview) - Мод Claude Code: мініатюри вставлених зображень над полем запиту в будь-якому…
 - [leopiney/wolfbud-claude-mod](https://github.com/leopiney/wolfbud-claude-mod) - Голосовий напарник для Claude Code. Обговорюйте питання з 3D-вовком на основі…
 - [borabiricik/claude-mods](https://github.com/borabiricik/claude-mods) - Claude Code mods: typing-speed, індикатор швидкості набору в реальному часі зі…
 - [charimsma/dopa-mode](https://github.com/charimsma/dopa-mode) - Феєрверки для Claude Code: кожне натискання клавіші, виклик інструмента, коміт…
@@ -1558,7 +1569,6 @@ Markdown, який відображається в полі запиту Claude 
 - [galElmalah/claude-mods](https://github.com/galElmalah/claude-mods) - Мод Claude Code: діаграми mermaid, намальовані безпосередньо в стенограмі.
 - [GarvitNangru/claude-code-mods](https://github.com/GarvitNangru/claude-code-mods) - Модифікації та оболонки для Claude Code: індикатор перебігу завдань Claude у…
 - [ha-ptt0601/cc-mods](https://github.com/ha-ptt0601/cc-mods) - Невеликі моди Claude Code (плагіни function-hook): session-switcher та інші.
-- [hahmjuntae/claude-mods-image-preview](https://github.com/hahmjuntae/claude-mods-image-preview) - Мод Claude Code: мініатюри вставлених зображень над полем запиту в будь-якому…
 - [Jhonatan-de-Souza/ClaudeMods](https://github.com/Jhonatan-de-Souza/ClaudeMods) - Claude Code mods: меню інструментів Claude, режим Zen, теми термінала…
 - [LeeHigma0201/claude-code-mods](https://github.com/LeeHigma0201/claude-code-mods) - Claude Code mods: mod-scout (пошук модів, якими ви користувалися б найчастіше)…
 - [Nongfsq/frank-claude-cockpit](https://github.com/Nongfsq/frank-claude-cockpit) - Два моди Claude Code для одночасного запуску багатьох сеансів: картка контексту…
@@ -1573,7 +1583,7 @@ Markdown, який відображається в полі запиту Claude 
 - [mthli/cc-shorts](https://github.com/mthli/cc-shorts) - Дивіться YouTube Shorts у Claude Code 💃.
 - [NarenDawar/narens-claude-toolkit](https://github.com/NarenDawar/narens-claude-toolkit) - Набір інструментів Claude від Naren: навички, модифікації та MCP servers для…
 - [neteye-platform/cc-split-diff-view](https://github.com/neteye-platform/cc-split-diff-view) - Модифікація Claude Code, яка відображає відмінності Edit і Write у двох…
-- [noash-xrc/claude-tools](https://github.com/noash-xrc/claude-tools) - Claude Code mod that lets Claude log unfinished work to Docs/todos.md, with a…
+- [noash-xrc/claude-tools](https://github.com/noash-xrc/claude-tools) - Модифікація Claude Code, що дає змогу Claude записувати незавершену роботу до…
 - [raresmun/claude-mods](https://github.com/raresmun/claude-mods) - Моди для Claude Code: Clawd, крихітний піксельний талісман, який відтворює дії…
 - [reporails/arcade](https://github.com/reporails/arcade) - Класичні настільні ігри як моди Claude Code, у які можна грати на панелі, поки…
 - [testy-cool/awesome-claude-code-mods](https://github.com/testy-cool/awesome-claude-code-mods) - Добірний список модів для Claude Code, які можна встановити як маркетплейс…
@@ -1582,27 +1592,27 @@ Markdown, який відображається в полі запиту Claude 
 - [yash-gadodia/claude-mods](https://github.com/yash-gadodia/claude-mods) - Моди Claude Code, які допомагають агенту бути чесним — функціональні хуки, що…
 - [alexcz-a11y/claude-mods](https://github.com/alexcz-a11y/claude-mods) - Моя колекція модів для Claude Code, по одному моду в кожному каталозі.
 - [ArgonQQ/sipp](https://github.com/ArgonQQ/sipp) - 💧 Пасивно-агресивне нагадування пити воду для Claude Code.
-- [bostonaholic/claude-mods](https://github.com/bostonaholic/claude-mods) - The Claude Code mods I use.
+- [bostonaholic/claude-mods](https://github.com/bostonaholic/claude-mods) - Моди Claude Code, якими я користуюся.
 - [CalvoSeko/claude-factory-mod](https://github.com/CalvoSeko/claude-factory-mod) - agent-graph: мод Claude Code для проєктування та запуску графів агентів…
 - [chenyuxiaojin/cyxj-notch](https://github.com/chenyuxiaojin/cyxj-notch) - Панель notch macOS для Claude Code: ліміти використання, відкриті сесії…
-- [Danovich/turntype](https://github.com/Danovich/turntype) - A typing test for the time while Claude works. A Claude Code mod.
+- [Danovich/turntype](https://github.com/Danovich/turntype) - Тест набору тексту на час, поки працює Claude. Мод Claude Code.
 - [DarioFontanel/claude-code-mods](https://github.com/DarioFontanel/claude-code-mods) - Мод для Claude Code: панель кешу prompt, наступні кроки, кнопки швидких дій і…
 - [dougcunha/claude-mods](https://github.com/dougcunha/claude-mods) - Моди для Claude Code: панелі, команди та хуки, створені за допомогою плагіна…
-- [drkokorev/context-diet](https://github.com/drkokorev/context-diet) - Trims huge tool outputs before they fill Claude Code.
+- [DragosMocrii/proc-stats](https://github.com/DragosMocrii/proc-stats) - Мод Claude Code: рядок стану з інформацією про пам.
+- [drkokorev/context-diet](https://github.com/drkokorev/context-diet) - Обрізає величезні виводи інструментів, перш ніж вони заповнять контекст Claude…
 - [EgonLeitner/dashband](https://github.com/EgonLeitner/dashband) - Prompt cache, контекст і ліміти плану з першого погляду для Claude Code, у…
-- [Elesiann/usagemeter](https://github.com/Elesiann/usagemeter) - Cost, tokens and plan limits of your coding agents.
+- [Elesiann/usagemeter](https://github.com/Elesiann/usagemeter) - Вартість, токени та обмеження планів ваших агентів програмування.
 - [estruyf/claude-stats-mod](https://github.com/estruyf/claude-stats-mod) - Мод Claude Code, який відображає ваші ліміти використання та витрати в смузі…
 - [herman925/925-cc-plugins](https://github.com/herman925/925-cc-plugins) - Моди Herman для Claude Code (marketplace herman-mods).
 - [homieyangg/claude-code-mods](https://github.com/homieyangg/claude-code-mods) - Моди Claude Code: індикатори перебігу для планів, журнал того, що Claude…
 - [lorenzh/rabe](https://github.com/lorenzh/rabe) - Дізнайтеся, що Claude Code запускає у фоновому режимі: субагенти, завдання…
-- [macleodlabs-ai/claudeflow](https://github.com/macleodlabs-ai/claudeflow) - Claude Code mods by MacLeod Labs: streams untangles a session.
+- [macleodlabs-ai/claudeflow](https://github.com/macleodlabs-ai/claudeflow) - Моди Claude Code від MacLeod Labs: streams розплутує перемішану роботу сеансу в…
 - [MankhongGarden/claude-code-mods-field-notes](https://github.com/MankhongGarden/claude-code-mods-field-notes) - Польові нотатки першого дня про моди Claude Code на Windows: індикатор палива…
-- [MichaelP17/claude-mods](https://github.com/MichaelP17/claude-mods) - Моди, які я створив і особисто використовую у своїй конфігурації Claude Code.
-- [NMenzel/claude-devtools-mod](https://github.com/NMenzel/claude-devtools-mod) - Claude DevTools: a debugger for Claude Code tool calls.
-- [olddonkey/cache-refresher](https://github.com/olddonkey/cache-refresher) - Claude Code mod: shows when the prompt cache expires and what a lapse would…
+- [NMenzel/claude-devtools-mod](https://github.com/NMenzel/claude-devtools-mod) - Claude DevTools: налагоджувач викликів інструментів Claude Code.
+- [oMaN-Rod/claude-code-widgets](https://github.com/oMaN-Rod/claude-code-widgets) - Small cards that sit under the Claude Code prompt, or docked beside the…
 - [patitow/claude-mod-cost-visibility](https://github.com/patitow/claude-mod-cost-visibility) - Мод Claude Code: живі лічильники вартості, контексту й квоти плану над запитом.
 - [rbartoli/agent-usage-guard](https://github.com/rbartoli/agent-usage-guard) - Модифікація Claude Code, яка затримує розгалуження субагентів, запити з великим…
-- [revenantworks/claude-skills](https://github.com/revenantworks/claude-skills) - 28 Agent Skills for Claude in five packs.
+- [revenantworks/claude-skills](https://github.com/revenantworks/claude-skills) - 28 навичок агента для Claude у п.
 - [schreibse/claude-code-mods](https://github.com/schreibse/claude-code-mods) - code-mods для claude.
 - [shimo4228/harness-scope](https://github.com/shimo4228/harness-scope) - Модифікація Claude Code, яка вмикає або вимикає ваші глобальні навички, агенти…
 - [simplecore-inc/claude-mods](https://github.com/simplecore-inc/claude-mods) - Плагіни Claude Code (моди): перемикайтеся між кількома обліковими записами…
@@ -1613,60 +1623,58 @@ Markdown, який відображається в полі запиту Claude 
 - [theonly1me/claude-code-mods](https://github.com/theonly1me/claude-code-mods) - Добірка модів для claude code, створених мною.
 - [y-hirakaw/claude-code-mods](https://github.com/y-hirakaw/claude-code-mods) - Модифікації Claude Code. touch-map: переглядайте, які файли Claude перелічив…
 - [yodakeisuke/claudelingo](https://github.com/yodakeisuke/claudelingo) - Вивчайте іноземну мову під час роботи з Claude Code.
-- [20alexl/windvane](https://github.com/20alexl/windvane) - Babysits a long Claude Code session so you don.
+- [20alexl/windvane](https://github.com/20alexl/windvane) - Супроводжує тривалий сеанс Claude Code замість вас: стежить за заповненням…
 - [alaturqua/tower-mods](https://github.com/alaturqua/tower-mods) - Модифікації Claude Code для запуску багатьох сеансів у багатьох репозиторіях з…
 - [andrewbakercloudscale/claude-code-cost-sidebar](https://github.com/andrewbakercloudscale/claude-code-cost-sidebar) - Бічна панель live-витрат, token і використання контексту для Claude Code: мод…
-- [atharv6f/headway](https://github.com/atharv6f/headway) - Goal, tasks and agents above your Claude Code prompt — zero setup.
+- [atharv6f/headway](https://github.com/atharv6f/headway) - Мета, завдання й агенти над вашим промптом Claude Code — без налаштування.
 - [BjoernSchotte/ccmod-amp](https://github.com/BjoernSchotte/ccmod-amp) - Інтернет-радіо всередині Claude Code: бічна панель cliamp, мініпрогравач…
-- [Bocskay-Botond/claude-code-mods](https://github.com/Bocskay-Botond/claude-code-mods) - Веселі та корисні модифікації Claude Code: піксельна істота над підказкою, меню…
 - [chrisluo5311/squad-chat](https://github.com/chrisluo5311/squad-chat) - Claude готує. Спілкуйтеся зі своєю командою.
 - [comertial/comertial-mods](https://github.com/comertial/comertial-mods) - Моди Claude Code для справжніх інженерів.
-- [CrazyCoder/claude-desktop-recap](https://github.com/CrazyCoder/claude-desktop-recap) - Claude Code&#x27;s terminal session recap, in the Claude desktop app&#x27;s Code tab.
+- [CrazyCoder/claude-desktop-recap](https://github.com/CrazyCoder/claude-desktop-recap) - Підсумок термінального сеансу Claude Code у вкладці Code настільного застосунку…
 - [DarkVelours/claude-code-galactic-battle](https://github.com/DarkVelours/claude-code-galactic-battle) - Космічна битва над підказкою Claude Code під час його роботи.
 - [Davron2004/slash-coverage](https://github.com/Davron2004/slash-coverage) - Дивіться, які файли кожен агент Claude Code має у своєму контексті та яку…
-- [DragosMocrii/proc-stats](https://github.com/DragosMocrii/proc-stats) - Claude Code mod: status line with the session.
-- [drakulavich/cogload](https://github.com/drakulavich/cogload) - Зберігайте холодну голову. Термометр для ваших днів у Claude Code: кожна година…
 - [enhki/claude-mods](https://github.com/enhki/claude-mods) - Невеликі моди Claude Code для термінала й настільного застосунку.
-- [erte-del/claude-mods](https://github.com/erte-del/claude-mods) - Claude Code mods (plugin marketplace): live sidebar with context, cost and…
-- [ewxgwy1987/claude-code-progress-board](https://github.com/ewxgwy1987/claude-code-progress-board) - Модифікація Claude Code: панель прогресу для завдань, субагентів, запусків…
-- [ewxgwy1987/claude-code-usage-meter](https://github.com/ewxgwy1987/claude-code-usage-meter) - Модифікація Claude Code: обмеження швидкості плану, заповнення контексту…
+- [erte-del/claude-mods](https://github.com/erte-del/claude-mods) - Моди Claude Code (магазин плагінів): жива бічна панель з індикаторами…
 - [Exdenta/ambient-spanish](https://github.com/Exdenta/ambient-spanish) - Навичка + мод Claude CLI, що додає іспанські слова у відповіді агента.
 - [FrBmt-BIGetNouf/alarum-claude-mod](https://github.com/FrBmt-BIGetNouf/alarum-claude-mod) - Події Alarum над prompt Claude Code: що щойно надійшло, і передача цього агенту…
 - [FrBmt-BIGetNouf/floatee-claude-mod](https://github.com/FrBmt-BIGetNouf/floatee-claude-mod) - Ваш список завдань Floatee над підказкою Claude Code: запускайте, спрямовуйте…
 - [gonzalonicolasr/claude-code-nerv](https://github.com/gonzalonicolasr/claude-code-nerv) - Бічна панель у стилі Evangelion для Claude Code: контекст, квота, активність…
 - [gregdotca/ccmod-the-machine](https://github.com/gregdotca/ccmod-the-machine) - Мод Claude Code, який стилізує його під The Machine з Person of Interest.
-- [HyunjunJeon/claude-workflow-mods](https://github.com/HyunjunJeon/claude-workflow-mods) - dag-workflow: mod Claude Code для обов.
+- [herlonventura/claude-model-squad](https://github.com/herlonventura/claude-model-squad) - Модифікація Claude Code: піксельний загін пропонує потрібну модель.
 - [ibrahimkobeissy/claude-mods](https://github.com/ibrahimkobeissy/claude-mods) - Моди з відкритим кодом для Claude Code: панелі, рядки стану, сповіщення, захист…
 - [jduerrmann/agent-crew](https://github.com/jduerrmann/agent-crew) - Мод Claude Code: окрема панель для кожного субагента, файлів, яких вони…
 - [jonyfs/astrolabe](https://github.com/jonyfs/astrolabe) - 🧭 Мод Claude Code: стан сеансу, живий прогрес Spec Kit і керування usage-window.
 - [kongyo2/context-view](https://github.com/kongyo2/context-view) - Вікно контексту як один рядок над запитом, відтворений так, як Claude Code…
 - [kyledarling-io/claude-code-desktop-hud](https://github.com/kyledarling-io/claude-code-desktop-hud) - Поточний HUD завдань для Claude Code Desktop: смуга над промптом під час роботи…
+- [LupusMalusDeviant/mod-box](https://github.com/LupusMalusDeviant/mod-box) - Чотирнадцять модів Claude Code в одному плагіні, кожен можна вмикати або…
 - [m4cd4r4/clear-resume](https://github.com/m4cd4r4/clear-resume) - Безкоштовний плагін із відкритим кодом для Claude Code.
 - [maxsoldev/pstash](https://github.com/maxsoldev/pstash) - Зберігайте prompt на потім і повертайте їх у поле введення Claude Code.
 - [Mechazawa/claude-inline-images](https://github.com/Mechazawa/claude-inline-images) - Модифікація Claude Code, яка відображає зображення безпосередньо в Ghostty та…
 - [meganemura/pull-request-pane](https://github.com/meganemura/pull-request-pane) - Мод Claude, що показує pull request-и сесії GitHub на панелі поруч із…
-- [muctebadikmen/claude-code-araclari](https://github.com/muctebadikmen/claude-code-araclari) - Claude Code modları: otomatik devir ve ilerleme çubuğu.
-- [nkapila6/sfx-gen](https://github.com/nkapila6/sfx-gen) - Мод Claude Code: створення звукових ефектів із текстових prompt за допомогою…
+- [muctebadikmen/claude-code-araclari](https://github.com/muctebadikmen/claude-code-araclari) - Моди Claude Code: автоматична передача та індикатор прогресу.
 - [NotRedFox/NotRedFoxs-Claude-skills](https://github.com/NotRedFox/NotRedFoxs-Claude-skills) - Навички Claude Code: перевірка фактів у документації, аудит коду, журнал…
-- [ondrhn/sharpprompt](https://github.com/ondrhn/sharpprompt) - Claude Code mod that rewrites rough prompts into clear ones before you send…
+- [ondrhn/sharpprompt](https://github.com/ondrhn/sharpprompt) - Модифікація Claude Code, яка переформульовує нечіткі запити у зрозумілі перед…
 - [pepperonas/loc-today](https://github.com/pepperonas/loc-today) - Мод Claude Code: кількість рядків коду за сьогодні для Claude — доданих…
 - [pepperonas/path-links](https://github.com/pepperonas/path-links) - Модифікація Claude Code: клікабельні шляхи у відповідях — натисніть папку, щоб…
 - [rezzminator/buddy](https://github.com/rezzminator/buddy) - Плагін-компаньйон для Claude Code: ASCII-компаньйон над запитом, який памʼятає…
+- [rezzminator/tool-visibility-controller](https://github.com/rezzminator/tool-visibility-controller) - Claude Code plugin for per-agent tool visibility — hide and refuse subagents…
 - [roma-vibe/jev-governor](https://github.com/roma-vibe/jev-governor) - Модифікація Claude Code: маршрутизація моделі/рівня зусиль під керуванням Jev…
 - [samfrmr/barmkin-mod](https://github.com/samfrmr/barmkin-mod) - Моди для Claude Code: рівень безпеки для Claude Code — редагування секретів…
-- [seanrobertwright/claude-mods](https://github.com/seanrobertwright/claude-mods) - A collection of Claude Code mods.
+- [seanrobertwright/claude-mods](https://github.com/seanrobertwright/claude-mods) - Колекція модів Claude Code.
 - [Sennjen/claude-sdlc](https://github.com/Sennjen/claude-sdlc) - Claude Code plugin і mod: AI-native SDLC.
 - [SeongGwangJu/k-mods](https://github.com/SeongGwangJu/k-mods) - Колекція чудових модів для Claude Code | Збірка модів Claude Code.
+- [shahsanket2107/clarvis](https://github.com/shahsanket2107/clarvis) - Clarvis: неофіційна фанатська модифікація Avengers для Claude Code.
 - [Spardutti/claude-mods](https://github.com/Spardutti/claude-mods) - Моди Claude Code: панелі в реальному часі та хуки для щоденної роботи.
 - [tanujarun/it-speaks](https://github.com/tanujarun/it-speaks) - Він говорить: модифікація Claude Code, яка за запитом уголос читає відповіді…
 - [timoncool/slapbox](https://github.com/timoncool/slapbox) - 🍑 Відшльопайте Claude, коли він помиляється — модифікація для зняття напруги в…
 - [TroyJLorents-GH/mod-squad](https://github.com/TroyJLorents-GH/mod-squad) - Модифікації Claude Code: невеликі плагіни для живих панелей, маршрутизації…
+- [VaitaR/claude-code-limits](https://github.com/VaitaR/claude-code-limits) - Модифікація для Claude Code: квота 5h/7d, вікно контексту, час до завершення…
 - [valeryia-piatrova/token-hamster](https://github.com/valeryia-piatrova/token-hamster) - 🐹 Модифікація та плагін Claude Code: монітор використання, відстеження токенів…
-- [VictorGambarini/jev-mod](https://github.com/VictorGambarini/jev-mod) - A Claude Code mod that hands the small decisions to a cheap decision model…
+- [VictorGambarini/jev-mod](https://github.com/VictorGambarini/jev-mod) - Мод Claude Code, який передає невеликі рішення дешевій моделі рішень…
 - [yuntaengtaeng/snitch](https://github.com/yuntaengtaeng/snitch) - Модифікація Claude Code, яка в реальному часі повідомляє, які файли змінив…
-- [afterever/claude-mods](https://github.com/afterever/claude-mods) - Claude Code mods by afterever (plugin marketplace).
+- [afterever/claude-mods](https://github.com/afterever/claude-mods) - Моди Claude Code від afterever (магазин плагінів).
 - [ajkatom/claude-mods](https://github.com/ajkatom/claude-mods)
-- [Akurganow/model-router](https://github.com/Akurganow/model-router) - Claude Code mod: route each subagent to the cheapest Claude model, judged by…
+- [Akurganow/model-router](https://github.com/Akurganow/model-router) - Мод Claude Code: спрямовує кожного субагента до найдешевшої моделі Claude…
 - [alan-oliv/claude-mods](https://github.com/alan-oliv/claude-mods) - Моди для Claude Code: картки статистики сесії над полем запиту.
 - [Aler1x/claude-cat](https://github.com/Aler1x/claude-cat) - Анімований брайлівський кіт над запитом Claude Code.
 - [alinaqi/mixture-of-models-claude-mod](https://github.com/alinaqi/mixture-of-models-claude-mod) - Мод Claude Code: спрямовує дешеву роботу до GLM/Kimi через дочірній Claude…
@@ -1675,66 +1683,58 @@ Markdown, який відображається в полі запиту Claude 
 - [an80sPWNstar/claude-mods](https://github.com/an80sPWNstar/claude-mods) - Модифікації Claude для Claude Code: token-meter.
 - [anderson-spider/claude-mods](https://github.com/anderson-spider/claude-mods) - Маркетплейс плагінів Claude Code від anderson-spider.
 - [andrej-kolic/claude-mods](https://github.com/andrej-kolic/claude-mods) - Універсальні моди для Claude Code: bands, панелі, сповіщення та хуки.
-- [arslan-charyyev/claude-mods](https://github.com/arslan-charyyev/claude-mods) - My private Claude Code mods.
 - [Ashley-Pettit/villager-hp](https://github.com/Ashley-Pettit/villager-hp) - Ваші ліміти використання Claude у вигляді анімованої картки здоров.
-- [AskTinNguyen/ather-mods](https://github.com/AskTinNguyen/ather-mods) - Claude Code mods for the S2 team (the ather marketplace).
-- [astrosteveo/plain-english](https://github.com/astrosteveo/plain-english) - A Claude Code mod that makes Claude write plain English and flags its usual…
+- [AskTinNguyen/ather-mods](https://github.com/AskTinNguyen/ather-mods) - Моди Claude Code для команди S2 (інший магазин).
+- [astrosteveo/plain-english](https://github.com/astrosteveo/plain-english) - Мод Claude Code, який змушує Claude писати простою англійською та позначає його…
 - [Atanur/deskfit](https://github.com/Atanur/deskfit) - Короткі тренування, поки Claude працює: щоденна ціль, серії, значки та…
 - [aycandv/claude-usage-meter](https://github.com/aycandv/claude-usage-meter) - Дошка використання для Claude Code: витрати за моделлю.
-- [barneym/claude-context-bar](https://github.com/barneym/claude-context-bar) - Модифікація для Claude Code: розбивка вікна контексту в реальному часі над…
 - [benjaminr/nowplaying](https://github.com/benjaminr/nowplaying) - Модифікація Now Playing для Claude Code: Apple Music і Spotify над запитом, з…
+- [Berkay2002/berkays-mods](https://github.com/Berkay2002/berkays-mods) - Claude Code mods for orchestrator and worker sessions.
 - [broening/claude-mods](https://github.com/broening/claude-mods) - Модифікації для Claude Code: Cache-Uhr, Blast Radius, Vorschlaege…
 - [Carismarkus/clowl](https://github.com/Carismarkus/clowl) - Просто сова для вашого Claude Code.
 - [cGradying/claude-code-cockpit](https://github.com/cGradying/claude-code-cockpit) - Однорядкова смуга Claude Code.
-- [chamonkey-crypto/claude-mods](https://github.com/chamonkey-crypto/claude-mods)
 - [ChaseWNorton/claude-doom](https://github.com/ChaseWNorton/claude-doom) - Оригінальний рушій Doom із Freedoom, у який можна грати всередині Claude Code.
-- [chshin84/claude-mods](https://github.com/chshin84/claude-mods) - Claude Code 단어 사전 패널과 상태 표시줄 플러그인.
 - [cldotdev/claude-todo-list](https://github.com/cldotdev/claude-todo-list) - Мод Claude Code, який веде список відкритих питань у розмові та показує його в…
 - [comertial/claude-pending-changes](https://github.com/comertial/claude-pending-changes) - Переглядайте кожен файл, якого торкається Claude, подібно до pull request, не…
-- [CTeitzel/cache-band](https://github.com/CTeitzel/cache-band) - Claude Code mod: a band above the prompt with the prompt-cache countdown, cache…
-- [dalemorgan04/claude-mods](https://github.com/dalemorgan04/claude-mods) - Claude Mods.
-- [danielmertens/Claude-mods](https://github.com/danielmertens/Claude-mods) - Collection of personal Claude mods.
+- [CTeitzel/cache-band](https://github.com/CTeitzel/cache-band) - Модифікація Claude Code: смуга над полем запиту зі зворотним відліком кешу…
+- [dalemorgan04/claude-mods](https://github.com/dalemorgan04/claude-mods) - Моди Claude.
+- [danielmertens/Claude-mods](https://github.com/danielmertens/Claude-mods) - Колекція персональних модифікацій Claude.
 - [darshk07/claude-mods](https://github.com/darshk07/claude-mods)
 - [davidurco/cc-tamagotchi](https://github.com/davidurco/cc-tamagotchi) - Тамагочі, що живе всередині Claude Code: він вилуплюється, їсть код, який пише…
-- [DazzleML/claude-bookmarks](https://github.com/DazzleML/claude-bookmarks) - Bookmarks and vim-style marks inside Claude Code terminal conversations…
-- [dbroadhurst/claude-mod-goal](https://github.com/dbroadhurst/claude-mod-goal) - A Goal pane for Claude Code: the overall goal Claude is working toward, why…
-- [delexw/codyssey](https://github.com/delexw/codyssey) - Turn every Claude Code session into a little adventure: generative music that…
-- [densi97/claude-code-command-log](https://github.com/densi97/claude-code-command-log) - Claude Code Mod to explain commands ran by the agent.
-- [devohmycode/ccmods](https://github.com/devohmycode/ccmods) - Моди Claude Code, написані як хуки функцій, і маркетплейс, що їх пропонує.
+- [DazzleML/claude-bookmarks](https://github.com/DazzleML/claude-bookmarks) - Закладки та позначки у стилі vim у термінальних розмовах Claude Code…
+- [delexw/codyssey](https://github.com/delexw/codyssey) - Перетворіть кожен сеанс Claude Code на маленьку пригоду: генеративна музика, що…
+- [densi97/claude-code-command-log](https://github.com/densi97/claude-code-command-log) - Мод Claude Code для пояснення команд, виконаних агентом.
 - [diamondT/claude-mods](https://github.com/diamondT/claude-mods)
-- [dieg666/claude-herald](https://github.com/dieg666/claude-herald) - A Claude Code mod: a band above the prompt with Claude news and the breaking or…
+- [dieg666/claude-herald](https://github.com/dieg666/claude-herald) - Мод Claude Code: смуга над промптом з новинами Claude та терміновими або…
 - [dot-agi/arrester](https://github.com/dot-agi/arrester) - Модифікація для Claude Code: після блокування виклику інструмента захисником…
 - [dot-agi/downrange](https://github.com/dot-agi/downrange) - Модифікація для Claude Code: фонові завдання в одному поданні, з перебігом і…
 - [dot-agi/high-command](https://github.com/dot-agi/high-command) - Модифікація для Claude Code: одна вхідна скринька для повідомлень від товаришів…
 - [dot-agi/sandbox-tuner](https://github.com/dot-agi/sandbox-tuner) - Модифікація для Claude Code: пояснює блокування пісочниці та перетворює…
 - [dricosnyman/claude-favourites](https://github.com/dricosnyman/claude-favourites) - Обране для Claude Code: піктограми команд і навичок одним натисканням.
-- [Dyarchia/dyarchia](https://github.com/Dyarchia/dyarchia) - Dyarchia: Build and Kanban on every surface.
 - [Egrn/claude-code-mutedit](https://github.com/Egrn/claude-code-mutedit) - Гей, вимкнув звук! Відкинь diff, обріж riff — більше ніяких редагувань, менше…
 - [Eiyuo/Claude-Mods](https://github.com/Eiyuo/Claude-Mods)
-- [ekinertac/claude-code-mods](https://github.com/ekinertac/claude-code-mods) - Claude Code mods: rewrite-prompt (Ctrl+P rewrites your draft before you send it).
-- [elijah-rou/agent-kit](https://github.com/elijah-rou/agent-kit) - Instructions, skills, Pi extensions, and Claude Code mods for Pi, Codex, and…
-- [EmanueleNene/claude-mods](https://github.com/EmanueleNene/claude-mods) - Моди коду Claude: delete-guard (підтвердження видалення файлів) і octopus-crew…
+- [ekinertac/claude-code-mods](https://github.com/ekinertac/claude-code-mods) - Моди Claude Code: rewrite-prompt.
+- [elijah-rou/agent-kit](https://github.com/elijah-rou/agent-kit) - Інструкції, навички, розширення Pi та моди Claude Code для Pi, Codex і Claude…
 - [eric1hua/claudemods-desktop-statusline](https://github.com/eric1hua/claudemods-desktop-statusline) - Мод Claude Code: використання підписки (5h / 7d) у вигляді смуги над полем…
-- [fatihkartal35/claude-mods](https://github.com/fatihkartal35/claude-mods) - Claude Code mods: auto-model-detector routes each prompt to the right model and…
+- [fatihkartal35/claude-mods](https://github.com/fatihkartal35/claude-mods) - Моди Claude Code: auto-model-detector спрямовує кожен промпт до правильної…
 - [floheissler/cc-worktree-radar](https://github.com/floheissler/cc-worktree-radar) - Поточний радар паралельних гілок і робочих дерев над промптом: які зливаються…
-- [Gat0rRex/claude-mods](https://github.com/Gat0rRex/claude-mods) - Claude Code mods (function-hook plugins): context band, loose ends, checkpoint…
+- [Gat0rRex/claude-mods](https://github.com/Gat0rRex/claude-mods) - Моди Claude Code (плагіни function-hook): смуга контексту, незавершені справи…
 - [Gharib89/claude-mods](https://github.com/Gharib89/claude-mods) - Моди коду Claude (плагіни function-hook), встановлені через один маркетплейс.
-- [gomymy64/claude-code-mods-cheatsheet](https://github.com/gomymy64/claude-code-mods-cheatsheet)
-- [grota/beppe-claude-mods](https://github.com/grota/beppe-claude-mods) - Claude Code plugin marketplace with my mods.
-- [hb03/claude-mods](https://github.com/hb03/claude-mods) - Deutschsprachige Mods für Claude Code: Kontext/Cache-Hinweise, offene Punkte…
-- [HectorBailey/claude-mods](https://github.com/HectorBailey/claude-mods) - Hector Bailey.
-- [herlonventura/claude-model-squad](https://github.com/herlonventura/claude-model-squad) - Claude Code mod: a pixel-art squad suggests the right model.
-- [humvnpvrvdox777/NextSteps](https://github.com/humvnpvrvdox777/NextSteps) - Claude Code mod: three next steps after each answer, in any language, with an…
+- [grota/beppe-claude-mods](https://github.com/grota/beppe-claude-mods) - Маркетплейс плагінів Claude Code з моїми модифікаціями.
+- [hb03/claude-mods](https://github.com/hb03/claude-mods) - Моди німецькою мовою для Claude Code: підказки щодо контексту/кешу, незавершені…
+- [HectorBailey/claude-mods](https://github.com/HectorBailey/claude-mods) - Модифікації Claude Code від Hector Bailey (маркетплейс плагінів: hectorbailey).
+- [hernandezsanti/claude-code-mods](https://github.com/hernandezsanti/claude-code-mods) - Claude Code mods that enforce ticket-based commits, protect paid CI minutes and…
+- [humvnpvrvdox777/NextSteps](https://github.com/humvnpvrvdox777/NextSteps) - Мод Claude Code: три наступні кроки після кожної відповіді будь-якою мовою, з…
 - [Huuuuung/think-meter](https://github.com/Huuuuung/think-meter) - Мод Claude Code: скільки часу тривала кожна відповідь, скільки думав Claude і…
 - [huynl-96/claude-mods](https://github.com/huynl-96/claude-mods) - Моди коду Claude: streamer-mode приховує приватні панелі, смуги та рядок стану…
-- [hyperbola-bear/claude-mods](https://github.com/hyperbola-bear/claude-mods) - for my claude mods.
+- [hyperbola-bear/claude-mods](https://github.com/hyperbola-bear/claude-mods) - для моїх модів claude.
 - [iceberggymnast/claude-code-mods](https://github.com/iceberggymnast/claude-code-mods) - Плагіни function-hook для Claude Code (моди).
 - [icedevil2001/auto-continue](https://github.com/icedevil2001/auto-continue) - Мод Claude Code: перечікує 5-годинне обмеження використання та надсилає…
 - [imsungbin/quackpit-mod](https://github.com/imsungbin/quackpit-mod) - Панель керування над вашим полем запиту Claude Code. Качка читає показники.
-- [ipartington/claude-mods](https://github.com/ipartington/claude-mods) - Claude Code mods (function-hook plugins): PR merge follow-through, /clear…
-- [iyiob96/Context-Mod-Companion](https://github.com/iyiob96/Context-Mod-Companion) - Claude Code mod: context window band with RTK savings and a pixel Yemeni…
-- [jakerains/claudemods](https://github.com/jakerains/claudemods) - Small Claude Code mods: context and plan-usage gauges, a prompt-cache meter…
-- [jamesnguyen1309/claude-usage](https://github.com/jamesnguyen1309/claude-usage) - Claude Code mod: live token usage, models and subagents per prompt.
+- [ipartington/claude-mods](https://github.com/ipartington/claude-mods) - Моди Claude Code (плагіни function-hook): доведення злиття PR до кінця…
+- [iyiob96/Context-Mod-Companion](https://github.com/iyiob96/Context-Mod-Companion) - Модифікація Claude Code: смуга контекстного вікна з економією RTK та піксельним…
+- [jakerains/claudemods](https://github.com/jakerains/claudemods) - Невеликі моди Claude Code: індикатори використання контексту й плану, вимірювач…
+- [jamesnguyen1309/claude-usage](https://github.com/jamesnguyen1309/claude-usage) - Мод Claude Code: використання токенів у реальному часі, моделі та субагенти для…
 - [jessetsai1024/claude-ctx-panel](https://github.com/jessetsai1024/claude-ctx-panel) - Бічна панель із використанням контексту: загальний обсяг, категорії, зростання…
 - [jessetsai1024/claude-files](https://github.com/jessetsai1024/claude-files) - Бічна панель зі списком файлів: які файли створено, змінено або видалено в цій…
 - [jessetsai1024/claude-maomao](https://github.com/jessetsai1024/claude-maomao) - Пухнастик у стилі 8-bit (чорно-білий голландський висловухий кролик) бігає та…
@@ -1742,67 +1742,68 @@ Markdown, який відображається в полі запиту Claude 
 - [jessetsai1024/claude-timeline](https://github.com/jessetsai1024/claude-timeline) - Бічна панель із часовою шкалою: на що витрачено час у цьому раунді.
 - [jessetsai1024/claude-tokens](https://github.com/jessetsai1024/claude-tokens) - Бічна панель обміну токенами: скільки токенів головна розмова щоразу надсилає…
 - [jessetsai1024/claude-whisper](https://github.com/jessetsai1024/claude-whisper) - Чесна коробочка для claude code: після кожної відповіді Claude тихо каже одну…
-- [jimmysteinmetz/b-sides](https://github.com/jimmysteinmetz/b-sides) - Невеликі модифікації для Claude Code, як-от нові команди зі слешем і бічні…
-- [juro-mont/claude-ev-charging](https://github.com/juro-mont/claude-ev-charging) - An EV-charging progress bar and session panel for Claude Code helper agents.
+- [jkf87/mod-guide](https://github.com/jkf87/mod-guide) - Unofficial community guide to Claude Code mods (function hooks) in 6 languages…
+- [juro-mont/claude-ev-charging](https://github.com/juro-mont/claude-ev-charging) - Індикатор прогресу заряджання електромобіля та панель сеансу для допоміжних…
 - [KaiC5504/clawd-bar](https://github.com/KaiC5504/clawd-bar) - Clawd живе в смузі над вашим prompt Claude Code: розігрує сесію, показує, що…
 - [kajidog/cc-mods-tts](https://github.com/kajidog/cc-mods-tts) - Мод, що озвучує відповіді та сповіщення Claude Code за допомогою VOICEVOX /…
 - [kbrdn1/claude-crosstalk](https://github.com/kbrdn1/claude-crosstalk) - Мод Claude, який читає та об.
 - [ke11/claude-mods](https://github.com/ke11/claude-mods) - Моди для Claude Code. PixBar: піксельна істота над вашим запитом, яка рухається…
-- [kkatsuyoshi/claude-mods](https://github.com/kkatsuyoshi/claude-mods) - claude mods.
+- [kkatsuyoshi/claude-mods](https://github.com/kkatsuyoshi/claude-mods) - моди claude.
 - [KKK12142/claude-mods](https://github.com/KKK12142/claude-mods) - Моди коду Claude (usage-meter, ...).
-- [koenrohrer/hearth-band](https://github.com/koenrohrer/hearth-band) - Claude Code mod: a pixel creature per model beside a prompt-cache campfire…
 - [krishna-goutham-tls/cc-mods](https://github.com/krishna-goutham-tls/cc-mods) - Два моди Claude Code: folio — панель файлів поруч із чатом, і tint…
 - [kuehn-lars/cc-graph](https://github.com/kuehn-lars/cc-graph) - cc-graph: графік у реальному часі того, що знає Claude Code.
 - [leonidb/claude-code-mods](https://github.com/leonidb/claude-code-mods) - Не дозволяйте своїй увазі блукати, поки чекаєте на відповідь Claude Code.
 - [linsanmufilm-svg/claude-mods](https://github.com/linsanmufilm-svg/claude-mods) - Моди Claude Code від Sanmu — marketplace плагінів (бічна панель завдань).
-- [LordMordelon/claude-mods](https://github.com/LordMordelon/claude-mods) - Mods de Claude Code para los proyectos de Angel (Vremia).
+- [LordMordelon/claude-mods](https://github.com/LordMordelon/claude-mods) - Моди Claude Code для проєктів Angel (Vremia).
 - [Lucas-CX/awesome-claude-mods](https://github.com/Lucas-CX/awesome-claude-mods) - Посібник зіставлених спільнотою модів Claude Code: варіанти використання…
-- [LupusMalusDeviant/claude-mods](https://github.com/LupusMalusDeviant/claude-mods) - Single Claude Code mods from the Mod Box, each installable on its own.
-- [LupusMalusDeviant/mod-box](https://github.com/LupusMalusDeviant/mod-box) - Fourteen Claude Code mods in one plugin, each switchable, with a window to…
+- [LupusMalusDeviant/claude-mods](https://github.com/LupusMalusDeviant/claude-mods) - Окремі моди Claude Code з Mod Box, кожен можна встановити самостійно.
+- [luwux/keepwarm](https://github.com/luwux/keepwarm) - Claude Code mod: guards the 1-hour prompt cache of idle sessions — countdown…
 - [M-i-k-e-l/agent-state](https://github.com/M-i-k-e-l/agent-state) - Мод для Claude Code, який показує, що робить Claude, у підзаголовку вкладки…
-- [Malkiz/claude-reply-comments](https://github.com/Malkiz/claude-reply-comments) - Claude Code mod: answer Claude point by point, right on the text.
+- [makingaipractical/brain-drain-for-claude-code](https://github.com/makingaipractical/brain-drain-for-claude-code) - How full Claude.
+- [Malkiz/claude-reply-comments](https://github.com/Malkiz/claude-reply-comments) - Модифікація Claude Code: відповідайте на Claude по пунктах прямо в тексті.
 - [MarcusJellinghaus/claude-mode-gate](https://github.com/MarcusJellinghaus/claude-mode-gate) - Модифікація Claude Code із перемиканням профілів дозволів: безпечна базова…
-- [MarkMerk/markmerk-mods](https://github.com/MarkMerk/markmerk-mods) - Small mods for Claude Code: runner-avatar, a little avatar that runs above your…
+- [MarkMerk/markmerk-mods](https://github.com/MarkMerk/markmerk-mods) - Невеликі моди для Claude Code: runner-avatar, маленький аватар, що бігає над…
 - [Marnel8/claude-mods-](https://github.com/Marnel8/claude-mods-)
-- [martin-macak/claude-code-mod-tracking](https://github.com/martin-macak/claude-code-mod-tracking) - Claude Code mod for tracking related artifacts and references.
-- [mattbv/intent-ledger](https://github.com/mattbv/intent-ledger) - Claude Code mod: a live pane of what your AI coding agent is aiming for…
+- [martin-macak/claude-code-mod-tracking](https://github.com/martin-macak/claude-code-mod-tracking) - Мод Claude Code для відстеження пов.
+- [mattbv/intent-ledger](https://github.com/mattbv/intent-ledger) - Модифікація Claude Code: панель у реальному часі, що показує, чого прагне ваш…
 - [MDmubarak786/claude-mods](https://github.com/MDmubarak786/claude-mods) - Спільнотні моди для Claude Code: захисти, панелі й команди, які запускаються…
-- [michaelblaess/turbo-mod](https://github.com/michaelblaess/turbo-mod) - Бічна панель для Claude Code: файли, які записав Claude, розділення термінала…
+- [michaelblaess/turbo-mod](https://github.com/michaelblaess/turbo-mod) - Side pane for Claude Code: files Claude wrote, terminal splits, git repo status…
+- [MkGut/claude-tutor](https://github.com/MkGut/claude-tutor) - Claude Code mod: a sidebar tutor that explains what Claude is doing as it works.
 - [mmedum/glimt](https://github.com/mmedum/glimt) - Спокійна бічна панель для Claude Code: що робить цей сеанс, його план, агенти…
 - [mmedum/nuet](https://github.com/mmedum/nuet) - Приглушений час над кожним запитом і кожною відповіддю в транскрипті Claude…
 - [mmedum/spor](https://github.com/mmedum/spor) - Повертає те, що Claude Code приховує: файли, які прочитав Claude, виконані ним…
-- [mrkshw/cold-cache](https://github.com/mrkshw/cold-cache) - Claude Code mod: warns when a session.
 - [muellerei/enable-todo-tools](https://github.com/muellerei/enable-todo-tools) - Мод Claude Code, який знову вмикає інструменти todo для моделей, що їх не…
 - [muellerei/sweet-spot](https://github.com/muellerei/sweet-spot) - Мод Claude Code, який чекає на безпечну паузу, а потім передає вашу сесію або…
 - [muellerei/task-line](https://github.com/muellerei/task-line) - Мод Claude Code: по одному рядку для кожного завдання над запитом із поточним…
 - [nachtgold/claude-code-connect-four](https://github.com/nachtgold/claude-code-connect-four) - Грайте в Connect Four проти AI всередині Claude Code (/connect-four).
 - [naoanao/agent-cross-check](https://github.com/naoanao/agent-cross-check) - Модифікація Claude Code: коли інший агент програмування робить коміт у ваш…
 - [naoanao/shared-repo-guard](https://github.com/naoanao/shared-repo-guard) - Модифікація Claude Code для репозиторіїв, спільних для кількох AI-агентів: не…
-- [Nelahia/claude-mods](https://github.com/Nelahia/claude-mods) - Installe et configure mes mods Claude Code en une commande.
-- [NeonOrchard/tab-alert](https://github.com/NeonOrchard/tab-alert) - Claude Code mod: flashes the terminal tab while Claude waits on you.
+- [Nelahia/claude-mods](https://github.com/Nelahia/claude-mods) - Встановлення й налаштування моїх модів Claude Code однією командою.
+- [NeonOrchard/tab-alert](https://github.com/NeonOrchard/tab-alert) - Мод для Claude Code: блимає вкладкою термінала, поки Claude чекає на вас.
 - [nerevar48/nerevar-mods](https://github.com/nerevar48/nerevar-mods) - Маркетплейс модів для Claude Code.
 - [NicBritz/claude-code-mods](https://github.com/NicBritz/claude-code-mods) - Веселі безкоштовні моди для Claude Code, які ніколи не витрачають токени.
 - [nu0ma/query-guard](https://github.com/nu0ma/query-guard) - Захисний бар.
 - [OG-Matcha/tessera](https://github.com/OG-Matcha/tessera) - Одна модифікація для Claude Code, із пріоритетом Windows і CJK: попередній…
-- [ohade/claude-mods](https://github.com/ohade/claude-mods) - Claude Code mods: image thumbnails and the status line.
-- [Orbitmap/claude-mods](https://github.com/Orbitmap/claude-mods) - Claude Code mods made by the OrbitMap team.
+- [ohade/claude-mods](https://github.com/ohade/claude-mods) - Моди Claude Code: мініатюри зображень і рядок стану.
+- [Orbitmap/claude-mods](https://github.com/Orbitmap/claude-mods) - Моди Claude Code від команди OrbitMap.
 - [osaki42/awesome-claude-mods](https://github.com/osaki42/awesome-claude-mods) - Найкращі моди Claude Code, упорядковані за тим, що вони роблять для вас.
 - [Para-FR/claude-code-mods-fr](https://github.com/Para-FR/claude-code-mods-fr) - Два моди Claude для Claude Code: garde-du-corps.
+- [petershk/explain-permission](https://github.com/petershk/explain-permission) - Claude Code mod: explains each permission request in plain English.
 - [philarete173/claude_mods](https://github.com/philarete173/claude_mods) - Бічна панель статистики сеансу в реальному часі для вкладки Code настільного…
-- [pkkid/claude-mods](https://github.com/pkkid/claude-mods) - Various mods and skills for my Claude Desktop setup.
+- [pkkid/claude-mods](https://github.com/pkkid/claude-mods) - Різноманітні модифікації та навички для мого налаштування Claude Desktop.
 - [pradyb/claude-mods](https://github.com/pradyb/claude-mods) - Модифікації для Claude Code: safety-guard блокує руйнівні команди та доступ до…
-- [ptsnac/claude-session-handoff](https://github.com/ptsnac/claude-session-handoff) - Claude Code mod: session timer and one-click handoff to a fresh context window.
+- [pvjbuilds/crab-buddy](https://github.com/pvjbuilds/crab-buddy) - An animated pixel-art Claude crab for Claude Code: it acts out what Claude is…
 - [rajib2k5/claude-market-watch](https://github.com/rajib2k5/claude-market-watch) - Модифікація Claude Code: тикер котирувань у реальному часі, панель /quote…
-- [ramtinJ95/claude-mods](https://github.com/ramtinJ95/claude-mods) - Claude Code mods, published as one plugin marketplace.
+- [ramtinJ95/claude-mods](https://github.com/ramtinJ95/claude-mods) - Моди Claude Code, опубліковані як один маркетплейс плагінів.
 - [ray-amjad/cache-clock](https://github.com/ray-amjad/cache-clock) - Мод Claude Code: смуга над prompt, що показує використаний контекст і зворотний…
 - [ray-amjad/diagram-pane](https://github.com/ray-amjad/diagram-pane) - Мод Claude Code: бічна панель, яка закріплює кожну діаграму, яку малює Claude…
 - [ray-amjad/dream-pass](https://github.com/ray-amjad/dream-pass) - Мод Claude Code: етап сновидіння, який об.
 - [ray-amjad/prompt-bouncer](https://github.com/ray-amjad/prompt-bouncer) - Мод Claude Code: відкидає нечіткі prompt до того, як їх побачить Claude, і…
-- [ray-amjad/secret-box](https://github.com/ray-amjad/secret-box) - Claude Code mod: Claude uses your secrets without seeing them.
-- [ray-amjad/transcript-redactor](https://github.com/ray-amjad/transcript-redactor) - A Claude Code mod that keeps secrets out of the session transcript: every key…
+- [ray-amjad/secret-box](https://github.com/ray-amjad/secret-box) - Мод для Claude Code: Claude використовує ваші секрети, не бачачи їх.
+- [ray-amjad/transcript-redactor](https://github.com/ray-amjad/transcript-redactor) - Мод для Claude Code, який не допускає потрапляння секретів до стенограми сесії…
 - [RedRoosterKey/claude-code-ssh-usage-band](https://github.com/RedRoosterKey/claude-code-ssh-usage-band) - Модифікація Claude Code: хост SSH, RAM і ліміти використання 5h/7d у рядку над…
 - [Risdon8/push-ups](https://github.com/Risdon8/push-ups) - Claude Code mod: відтискання, які треба робити, поки працює Claude. Без токенів.
-- [rogadev/paceline-mod](https://github.com/rogadev/paceline-mod) - paceline as a Claude Code mod: paces your usage limits in a line above the…
+- [rogadev/paceline-mod](https://github.com/rogadev/paceline-mod) - paceline як мод для Claude Code: відображає темп використання ваших лімітів у…
 - [Rohitp/claude-mods](https://github.com/Rohitp/claude-mods) - Моди для claude code.
 - [saadk408/stepline](https://github.com/saadk408/stepline) - Модифікація Claude Code: перетворює план, який ви схвалюєте в режимі…
 - [saksham10arora-dotcom/awesome-claude-mods](https://github.com/saksham10arora-dotcom/awesome-claude-mods) - Ретельно відібраний список модів Claude Code.
@@ -1810,39 +1811,38 @@ Markdown, який відображається в полі запиту Claude 
 - [saksham10arora-dotcom/claude-lofi](https://github.com/saksham10arora-dotcom/claude-lofi) - Музичний супровід у стилі lofi, що супроводжує сесію: спокій, зосередженість…
 - [saksham10arora-dotcom/claude-teach-me](https://github.com/saksham10arora-dotcom/claude-teach-me) - Навчайтеся, поки Claude пише код: після ходу, який змінив код, над промптом…
 - [saksham10arora-dotcom/claude-vhs](https://github.com/saksham10arora-dotcom/claude-vhs) - Запис кожної зміни, яку вносить Claude: відтворюйте кожну зміну, спостерігаючи…
-- [SentientNr6/claude-mods](https://github.com/SentientNr6/claude-mods) - A collection of plugins for Claude.
-- [shahsanket2107/clarvis](https://github.com/shahsanket2107/clarvis) - Clarvis: неофіційна фанатська модифікація Avengers для Claude Code.
 - [shengyy/ccoverhead](https://github.com/shengyy/ccoverhead) - Модифікація Claude Code для контексту, зростання, квоти, кешу, власної вартості…
 - [shissncg/claude-mods](https://github.com/shissncg/claude-mods)
-- [sidhantunnithan/jindan-cc-marketplace](https://github.com/sidhantunnithan/jindan-cc-marketplace) - Personal Claude Code mods.
-- [Spendry/claude-code-mods](https://github.com/Spendry/claude-code-mods) - Claude Code mods, installable as a plugin marketplace: deviation-kernel guards…
+- [sidhantunnithan/jindan-cc-marketplace](https://github.com/sidhantunnithan/jindan-cc-marketplace) - Персональні моди Claude Code.
+- [Spendry/claude-code-mods](https://github.com/Spendry/claude-code-mods) - Моди Claude Code, які можна встановити з маркетплейсу плагінів…
 - [speti4/doom-pane](https://github.com/speti4/doom-pane) - Оригінальна DOOM на панелі Claude Code, без потреби щось установлювати: рушій…
-- [StalicJi/my-mods](https://github.com/StalicJi/my-mods) - 個人 Claude Code mod…
-- [stelmach-systems/claude-mods](https://github.com/stelmach-systems/claude-mods) - Mody Claude Code (function hooks): panel agentów, pasek budżetu, flota sesji.
-- [SteveAnthonyFM/subagent-guard](https://github.com/SteveAnthonyFM/subagent-guard) - Keep Claude.
+- [StalicJi/my-mods](https://github.com/StalicJi/my-mods) - Персональний маркетплейс модів Claude Code: clean-view, where-am-i, next-steps…
+- [stelmach-systems/claude-mods](https://github.com/stelmach-systems/claude-mods) - Модифікації Claude Code (функціональні хуки): панель агентів, смуга бюджету…
+- [SteveAnthonyFM/subagent-guard](https://github.com/SteveAnthonyFM/subagent-guard) - Не дозволяйте допоміжним агентам (підлеглим агентам) Claude використовувати…
 - [steven-ngle/blade-of-commits](https://github.com/steven-ngle/blade-of-commits) - Повідомлення комітів одним кліком для Claude Code з танцюючою піксель-арт…
-- [Sunkanxx/Mods](https://github.com/Sunkanxx/Mods) - Claude Code mods — marketplace sunkanxx-mods.
+- [Sunkanxx/Mods](https://github.com/Sunkanxx/Mods) - Моди Claude Code — маркетплейс sunkanxx-mods.
 - [Tanish-Dev/claude-usage-band](https://github.com/Tanish-Dev/claude-usage-band) - Clawd Meter — мод Claude Code, який показує використання вашого плану Claude…
 - [tartinerlabs/claude-code-mods](https://github.com/tartinerlabs/claude-code-mods)
 - [thangdo19/claude-code-mods](https://github.com/thangdo19/claude-code-mods) - Невеликі моди, які змінюють вигляд і звучання Claude Code.
 - [TheBabaYaga/claude-session-flow](https://github.com/TheBabaYaga/claude-session-flow) - Мод Claude Code, що показує поточний сеанс в окремій області: кожен запит…
 - [theishandubey/claude-mods](https://github.com/theishandubey/claude-mods) - Маркетплейс плагінів Claude Code із модами: плагіни function-hooks, що малюють…
 - [tomfluff/claude-read-along](https://github.com/tomfluff/claude-read-along) - Слухайте відповіді Claude Code, коли речення, яке читається, виділяється.
-- [tunglt1810/claude-gadgets](https://github.com/tunglt1810/claude-gadgets) - Some Claude mods.
-- [twentynineteen/scrooge-context-vault](https://github.com/twentynineteen/scrooge-context-vault) - Claude Code mod: your context window as Scrooge McDuck.
-- [tyree88/tempered_plugins](https://github.com/tyree88/tempered_plugins) - Claude Code mods from Tempered Works: ship-state, timeline, limit-resume — plus…
-- [VaitaR/claude-code-limits](https://github.com/VaitaR/claude-code-limits) - Модифікація для Claude Code: квота 5h/7d, вікно контексту, час до завершення…
+- [tunglt1810/claude-gadgets](https://github.com/tunglt1810/claude-gadgets) - Деякі моди Claude.
+- [twentynineteen/scrooge-context-vault](https://github.com/twentynineteen/scrooge-context-vault) - Мод для Claude Code: ваше контекстне вікно як Сховище грошей Скруджа МакДака.
+- [tyree88/tempered_plugins](https://github.com/tyree88/tempered_plugins) - Моди Claude Code від Tempered Works: ship-state, timeline, limit-resume — а…
+- [UsamaSadiq/claude-mods](https://github.com/UsamaSadiq/claude-mods) - Small, fun and useful mods for Claude Code.
 - [VAlux/claude-session-progress](https://github.com/VAlux/claude-session-progress) - Мод Claude Code: анімована смуга поступу та підсумок завершення для тривалих…
 - [Vansitha/clawd-watch](https://github.com/Vansitha/clawd-watch) - Три невеликі моди для Claude Code: переглядайте, коли ваші субагенти завершать…
 - [varunmoka7/image-shrinker](https://github.com/varunmoka7/image-shrinker) - Зменшує розмір великих знімків екрана перед тим, як Claude їх прочитає, щоб…
 - [varunmoka7/layman](https://github.com/varunmoka7/layman) - Скажіть &quot;I.
 - [varunmoka7/next-steps-autopilot](https://github.com/varunmoka7/next-steps-autopilot) - Показує запропоновані наступні запити над полем введення.
 - [varunmoka7/side-chat](https://github.com/varunmoka7/side-chat) - Поставте Claude додаткове запитання в панелі поруч із вашою роботою.
-- [vihrea1337/pager](https://github.com/vihrea1337/pager) - Claude Code pings you in Telegram when a task is done or it waits for…
+- [vihrea1337/pager](https://github.com/vihrea1337/pager) - Claude Code надсилає вам повідомлення в Telegram, коли завдання виконано або…
 - [WeaponizedLego/claude-code-mods](https://github.com/WeaponizedLego/claude-code-mods) - Мої моди Claude Code.
-- [wellavelino/mystique](https://github.com/wellavelino/mystique) - A Claude Code mod: a highlighter pen for replies, a side panel for query…
-- [wimcraft/godville-pane](https://github.com/wimcraft/godville-pane) - A Claude Code mod: your Godville hero and diary in a sidebar.
+- [wellavelino/mystique](https://github.com/wellavelino/mystique) - Модифікація Claude Code: маркер для відповідей, бічна панель для результатів…
+- [wimcraft/godville-pane](https://github.com/wimcraft/godville-pane) - Мод для Claude Code: ваш герой Godville і щоденник на бічній панелі.
 - [wnsogabriel/claude-mods](https://github.com/wnsogabriel/claude-mods) - Моди для Claude Code: смуга лімітів використання (5 год/тиждень) і панель…
+- [Wowbagger1994/claude-mods](https://github.com/Wowbagger1994/claude-mods) - Mod per Claude Code: segreti oscurati, cose da fare, verifiche e CI, diario…
 - [wukonigcom/quanta-costa](https://github.com/wukonigcom/quanta-costa) - 🧾 Плагін Claude Code: ваші ліміти використання Claude Pro/Max із прогнозом…
 - [xinhuagu/oh-my-claude-mods](https://github.com/xinhuagu/oh-my-claude-mods) - Моди для Claude Code. agent-crew: спостерігайте за роботою ваших субагентів як…
 - [yeonwooook/claude-study-latex](https://github.com/yeonwooook/claude-study-latex) - Вбудовані та відображувані математичні формули LaTeX, а також необов.
@@ -1862,6 +1862,7 @@ Markdown, який відображається в полі запиту Claude 
 - [NYCU-Chung/cc-statusline](https://github.com/NYCU-Chung/cc-statusline) - Комплексна панель statusline для Claude Code — інформація про сеанс, індикатори…
 - [gwittebolle/claude-carbon](https://github.com/gwittebolle/claude-carbon) - claude-carbon: відстеження вуглецевого сліду ваших сеансів Claude Code.
 - [AwesomeZun/CC-statusline](https://github.com/AwesomeZun/CC-statusline) - Естетична statusline для Claude Code від awesomejun.
+- [a86582751/dsh-nexttavern](https://github.com/a86582751/dsh-nexttavern) - DeepSeek Harness 长篇角色扮演agent（DSH酒馆插件）：SillyTavern…
 - [JohnnyVizz/claude-kit](https://github.com/JohnnyVizz/claude-kit) - Загальнодоступні Skills і модифікації Claude Code.
 - [escapeboy/claude-code-kit](https://github.com/escapeboy/claude-code-kit) - Skills, модифікації, субагенти, хуки, slash-команди та посібники для Claude…
 - [mvalentsev/awesome-free-ai-coding](https://github.com/mvalentsev/awesome-free-ai-coding) - 📡 Законні безкоштовні LLM APIs і агенти програмування — самостійно оновлюються…
@@ -1886,7 +1887,7 @@ Markdown, який відображається в полі запиту Claude 
 - [jeancarlo-javier/claude-status-bar](https://github.com/jeancarlo-javier/claude-status-bar) - Рядок стану етапу робочого процесу в реальному часі для Claude Code.
 - [romnycristopher/claude-am-mods](https://github.com/romnycristopher/claude-am-mods) - Репозиторій модів Awesome Media для Claude Code.
 - [tedserbinski/claude-code-statusline](https://github.com/tedserbinski/claude-code-statusline) - Просте й корисне налаштування рядка стану для Claude Code.
-- [cesarschutz/claude-code-kit](https://github.com/cesarschutz/claude-code-kit) - Marketplace de plugins para o Claude Code: mods, skills, agentes, hooks…
+- [cesarschutz/claude-code-kit](https://github.com/cesarschutz/claude-code-kit) - Магазин плагінів для Claude Code: моди, навички, агенти, хуки, стилі виводу та…
 - [crosscountryridinggirlwonder916/claude-statusline](https://github.com/crosscountryridinggirlwonder916/claude-statusline) - Відображення рядка стану Claude Code з обмеженнями швидкості, поточним…
 - [fbincon/claude-code-statusline](https://github.com/fbincon/claude-code-statusline) - Налаштовуваний рядок стану Claude Code для Linux, WSL, Windows і macOS, із…
 - [JairoTorregrosa/claude-statusline](https://github.com/JairoTorregrosa/claude-statusline) - Швидкий рядок стану Rust для Claude Code — спочатку дані, кешований git…
@@ -1894,44 +1895,43 @@ Markdown, який відображається в полі запиту Claude 
 - [jv-k/claude-gauge](https://github.com/jv-k/claude-gauge) - Рядок стану та рядок токенів для Claude Code: контекст, використання за 5 годин…
 - [kyllian330/claude-statusline](https://github.com/kyllian330/claude-statusline) - Відображення ключових відомостей про стан Claude Code, зокрема моделі…
 - [Obednal97/claude-statusline-kit](https://github.com/Obednal97/claude-statusline-kit) - Багаторядковий рядок стану Claude Code: витрати, % контексту, git і активний…
-- [QingqiShi/claude](https://github.com/QingqiShi/claude) - Personal ~/.claude for Claude Code: settings, global CLAUDE.md, hooks, status…
-- [salvanya/claude_code_statusline](https://github.com/salvanya/claude_code_statusline) - Statusline з корисною інформацією для claude code.
 - [tc3oliver/claude-team-kit](https://github.com/tc3oliver/claude-team-kit) - Власні команди агентів. Під контролем.
 - [yedidya-buildfy/claude-addons](https://github.com/yedidya-buildfy/claude-addons) - Доповнення Claude Code: кольоровий спостерігач крапки стану вкладки +…
 - [zach-source/claude-factory](https://github.com/zach-source/claude-factory) - Визначувані software factories для Claude Code на herdr: графи станцій xstate…
 - [akhilnalliboina/claude-usage-statusline](https://github.com/akhilnalliboina/claude-usage-statusline) - Рядок стану використання Claude Code для macOS і Linux, упакований як плагін…
-- [alfredwesterveld/claude-cache-status](https://github.com/alfredwesterveld/claude-cache-status) - Claude Code desktop mod: prompt-cache TTL countdown, hit rate and misses.
+- [alfredwesterveld/claude-cache-status](https://github.com/alfredwesterveld/claude-cache-status) - Настільний мод Claude Code: зворотний відлік TTL кешу запитів, коефіцієнт…
 - [andkirby/claude-statusline](https://github.com/andkirby/claude-statusline) - Власний рядок стану для Claude Code — панель контексту з відсотком…
 - [AsyrafHussin/claude-code-statusline](https://github.com/AsyrafHussin/claude-code-statusline) - Чистий інформативний рядок стану для Claude Code — показує проєкт, стан git…
-- [aubinhaba/claude-code-payment-skills](https://github.com/aubinhaba/claude-code-payment-skills) - Claude Code plugin: code-review skills for payments, consistency, boundaries…
 - [bunderlog/claude-plugins](https://github.com/bunderlog/claude-plugins) - Магазин плагінів Claude Code із baloo: навички, агент, який перевіряє зміни…
-- [crafts69guy/claude-statusline.nvim](https://github.com/crafts69guy/claude-statusline.nvim) - Claude Code status line in Lua, with a live Neovim playground.
+- [crafts69guy/claude-statusline.nvim](https://github.com/crafts69guy/claude-statusline.nvim) - Рядок стану Claude Code у Lua із живим майданчиком Neovim.
 - [ctfbio/claude-code-statusline](https://github.com/ctfbio/claude-code-statusline) - Рядок стану Claude Code професійного рівня: тривалість сесії, вартість у…
 - [cvrt-gmbh/claude-statusline](https://github.com/cvrt-gmbh/claude-statusline) - Рядок стану Claude Code з урахуванням підписки.
-- [d3r3nic/claude-live-sessions](https://github.com/d3r3nic/claude-live-sessions) - A Claude Code plugin: a pane of the live Claude Code and Codex sessions on your…
 - [diegorv/koko.claude-statusline](https://github.com/diegorv/koko.claude-statusline) - Розширений рядок стану термінала для Claude Code — Bun + TypeScript, без…
-- [fbandres/ccmods](https://github.com/fbandres/ccmods) - Mods for Claude Code: live panes, gauges and more, installable as plugins.
-- [filtercoffeeway/claude-kit](https://github.com/filtercoffeeway/claude-kit) - Інструменти, навички та агенти для Claude Code — починаючи з рядка стану, який…
+- [emmanuelbarturen/claude-code-statusline](https://github.com/emmanuelbarturen/claude-code-statusline) - Statusline para Claude Code en español: tarea, skills, contexto con semáforo…
+- [FukKwang/claude-statusline](https://github.com/FukKwang/claude-statusline) - Colorful Claude Code status line: plan limits, context, cost and tokens.
+- [Gabriel-Dalton/claude-statusline-tokens](https://github.com/Gabriel-Dalton/claude-statusline-tokens) - Claude Code status line for Windows: token totals, API-rate cost, and…
 - [giribboy77-arch/claude-statusline](https://github.com/giribboy77-arch/claude-statusline) - Користувацький рядок стану Claude Code.
-- [hardtomakeanadress/claude-code-deepseek-cost](https://github.com/hardtomakeanadress/claude-code-deepseek-cost) - Реальні витрати DeepSeek API для Claude Code: перераховує вартість стенограм…
+- [gvart/claude-config](https://github.com/gvart/claude-config) - My Claude Code setup: agent-monitor mod, skills, agents and a one-command…
 - [hieuvo/claude-imgview](https://github.com/hieuvo/claude-imgview) - Попередній перегляд зображень усередині Claude Code: наведіть курсор на чип під…
-- [irfanfaraaz/claude-kit](https://github.com/irfanfaraaz/claude-kit) - My Claude Code setup: mods, skills and plugins.
+- [irfanfaraaz/claude-kit](https://github.com/irfanfaraaz/claude-kit) - Моя конфігурація Claude Code: моди, навички та плагіни.
 - [izahamyatim/claude-plugin-fizzy](https://github.com/izahamyatim/claude-plugin-fizzy) - 🚀 Синхронізуйте завдання Claude із Fizzy.do, щоб команда бачила їх у реальному…
-- [kernastra/claudecode](https://github.com/kernastra/claudecode) - A collection of Claude Code skills, mods, and other add ons that I.
+- [kernastra/claudecode](https://github.com/kernastra/claudecode) - Колекція навичок, модів та інших доповнень для Claude Code, які я створив і…
+- [kevinbadi/creatoros-claude-plugin](https://github.com/kevinbadi/creatoros-claude-plugin) - Creator OS for Claude Code: the connector, skills and a mod.
 - [Leechlike-intangibleasset343/claude-code-statusline](https://github.com/Leechlike-intangibleasset343/claude-code-statusline) - Відстежуйте стан Claude Code за допомогою компактної інформаційної панелі з…
+- [lucasmm96/claude-statusline](https://github.com/lucasmm96/claude-statusline) - Claude Code statusline hook — tracks token usage and context across sessions…
 - [msinclair-sudo/claude-code-setup](https://github.com/msinclair-sudo/claude-code-setup) - Інсталятор середовища Claude Code: навички, рядок стану, хуки, дозволи та…
-- [muemadennis/claude-code-command-center](https://github.com/muemadennis/claude-code-command-center) - Claude Code Live Dashboard 2026: Track Costs, Tokens &amp; Git Branch Status.
 - [OpenClawFarm/claude-statusline](https://github.com/OpenClawFarm/claude-statusline) - Рядок стану в стилі HUD для Claude Code — стан мережі, TPS, контекст, квоти…
-- [parisgroup-ai/claude-statusline](https://github.com/parisgroup-ai/claude-statusline) - @parisgroup-ai/claude-statusline — Claude Code statusline for macOS + Linux.
-- [primelogiclabio/claude-tools](https://github.com/primelogiclabio/claude-tools) - Skills and mods for Claude Code and Cowork — project-tracker, reference-doc…
-- [robinalexandre/claude-code-kit](https://github.com/robinalexandre/claude-code-kit) - Skills, mods, hooks and a status line for Claude Code, plus a sync engine for…
-- [rotemx-10x/claude-code-statusline](https://github.com/rotemx-10x/claude-code-statusline) - A two-line status line for Claude Code.
-- [satoramoto/awesome-claude](https://github.com/satoramoto/awesome-claude) - Claude Code config and mods, with a shared component kit, a playground and…
+- [parisgroup-ai/claude-statusline](https://github.com/parisgroup-ai/claude-statusline) - @parisgroup-ai/claude-statusline — рядок стану Claude Code для macOS + Linux.
+- [primelogiclabio/claude-tools](https://github.com/primelogiclabio/claude-tools) - Навички та модифікації для Claude Code і Cowork — трекер проєктів, довідковий…
+- [robinalexandre/claude-code-kit](https://github.com/robinalexandre/claude-code-kit) - Навички, модифікації, хуки та рядок стану для Claude Code, а також рушій…
+- [rotemx-10x/claude-code-statusline](https://github.com/rotemx-10x/claude-code-statusline) - Дворядковий рядок стану для Claude Code.
+- [satoramoto/awesome-claude](https://github.com/satoramoto/awesome-claude) - Конфігурація та моди Claude Code зі спільним набором компонентів, майданчиком і…
+- [Shawn200212/humanizer_formal_claude](https://github.com/Shawn200212/humanizer_formal_claude) - Bilingual (中/英) interpretable model for repairing AI-drafted academic prose.
 - [Sofia-D4L/claude-conf](https://github.com/Sofia-D4L/claude-conf) - Портативна конфігурація Claude Code (рядок стану + інсталятор).
 - [SohamShirsat/claude-cockpit](https://github.com/SohamShirsat/claude-cockpit) - Невелика інформаційна панель для Claude Code: відсоток контексту, зворотний…
 - [speti4/claude-statusline](https://github.com/speti4/claude-statusline) - Користувацький рядок стану термінала для Claude Code: модель, каталог, стан…
 - [thaiquangquy/claude.me](https://github.com/thaiquangquy/claude.me) - Портативна конфігурація Claude Code: CLAUDE.md, settings, statusline, skills.
-- [vibe-coding-labs/claude-code-status-skills](https://github.com/vibe-coding-labs/claude-code-status-skills) - Claude Code status line: the current model ID, the hostname, a clickable git…
+- [vibe-coding-labs/claude-code-status-skills](https://github.com/vibe-coding-labs/claude-code-status-skills) - Рядок стану Claude Code: поточний ідентифікатор моделі, ім.
 - [vladimir-ks/ai-agile-claude-code-statusline](https://github.com/vladimir-ks/ai-agile-claude-code-statusline) - Рядок стану для відстеження вартості та моніторингу сесії в реальному часі для…
 - [warodan/vscode-claude-code-patch](https://github.com/warodan/vscode-claude-code-patch) - Навичка Claude Code (VS Code, Windows): попередній перегляд зображень і кнопки…
 - [ymoud/claude-code-statusline](https://github.com/ymoud/claude-code-statusline) - Рядок стану Claude Code: папка, гілка git, модель, використання контекстного…
@@ -1939,6 +1939,7 @@ Markdown, який відображається в полі запиту Claude 
 - [zhuyansen/awesome-claude-code-hooks](https://github.com/zhuyansen/awesome-claude-code-hooks) - Хуки, субагенти та рядки стану Claude Code: колекції інструментів із відкритим…
 - [tronschell/statusline.sh](https://github.com/tronschell/statusline.sh) - Візуальний конструктор рядків стану Claude Code.
 - [Magnus-Gille/tokenatlas](https://github.com/Magnus-Gille/tokenatlas) - Рядок стану Claude Code із показом використання токенів у реальному часі та…
+- [babarot/c-c-statusline](https://github.com/babarot/c-c-statusline) - A Deno-powered status line for Claude Code CLI.
 - [ishuagrawal/clawdhouse](https://github.com/ishuagrawal/clawdhouse) - Моди для Claude Code: панелі, смуги та компаньйони на основі функціональних…
 - [timvdhoorn/cc-my-pi](https://github.com/timvdhoorn/cc-my-pi) - Пакет інтерфейсу в стилі Claude Code для агента програмування Pi — відображення…
 - [ashishsk93/baton-mods](https://github.com/ashishsk93/baton-mods) - Передавайте завдання між сеансами Claude Code.
@@ -1958,7 +1959,7 @@ Markdown, який відображається в полі запиту Claude 
 DeepSeek Harness і Cordis досягають того самого результату іншим шляхом: для них плагін є механізмом модів, тож плагін там — еквівалент мода тут.
 
 <details>
-<summary>🧵 <b><a href="https://github.com/ruvnet/ruflo">ruvnet/ruflo</a></b> · ⭐74358 · TypeScript · 👁️ observed · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/ruvnet/ruflo">ruvnet/ruflo</a></b> · ⭐74360 · TypeScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 Опис
 
@@ -1978,7 +1979,7 @@ DeepSeek Harness і Cordis досягають того самого резуль
 
 | Метрика                 | Значення   |
 | ----------------------- | ---------- |
-| Зірки                   | **74358**  |
+| Зірки                   | **74360**  |
 | Останній push           | 2026-10-11 |
 | Вперше додано до списку | 2026-10-04 |
 
@@ -1994,7 +1995,7 @@ DeepSeek Harness і Cordis досягають того самого резуль
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/morluto/rea">morluto/rea</a></b> · ⭐100891 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/morluto/rea">morluto/rea</a></b> · ⭐103536 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Опис
 
@@ -2012,8 +2013,8 @@ DeepSeek Harness і Cordis досягають того самого резуль
 
 | Метрика                 | Значення   |
 | ----------------------- | ---------- |
-| Зірки                   | **100891** |
-| Останній push           | 2026-10-11 |
+| Зірки                   | **103536** |
+| Останній push           | 2026-10-12 |
 | Вперше додано до списку | 2026-10-05 |
 
 🏷 `agent-skills` · `ai-agents` · `binary-analysis` · `claude-code` · `cli` · `codex` · `cordis` · `ctf`
@@ -2028,7 +2029,7 @@ DeepSeek Harness і Cordis досягають того самого резуль
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/nexu-io/open-design">nexu-io/open-design</a></b> · ⭐100557 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/nexu-io/open-design">nexu-io/open-design</a></b> · ⭐100566 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Опис
 
@@ -2046,7 +2047,7 @@ DeepSeek Harness і Cordis досягають того самого резуль
 
 | Метрика                 | Значення   |
 | ----------------------- | ---------- |
-| Зірки                   | **100557** |
+| Зірки                   | **100566** |
 | Останній push           | 2026-10-11 |
 | Вперше додано до списку | 2026-10-04 |
 
@@ -2062,7 +2063,7 @@ DeepSeek Harness і Cordis досягають того самого резуль
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/tt-a1i/archify">tt-a1i/archify</a></b> · ⭐82028 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/tt-a1i/archify">tt-a1i/archify</a></b> · ⭐82046 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Опис
 
@@ -2080,7 +2081,7 @@ DeepSeek Harness і Cordis досягають того самого резуль
 
 | Метрика                 | Значення   |
 | ----------------------- | ---------- |
-| Зірки                   | **82028**  |
+| Зірки                   | **82046**  |
 | Останній push           | 2026-10-11 |
 | Вперше додано до списку | 2026-10-04 |
 
@@ -2123,7 +2124,7 @@ DeepSeek Harness і Cordis досягають того самого резуль
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/titanwings/distilly">titanwings/distilly</a></b> · ⭐25499 · Python · 🔎 inferred · 19 天</summary>
+<summary>🧵 <b><a href="https://github.com/titanwings/distilly">titanwings/distilly</a></b> · ⭐25500 · Python · 🔎 inferred · 19 天</summary>
 
 ##### 📝 Опис
 
@@ -2141,7 +2142,7 @@ Distilly — перетворює спосіб їхнього мислення �
 
 | Метрика                 | Значення   |
 | ----------------------- | ---------- |
-| Зірки                   | **25499**  |
+| Зірки                   | **25500**  |
 | Останній push           | 2026-09-22 |
 | Вперше додано до списку | 2026-10-11 |
 
@@ -2157,7 +2158,41 @@ Distilly — перетворює спосіб їхнього мислення �
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget">MeteorNOX/DeepSeek-Balance-Whale-Widget</a></b> · ⭐4493 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/Q00/ouroboros">Q00/ouroboros</a></b> · ⭐6203 · Python · 🔎 inferred · 0 天</summary>
+
+##### 📝 Опис
+
+Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
+
+##### 📌 Основні факти
+
+| Поле          | Значення                                                                        |
+| ------------- | ------------------------------------------------------------------------------- |
+| Категорія     | `Екосистеми плагінів DSH і Cordis`                                              |
+| Підтвердження | `заявлено мод, плагін або хук, але нічого конкретного про поверхню модифікацій` |
+| Мова          | Python                                                                          |
+
+##### 📊 Дані
+
+| Метрика                 | Значення   |
+| ----------------------- | ---------- |
+| Зірки                   | **6203**   |
+| Останній push           | 2026-10-11 |
+| Вперше додано до списку | 2026-10-12 |
+
+🏷 `agent-os` · `agentic-ai` · `ai-agent` · `ai-coding-agent` · `claude-code` · `cli` · `codex` · `coding-agent`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Зображення</th><th align="center" width="50%">🎬 Відео</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/q00--ouroboros/5b0b313f6f066fb8.png" width="100%" alt="Q00/ouroboros screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/q00--ouroboros/099492564830e817.gif" width="100%" alt="Q00/ouroboros animation"><br><sub>анімований запис</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget">MeteorNOX/DeepSeek-Balance-Whale-Widget</a></b> · ⭐4495 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Опис
 
@@ -2175,7 +2210,7 @@ DeepSeek Harness（DSH）— маленька дівчина-кит, що жив
 
 | Метрика                 | Значення   |
 | ----------------------- | ---------- |
-| Зірки                   | **4493**   |
+| Зірки                   | **4495**   |
 | Останній push           | 2026-10-11 |
 | Вперше додано до списку | 2026-10-11 |
 
@@ -2218,7 +2253,7 @@ DeepSeek Harness（DSH）— маленька дівчина-кит, що жив
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/dsh-tauri/deepseek-harness-desktop">dsh-tauri/deepseek-harness-desktop</a></b> · ⭐3093 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/dsh-tauri/deepseek-harness-desktop">dsh-tauri/deepseek-harness-desktop</a></b> · ⭐3088 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Опис
 
@@ -2236,7 +2271,7 @@ DeepSeek Harness Tauri для настільних систем | Лише ін�
 
 | Метрика                 | Значення   |
 | ----------------------- | ---------- |
-| Зірки                   | **3093**   |
+| Зірки                   | **3088**   |
 | Останній push           | 2026-10-11 |
 | Вперше додано до списку | 2026-10-11 |
 
@@ -2252,41 +2287,7 @@ DeepSeek Harness Tauri для настільних систем | Лише ін�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/bowenliang123/dsh-context">bowenliang123/dsh-context</a></b> · ⭐1995 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 Опис
-
-Найкращий плагін DeepSeek Harness для аналізу та керування контекстом із панеллю контексту, браузером, бічною панеллю та командою контексту для статистики контексту, композиції, розбору, еволюції, деталей і розуміння того, з чого складається контекст та як він змінюється. Комплексний плагін візуалізації контексту DeepSeek Harness із панеллю Context, браузером і бічною панеллю, а також командою Context для перегляду складу, еволюції, стиснення, обрізання та інших подій і дій контексту.
-
-##### 📌 Основні факти
-
-| Поле          | Значення                                                                        |
-| ------------- | ------------------------------------------------------------------------------- |
-| Категорія     | `Екосистеми плагінів DSH і Cordis`                                              |
-| Підтвердження | `заявлено мод, плагін або хук, але нічого конкретного про поверхню модифікацій` |
-| Мова          | TypeScript                                                                      |
-
-##### 📊 Дані
-
-| Метрика                 | Значення   |
-| ----------------------- | ---------- |
-| Зірки                   | **1995**   |
-| Останній push           | 2026-10-11 |
-| Вперше додано до списку | 2026-10-12 |
-
-🏷 `cordis-plugin` · `deepseek-harness` · `deepseek-harness-plugin` · `dsh-external` · `dsh-plugin` · `dsh-plugins`
-
----
-
-<table><tr><th align="center" width="50%">🖼 Зображення</th><th align="center" width="50%">🎬 Відео</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/bowenliang123--dsh-context/573c0e5849eea852.png" width="100%" alt="bowenliang123/dsh-context screenshot"></td>
-<td align="center" valign="top"><sub>медіа не опубліковано</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/xmanrui/dsh-im">xmanrui/dsh-im</a></b> · ⭐1841 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/xmanrui/dsh-im">xmanrui/dsh-im</a></b> · ⭐1849 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Опис
 
@@ -2304,7 +2305,7 @@ DeepSeek Harness Tauri для настільних систем | Лише ін�
 
 | Метрика                 | Значення   |
 | ----------------------- | ---------- |
-| Зірки                   | **1841**   |
+| Зірки                   | **1849**   |
 | Останній push           | 2026-10-11 |
 | Вперше додано до списку | 2026-10-12 |
 
@@ -2347,7 +2348,7 @@ DeepSeek Harness Tauri для настільних систем | Лише ін�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/anywhere-labs/Agents-Anywhere">anywhere-labs/Agents-Anywhere</a></b> · ⭐1578 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/anywhere-labs/Agents-Anywhere">anywhere-labs/Agents-Anywhere</a></b> · ⭐1579 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Опис
 
@@ -2365,7 +2366,7 @@ DeepSeek Harness Tauri для настільних систем | Лише ін�
 
 | Метрика                 | Значення   |
 | ----------------------- | ---------- |
-| Зірки                   | **1578**   |
+| Зірки                   | **1579**   |
 | Останній push           | 2026-10-11 |
 | Вперше додано до списку | 2026-10-12 |
 
@@ -2379,6 +2380,40 @@ DeepSeek Harness Tauri для настільних систем | Лише ін�
 </tr></table>
 
 <sub>Ресурс підключено безпосередньо з репозиторію-джерела, оскільки ліцензію, придатну для повторного розповсюдження, не зазначено.</sub>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/AdamPlatin123/dsh-plugin-radar">AdamPlatin123/dsh-plugin-radar</a></b> · ⭐1465 · Python · 🔎 inferred · 0 天</summary>
+
+##### 📝 Опис
+
+DSH Plugin Radar — open-source ecosystem radar for DeepSeek Harness plugins: continuous discovery (21k+ candidates), k8s runtime validation (13k+ tests), 15-min snapshots; the catalog is a generated artifact — 开源 DSH 插件生态雷达：持续发现 2.1 万+ 候选、k8s 运行级实测 1.3 万+、15 分钟快照；插件目录为自动生成的产物
+
+##### 📌 Основні факти
+
+| Поле          | Значення                                                                        |
+| ------------- | ------------------------------------------------------------------------------- |
+| Категорія     | `Екосистеми плагінів DSH і Cordis`                                              |
+| Підтвердження | `заявлено мод, плагін або хук, але нічого конкретного про поверхню модифікацій` |
+| Мова          | Python                                                                          |
+
+##### 📊 Дані
+
+| Метрика                 | Значення   |
+| ----------------------- | ---------- |
+| Зірки                   | **1465**   |
+| Останній push           | 2026-10-11 |
+| Вперше додано до списку | 2026-10-12 |
+
+🏷 `agent-plugins` · `continuous-validation` · `deepseek-harness` · `dsh` · `dsh-plugin` · `ecosystem-radar` · `plugin-registry`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Зображення</th><th align="center" width="50%">🎬 Відео</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/adamplatin123--dsh-plugin-radar/fb6ad7eb8891212c.jpg" width="100%" alt="AdamPlatin123/dsh-plugin-radar screenshot"></td>
+<td align="center" valign="top"><sub>медіа не опубліковано</sub></td>
+</tr></table>
 
 </details>
 
@@ -2417,7 +2452,7 @@ DeepSeek Harness Tauri для настільних систем | Лише ін�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/vshulcz/deja-vu">vshulcz/deja-vu</a></b> · ⭐1173 · Go · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/vshulcz/deja-vu">vshulcz/deja-vu</a></b> · ⭐1174 · Go · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Опис
 
@@ -2435,7 +2470,7 @@ DeepSeek Harness Tauri для настільних систем | Лише ін�
 
 | Метрика                 | Значення   |
 | ----------------------- | ---------- |
-| Зірки                   | **1173**   |
+| Зірки                   | **1174**   |
 | Останній push           | 2026-10-11 |
 | Вперше додано до списку | 2026-10-04 |
 
@@ -2523,7 +2558,7 @@ DeepSeek Harness Desktop App: локальний робочий простір A
 
 ##### 📝 Опис
 
-📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. | https://misakanet.org
+📚 Бібліотека мікроуроків без залежностей, що використовує git, для асинхронного обміну та пошуку перевіреного досвіду налагодження AI Agents. | https://misakanet.org
 
 ##### 📌 Основні факти
 
@@ -2587,6 +2622,40 @@ DeepSeek Harness Desktop App: локальний робочий простір A
 </details>
 
 <details>
+<summary>🧵 <b><a href="https://github.com/xing-shuyin/pi-web-ui">xing-shuyin/pi-web-ui</a></b> · ⭐285 · TypeScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 Опис
+
+Just open your browser — get all your work done.
+
+##### 📌 Основні факти
+
+| Поле          | Значення                                                                        |
+| ------------- | ------------------------------------------------------------------------------- |
+| Категорія     | `Екосистеми плагінів DSH і Cordis`                                              |
+| Підтвердження | `заявлено мод, плагін або хук, але нічого конкретного про поверхню модифікацій` |
+| Мова          | TypeScript                                                                      |
+
+##### 📊 Дані
+
+| Метрика                 | Значення   |
+| ----------------------- | ---------- |
+| Зірки                   | **285**    |
+| Останній push           | 2026-10-11 |
+| Вперше додано до списку | 2026-10-12 |
+
+🏷 `dsh` · `dsh-desktop` · `dsh-plugin` · `pi` · `pi-web` · `pi-web-ui`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Зображення</th><th align="center" width="50%">🎬 Відео</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/xing-shuyin--pi-web-ui/926fb8bfa4f6062a.jpg" width="100%" alt="xing-shuyin/pi-web-ui screenshot"></td>
+<td align="center" valign="top"><sub>медіа не опубліковано</sub></td>
+</tr></table>
+
+</details>
+
+<details>
 <summary>🧵 <b><a href="https://github.com/acryldev/acryl">acryldev/acryl</a></b> · ⭐255 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Опис
@@ -2621,40 +2690,6 @@ ACRYL - Agent Context Relay Yielding Lifecycles. Один постійний р�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/RevolutionLA/dsh-dream-skin">RevolutionLA/dsh-dream-skin</a></b> · ⭐225 · JavaScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 Опис
-
-Плагін DeepSeek Harness для зміни оболонки / шпалер / тем (dsh-plugin) — 8 тем Mirage, акцентний колір для кожного користувача, шпалери 2.0, імпорт і експорт пакетів тем / посилання для поширення, обране та випадковий вибір; реалізовано повністю на основі нативної системи токенів.
-
-##### 📌 Основні факти
-
-| Поле          | Значення                                                                        |
-| ------------- | ------------------------------------------------------------------------------- |
-| Категорія     | `Екосистеми плагінів DSH і Cordis`                                              |
-| Підтвердження | `заявлено мод, плагін або хук, але нічого конкретного про поверхню модифікацій` |
-| Мова          | JavaScript                                                                      |
-
-##### 📊 Дані
-
-| Метрика                 | Значення   |
-| ----------------------- | ---------- |
-| Зірки                   | **225**    |
-| Останній push           | 2026-10-11 |
-| Вперше додано до списку | 2026-10-12 |
-
-🏷 `deepseek-harness` · `dsh` · `dsh-plugin` · `dsh-plugin-theme` · `skin` · `theme` · `wallpaper`
-
----
-
-<table><tr><th align="center" width="50%">🖼 Зображення</th><th align="center" width="50%">🎬 Відео</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/revolutionla--dsh-dream-skin/9ae1ef97a89d3ff0.png" width="100%" alt="RevolutionLA/dsh-dream-skin screenshot"></td>
-<td align="center" valign="top"><sub>медіа не опубліковано</sub></td>
-</tr></table>
-
-</details>
-
-<details>
 <summary>🧵 <b><a href="https://github.com/luobosibing2/dsh-jev-plugin">luobosibing2/dsh-jev-plugin</a></b> · ⭐204 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Опис
@@ -2683,40 +2718,6 @@ ACRYL - Agent Context Relay Yielding Lifecycles. Один постійний р�
 
 <table><tr><th align="center" width="50%">🖼 Зображення</th><th align="center" width="50%">🎬 Відео</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/luobosibing2--dsh-jev-plugin/e27235473aa310aa.png" width="100%" alt="luobosibing2/dsh-jev-plugin screenshot"></td>
-<td align="center" valign="top"><sub>медіа не опубліковано</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/cocofhu/anime-find">cocofhu/anime-find</a></b> · ⭐176 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 Опис
-
-Плагін DeepSeek Harness для пошуку аніме: багатоджерельний пошук аніме в чаті, картки з рейтингом і деталями Bangumi, підтримка копіювання magnet-посилань.
-
-##### 📌 Основні факти
-
-| Поле          | Значення                                                                        |
-| ------------- | ------------------------------------------------------------------------------- |
-| Категорія     | `Екосистеми плагінів DSH і Cordis`                                              |
-| Підтвердження | `заявлено мод, плагін або хук, але нічого конкретного про поверхню модифікацій` |
-| Мова          | TypeScript                                                                      |
-
-##### 📊 Дані
-
-| Метрика                 | Значення   |
-| ----------------------- | ---------- |
-| Зірки                   | **176**    |
-| Останній push           | 2026-10-11 |
-| Вперше додано до списку | 2026-10-12 |
-
-🏷 `anime` · `anime-search` · `bangumi` · `deepseek` · `deepseek-harness` · `dsh` · `dsh-plugin` · `magnet`
-
----
-
-<table><tr><th align="center" width="50%">🖼 Зображення</th><th align="center" width="50%">🎬 Відео</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/cocofhu--anime-find/4e8000425bf8bf5f.jpg" width="100%" alt="cocofhu/anime-find screenshot"></td>
 <td align="center" valign="top"><sub>медіа не опубліковано</sub></td>
 </tr></table>
 
@@ -2825,41 +2826,7 @@ ACRYL - Agent Context Relay Yielding Lifecycles. Один постійний р�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/WSL043/dsh-codex-subscription">WSL043/dsh-codex-subscription</a></b> · ⭐160 · JavaScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 Опис
-
-Використовуйте підписку ChatGPT Plus / Pro (Codex) у DeepSeek Harness (DSH): моделі GPT-6 і Codex, зображення, вебпошук і квота через вхід до ChatGPT — ключ OpenAI API не потрібен. Бета-версія: керування DSH із мобільного застосунку ChatGPT. Використовуйте підписку ChatGPT у DSH і дистанційно керуйте ним із мобільного застосунку ChatGPT.
-
-##### 📌 Основні факти
-
-| Поле          | Значення                                                                        |
-| ------------- | ------------------------------------------------------------------------------- |
-| Категорія     | `Екосистеми плагінів DSH і Cordis`                                              |
-| Підтвердження | `заявлено мод, плагін або хук, але нічого конкретного про поверхню модифікацій` |
-| Мова          | JavaScript                                                                      |
-
-##### 📊 Дані
-
-| Метрика                 | Значення   |
-| ----------------------- | ---------- |
-| Зірки                   | **160**    |
-| Останній push           | 2026-10-11 |
-| Вперше додано до списку | 2026-10-12 |
-
-🏷 `ai-agent` · `chatgpt` · `chatgpt-plus` · `chatgpt-pro` · `chatgpt-subscription` · `codex` · `codex-cli-alternative` · `codex-subscription`
-
----
-
-<table><tr><th align="center" width="50%">🖼 Зображення</th><th align="center" width="50%">🎬 Відео</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/wsl043--dsh-codex-subscription/0c3daa4061aa684e.webp" width="100%" alt="WSL043/dsh-codex-subscription screenshot"></td>
-<td align="center" valign="top"><sub>медіа не опубліковано</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/morluto/flameox">morluto/flameox</a></b> · ⭐143 · Python · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/morluto/flameox">morluto/flameox</a></b> · ⭐145 · Python · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Опис
 
@@ -2877,7 +2844,7 @@ ACRYL - Agent Context Relay Yielding Lifecycles. Один постійний р�
 
 | Метрика                 | Значення   |
 | ----------------------- | ---------- |
-| Зірки                   | **143**    |
+| Зірки                   | **145**    |
 | Останній push           | 2026-10-11 |
 | Вперше додано до списку | 2026-10-11 |
 
@@ -2889,6 +2856,42 @@ ACRYL - Agent Context Relay Yielding Lifecycles. Один постійний р�
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/morluto--flameox/2914b7977590380e.png" width="100%" alt="morluto/flameox screenshot"></td>
 <td align="center" valign="top"><sub>медіа не опубліковано</sub></td>
 </tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/2BingLing/dsh-market">2BingLing/dsh-market</a></b> · ⭐139 · TypeScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 Опис
+
+DeepSeek Harness 插件市场 · 持续收录 6000+ DSH 插件：中文搜索 + 实用五维评分 + 一键安装。Web 版与 DSH 侧边栏插件双形态。Plugin marketplace for DeepSeek Harness: 6000+ plugins, Chinese search, 5-dim scoring, one-click install.
+
+##### 📌 Основні факти
+
+| Поле          | Значення                                                                        |
+| ------------- | ------------------------------------------------------------------------------- |
+| Категорія     | `Екосистеми плагінів DSH і Cordis`                                              |
+| Підтвердження | `заявлено мод, плагін або хук, але нічого конкретного про поверхню модифікацій` |
+| Мова          | TypeScript                                                                      |
+
+##### 📊 Дані
+
+| Метрика                 | Значення   |
+| ----------------------- | ---------- |
+| Зірки                   | **139**    |
+| Останній push           | 2026-10-11 |
+| Вперше додано до списку | 2026-10-12 |
+
+🏷 `deepseek-harness` · `deepseek-harness-plugin` · `deepseek-harness-plugins` · `dsh` · `dsh-bundle` · `dsh-market` · `dsh-plugin` · `dsh-plugins`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Зображення</th><th align="center" width="50%">🎬 Відео</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/2BingLing/dsh-market/master/assets/readme/banner.webp" width="100%" alt="2BingLing/dsh-market screenshot"></td>
+<td align="center" valign="top"><sub>медіа не опубліковано</sub></td>
+</tr></table>
+
+<sub>Ресурс підключено безпосередньо з репозиторію-джерела, оскільки ліцензію, придатну для повторного розповсюдження, не зазначено.</sub>
 
 </details>
 
@@ -2931,7 +2934,7 @@ ACRYL - Agent Context Relay Yielding Lifecycles. Один постійний р�
 
 ##### 📝 Опис
 
-Remote-work assistant for DeepSeek Harness (DSH): connect SSH (key or password), pick a remote workspace, operate with rw_* tools, and SFTP-mirror it into a real local DSH workspace.
+Помічник для віддаленої роботи з DeepSeek Harness (DSH): підключення через SSH (ключ або пароль), вибір віддаленого робочого простору, робота з інструментами rw_* та дзеркальне відображення через SFTP у справжній локальний робочий простір DSH.
 
 ##### 📌 Основні факти
 
@@ -3035,7 +3038,7 @@ Remote-work assistant for DeepSeek Harness (DSH): connect SSH (key or password),
 
 ##### 📝 Опис
 
-DSH plugin - framework upgrade safety & plugin gating: contract pre-check, rollback point, auto-rollback on failure, evidence-based auto-disable; plus a multi-source plugin market. Unofficial. | DSH 插件：框架升级安全 + 插件门控——升级前契约预检、回滚点、失败自动回滚、有确证证据才自动禁用；另带多源插件市场。非官方社区项目。
+Плагін DSH — безпечне оновлення фреймворку та контроль плагінів: попередня перевірка контракту, точка відкату, автоматичний відкат у разі помилки, автоматичне вимкнення лише за наявності підтверджених доказів; також містить багатоджерельний маркетплейс плагінів. Неофіційний. | Плагін DSH: безпека оновлення фреймворку + контроль плагінів — попередня перевірка контракту перед оновленням, точка відкату, автоматичний відкат у разі помилки, автоматичне вимкнення лише за наявності підтверджених доказів; також багатоджерельний маркетплейс плагінів. Неофіційний проєкт спільноти.
 
 ##### 📌 Основні факти
 
@@ -3065,11 +3068,11 @@ DSH plugin - framework upgrade safety & plugin gating: contract pre-check, rollb
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/EricWang1358/dsh-web-studyhub">EricWang1358/dsh-web-studyhub</a></b> · ⭐90 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/ZASENJC/dsh-plugins-store">ZASENJC/dsh-plugins-store</a></b> · ⭐69 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Опис
 
-StudyHub: плагін DeepSeek Harness (DSH), що перетворює ваші матеріали на запитання та інтервальне повторення · навчальний плагін DSH, який перетворює власні матеріали на запитання та інтервальне повторення
+Маркетплейс для автоматичної класифікації, добору та перевірки плагінів спільноти DeepSeek-Harness. Автоматично класифікує, добирає та перевіряє маркетплейс плагінів спільноти DeepSeek-Harness.
 
 ##### 📌 Основні факти
 
@@ -3077,22 +3080,22 @@ StudyHub: плагін DeepSeek Harness (DSH), що перетворює ваш�
 | ------------- | ------------------------------------------------------------------------------- |
 | Категорія     | `Екосистеми плагінів DSH і Cordis`                                              |
 | Підтвердження | `заявлено мод, плагін або хук, але нічого конкретного про поверхню модифікацій` |
-| Мова          | JavaScript                                                                      |
+| Мова          | TypeScript                                                                      |
 
 ##### 📊 Дані
 
 | Метрика                 | Значення   |
 | ----------------------- | ---------- |
-| Зірки                   | **90**     |
+| Зірки                   | **69**     |
 | Останній push           | 2026-10-11 |
 | Вперше додано до списку | 2026-10-12 |
 
-🏷 `dsh` · `dsh-plugin` · `education` · `flashcards` · `spaced-repetition` · `study`
+🏷 `agent-tools` · `awesome-list` · `community-project` · `deepseek-harness` · `dsh` · `dsh-plugin`
 
 ---
 
 <table><tr><th align="center" width="50%">🖼 Зображення</th><th align="center" width="50%">🎬 Відео</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/ericwang1358--dsh-web-studyhub/1e4a97948bc59f9d.jpg" width="100%" alt="EricWang1358/dsh-web-studyhub screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/zasenjc--dsh-plugins-store/e83b24d43eca5912.png" width="100%" alt="ZASENJC/dsh-plugins-store screenshot"></td>
 <td align="center" valign="top"><sub>медіа не опубліковано</sub></td>
 </tr></table>
 
@@ -3102,27 +3105,26 @@ StudyHub: плагін DeepSeek Harness (DSH), що перетворює ваш�
 <summary><b>Більше в цій категорії</b> <sub>· 72</sub></summary>
 
 - [hashgraph-online/awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins) - Добірний список найкращих чудових ШІ-плагінів для ШІ-асистентів, зокрема Claude…
-- [bruc3van/awesome-dsh-plugin](https://github.com/bruc3van/awesome-dsh-plugin) - Знайдіть справді відповідний вам плагін DeepSeek Harness за 30 секунд.
 - [FishBottle7/opencode2dsh](https://github.com/FishBottle7/opencode2dsh) - Плагін DSH — безкоштовні моделі OpenCode Zen для DeepSeek Harness (DSH).
 - [bradeGithub/DSH-Plugins-Marketplace](https://github.com/bradeGithub/DSH-Plugins-Marketplace) - Ринок плагінів DSH / DSH Plugin Marketplace: перегляд, встановлення та…
 - [arcships/rutis](https://github.com/arcships/rutis) - Середовище виконання плагінів для програмного забезпечення, яке вдосконалює…
-- [like-study1/Oh-My-DSH](https://github.com/like-study1/Oh-My-DSH) - 🐳 DeepSeek Harness 插件聚合社区 — 自动同步 dsh-plugin 生态 · 精选目录 · 每 4 小时自动维护 | Oh-My-DSH…
-- [adamkhalile/luau-docs-oracle](https://github.com/adamkhalile/luau-docs-oracle) - Best Roblox Luau Bug Checker and API Verifier 2026 DevForum MCP Tool.
-- [ZASENJC/dsh-plugins-store](https://github.com/ZASENJC/dsh-plugins-store) - 自动分类、收录和验证 DeepSeek-Harness 社区插件的市场。 Automatically categorize, curate, and…
+- [like-study1/Oh-My-DSH](https://github.com/like-study1/Oh-My-DSH) - 🐳 Спільнота-агрегатор плагінів DeepSeek Harness — автоматична синхронізація…
+- [adamkhalile/luau-docs-oracle](https://github.com/adamkhalile/luau-docs-oracle) - Найкращий перевіряльник помилок Roblox Luau і верифікатор API 2026 DevForum MCP…
 - [kukucaiCndy/Corum-Harness](https://github.com/kukucaiCndy/Corum-Harness) - Настільний Agent, створений на основі ядра Deepseek-Harness.
 - [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) - Актуальний каталог плагінів DeepSeek Harness — оновлюється щогодини, щодня…
-- [1475505/miliastra-beyond-simulator](https://github.com/1475505/miliastra-beyond-simulator) - 千星沙箱模拟器：Lua 驱动的 2D 奇域外置沙箱 ，支持 DeepSeek Harness、Web 和 MCP.
+- [1475505/miliastra-beyond-simulator](https://github.com/1475505/miliastra-beyond-simulator) - Симулятор пісочниці «Тисяча зірок»: зовнішня 2D-пісочниця дивного світу…
 - [PolinniZhong/dsh-knit](https://github.com/PolinniZhong/dsh-knit) - Пошук контексту робочого простору та відстеження життєвого циклу з урахуванням…
-- [KongFangXun/sofagent](https://github.com/KongFangXun/sofagent) - sofagent — це FDE Harness із відкритим кодом для AI-агентів програмування: під…
 - [kejixiaoliang/awesome-dsh-plugins](https://github.com/kejixiaoliang/awesome-dsh-plugins) - Каталог вибраних плагінів DeepSeek Harness (DSH) — понад 280 плагінів спільноти…
 - [GZX2211/dsh-Visual-Workflow](https://github.com/GZX2211/dsh-Visual-Workflow) - Візуальна платформа оркестрації агентів｜На основі DeepSeek Harness, підтримує…
 - [universe-st/dsh-game-material-master](https://github.com/universe-st/dsh-game-material-master) - Плагін dsh-майстра ігрових ресурсів. Підключає моделі генерації зображень…
+- [Links2008/DeepSeek-Harness-Desktop](https://github.com/Links2008/DeepSeek-Harness-Desktop) - Windows 桌面版 DeepSeek Harness 发行版，支持原生通知、流畅的窗口控制、捆绑运行时和自动更新。追踪官方主分支.
 - [HOWILLMAKEIT/dsh-model-context-catalog](https://github.com/HOWILLMAKEIT/dsh-model-context-catalog) - Плагін DeepSeek Harness: одним натисканням зіставляє контекстне вікно моделі…
 - [NekroAI/nekro-nxt](https://github.com/NekroAI/nekro-nxt) - NekroNXT: багатоплатформна система агентів для групових чатів на основі…
+- [Lixiaoyiao/deepseek-harness-action](https://github.com/Lixiaoyiao/deepseek-harness-action) - Community GitHub Action for DeepSeek Harness — AI Code Review · CI Diagnosis ·…
 - [wingsky-1/dsh-plugin-hub](https://github.com/wingsky-1/dsh-plugin-hub) - Колекція вебплагінів GUI для DSH (DeepSeek Harness) — сповіщення про завдання…
-- [zp-home/dsh-recommend](https://github.com/zp-home/dsh-recommend) - DSH 插件生态透明排行与推荐：每日自动抓取 dsh-plugin 话题 + 公开评分模型 + 排行/推荐插件与静态站.
-- [awesome-deepseekharness/awesome-deepseek-harness](https://github.com/awesome-deepseekharness/awesome-deepseek-harness) - Добірка спільнотою плагінів, інструментів, навичок і навчальних ресурсів…
 - [BotHarness/DeepSeekBot](https://github.com/BotHarness/DeepSeekBot) - Альтернатива GrokBot із відкритим кодом на основі DeepSeek Harness.
+- [zp-home/dsh-recommend](https://github.com/zp-home/dsh-recommend) - Прозорий рейтинг і рекомендації екосистеми плагінів DSH: щоденне автоматичне…
+- [awesome-deepseekharness/awesome-deepseek-harness](https://github.com/awesome-deepseekharness/awesome-deepseek-harness) - Добірка спільнотою плагінів, інструментів, навичок і навчальних ресурсів…
 - [hyqhyq3/dsh-mcp-manager](https://github.com/hyqhyq3/dsh-mcp-manager) - Плагін керування серверами MCP для DeepSeek Harness: сторінка Settings → MCP…
 - [harrylabsj/kiwi](https://github.com/harrylabsj/kiwi) - Середовище виконання комерційних переговорів A2A + плагін DeepSeek Harness…
 - [Imzl-zl/dsh-toolbox-ui](https://github.com/Imzl-zl/dsh-toolbox-ui) - Панель інструментів для DeepSeek Harness Web: менеджер MCP.
@@ -3131,48 +3133,49 @@ StudyHub: плагін DeepSeek Harness (DSH), що перетворює ваш�
 - [liustack/pptwise](https://github.com/liustack/pptwise) - Справжній PowerPoint, а не HTML. Скажіть ШІ, що потрібно висвітлити, і pptwise…
 - [Roarpeng/GraphFlow](https://github.com/Roarpeng/GraphFlow) - Локальний граф знань коду та контекстне середовище без залежностей для агентів…
 - [dshworks/awesome-dsh-plugins](https://github.com/dshworks/awesome-dsh-plugins) - Реєстр плагінів, пакетів і навичок DeepSeek Harness (dsh) із відкритими даними…
+- [billLiao/awesome-dsh-plugin](https://github.com/billLiao/awesome-dsh-plugin) - A curated list of plugins for DeepSeek Harness (dsh) — 精选 DeepSeek Harness 插件列表.
 - [AmethystLuna/embedded-workbench](https://github.com/AmethystLuna/embedded-workbench) - Плагін AI-інженерії для Embedded C/C++ — навички firmware.
 - [Ianzhyh/workbuddy-to-dsh](https://github.com/Ianzhyh/workbuddy-to-dsh) - Перетворіть моделі, у яких ви вже ввійшли в настільному WorkBuddy.
+- [muyuanjin/dsh-ptc-plus](https://github.com/muyuanjin/dsh-ptc-plus) - A session-bound agent-native REPL for DeepSeek Harness PTC mode.
 - [MichaelShii/dsh-plugin-teamflow](https://github.com/MichaelShii/dsh-plugin-teamflow) - плагін dsh teamflow.
 - [MicroMilo/upstream-radar](https://github.com/MicroMilo/upstream-radar) - Постійне тестування сумісності плагінів DeepSeek Harness: точні випуски…
 - [falling-ts/dsh-force-compact](https://github.com/falling-ts/dsh-force-compact) - Агресивне стиснення контексту для агентів із пріоритетом локальної роботи.
-- [GooDAnDReaDY/dsh-subscriptions](https://github.com/GooDAnDReaDY/dsh-subscriptions) - OAuth subscription LLM providers for DeepSeek Harness: ChatGPT Codex, Claude…
+- [GooDAnDReaDY/dsh-subscriptions](https://github.com/GooDAnDReaDY/dsh-subscriptions) - Провайдери підписок OAuth LLM для DeepSeek Harness: ChatGPT Codex, Claude…
 - [yoza10635/dsh-argp](https://github.com/yoza10635/dsh-argp) - Кероване стиснення контексту для DeepSeek Harness (dsh): LLM пропонує…
 - [vecnode/vncode](https://github.com/vecnode/vncode) - vncode 🤖 Agent-Human IDE ⌨️ версії для Web і Desktop, комплект із Plugins…
-- [YangShen-SWE/dsh-plugin-simple-pet](https://github.com/YangShen-SWE/dsh-plugin-simple-pet) - Windows desktop pet with DeepSeek billing, Codex subscription quotas, opt-in…
 - [bonerush/dsh-obsidian-mem](https://github.com/bonerush/dsh-obsidian-mem) - Плагін-хост DeepSeek Harness, який зберігає документи проєктів і довготривалу…
 - [cccakeee/awesome-dsh-plugins](https://github.com/cccakeee/awesome-dsh-plugins) - Добірний каталог плагінів DeepSeek Harness (DSH), сформований на основі…
-- [Icather/dsh-clean-desktop-shell](https://github.com/Icather/dsh-clean-desktop-shell) - DSH 纯净桌面壳：双击像普通软件一样一键启动，后端活性实时监测 + 托盘快捷启停，零视觉改造.
+- [dsh-pub/dsh-pub](https://github.com/dsh-pub/dsh-pub) - The bilingual, source-backed registry and installer for the DeepSeek Harness…
+- [Icather/dsh-clean-desktop-shell](https://github.com/Icather/dsh-clean-desktop-shell) - Чиста настільна оболонка DSH: запуск подвійним клацанням, як звичайної…
 - [unStone/dsh-xray](https://github.com/unStone/dsh-xray) - Рентген для плагінів DeepSeek Harness: заявлені можливості проти фактичної…
+- [YangShen-SWE/dsh-plugin-simple-pet](https://github.com/YangShen-SWE/dsh-plugin-simple-pet) - Настільний вихованець Windows з білінгом DeepSeek, лімітами підписки Codex…
 - [chnjames/dsh-plugin-market](https://github.com/chnjames/dsh-plugin-market) - Маркетплейс плагінів DSH — встановлення плагінів спільноти одним натисканням у…
-- [GooDAnDReaDY/dsh-moa](https://github.com/GooDAnDReaDY/dsh-moa) - Плагін Mixture of Agents (MoA) для DeepSeek Harness із командою /moa, робочими…
+- [cyanseek/dsh-landscape](https://github.com/cyanseek/dsh-landscape) - Agent-first DeepSeek Harness plugin intelligence: verify existing plugins…
 - [KannaKuron/dsh-ide-git](https://github.com/KannaKuron/dsh-ide-git) - Плагін DSH: вікно інструментів Git рівня IDE як нативна вкладка…
 - [ywsldxk/dsh-plugin-stars](https://github.com/ywsldxk/dsh-plugin-stars) - Рейтинг і каталог плагінів DeepSeek Harness (DSH)｜Рейтинг / каталог плагінів…
 - [cherrchen/dsh-plugin-multi-root-workspace](https://github.com/cherrchen/dsh-plugin-multi-root-workspace) - Робочий простір із кількома папками: дозвольте агенту DSH (DeepSeek Harness)…
 - [majiayu000/dsh-plugin-registry](https://github.com/majiayu000/dsh-plugin-registry) - Реєстр плагінів DeepSeek Harness із пошуком, добірними списками та виявленням…
 - [PerryLink/dsh-plugin-doctor](https://github.com/PerryLink/dsh-plugin-doctor) - Стандарт перевірки плагінів DeepSeek Harness (dsh) без залежностей — контрольні…
-- [Retr67/dsh-opencode-models](https://github.com/Retr67/dsh-opencode-models) - Плагін DeepSeek Harness (DSH): синхронізація моделей OpenCode Go одним…
 - [TheYoungChen/dsh-plugin-market](https://github.com/TheYoungChen/dsh-plugin-market) - Ринок плагінів DeepSeek Harness — перегляд, пошук і встановлення тематичних…
 - [viztor/dsh-opencode-patch](https://github.com/viztor/dsh-opencode-patch) - OpenCode на DeepSeek Harness — плагін DSH, який забезпечує роботу OpenCode Zen…
 - [AI-Scarlett/DSH-Store](https://github.com/AI-Scarlett/DSH-Store) - DSH STORE — сторонній маркетплейс плагінів і захищений менеджер життєвого циклу…
 - [Atelyx/Atelyx](https://github.com/Atelyx/Atelyx) - Atelyx — це людиноцентричний розширюваний настільний робочий простір: чати…
 - [dsh-cc/dsh-cc](https://github.com/dsh-cc/dsh-cc) - Укомплектований усім необхідним агент програмування для DeepSeek Harness…
-- [GooDAnDReaDY/dsh-live-canvas](https://github.com/GooDAnDReaDY/dsh-live-canvas) - Interactive Visual Frontend Studio, Retool-Style CRUD Engine, Time-Travel…
+- [GooDAnDReaDY/dsh-live-canvas](https://github.com/GooDAnDReaDY/dsh-live-canvas) - Інтерактивна візуальна студія фронтенду, CRUD-рушій у стилі Retool…
 - [ItQianChen/dsh-github-flow](https://github.com/ItQianChen/dsh-github-flow) - Надайте DeepSeek Harness Agent нативні руки й ноги для роботи з GitHub! Нативно…
+- [lmzhen/dsh-evolution](https://github.com/lmzhen/dsh-evolution) - Hermes-inspired agent self-evolution plugin family, purpose-built for DeepSeek…
 - [sakanamaru/dsh-minato](https://github.com/sakanamaru/dsh-minato) - dsh-minato — набір для локального розгортання та експлуатації від спільноти для…
 - [Seelerc/dsh-plugin-delete-archived](https://github.com/Seelerc/dsh-plugin-delete-archived) - Безповоротно видаляйте архівні сесії DeepSeek Harness разом із їхньою історією…
 - [tianyagk/dsh-tradewatcher](https://github.com/tianyagk/dsh-tradewatcher) - Вебплагін DeepSeek Harness (DSH): вкладка бічної панелі market-dashboard для…
-- [tiphareth0/dsh-hardssh](https://github.com/tiphareth0/dsh-hardssh) - Запускайте свою роботу з наявними плагінами DSH на віддалених серверах і…
 - [argszero/cordis-plugin-empty-response-retry](https://github.com/argszero/cordis-plugin-empty-response-retry) - Робить безіменну спробу порожньої моделі доступною для повторної спроби — для…
-- [argszero/cordis-plugin-goal-progress-guard](https://github.com/argszero/cordis-plugin-goal-progress-guard) - Progress judgement for dsh autonomous goal rounds: defer the loop while…
+- [argszero/cordis-plugin-goal-progress-guard](https://github.com/argszero/cordis-plugin-goal-progress-guard) - Оцінювання прогресу для автономних раундів цілей dsh: відкласти цикл, поки…
+- [argszero/cordis-plugin-length-stop-overflow](https://github.com/argszero/cordis-plugin-length-stop-overflow) - dsh plugin: turn a truncated length stop into the CONTEXT_WINDOW_EXCEEDED…
 - [eovidiu/cordis-ios](https://github.com/eovidiu/cordis-ios) - Плагіни, які прибирають за собою: порт фреймворку плагінів cordis для iOS і…
 - [Magica-Chen/dsh-preset-codex-claude](https://github.com/Magica-Chen/dsh-preset-codex-claude) - Пресет агента DeepSeek Harness: Codex і Claude Code як субагенти делегування…
 - [validation-engineering/cordis-verus](https://github.com/validation-engineering/cordis-verus) - Середовище виконання плагінів Rust із перевіреним Verus ядром життєвого циклу…
-- [YOU-SHOULD-KNOW-ME/antigrative-dashboard](https://github.com/YOU-SHOULD-KNOW-ME/antigrative-dashboard) - Вбудована панель Antigravity: ток/с, коефіцієнт потрапляння в кеш у стилі DSH…
-- [Jecvay/paseo-dsh-direct](https://github.com/Jecvay/paseo-dsh-direct) - Плагін Paseo Provider для DeepSeek Harness (Direct Provider).
-- [helloHupc/dsh-plugin-hub](https://github.com/helloHupc/dsh-plugin-hub) - DSH 插件聚合站:全网 DeepSeek Harness 插件聚合检索,多源自动去重分类,每小时刷新 |…
-- [HaydenSmith1121/dsh-plugins](https://github.com/HaydenSmith1121/dsh-plugins) - DeepSeek Harness (dsh) 插件市场 —— 目录（一个插件一个配置文件）+ 可视化面板 + 一键安装；插件本体在…
-- [SCP-008-1/dshop](https://github.com/SCP-008-1/dshop) - dsh 插件商城 - 基于 GitHub topic:dsh-plugin 自动发现与每小时定时同步.
+- [helloHupc/dsh-plugin-hub](https://github.com/helloHupc/dsh-plugin-hub) - Агрегатор плагінів DSH: пошук плагінів DeepSeek Harness з усього інтернету…
+- [HaydenSmith1121/dsh-plugins](https://github.com/HaydenSmith1121/dsh-plugins) - Маркетплейс плагінів DeepSeek Harness (dsh) — каталог.
+- [SCP-008-1/dshop](https://github.com/SCP-008-1/dshop) - Магазин плагінів dsh — автоматичне виявлення та щогодинна синхронізація на…
 
 </details>
 
@@ -3227,7 +3230,7 @@ StudyHub: плагін DeepSeek Harness (DSH), що перетворює ваш�
 </details>
 
 <details>
-<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49999983">A Claude Code mod plays MIDI music when it works</a></b> · ⭐3 · 👁️ observed · 3 天</summary>
+<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49999983">A Claude Code mod plays MIDI music when it works</a></b> · ⭐3 · 👁️ observed · 4 天</summary>
 
 ##### 📝 Опис
 
@@ -3315,7 +3318,7 @@ StudyHub: плагін DeepSeek Harness (DSH), що перетворює ваш�
 </details>
 
 <details>
-<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49971594">Terminal Steps: A Claude mod for a daily step goal, synced from Apple Health</a></b> · ⭐3 · 👁️ observed · 5 天</summary>
+<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49971594">Terminal Steps: A Claude mod for a daily step goal, synced from Apple Health</a></b> · ⭐3 · 👁️ observed · 6 天</summary>
 
 ##### 📝 Опис
 
@@ -3359,7 +3362,7 @@ StudyHub: плагін DeepSeek Harness (DSH), що перетворює ваш�
 </details>
 
 <details>
-<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49940121">Getting started with Claude Code mods</a></b> · ⭐2 · 👁️ observed · 8 天</summary>
+<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49940121">Getting started with Claude Code mods</a></b> · ⭐2 · 👁️ observed · 9 天</summary>
 
 ##### 📝 Опис
 
@@ -3430,20 +3433,21 @@ StudyHub: плагін DeepSeek Harness (DSH), що перетворює ваш�
 
 Екосистема зосереджена навколо Python і TypeScript, але типізовані клієнти продовжують з’являтися й іншими мовами. Цю таблицю сформовано на основі самих записів.
 
-| Мова       | Записи | Приклади                                                                                                      |
-| ---------- | ------ | ------------------------------------------------------------------------------------------------------------- |
-| TypeScript | 377    | `anthropics/claude-code`, `anthropics/claude-code-action`, `hamzafer/claude-code-mods`                        |
-| JavaScript | 90     | `karanb192/awesome-claude-code-mods`, `karanb192/claude-code-mods`, `ucsandman/claude-harness`                |
-| Python     | 38     | `anthropics/claude-agent-sdk-python`, `anthropics/claude-code-security-review`, `alexgreensh/token-optimizer` |
-| Shell      | 25     | `anthropics/claude-agent-sdk-typescript`, `0xDarkMatter/claude-mods`, `BeLazy167/claude-mods-skill`           |
-| HTML       | 17     | `awss1i/assay`, `darrell-tw/darrelltw-mods`, `omarcevi/claudemods`                                            |
-| Rust       | 6      | `persiyanov/herdr-reviewr`, `JairoTorregrosa/claude-statusline`, `OpenClawFarm/claude-statusline`             |
-| Go         | 5      | `backstabslash/goccc`, `kylesnowschwartz/tail-claude-hud`, `bunderlog/claude-plugins`                         |
-| PowerShell | 2      | `GoSlowPoke168/claude-statusline`, `YangShen-SWE/dsh-plugin-simple-pet`                                       |
-| C          | 1      | `reporails/arcade`                                                                                            |
-| C#         | 1      | `sakanamaru/dsh-minato`                                                                                       |
-| Lua        | 1      | `crafts69guy/claude-statusline.nvim`                                                                          |
-| Swift      | 1      | `eovidiu/cordis-ios`                                                                                          |
+| Мова       | Записи | Приклади                                                                                                           |
+| ---------- | ------ | ------------------------------------------------------------------------------------------------------------------ |
+| TypeScript | 370    | `anthropics/claude-code`, `anthropics/claude-code-action`, `hamzafer/claude-code-mods`                             |
+| JavaScript | 86     | `karanb192/awesome-claude-code-mods`, `karanb192/claude-code-mods`, `ucsandman/claude-harness`                     |
+| Python     | 39     | `anthropics/claude-agent-sdk-python`, `anthropics/claude-code-security-review`, `alexgreensh/token-optimizer`      |
+| Shell      | 25     | `anthropics/claude-agent-sdk-typescript`, `0xDarkMatter/claude-mods`, `BeLazy167/claude-mods-skill`                |
+| HTML       | 16     | `HeyCubit/effortless`, `awss1i/assay`, `darrell-tw/darrelltw-mods`                                                 |
+| Rust       | 6      | `persiyanov/herdr-reviewr`, `JairoTorregrosa/claude-statusline`, `OpenClawFarm/claude-statusline`                  |
+| Go         | 5      | `backstabslash/goccc`, `kylesnowschwartz/tail-claude-hud`, `bunderlog/claude-plugins`                              |
+| PowerShell | 3      | `GoSlowPoke168/claude-statusline`, `Gabriel-Dalton/claude-statusline-tokens`, `YangShen-SWE/dsh-plugin-simple-pet` |
+| C          | 1      | `reporails/arcade`                                                                                                 |
+| C#         | 1      | `sakanamaru/dsh-minato`                                                                                            |
+| Lua        | 1      | `crafts69guy/claude-statusline.nvim`                                                                               |
+| MDX        | 1      | `jkf87/mod-guide`                                                                                                  |
+| Swift      | 1      | `eovidiu/cordis-ios`                                                                                               |
 
 <sub>Враховуються лише записи, у яких зазначено мову. Документація та записи обговорень не включені до цієї таблиці.</sub>
 
@@ -3455,4 +3459,4 @@ StudyHub: плагін DeepSeek Harness (DSH), що перетворює ваш�
 
 <sub>Незалежний проєкт спільноти. Не пов’язаний із Anthropic, не схвалений і не перевірений ним. Claude Code, Claude і Anthropic — торговельні марки Anthropic. Поведінка продукту може змінюватися без попередження; усе критично важливе перевіряйте за офіційною документацією. Права на ресурси залишаються за їхніми проєктами-джерелами; вони відтворюються лише там, де це дозволено ліцензією.</sub>
 
-<sub>Востаннє оновлено · 2026-10-12T06:04:10+08:00</sub>
+<sub>Востаннє оновлено · 2026-10-12T08:14:15+08:00</sub>

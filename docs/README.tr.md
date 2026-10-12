@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/entries-591-0d9488" alt="entries">
+  <img src="https://img.shields.io/badge/entries-583-0d9488" alt="entries">
   <img src="https://img.shields.io/badge/languages-20-1f6feb" alt="languages">
   <img src="https://img.shields.io/badge/refresh-every%202h-16a34a" alt="refresh">
   <a href="../LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="MIT"></a>
@@ -18,8 +18,8 @@
 <p align="center"><sub><a href="../README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.ru.md">Русский</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.hi.md">हिन्दी</a> · <b>Türkçe</b> · <a href="README.vi.md">Tiếng Việt</a> · <a href="README.th.md">ไทย</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.pl.md">Polski</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.uk.md">Українська</a></sub></p>
 
 > [!NOTE]
-> **Güncel dizin** · Son senkronizasyon: `2026-10-12T06:04:10+08:00` (UTC+8)
-> · Kayıtlar: **591** · Son güncellemede eklenenler: **0** · Uygulama dilleri: **12**
+> **Güncel dizin** · Son senkronizasyon: `2026-10-12T08:14:15+08:00` (UTC+8)
+> · Kayıtlar: **583** · Son güncellemede eklenenler: **0** · Uygulama dilleri: **13**
 
 <sub>Aşağıdaki her kayıt otomatik olarak toplandı, filtrelendi ve yeniden kontrol edildi. Burada ücretli yerleştirme yoktur.</sub>
 
@@ -39,7 +39,7 @@
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/alexgreensh/token-optimizer/main/skills/token-optimizer/assets/dashboard-demo.gif" width="100%" alt="alexgreensh/token-optimizer">
 <b>🧩 <a href="https://github.com/alexgreensh/token-optimizer">alexgreensh/token-optimizer</a></b>
-<sub>⭐2535 · Python · 👁️ observed</sub>
+<sub>⭐2537 · Python · 👁️ observed</sub>
 <sub>Hayalet belirteçleri bul. Onları düzelt. Sıkıştırmadan sağ çık. Bağlam kalitesinin bozulmasını önle.</sub>
 </td>
 </tr>
@@ -47,7 +47,7 @@
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/ruvnet--ruflo/86b2691275e30a26.jpg" width="100%" alt="ruvnet/ruflo">
 <b>🧵 <a href="https://github.com/ruvnet/ruflo">ruvnet/ruflo</a></b>
-<sub>⭐74358 · TypeScript · 👁️ observed</sub>
+<sub>⭐74360 · TypeScript · 👁️ observed</sub>
 <sub>🌊 Özgün agent harness. Akıllı çok oyunculu sürüleri dağıtın, otonom iş akışlarını koordine edin ve konuşmaya dayalı AI sistemleri oluşturun. Uyarlanabilir bellek,…</sub>
 </td>
 <td width="50%" valign="top">
@@ -62,7 +62,7 @@
 - [Claude Code modu nedir](#claude-code-modu-nedir)
 - [Kayıtlar nasıl derecelendiriliyor](#kayıtlar-nasıl-derecelendiriliyor)
 - [Resmî: Anthropic'ın kendi depoları ve sürüm notları](#resmî-anthropicın-kendi-depoları-ve-sürüm-notları) — **14**
-- [Modlar: mod yeteneği kullanılarak oluşturulanlar](#modlar-mod-yeteneği-kullanılarak-oluşturulanlar) — **460**
+- [Modlar: mod yeteneği kullanılarak oluşturulanlar](#modlar-mod-yeteneği-kullanılarak-oluşturulanlar) — **452**
 - [DSH ve Cordis eklenti ekosistemleri](#dsh-ve-cordis-eklenti-ekosistemleri) — **106**
 - [Yazılar, tartışmalar ve videolar](#yazılar-tartışmalar-ve-videolar) — **11**
 - [Uygulama diline göre projeler](#uygulama-diline-göre-projeler)
@@ -93,7 +93,7 @@ Bu alandaki listelerin çoğu, nelerin dahil olduğunu belirtmekle yetinir. Bu l
 Anthropic'ın kendi Claude Code depoları ve mod kapsamını tanımlayan sürümler. Özetlenmek yerine kaynaktan okuyun.
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code">anthropics/claude-code</a></b> · ⭐150215 · TypeScript · ✅ official · 0 天</summary>
+<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code">anthropics/claude-code</a></b> · ⭐150230 · TypeScript · ✅ official · 0 天</summary>
 
 ##### 📝 Özet
 
@@ -113,7 +113,7 @@ Claude Code terminalinizde çalışan, kod tabanınızı anlayan ve rutin görev
 
 | Metrik         | Değer      |
 | -------------- | ---------- |
-| Yıldızlar      | **150215** |
+| Yıldızlar      | **150230** |
 | Son gönderme   | 2026-10-11 |
 | İlk listelenme | 2026-10-04 |
 
@@ -397,7 +397,7 @@ Modlar için `$.tool.register`'e `isDeferred` eklendi: `false`, aracın şeması
 Buradaki her giriş, Claude Code'un 2.1.287 sürümünde kazandığı yeteneğin kullanıldığına dair kanıt gösterir: `ui.render` üzerinden çizim yapar, bir bölmeye, banda veya karta sahip olur, `$.ui.selection()` okur, `agent.spawn` ile ekip arkadaşları oluşturur ya da açıkça mod olduğunu belirtir.
 
 <details>
-<summary>🧩 <b><a href="https://github.com/alexgreensh/token-optimizer">alexgreensh/token-optimizer</a></b> · ⭐2535 · Python · 👁️ observed · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/alexgreensh/token-optimizer">alexgreensh/token-optimizer</a></b> · ⭐2537 · Python · 👁️ observed · 0 天</summary>
 
 ##### 📝 Özet
 
@@ -415,7 +415,7 @@ Hayalet belirteçleri bul. Onları düzelt. Sıkıştırmadan sağ çık. Bağla
 
 | Metrik         | Değer      |
 | -------------- | ---------- |
-| Yıldızlar      | **2535**   |
+| Yıldızlar      | **2537**   |
 | Son gönderme   | 2026-10-11 |
 | İlk listelenme | 2026-10-11 |
 
@@ -433,7 +433,7 @@ Hayalet belirteçleri bul. Onları düzelt. Sıkıştırmadan sağ çık. Bağla
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/karanb192/awesome-claude-code-mods">karanb192/awesome-claude-code-mods</a></b> · ⭐497 · JavaScript · 👁️ observed · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/karanb192/awesome-claude-code-mods">karanb192/awesome-claude-code-mods</a></b> · ⭐498 · JavaScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 Özet
 
@@ -453,7 +453,7 @@ GitHub üzerinden taranan, her modun ağ üzerinden okuyabileceği, yazabileceğ
 
 | Metrik         | Değer      |
 | -------------- | ---------- |
-| Yıldızlar      | **497**    |
+| Yıldızlar      | **498**    |
 | Son gönderme   | 2026-10-11 |
 | İlk listelenme | 2026-10-04 |
 
@@ -462,7 +462,7 @@ GitHub üzerinden taranan, her modun ağ üzerinden okuyabileceği, yazabileceğ
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/hamzafer/claude-code-mods">hamzafer/claude-code-mods</a></b> · ⭐188 · TypeScript · 👁️ observed · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/hamzafer/claude-code-mods">hamzafer/claude-code-mods</a></b> · ⭐191 · TypeScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 Özet
 
@@ -482,7 +482,7 @@ Claude Code modları: istemin üstüne canlı satırlar, korumalar, bölmeler ve
 
 | Metrik         | Değer      |
 | -------------- | ---------- |
-| Yıldızlar      | **188**    |
+| Yıldızlar      | **191**    |
 | Son gönderme   | 2026-10-11 |
 | İlk listelenme | 2026-10-11 |
 
@@ -498,7 +498,7 @@ Claude Code modları: istemin üstüne canlı satırlar, korumalar, bölmeler ve
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/karanb192/cache-tax">karanb192/cache-tax</a></b> · ⭐142 · TypeScript · 👁️ observed · 7 天</summary>
+<summary>🧩 <b><a href="https://github.com/karanb192/cache-tax">karanb192/cache-tax</a></b> · ⭐144 · TypeScript · 👁️ observed · 7 天</summary>
 
 ##### 📝 Özet
 
@@ -516,7 +516,7 @@ Molalar sırasında Claude Code'un prompt önbelleğini sıcak tutun ve soğuk g
 
 | Metrik         | Değer      |
 | -------------- | ---------- |
-| Yıldızlar      | **142**    |
+| Yıldızlar      | **144**    |
 | Son gönderme   | 2026-10-04 |
 | İlk listelenme | 2026-10-10 |
 
@@ -527,6 +527,42 @@ Molalar sırasında Claude Code'un prompt önbelleğini sıcak tutun ve soğuk g
 <table><tr><th align="center" width="50%">🖼 Görsel</th><th align="center" width="50%">🎬 Video</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/karanb192--cache-tax/9ba5b1dbc9440791.png" width="100%" alt="karanb192/cache-tax screenshot"></td>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/karanb192--cache-tax/e1a7cdd41b0efd1b.gif" width="100%" alt="karanb192/cache-tax animation"><br><sub>animasyonlu kayıt · <a href="https://raw.githubusercontent.com/karanb192/cache-tax/main/docs/assets/cache-cost-explainer.mp4">Videoyu aç</a></sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧩 <b><a href="https://github.com/HeyCubit/effortless">HeyCubit/effortless</a></b> · ⭐127 · HTML · 👁️ observed · 0 天</summary>
+
+##### 📝 Özet
+
+Claude Code mod: picks the reasoning effort for every prompt, shows the prompt cache and context, and hands off or compacts in one click
+
+<sub>🔧 Kodda kullanıldığı bulundu: `docs/agent-panel/PLAN.md`, `hooks/register.tsx`</sub>
+
+##### 📌 Temel bilgiler
+
+| Alan     | Değer                                                                    |
+| -------- | ------------------------------------------------------------------------ |
+| Kategori | `Modlar: mod yeteneği kullanılarak oluşturulanlar`                       |
+| Kanıt    | `kendi metni bir moddan (API) söz ediyor veya mod yeteneğini bildiriyor` |
+| Dil      | HTML                                                                     |
+
+##### 📊 Veri
+
+| Metrik         | Değer      |
+| -------------- | ---------- |
+| Yıldızlar      | **127**    |
+| Son gönderme   | 2026-10-11 |
+| İlk listelenme | 2026-10-12 |
+
+🏷 `ai-tools` · `anthropic` · `claude` · `claude-code` · `claude-code-plugin` · `developer-tools` · `prompt-caching`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Görsel</th><th align="center" width="50%">🎬 Video</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/heycubit--effortless/ad0a6472f7a34cd7.png" width="100%" alt="HeyCubit/effortless screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/heycubit--effortless/fcef2f9593961020.gif" width="100%" alt="HeyCubit/effortless animation"><br><sub>animasyonlu kayıt</sub></td>
 </tr></table>
 
 </details>
@@ -563,7 +599,7 @@ Web sayfaları için aracı-yerel bir QA CLI. Deterministik, yazılacak test yok
 
 ##### 📝 Özet
 
-Claude Code için görünümler: simgeli araç satırları, diff, tablo ve Mermaid grafik kartları, kullanım bandı ve on beş tema. /skin bunları canlı olarak değiştirir.
+Claude Code için kaplamalar: simgeli araç satırları, fark, tablo ve Mermaid grafik kartları, kullanım bandı ve on beş tema. /skin bunları anında değiştirir.
 
 ##### 📌 Temel bilgiler
 
@@ -593,7 +629,7 @@ Claude Code için görünümler: simgeli araç satırları, diff, tablo ve Merma
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/iamumeransari/claude-show-your-work">iamumeransari/claude-show-your-work</a></b> · ⭐91 · TypeScript · 👁️ observed · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/iamumeransari/claude-show-your-work">iamumeransari/claude-show-your-work</a></b> · ⭐98 · TypeScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 Özet
 
@@ -611,7 +647,7 @@ Claude Code, görüntüleri gösterir ve videoları doğrudan terminalinizde oyn
 
 | Metrik         | Değer      |
 | -------------- | ---------- |
-| Yıldızlar      | **91**     |
+| Yıldızlar      | **98**     |
 | Son gönderme   | 2026-10-11 |
 | İlk listelenme | 2026-10-11 |
 
@@ -686,7 +722,7 @@ Bir claude code modları koleksiyonu
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/scasella/claude-flightdeck">scasella/claude-flightdeck</a></b> · ⭐67 · TypeScript · 👁️ observed · 9 天</summary>
+<summary>🧩 <b><a href="https://github.com/scasella/claude-flightdeck">scasella/claude-flightdeck</a></b> · ⭐68 · TypeScript · 👁️ observed · 9 天</summary>
 
 ##### 📝 Özet
 
@@ -704,7 +740,7 @@ Terminalinize canlı bir aracı panosu yerleştiren bir Claude Code modu: bağla
 
 | Metrik         | Değer      |
 | -------------- | ---------- |
-| Yıldızlar      | **67**     |
+| Yıldızlar      | **68**     |
 | Son gönderme   | 2026-10-02 |
 | İlk listelenme | 2026-10-10 |
 
@@ -745,40 +781,13 @@ Darrell Wang tarafından hazırlanan Claude Code modları — istemin üstünde 
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/0xDarkMatter/claude-mods">0xDarkMatter/claude-mods</a></b> · ⭐59 · Shell · 👁️ observed · 4 天</summary>
-
-##### 📝 Özet
-
-Claude Code için uzman Skills'ler, aracılar, komutlar, kurallar, kancalar ve çıktı stilleri — oturum sürekliliği + gerçek dünya geliştirme iş akışları için modern CLI araçları
-
-<sub>🔧 Kodda kullanıldığı bulundu: `justfile`, `skills/auto-skill/SKILL.md`, `skills/task-runner/SKILL.md`, `skills/find-replace/SKILL.md`</sub>
-
-##### 📌 Temel bilgiler
-
-| Alan     | Değer                                                                    |
-| -------- | ------------------------------------------------------------------------ |
-| Kategori | `Modlar: mod yeteneği kullanılarak oluşturulanlar`                       |
-| Kanıt    | `kendi metni bir moddan (API) söz ediyor veya mod yeteneğini bildiriyor` |
-| Dil      | Shell                                                                    |
-
-##### 📊 Veri
-
-| Metrik         | Değer      |
-| -------------- | ---------- |
-| Yıldızlar      | **59**     |
-| Son gönderme   | 2026-10-07 |
-| İlk listelenme | 2026-10-11 |
-
-🏷 `agent-skills` · `ai-agents` · `ai-tools` · `anthropic` · `claude` · `claude-code` · `claude-skills` · `developer-tools`
-
-</details>
-
-<details>
 <summary>🧩 <b><a href="https://github.com/zycck/claude-mods">zycck/claude-mods</a></b> · ⭐46 · TypeScript · 👁️ observed · 3 天</summary>
 
 ##### 📝 Özet
 
 Claude Code modları: istemin üstünde canlı plan ilerleme çubukları
+
+<sub>🔧 Kodda kullanıldığı bulundu: `README.md`</sub>
 
 ##### 📌 Temel bilgiler
 
@@ -806,7 +815,7 @@ Claude Code modları: istemin üstünde canlı plan ilerleme çubukları
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/henrik-thevibe/Claude-Fables">henrik-thevibe/Claude-Fables</a></b> · ⭐32 · TypeScript · 👁️ observed · 8 天</summary>
+<summary>🧩 <b><a href="https://github.com/henrik-thevibe/Claude-Fables">henrik-thevibe/Claude-Fables</a></b> · ⭐32 · TypeScript · 👁️ observed · 9 天</summary>
 
 ##### 📝 Özet
 
@@ -1050,7 +1059,7 @@ On Claude Code modu, başlangıç kılavuzları, oluşturma istemleri, güvenli 
 
 ##### 📝 Özet
 
-Use Codex, GLM, and other coding agents as Claude Code subagents.
+Codex, GLM ve diğer kodlama ajanlarını Claude Code alt ajanları olarak kullanın.
 
 ##### 📌 Temel bilgiler
 
@@ -1065,7 +1074,7 @@ Use Codex, GLM, and other coding agents as Claude Code subagents.
 | Metrik         | Değer      |
 | -------------- | ---------- |
 | Yıldızlar      | **16**     |
-| Son gönderme   | 2026-10-11 |
+| Son gönderme   | 2026-10-12 |
 | İlk listelenme | 2026-10-12 |
 
 🏷 `agent-orchestration` · `ai-agents` · `claude-code` · `claude-code-mods` · `claude-code-plugin` · `codex` · `developer-tools` · `glm`
@@ -1116,7 +1125,7 @@ Claude Code modları: usage-band, 5 saatlik/7 günlük limitlerinizi, bağlam pe
 
 ##### 📝 Özet
 
-Claude Code mod that keeps the prompt cache warm and shows each refresh's cost and saving
+İstem önbelleğini sıcak tutan ve her yenilemenin maliyetini ve tasarrufunu gösteren Claude Code modu
 
 ##### 📌 Temel bilgiler
 
@@ -1141,6 +1150,38 @@ Claude Code mod that keeps the prompt cache warm and shows each refresh's cost a
 <table><tr><th align="center" width="50%">🖼 Görsel</th><th align="center" width="50%">🎬 Video</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/paulbkim-dev--claude-code-cache-warmer/5d291d279a3967a1.gif" width="100%" alt="paulbkim-dev/claude-code-cache-warmer screenshot"></td>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/paulbkim-dev--claude-code-cache-warmer/5d291d279a3967a1.gif" width="100%" alt="paulbkim-dev/claude-code-cache-warmer animation"><br><sub>animasyonlu kayıt</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧩 <b><a href="https://github.com/promptadvisers/claude-mods-computer-use-threads">promptadvisers/claude-mods-computer-use-threads</a></b> · ⭐12 · JavaScript · 👁️ observed · 6 天</summary>
+
+##### 📝 Özet
+
+İki Claude Code modu: Codex computer-use bridge ve koordineli Claude oturumları. Kaynak kodu, derleme istemleri, kurulum ve testler.
+
+##### 📌 Temel bilgiler
+
+| Alan     | Değer                                                                    |
+| -------- | ------------------------------------------------------------------------ |
+| Kategori | `Modlar: mod yeteneği kullanılarak oluşturulanlar`                       |
+| Kanıt    | `kendi metni bir moddan (API) söz ediyor veya mod yeteneğini bildiriyor` |
+| Dil      | JavaScript                                                               |
+
+##### 📊 Veri
+
+| Metrik         | Değer      |
+| -------------- | ---------- |
+| Yıldızlar      | **12**     |
+| Son gönderme   | 2026-10-05 |
+| İlk listelenme | 2026-10-11 |
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Görsel</th><th align="center" width="50%">🎬 Video</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/promptadvisers--claude-mods-computer-use-threads/c08dc292e500cd09.png" width="100%" alt="promptadvisers/claude-mods-computer-use-threads screenshot"></td>
+<td align="center" valign="top"><sub>medya yayınlanmadı</sub></td>
 </tr></table>
 
 </details>
@@ -1248,38 +1289,6 @@ Claude Code için on açık kaynaklı mod: canlı bölmeler, bantlar, durum sat�
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/promptadvisers/claude-mods-computer-use-threads">promptadvisers/claude-mods-computer-use-threads</a></b> · ⭐11 · JavaScript · 👁️ observed · 6 天</summary>
-
-##### 📝 Özet
-
-İki Claude Code modu: Codex computer-use bridge ve koordineli Claude oturumları. Kaynak kodu, derleme istemleri, kurulum ve testler.
-
-##### 📌 Temel bilgiler
-
-| Alan     | Değer                                                                    |
-| -------- | ------------------------------------------------------------------------ |
-| Kategori | `Modlar: mod yeteneği kullanılarak oluşturulanlar`                       |
-| Kanıt    | `kendi metni bir moddan (API) söz ediyor veya mod yeteneğini bildiriyor` |
-| Dil      | JavaScript                                                               |
-
-##### 📊 Veri
-
-| Metrik         | Değer      |
-| -------------- | ---------- |
-| Yıldızlar      | **11**     |
-| Son gönderme   | 2026-10-05 |
-| İlk listelenme | 2026-10-11 |
-
----
-
-<table><tr><th align="center" width="50%">🖼 Görsel</th><th align="center" width="50%">🎬 Video</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/promptadvisers--claude-mods-computer-use-threads/c08dc292e500cd09.png" width="100%" alt="promptadvisers/claude-mods-computer-use-threads screenshot"></td>
-<td align="center" valign="top"><sub>medya yayınlanmadı</sub></td>
-</tr></table>
-
-</details>
-
-<details>
 <summary>🧩 <b><a href="https://github.com/furqan-khan07/pixelband">furqan-khan07/pixelband</a></b> · ⭐10 · TypeScript · 👁️ observed · 7 天</summary>
 
 ##### 📝 Özet
@@ -1350,7 +1359,7 @@ Mod olarak oluşturulmuş Claude Code oturum izleyicileri: bağlam penceresi, pl
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/deepsteve/deepsteve">deepsteve/deepsteve</a></b> · ⭐9 · JavaScript · 👁️ observed · 3 天</summary>
+<summary>🧩 <b><a href="https://github.com/deepsteve/deepsteve">deepsteve/deepsteve</a></b> · ⭐9 · JavaScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 Özet
 
@@ -1371,7 +1380,7 @@ Ajanlarınızın oluşturduğu Claude Code ve Codex terminalleriniz için bir ku
 | Metrik         | Değer      |
 | -------------- | ---------- |
 | Yıldızlar      | **9**      |
-| Son gönderme   | 2026-10-08 |
+| Son gönderme   | 2026-10-11 |
 | İlk listelenme | 2026-10-11 |
 
 🏷 `ai-coding` · `ai-tools` · `browser-terminal` · `claude-code` · `codex` · `coding-agent` · `developer-tools` · `devtools`
@@ -1520,8 +1529,9 @@ Siz yazarken Markdown, Claude Code'un istem kutusuna çizilir. Çitli kod, çiti
 </details>
 
 <details>
-<summary><b>Bu kategoride daha fazlası</b> <sub>· 426</sub></summary>
+<summary><b>Bu kategoride daha fazlası</b> <sub>· 418</sub></summary>
 
+- [0xDarkMatter/claude-mods](https://github.com/0xDarkMatter/claude-mods) - Claude Code için uzman Skills.
 - [whyashthakker/awesome-claude-code-mods](https://github.com/whyashthakker/awesome-claude-code-mods) - Claude Code ile kullanabileceğiniz 100.
 - [karanb192/claude-code-mods](https://github.com/karanb192/claude-code-mods) - Claude Mod.
 - [ucsandman/claude-harness](https://github.com/ucsandman/claude-harness) - Her gün çalıştırdığım Claude Code harness.
@@ -1551,14 +1561,14 @@ Siz yazarken Markdown, Claude Code'un istem kutusuna çizilir. Çitli kod, çiti
 - [ofeklevy11/claude-code-hud](https://github.com/ofeklevy11/claude-code-hud) - İstem kutusunun üstünde iki Claude Code modu: bağlam penceresi ölçer, 5 saatlik…
 - [VedantAndhale/claude-pro-kit](https://github.com/VedantAndhale/claude-pro-kit) - Claude Pro planının daha uzun süre dayanmasını sağlayın: tam kullanım HUD.
 - [xuanji86/claude-mdview](https://github.com/xuanji86/claude-mdview) - Claude Code.
+- [hahmjuntae/claude-mods-image-preview](https://github.com/hahmjuntae/claude-mods-image-preview) - Claude Code modu: herhangi bir terminalde istemin üstünde yapıştırılan…
 - [leopiney/wolfbud-claude-mod](https://github.com/leopiney/wolfbud-claude-mod) - Claude Code için sesli çalışma arkadaşı.
 - [borabiricik/claude-mods](https://github.com/borabiricik/claude-mods) - Claude Code modları: typing-speed, istem başına istatistiklerle canlı yazma…
 - [charimsma/dopa-mode](https://github.com/charimsma/dopa-mode) - Claude Code için havai fişekler: her tuş vuruşu, araç çağrısı, commit ve…
 - [DrishtantKaushal/AwesomeClaudeCodeMods](https://github.com/DrishtantKaushal/AwesomeClaudeCodeMods) - Animasyonlu demolar, kategori listeleri ve doğrudan kaynak bağlantılarıyla…
 - [galElmalah/claude-mods](https://github.com/galElmalah/claude-mods) - Claude Code modu: mermaid diyagramları transkript içinde satır içi olarak…
-- [GarvitNangru/claude-code-mods](https://github.com/GarvitNangru/claude-code-mods) - Mods and skins for Claude Code: a live progress bar for Claude.
+- [GarvitNangru/claude-code-mods](https://github.com/GarvitNangru/claude-code-mods) - Claude Code için modlar ve görünümler: Claude görevleri için canlı ilerleme…
 - [ha-ptt0601/cc-mods](https://github.com/ha-ptt0601/cc-mods) - Küçük Claude Code modülleri (işlev kancası eklentileri): session-switcher ve…
-- [hahmjuntae/claude-mods-image-preview](https://github.com/hahmjuntae/claude-mods-image-preview) - Claude Code modu: herhangi bir terminalde istemin üstünde yapıştırılan…
 - [Jhonatan-de-Souza/ClaudeMods](https://github.com/Jhonatan-de-Souza/ClaudeMods) - Claude Code modları: Claude Tools menüsü, Zen modu, terminal temaları, çaba ve…
 - [LeeHigma0201/claude-code-mods](https://github.com/LeeHigma0201/claude-code-mods) - Claude Code modları: mod-scout (en çok kullanacağınız modları bulur)…
 - [Nongfsq/frank-claude-cockpit](https://github.com/Nongfsq/frank-claude-cockpit) - Aynı anda birçok oturum çalıştırmak için iki Claude Code modu: istemin üstünde…
@@ -1573,7 +1583,7 @@ Siz yazarken Markdown, Claude Code'un istem kutusuna çizilir. Çitli kod, çiti
 - [mthli/cc-shorts](https://github.com/mthli/cc-shorts) - Claude Code.
 - [NarenDawar/narens-claude-toolkit](https://github.com/NarenDawar/narens-claude-toolkit) - Naren.
 - [neteye-platform/cc-split-diff-view](https://github.com/neteye-platform/cc-split-diff-view) - Edit ve Write farklarını yan yana iki sütunda çizen Claude Code modu.
-- [noash-xrc/claude-tools](https://github.com/noash-xrc/claude-tools) - Claude Code mod that lets Claude log unfinished work to Docs/todos.md, with a…
+- [noash-xrc/claude-tools](https://github.com/noash-xrc/claude-tools) - Claude Code.
 - [raresmun/claude-mods](https://github.com/raresmun/claude-mods) - Claude Code için modlar: Claude.
 - [reporails/arcade](https://github.com/reporails/arcade) - Claude Code modları olarak klasik masaüstü oyunları;
 - [testy-cool/awesome-claude-code-mods](https://github.com/testy-cool/awesome-claude-code-mods) - Eklenti pazaryeri olarak kurulabilen, derlenmiş bir Claude Code modları…
@@ -1582,27 +1592,27 @@ Siz yazarken Markdown, Claude Code'un istem kutusuna çizilir. Çitli kod, çiti
 - [yash-gadodia/claude-mods](https://github.com/yash-gadodia/claude-mods) - Bir ajanın dürüst kalmasını sağlayan Claude Code modları — kapsamı koruyan…
 - [alexcz-a11y/claude-mods](https://github.com/alexcz-a11y/claude-mods) - Claude Code mod koleksiyonum; her dizinde bir mod.
 - [ArgonQQ/sipp](https://github.com/ArgonQQ/sipp) - 💧 Claude Code için pasif-agresif bir su içme hatırlatıcısı.
-- [bostonaholic/claude-mods](https://github.com/bostonaholic/claude-mods) - The Claude Code mods I use.
+- [bostonaholic/claude-mods](https://github.com/bostonaholic/claude-mods) - Kullandığım Claude Code modları.
 - [CalvoSeko/claude-factory-mod](https://github.com/CalvoSeko/claude-factory-mod) - agent-graph: ajan grafikleri tasarlamak ve çalıştırmak için bir Claude Code…
 - [chenyuxiaojin/cyxj-notch](https://github.com/chenyuxiaojin/cyxj-notch) - Claude Code için macOS çentik gösterge paneli: kullanım sınırları, açık…
-- [Danovich/turntype](https://github.com/Danovich/turntype) - A typing test for the time while Claude works. A Claude Code mod.
+- [Danovich/turntype](https://github.com/Danovich/turntype) - Claude çalışırken zaman geçirmek için bir yazma testi. Bir Claude Code modu.
 - [DarioFontanel/claude-code-mods](https://github.com/DarioFontanel/claude-code-mods) - Claude Code başına mod: prompt cache çubuğu, sonraki adımlar, hızlı düğmeler ve…
 - [dougcunha/claude-mods](https://github.com/dougcunha/claude-mods) - Claude Code için modlar: function-hooks API eklentisiyle oluşturulmuş paneller…
-- [drkokorev/context-diet](https://github.com/drkokorev/context-diet) - Trims huge tool outputs before they fill Claude Code.
+- [DragosMocrii/proc-stats](https://github.com/DragosMocrii/proc-stats) - Claude Code modu: oturumun belleğini, CPU.
+- [drkokorev/context-diet](https://github.com/drkokorev/context-diet) - Büyük araç çıktılarını Claude Code.
 - [EgonLeitner/dashband](https://github.com/EgonLeitner/dashband) - Claude Code için istem alt bilgisinde ve istemin üzerinde istem önbelleğini…
-- [Elesiann/usagemeter](https://github.com/Elesiann/usagemeter) - Cost, tokens and plan limits of your coding agents.
+- [Elesiann/usagemeter](https://github.com/Elesiann/usagemeter) - Kodlama ajanlarınızın (Claude Code, Codex, OpenCode, Antigravity) maliyeti…
 - [estruyf/claude-stats-mod](https://github.com/estruyf/claude-stats-mod) - Kullanım limitlerinizi ve harcamalarınızı istemin üzerindeki bantta gösteren…
 - [herman925/925-cc-plugins](https://github.com/herman925/925-cc-plugins) - Herman.
 - [homieyangg/claude-code-mods](https://github.com/homieyangg/claude-code-mods) - Claude Code modları: planlar için ilerleme çubukları, Claude.
 - [lorenzh/rabe](https://github.com/lorenzh/rabe) - Claude Code.
-- [macleodlabs-ai/claudeflow](https://github.com/macleodlabs-ai/claudeflow) - Claude Code mods by MacLeod Labs: streams untangles a session.
+- [macleodlabs-ai/claudeflow](https://github.com/macleodlabs-ai/claudeflow) - MacLeod Labs imzalı Claude Code modları: streams, bir oturumun iç içe geçmiş…
 - [MankhongGarden/claude-code-mods-field-notes](https://github.com/MankhongGarden/claude-code-mods-field-notes) - Windows üzerindeki Claude Code modları hakkında birinci gün saha notları…
-- [MichaelP17/claude-mods](https://github.com/MichaelP17/claude-mods) - Claude Code kurulumumda oluşturduğum ve kişisel olarak kullandığım modlar.
-- [NMenzel/claude-devtools-mod](https://github.com/NMenzel/claude-devtools-mod) - Claude DevTools: a debugger for Claude Code tool calls.
-- [olddonkey/cache-refresher](https://github.com/olddonkey/cache-refresher) - Claude Code mod: shows when the prompt cache expires and what a lapse would…
+- [NMenzel/claude-devtools-mod](https://github.com/NMenzel/claude-devtools-mod) - Claude DevTools: Claude Code araç çağrıları için hata ayıklayıcı.
+- [oMaN-Rod/claude-code-widgets](https://github.com/oMaN-Rod/claude-code-widgets) - Small cards that sit under the Claude Code prompt, or docked beside the…
 - [patitow/claude-mod-cost-visibility](https://github.com/patitow/claude-mod-cost-visibility) - Claude Code modu: istemin üzerinde canlı maliyet, bağlam ve plan kota…
 - [rbartoli/agent-usage-guard](https://github.com/rbartoli/agent-usage-guard) - Alt ajanların çoğalmasını, yoğun bağlamlı istemleri ve yeniden deneme…
-- [revenantworks/claude-skills](https://github.com/revenantworks/claude-skills) - 28 Agent Skills for Claude in five packs.
+- [revenantworks/claude-skills](https://github.com/revenantworks/claude-skills) - Beş pakette Claude için 28 Agent Skills.
 - [schreibse/claude-code-mods](https://github.com/schreibse/claude-code-mods) - claude için code-mods.
 - [shimo4228/harness-scope](https://github.com/shimo4228/harness-scope) - Genel becerilerinizi, aracıları, kuralları ve araçlarınızı adlandırılmış…
 - [simplecore-inc/claude-mods](https://github.com/simplecore-inc/claude-mods) - Claude Code eklentileri (modlar): birkaç Claude hesabı arasında geçiş yapın…
@@ -1613,60 +1623,58 @@ Siz yazarken Markdown, Claude Code'un istem kutusuna çizilir. Çitli kod, çiti
 - [theonly1me/claude-code-mods](https://github.com/theonly1me/claude-code-mods) - Tarafımdan oluşturulmuş bir dizi claude code modu.
 - [y-hirakaw/claude-code-mods](https://github.com/y-hirakaw/claude-code-mods) - Claude Code modları. touch-map: Claude tarafından listelenen, okunan…
 - [yodakeisuke/claudelingo](https://github.com/yodakeisuke/claudelingo) - Claude Code ile çalışırken yabancı bir dil öğrenin.
-- [20alexl/windvane](https://github.com/20alexl/windvane) - Babysits a long Claude Code session so you don.
+- [20alexl/windvane](https://github.com/20alexl/windvane) - Uzun bir Claude Code oturumunu sizin yerinize takip eder: bağlamın dolmasını…
 - [alaturqua/tower-mods](https://github.com/alaturqua/tower-mods) - Tek bir kontrol kulesinden birden fazla depoda çok sayıda oturum çalıştırmak…
 - [andrewbakercloudscale/claude-code-cost-sidebar](https://github.com/andrewbakercloudscale/claude-code-cost-sidebar) - Claude Code için canlı maliyet, token ve bağlam kullanımı kenar çubuğu: oturum…
-- [atharv6f/headway](https://github.com/atharv6f/headway) - Goal, tasks and agents above your Claude Code prompt — zero setup.
+- [atharv6f/headway](https://github.com/atharv6f/headway) - Claude Code isteminizin üzerinde hedef, görevler ve agent.
 - [BjoernSchotte/ccmod-amp](https://github.com/BjoernSchotte/ccmod-amp) - Claude Code içinde internet radyosu: cliamp kenar çubuğu, mini oynatıcı…
-- [Bocskay-Botond/claude-code-mods](https://github.com/Bocskay-Botond/claude-code-mods) - Eğlenceli, kullanışlı Claude Code modları: isteminizin üzerinde pikselli bir…
 - [chrisluo5311/squad-chat](https://github.com/chrisluo5311/squad-chat) - Claude pişiriyor. Ekibinizle sohbet edin.
 - [comertial/comertial-mods](https://github.com/comertial/comertial-mods) - Gerçek Mühendisler için Claude Code modları.
-- [CrazyCoder/claude-desktop-recap](https://github.com/CrazyCoder/claude-desktop-recap) - Claude Code&#x27;s terminal session recap, in the Claude desktop app&#x27;s Code tab.
+- [CrazyCoder/claude-desktop-recap](https://github.com/CrazyCoder/claude-desktop-recap) - Claude Code.
 - [DarkVelours/claude-code-galactic-battle](https://github.com/DarkVelours/claude-code-galactic-battle) - Claude Code.
 - [Davron2004/slash-coverage](https://github.com/Davron2004/slash-coverage) - Her Claude Code ajanının bağlamında hangi dosyaların olduğunu ve her birinden…
-- [DragosMocrii/proc-stats](https://github.com/DragosMocrii/proc-stats) - Claude Code mod: status line with the session.
-- [drakulavich/cogload](https://github.com/drakulavich/cogload) - Aklınızı serin tutun. Claude Code günleriniz için bir termometre: diskinizde…
 - [enhki/claude-mods](https://github.com/enhki/claude-mods) - Terminal ve masaüstü uygulaması için küçük Claude Code modları.
-- [erte-del/claude-mods](https://github.com/erte-del/claude-mods) - Claude Code mods (plugin marketplace): live sidebar with context, cost and…
-- [ewxgwy1987/claude-code-progress-board](https://github.com/ewxgwy1987/claude-code-progress-board) - Claude Code modu: görevler, alt ajanlar, iş akışı çalıştırmaları, hedef ve araç…
-- [ewxgwy1987/claude-code-usage-meter](https://github.com/ewxgwy1987/claude-code-usage-meter) - Claude Code modu: plan hız sınırlarını, bağlam doluluğunu, oturum maliyetini ve…
+- [erte-del/claude-mods](https://github.com/erte-del/claude-mods) - Claude Code modları (eklenti mağazası): bağlam, maliyet ve kullanım…
 - [Exdenta/ambient-spanish](https://github.com/Exdenta/ambient-spanish) - Ajan yanıtlarına İspanyolca kelimeler ekleyen Claude CLI becerisi + modu.
 - [FrBmt-BIGetNouf/alarum-claude-mod](https://github.com/FrBmt-BIGetNouf/alarum-claude-mod) - Claude Code prompt.
 - [FrBmt-BIGetNouf/floatee-claude-mod](https://github.com/FrBmt-BIGetNouf/floatee-claude-mod) - Floatee bekleme listeniz Claude Code isteminin üzerinde: yapılacaklarınızı tek…
 - [gonzalonicolasr/claude-code-nerv](https://github.com/gonzalonicolasr/claude-code-nerv) - Claude Code için Evangelion tarzı kenar çubuğu: bağlam, kota, etkinlik, PR.
 - [gregdotca/ccmod-the-machine](https://github.com/gregdotca/ccmod-the-machine) - Onu Person of Interest dizisindeki The Machine olarak yeniden biçimlendiren bir…
-- [HyunjunJeon/claude-workflow-mods](https://github.com/HyunjunJeon/claude-workflow-mods) - dag-workflow: canlı DAG bölmesiyle alt agent.
+- [herlonventura/claude-model-squad](https://github.com/herlonventura/claude-model-squad) - Claude Code modu: pikselli bir ekip her görev için doğru modeli.
 - [ibrahimkobeissy/claude-mods](https://github.com/ibrahimkobeissy/claude-mods) - Claude Code için açık kaynaklı modlar: bölmeler, durum satırları, bildirimler…
 - [jduerrmann/agent-crew](https://github.com/jduerrmann/agent-crew) - Her alt ajan, dokunduğu dosyalar ve oturumunuzun kullanımı ile maliyeti için…
 - [jonyfs/astrolabe](https://github.com/jonyfs/astrolabe) - 🧭 Claude Code mod: oturum durumu, canlı Spec Kit ilerlemesi ve kullanım…
 - [kongyo2/context-view](https://github.com/kongyo2/context-view) - Bağlam penceresi, istemin üzerinde tek satır olarak;
 - [kyledarling-io/claude-code-desktop-hud](https://github.com/kyledarling-io/claude-code-desktop-hud) - Claude Code Desktop için canlı görev HUD.
+- [LupusMalusDeviant/mod-box](https://github.com/LupusMalusDeviant/mod-box) - Tek bir eklentide on dört Claude Code modu;
 - [m4cd4r4/clear-resume](https://github.com/m4cd4r4/clear-resume) - Claude Code için ücretsiz, açık kaynaklı bir eklenti.
 - [maxsoldev/pstash](https://github.com/maxsoldev/pstash) - Prompt.
 - [Mechazawa/claude-inline-images](https://github.com/Mechazawa/claude-inline-images) - Ghostty ve kitty.
 - [meganemura/pull-request-pane](https://github.com/meganemura/pull-request-pane) - Oturumun GitHub pull request.
 - [muctebadikmen/claude-code-araclari](https://github.com/muctebadikmen/claude-code-araclari) - Claude Code modları: otomatik devir ve ilerleme çubuğu.
-- [nkapila6/sfx-gen](https://github.com/nkapila6/sfx-gen) - Claude Code modu: yerel bir Stable Audio modeliyle (sa3.cpp) metin…
 - [NotRedFox/NotRedFoxs-Claude-skills](https://github.com/NotRedFox/NotRedFoxs-Claude-skills) - Claude Code becerileri: belge doğrulayıcı, kod denetçisi, hata anıları günlüğü…
-- [ondrhn/sharpprompt](https://github.com/ondrhn/sharpprompt) - Claude Code mod that rewrites rough prompts into clear ones before you send…
+- [ondrhn/sharpprompt](https://github.com/ondrhn/sharpprompt) - Göndermeden önce kaba istemleri anlaşılır hâle getiren Claude Code modu.
 - [pepperonas/loc-today](https://github.com/pepperonas/loc-today) - Claude Code modu: tüm oturumlarda Claude tarafından bugün yazılan kod satırları…
 - [pepperonas/path-links](https://github.com/pepperonas/path-links) - Claude Code modu: yanıtlardaki tıklanabilir yollar — klasörü açmak için…
 - [rezzminator/buddy](https://github.com/rezzminator/buddy) - Claude Code arkadaş eklentisi: isteminizin üzerinde kurallarınızı hatırlayan ve…
+- [rezzminator/tool-visibility-controller](https://github.com/rezzminator/tool-visibility-controller) - Claude Code plugin for per-agent tool visibility — hide and refuse subagents…
 - [roma-vibe/jev-governor](https://github.com/roma-vibe/jev-governor) - Claude Code modu: daha ucuz uzun oturumlar için Jev yönlendirmeli model/çaba…
 - [samfrmr/barmkin-mod](https://github.com/samfrmr/barmkin-mod) - Claude Code modları: Claude Code için güvenlik katmanı — gizli bilgilerin…
-- [seanrobertwright/claude-mods](https://github.com/seanrobertwright/claude-mods) - A collection of Claude Code mods.
+- [seanrobertwright/claude-mods](https://github.com/seanrobertwright/claude-mods) - Bir Claude Code modları koleksiyonu.
 - [Sennjen/claude-sdlc](https://github.com/Sennjen/claude-sdlc) - Claude Code plugin&#x27;i ve mod&#x27;u: hook ile zorunlu kılınan insan onayı kapıları ve…
 - [SeongGwangJu/k-mods](https://github.com/SeongGwangJu/k-mods) - Harika Claude Code modları koleksiyonu | 클로드 코드 모드 모음집.
+- [shahsanket2107/clarvis](https://github.com/shahsanket2107/clarvis) - Clarvis: Claude Code için resmî olmayan bir Avengers hayran modu.
 - [Spardutti/claude-mods](https://github.com/Spardutti/claude-mods) - Claude Code modları: günlük çalışmalar için canlı paneller ve hook.
 - [tanujarun/it-speaks](https://github.com/tanujarun/it-speaks) - Konuşuyor: Claude.
 - [timoncool/slapbox](https://github.com/timoncool/slapbox) - 🍑 Hata yaptığında Claude.
 - [TroyJLorents-GH/mod-squad](https://github.com/TroyJLorents-GH/mod-squad) - Claude Code modları: canlı bölmeler, maliyet farkındalıklı model yönlendirme ve…
+- [VaitaR/claude-code-limits](https://github.com/VaitaR/claude-code-limits) - Claude Code modu: istemin üstünde tek satırda 5h/7d kotası, bağlam penceresi…
 - [valeryia-piatrova/token-hamster](https://github.com/valeryia-piatrova/token-hamster) - 🐹 Claude Code modu ve eklentisi: kullanım monitörü, token izleyici ve durum…
-- [VictorGambarini/jev-mod](https://github.com/VictorGambarini/jev-mod) - A Claude Code mod that hands the small decisions to a cheap decision model…
+- [VictorGambarini/jev-mod](https://github.com/VictorGambarini/jev-mod) - Küçük kararları ucuz bir karar modeline devreden bir Claude Code modu…
 - [yuntaengtaeng/snitch](https://github.com/yuntaengtaeng/snitch) - Claude Code modu, Claude.
-- [afterever/claude-mods](https://github.com/afterever/claude-mods) - Claude Code mods by afterever (plugin marketplace).
+- [afterever/claude-mods](https://github.com/afterever/claude-mods) - afterever imzalı Claude Code modları (eklenti mağazası).
 - [ajkatom/claude-mods](https://github.com/ajkatom/claude-mods)
-- [Akurganow/model-router](https://github.com/Akurganow/model-router) - Claude Code mod: route each subagent to the cheapest Claude model, judged by…
+- [Akurganow/model-router](https://github.com/Akurganow/model-router) - Claude Code modu: her alt agent.
 - [alan-oliv/claude-mods](https://github.com/alan-oliv/claude-mods) - Claude Code modları: istemin üzerinde oturum istatistik kartları.
 - [Aler1x/claude-cat](https://github.com/Aler1x/claude-cat) - Claude Code isteminin üzerinde animasyonlu bir braille kedisi.
 - [alinaqi/mixture-of-models-claude-mod](https://github.com/alinaqi/mixture-of-models-claude-mod) - Claude Code modu: ucuz işleri bir alt Claude Code aracılığıyla GLM/Kimi.
@@ -1675,66 +1683,58 @@ Siz yazarken Markdown, Claude Code'un istem kutusuna çizilir. Çitli kod, çiti
 - [an80sPWNstar/claude-mods](https://github.com/an80sPWNstar/claude-mods) - Claude Code için Claude modları: token-meter.
 - [anderson-spider/claude-mods](https://github.com/anderson-spider/claude-mods) - anderson-spider tarafından geliştirilen Claude Code eklenti pazaryeri.
 - [andrej-kolic/claude-mods](https://github.com/andrej-kolic/claude-mods) - Claude Code için genel amaçlı modlar: bantlar, paneller, bildirimler ve…
-- [arslan-charyyev/claude-mods](https://github.com/arslan-charyyev/claude-mods) - My private Claude Code mods.
 - [Ashley-Pettit/villager-hp](https://github.com/Ashley-Pettit/villager-hp) - Haftalık tempo uyarısıyla birlikte Claude kullanım sınırlarınızı animasyonlu…
-- [AskTinNguyen/ather-mods](https://github.com/AskTinNguyen/ather-mods) - Claude Code mods for the S2 team (the ather marketplace).
-- [astrosteveo/plain-english](https://github.com/astrosteveo/plain-english) - A Claude Code mod that makes Claude write plain English and flags its usual…
+- [AskTinNguyen/ather-mods](https://github.com/AskTinNguyen/ather-mods) - S2 ekibi için Claude Code modları (the ather marketplace).
+- [astrosteveo/plain-english](https://github.com/astrosteveo/plain-english) - Claude.
 - [Atanur/deskfit](https://github.com/Atanur/deskfit) - Claude çalışırken kısa antrenmanlar: günlük hedef, seriler, rozetler ve isteğe…
 - [aycandv/claude-usage-meter](https://github.com/aycandv/claude-usage-meter) - Claude Code için kullanım panosu: modele göre harcama.
-- [barneym/claude-context-bar](https://github.com/barneym/claude-context-bar) - Claude Code modu: istemin üstünde canlı bağlam penceresi dökümü.
 - [benjaminr/nowplaying](https://github.com/benjaminr/nowplaying) - Claude Code için Now Playing modu: istemin üzerinde kapak görseli, kontroller…
+- [Berkay2002/berkays-mods](https://github.com/Berkay2002/berkays-mods) - Claude Code mods for orchestrator and worker sessions.
 - [broening/claude-mods](https://github.com/broening/claude-mods) - Claude Code için modlar: önbellek saati, patlama yarıçapı, öneriler, iş…
 - [Carismarkus/clowl](https://github.com/Carismarkus/clowl) - Claude Code.
 - [cGradying/claude-code-cockpit](https://github.com/cGradying/claude-code-cockpit) - Tek bir eklenti olarak yüklenen ve varsayılan olarak sessiz çalışan tek…
-- [chamonkey-crypto/claude-mods](https://github.com/chamonkey-crypto/claude-mods)
 - [ChaseWNorton/claude-doom](https://github.com/ChaseWNorton/claude-doom) - İçinde Freedoom bulunan orijinal Doom motoru, Claude Code içinde oynanabilir.
-- [chshin84/claude-mods](https://github.com/chshin84/claude-mods) - Claude Code 단어 사전 패널과 상태 표시줄 플러그인.
 - [cldotdev/claude-todo-list](https://github.com/cldotdev/claude-todo-list) - Bir konuşmadaki açık maddelerin güncel listesini tutan ve bunu istemin üzerinde…
 - [comertial/claude-pending-changes](https://github.com/comertial/claude-pending-changes) - Terminalden çıkmadan, bir çekme isteği gibi, Claude.
-- [CTeitzel/cache-band](https://github.com/CTeitzel/cache-band) - Claude Code mod: a band above the prompt with the prompt-cache countdown, cache…
-- [dalemorgan04/claude-mods](https://github.com/dalemorgan04/claude-mods) - Claude Mods.
-- [danielmertens/Claude-mods](https://github.com/danielmertens/Claude-mods) - Collection of personal Claude mods.
+- [CTeitzel/cache-band](https://github.com/CTeitzel/cache-band) - Claude Code modu: istemin üzerinde istem önbelleği geri sayımını, önbellek…
+- [dalemorgan04/claude-mods](https://github.com/dalemorgan04/claude-mods) - Claude Modları.
+- [danielmertens/Claude-mods](https://github.com/danielmertens/Claude-mods) - Kişisel Claude modlarından oluşan koleksiyon.
 - [darshk07/claude-mods](https://github.com/darshk07/claude-mods)
 - [davidurco/cc-tamagotchi](https://github.com/davidurco/cc-tamagotchi) - Claude Code içinde yaşayan bir Tamagotchi: yumurtadan çıkar, Claude.
-- [DazzleML/claude-bookmarks](https://github.com/DazzleML/claude-bookmarks) - Bookmarks and vim-style marks inside Claude Code terminal conversations…
-- [dbroadhurst/claude-mod-goal](https://github.com/dbroadhurst/claude-mod-goal) - A Goal pane for Claude Code: the overall goal Claude is working toward, why…
-- [delexw/codyssey](https://github.com/delexw/codyssey) - Turn every Claude Code session into a little adventure: generative music that…
-- [densi97/claude-code-command-log](https://github.com/densi97/claude-code-command-log) - Claude Code Mod to explain commands ran by the agent.
-- [devohmycode/ccmods](https://github.com/devohmycode/ccmods) - İşlev kancaları olarak yazılmış Claude Code modları ve bunları sunan pazar…
+- [DazzleML/claude-bookmarks](https://github.com/DazzleML/claude-bookmarks) - Claude Code terminal konuşmalarında yer imleri ve vim tarzı işaretler: bir…
+- [delexw/codyssey](https://github.com/delexw/codyssey) - Her Claude Code oturumunu küçük bir maceraya dönüştürün: ajanın ruh hâlini…
+- [densi97/claude-code-command-log](https://github.com/densi97/claude-code-command-log) - Agent tarafından çalıştırılan komutları açıklayan Claude Code modu.
 - [diamondT/claude-mods](https://github.com/diamondT/claude-mods)
-- [dieg666/claude-herald](https://github.com/dieg666/claude-herald) - A Claude Code mod: a band above the prompt with Claude news and the breaking or…
+- [dieg666/claude-herald](https://github.com/dieg666/claude-herald) - Bir Claude Code modu: istemin üzerinde, Claude haberlerini ve…
 - [dot-agi/arrester](https://github.com/dot-agi/arrester) - Claude Code modu: bir guard araç çağrısını engelledikten sonra aynı hedefe…
 - [dot-agi/downrange](https://github.com/dot-agi/downrange) - Claude Code modu: gerçek çıktından okunan ilerleme ve tahmini varış süreleriyle…
 - [dot-agi/high-command](https://github.com/dot-agi/high-command) - Claude Code modu: ekip arkadaşlarından, adlandırılmış alt ajanlardan ve diğer…
 - [dot-agi/sandbox-tuner](https://github.com/dot-agi/sandbox-tuner) - Claude Code modu: sandbox engellemelerini açıklar ve tekrarlanan engellemeleri…
 - [dricosnyman/claude-favourites](https://github.com/dricosnyman/claude-favourites) - Claude Code için favoriler: komutlarınız ve becerileriniz için tek tıklamalı…
-- [Dyarchia/dyarchia](https://github.com/Dyarchia/dyarchia) - Dyarchia: Build and Kanban on every surface.
 - [Egrn/claude-code-mutedit](https://github.com/Egrn/claude-code-mutedit) - Hey, susturdum! Farkı bırak, ritmi kes; artık düzenleme yok, daha az kredi.
 - [Eiyuo/Claude-Mods](https://github.com/Eiyuo/Claude-Mods)
-- [ekinertac/claude-code-mods](https://github.com/ekinertac/claude-code-mods) - Claude Code mods: rewrite-prompt (Ctrl+P rewrites your draft before you send it).
-- [elijah-rou/agent-kit](https://github.com/elijah-rou/agent-kit) - Instructions, skills, Pi extensions, and Claude Code mods for Pi, Codex, and…
-- [EmanueleNene/claude-mods](https://github.com/EmanueleNene/claude-mods) - Claude Code modları: delete-guard (dosya silme işlemlerini onaylar) ve…
+- [ekinertac/claude-code-mods](https://github.com/ekinertac/claude-code-mods) - Claude Code modları: rewrite-prompt.
+- [elijah-rou/agent-kit](https://github.com/elijah-rou/agent-kit) - Pi, Codex ve Claude Code için talimatlar, beceriler, Pi uzantıları ve Claude…
 - [eric1hua/claudemods-desktop-statusline](https://github.com/eric1hua/claudemods-desktop-statusline) - Masaüstü uygulamasında ve terminalde istemin üzerinde bir bant olarak abonelik…
-- [fatihkartal35/claude-mods](https://github.com/fatihkartal35/claude-mods) - Claude Code mods: auto-model-detector routes each prompt to the right model and…
+- [fatihkartal35/claude-mods](https://github.com/fatihkartal35/claude-mods) - Claude Code modları: auto-model-detector, her istemi doğru model ve çaba…
 - [floheissler/cc-worktree-radar](https://github.com/floheissler/cc-worktree-radar) - İstemin üzerinde paralel dallarınızın ve çalışma ağaçlarınızın canlı radarı…
-- [Gat0rRex/claude-mods](https://github.com/Gat0rRex/claude-mods) - Claude Code mods (function-hook plugins): context band, loose ends, checkpoint…
+- [Gat0rRex/claude-mods](https://github.com/Gat0rRex/claude-mods) - Claude Code modları (function-hook eklentileri): bağlam bandı, yarım kalan…
 - [Gharib89/claude-mods](https://github.com/Gharib89/claude-mods) - Tek bir marketplace üzerinden yüklenen Claude Code modları.
-- [gomymy64/claude-code-mods-cheatsheet](https://github.com/gomymy64/claude-code-mods-cheatsheet)
-- [grota/beppe-claude-mods](https://github.com/grota/beppe-claude-mods) - Claude Code plugin marketplace with my mods.
-- [hb03/claude-mods](https://github.com/hb03/claude-mods) - Deutschsprachige Mods für Claude Code: Kontext/Cache-Hinweise, offene Punkte…
+- [grota/beppe-claude-mods](https://github.com/grota/beppe-claude-mods) - Modlarımı içeren Claude Code eklenti pazarı.
+- [hb03/claude-mods](https://github.com/hb03/claude-mods) - Claude Code için Almanca modlar: bağlam/önbellek ipuçları, yönlendirmeli açık…
 - [HectorBailey/claude-mods](https://github.com/HectorBailey/claude-mods) - Hector Bailey.
-- [herlonventura/claude-model-squad](https://github.com/herlonventura/claude-model-squad) - Claude Code mod: a pixel-art squad suggests the right model.
-- [humvnpvrvdox777/NextSteps](https://github.com/humvnpvrvdox777/NextSteps) - Claude Code mod: three next steps after each answer, in any language, with an…
+- [hernandezsanti/claude-code-mods](https://github.com/hernandezsanti/claude-code-mods) - Claude Code mods that enforce ticket-based commits, protect paid CI minutes and…
+- [humvnpvrvdox777/NextSteps](https://github.com/humvnpvrvdox777/NextSteps) - Claude Code modu: her yanıttan sonra herhangi bir dilde üç sonraki adım;
 - [Huuuuung/think-meter](https://github.com/Huuuuung/think-meter) - Claude Code modu: her yanıtın ne kadar sürdüğü, Claude.
 - [huynl-96/claude-mods](https://github.com/huynl-96/claude-mods) - Claude Code modları: streamer-mode, ekranınızı paylaşırken özel panelleri…
-- [hyperbola-bear/claude-mods](https://github.com/hyperbola-bear/claude-mods) - for my claude mods.
+- [hyperbola-bear/claude-mods](https://github.com/hyperbola-bear/claude-mods) - claude modlarım için.
 - [iceberggymnast/claude-code-mods](https://github.com/iceberggymnast/claude-code-mods) - Claude Code function-hook eklentileri (modlar).
 - [icedevil2001/auto-continue](https://github.com/icedevil2001/auto-continue) - Claude Code modu: 5 saatlik kullanım sınırının dolmasını bekler ve sizin için…
 - [imsungbin/quackpit-mod](https://github.com/imsungbin/quackpit-mod) - Claude Code isteminizin üzerinde bir kokpit. Ördek göstergeleri okur.
-- [ipartington/claude-mods](https://github.com/ipartington/claude-mods) - Claude Code mods (function-hook plugins): PR merge follow-through, /clear…
-- [iyiob96/Context-Mod-Companion](https://github.com/iyiob96/Context-Mod-Companion) - Claude Code mod: context window band with RTK savings and a pixel Yemeni…
-- [jakerains/claudemods](https://github.com/jakerains/claudemods) - Small Claude Code mods: context and plan-usage gauges, a prompt-cache meter…
-- [jamesnguyen1309/claude-usage](https://github.com/jamesnguyen1309/claude-usage) - Claude Code mod: live token usage, models and subagents per prompt.
+- [ipartington/claude-mods](https://github.com/ipartington/claude-mods) - Claude Code modları (function-hook eklentileri): PR birleştirme takibi, /clear…
+- [iyiob96/Context-Mod-Companion](https://github.com/iyiob96/Context-Mod-Companion) - Claude Code modu: RTK tasarrufları ve pikselli Yemenli yoldaş içeren bağlam…
+- [jakerains/claudemods](https://github.com/jakerains/claudemods) - Küçük Claude Code modları: bağlam ve plan kullanımı göstergeleri, istem…
+- [jamesnguyen1309/claude-usage](https://github.com/jamesnguyen1309/claude-usage) - Claude Code modu: istem başına canlı token kullanımı, modeller ve alt agent.
 - [jessetsai1024/claude-ctx-panel](https://github.com/jessetsai1024/claude-ctx-panel) - Kenar çubuğunda bağlam kullanım paneli: toplam, kategoriler, tur başına büyüme…
 - [jessetsai1024/claude-files](https://github.com/jessetsai1024/claude-files) - Kenar çubuğunda dosya listesi: bu konuşmada hangi dosyalar oluşturuldu…
 - [jessetsai1024/claude-maomao](https://github.com/jessetsai1024/claude-maomao) - Girdi kutusunun üzerinde koşup zıplayan 8-bit tarzı 毛毛.
@@ -1742,67 +1742,68 @@ Siz yazarken Markdown, Claude Code'un istem kutusuna çizilir. Çitli kod, çiti
 - [jessetsai1024/claude-timeline](https://github.com/jessetsai1024/claude-timeline) - Kenar çubuğunda zaman çizelgesi: bu turda zaman nereye harcandı.
 - [jessetsai1024/claude-tokens](https://github.com/jessetsai1024/claude-tokens) - Kenar çubuğunda token alışverişi: ana konuşma her seferinde Anthropic.
 - [jessetsai1024/claude-whisper](https://github.com/jessetsai1024/claude-whisper) - claude code.
-- [jimmysteinmetz/b-sides](https://github.com/jimmysteinmetz/b-sides) - Yeni eğik çizgi komutları ve yan bölmeler gibi Claude Code için küçük modlar.
-- [juro-mont/claude-ev-charging](https://github.com/juro-mont/claude-ev-charging) - An EV-charging progress bar and session panel for Claude Code helper agents.
+- [jkf87/mod-guide](https://github.com/jkf87/mod-guide) - Unofficial community guide to Claude Code mods (function hooks) in 6 languages…
+- [juro-mont/claude-ev-charging](https://github.com/juro-mont/claude-ev-charging) - Claude Code yardımcı ajanları için bir elektrikli araç şarj ilerleme çubuğu ve…
 - [KaiC5504/clawd-bar](https://github.com/KaiC5504/clawd-bar) - Clawd, Claude Code prompt.
 - [kajidog/cc-mods-tts](https://github.com/kajidog/cc-mods-tts) - Claude Code.
 - [kbrdn1/claude-crosstalk](https://github.com/kbrdn1/claude-crosstalk) - Claude Code oturumlarınız arasındaki konuşmaları okumak ve bu konuşmalara…
 - [ke11/claude-mods](https://github.com/ke11/claude-mods) - Claude Code modları. PixBar: isteminizin üzerinde yer alan ve turunuz…
-- [kkatsuyoshi/claude-mods](https://github.com/kkatsuyoshi/claude-mods) - claude mods.
+- [kkatsuyoshi/claude-mods](https://github.com/kkatsuyoshi/claude-mods) - claude modları.
 - [KKK12142/claude-mods](https://github.com/KKK12142/claude-mods) - Claude Code modları (usage-meter, ...).
-- [koenrohrer/hearth-band](https://github.com/koenrohrer/hearth-band) - Claude Code mod: a pixel creature per model beside a prompt-cache campfire…
 - [krishna-goutham-tls/cc-mods](https://github.com/krishna-goutham-tls/cc-mods) - İki Claude Code modu: sohbetin yanında bir dosya bölmesi olan folio ve durum…
 - [kuehn-lars/cc-graph](https://github.com/kuehn-lars/cc-graph) - cc-graph: Claude Code.
 - [leonidb/claude-code-mods](https://github.com/leonidb/claude-code-mods) - Claude Code.
 - [linsanmufilm-svg/claude-mods](https://github.com/linsanmufilm-svg/claude-mods) - Sanmu&#x27;nun Claude Code modları — bir eklenti marketplace&#x27;i.
-- [LordMordelon/claude-mods](https://github.com/LordMordelon/claude-mods) - Mods de Claude Code para los proyectos de Angel (Vremia).
+- [LordMordelon/claude-mods](https://github.com/LordMordelon/claude-mods) - Angel.
 - [Lucas-CX/awesome-claude-mods](https://github.com/Lucas-CX/awesome-claude-mods) - Topluluk tarafından derlenmiş bir Claude Code Modları rehberi: kullanım…
-- [LupusMalusDeviant/claude-mods](https://github.com/LupusMalusDeviant/claude-mods) - Single Claude Code mods from the Mod Box, each installable on its own.
-- [LupusMalusDeviant/mod-box](https://github.com/LupusMalusDeviant/mod-box) - Fourteen Claude Code mods in one plugin, each switchable, with a window to…
+- [LupusMalusDeviant/claude-mods](https://github.com/LupusMalusDeviant/claude-mods) - Mod Box.
+- [luwux/keepwarm](https://github.com/luwux/keepwarm) - Claude Code mod: guards the 1-hour prompt cache of idle sessions — countdown…
 - [M-i-k-e-l/agent-state](https://github.com/M-i-k-e-l/agent-state) - Claude.
-- [Malkiz/claude-reply-comments](https://github.com/Malkiz/claude-reply-comments) - Claude Code mod: answer Claude point by point, right on the text.
+- [makingaipractical/brain-drain-for-claude-code](https://github.com/makingaipractical/brain-drain-for-claude-code) - How full Claude.
+- [Malkiz/claude-reply-comments](https://github.com/Malkiz/claude-reply-comments) - Claude Code modu: Claude noktasını doğrudan metin üzerinde madde madde…
 - [MarcusJellinghaus/claude-mode-gate](https://github.com/MarcusJellinghaus/claude-mode-gate) - Değiştirilebilir izin profillerine sahip bir Claude Code modu: güvenli bir…
-- [MarkMerk/markmerk-mods](https://github.com/MarkMerk/markmerk-mods) - Small mods for Claude Code: runner-avatar, a little avatar that runs above your…
+- [MarkMerk/markmerk-mods](https://github.com/MarkMerk/markmerk-mods) - Claude Code için küçük modlar: runner-avatar, isteminizin üzerinde koşan küçük…
 - [Marnel8/claude-mods-](https://github.com/Marnel8/claude-mods-)
-- [martin-macak/claude-code-mod-tracking](https://github.com/martin-macak/claude-code-mod-tracking) - Claude Code mod for tracking related artifacts and references.
-- [mattbv/intent-ledger](https://github.com/mattbv/intent-ledger) - Claude Code mod: a live pane of what your AI coding agent is aiming for…
+- [martin-macak/claude-code-mod-tracking](https://github.com/martin-macak/claude-code-mod-tracking) - İlgili yapıları ve referansları izlemek için Claude Code modu.
+- [mattbv/intent-ledger](https://github.com/mattbv/intent-ledger) - Claude Code modu: Yapay zekâ kodlama ajanınızın neyi amaçladığını…
 - [MDmubarak786/claude-mods](https://github.com/MDmubarak786/claude-mods) - Claude Code için topluluk modları: Claude Code içinde çalışan korumalar…
-- [michaelblaess/turbo-mod](https://github.com/michaelblaess/turbo-mod) - Claude Code için yan panel: Claude.
+- [michaelblaess/turbo-mod](https://github.com/michaelblaess/turbo-mod) - Side pane for Claude Code: files Claude wrote, terminal splits, git repo status…
+- [MkGut/claude-tutor](https://github.com/MkGut/claude-tutor) - Claude Code mod: a sidebar tutor that explains what Claude is doing as it works.
 - [mmedum/glimt](https://github.com/mmedum/glimt) - Claude Code için sessiz bir yan bölme: bu oturumun ne yaptığı, planı, ajanları…
 - [mmedum/nuet](https://github.com/mmedum/nuet) - Claude Code dökümündeki her istemin ve her yanıtın üzerinde, kendi saat…
 - [mmedum/spor](https://github.com/mmedum/spor) - Claude Code&#x27;un katlayarak gizlediği şeyleri geri getirir: Claude&#x27;in okuduğu…
-- [mrkshw/cold-cache](https://github.com/mrkshw/cold-cache) - Claude Code mod: warns when a session.
 - [muellerei/enable-todo-tools](https://github.com/muellerei/enable-todo-tools) - Oturum başlangıcında CLAUDE_CODE_ENABLE_TODO_TOOLS ayarlayarak, bunları devre…
 - [muellerei/sweet-spot](https://github.com/muellerei/sweet-spot) - Güvenli bir duraklama bekleyen, ardından oturumunuzu devralan veya oturumu…
 - [muellerei/task-line](https://github.com/muellerei/task-line) - Claude Code modu: istemin üzerinde görev listesi başına bir satır;
 - [nachtgold/claude-code-connect-four](https://github.com/nachtgold/claude-code-connect-four) - Claude Code içinde bir AI.
 - [naoanao/agent-cross-check](https://github.com/naoanao/agent-cross-check) - Claude Code modu: başka bir kodlama ajanı deponuza commit yaptığında Claude…
 - [naoanao/shared-repo-guard](https://github.com/naoanao/shared-repo-guard) - Birden çok AI ajanının paylaştığı depolar için Claude Code modu: gizli…
-- [Nelahia/claude-mods](https://github.com/Nelahia/claude-mods) - Installe et configure mes mods Claude Code en une commande.
-- [NeonOrchard/tab-alert](https://github.com/NeonOrchard/tab-alert) - Claude Code mod: flashes the terminal tab while Claude waits on you.
+- [Nelahia/claude-mods](https://github.com/Nelahia/claude-mods) - Claude Code modlarımı tek komutla kurar ve yapılandırır (macOS, Linux, Windows).
+- [NeonOrchard/tab-alert](https://github.com/NeonOrchard/tab-alert) - Claude Code modu: Claude sizi beklerken terminal sekmesini yanıp söndürür.
 - [nerevar48/nerevar-mods](https://github.com/nerevar48/nerevar-mods) - Claude Code modları pazaryeri.
 - [NicBritz/claude-code-mods](https://github.com/NicBritz/claude-code-mods) - Hiç token harcamayan Claude Code için eğlenceli, ücretsiz modlar.
 - [nu0ma/query-guard](https://github.com/nu0ma/query-guard) - Claude Code.
 - [OG-Matcha/tessera](https://github.com/OG-Matcha/tessera) - Claude Code, Windows ve CJK öncelikli tek bir mod: herhangi bir terminalde…
-- [ohade/claude-mods](https://github.com/ohade/claude-mods) - Claude Code mods: image thumbnails and the status line.
-- [Orbitmap/claude-mods](https://github.com/Orbitmap/claude-mods) - Claude Code mods made by the OrbitMap team.
+- [ohade/claude-mods](https://github.com/ohade/claude-mods) - Claude Code modları: görsel küçük resimleri ve durum satırı.
+- [Orbitmap/claude-mods](https://github.com/Orbitmap/claude-mods) - OrbitMap ekibi tarafından hazırlanan Claude Code modları.
 - [osaki42/awesome-claude-mods](https://github.com/osaki42/awesome-claude-mods) - Sizin için yaptıklarına göre sıralanmış en iyi Claude Code Modları.
 - [Para-FR/claude-code-mods-fr](https://github.com/Para-FR/claude-code-mods-fr) - Claude Code için iki Claude Modu: garde-du-corps.
+- [petershk/explain-permission](https://github.com/petershk/explain-permission) - Claude Code mod: explains each permission request in plain English.
 - [philarete173/claude_mods](https://github.com/philarete173/claude_mods) - Claude masaüstü uygulamasının Code sekmesi için gerçek zamanlı oturum…
-- [pkkid/claude-mods](https://github.com/pkkid/claude-mods) - Various mods and skills for my Claude Desktop setup.
+- [pkkid/claude-mods](https://github.com/pkkid/claude-mods) - Claude Desktop kurulumum için çeşitli modlar ve beceriler.
 - [pradyb/claude-mods](https://github.com/pradyb/claude-mods) - Claude Code için modifikasyonlar: safety-guard yıkıcı komutları ve gizli…
-- [ptsnac/claude-session-handoff](https://github.com/ptsnac/claude-session-handoff) - Claude Code mod: session timer and one-click handoff to a fresh context window.
+- [pvjbuilds/crab-buddy](https://github.com/pvjbuilds/crab-buddy) - An animated pixel-art Claude crab for Claude Code: it acts out what Claude is…
 - [rajib2k5/claude-market-watch](https://github.com/rajib2k5/claude-market-watch) - Claude Code modu: canlı hisse senedi şeridi, /quote bölmesi, fiyat uyarıları…
-- [ramtinJ95/claude-mods](https://github.com/ramtinJ95/claude-mods) - Claude Code mods, published as one plugin marketplace.
+- [ramtinJ95/claude-mods](https://github.com/ramtinJ95/claude-mods) - Tek bir eklenti marketplace olarak yayımlanan Claude Code modları.
 - [ray-amjad/cache-clock](https://github.com/ray-amjad/cache-clock) - Claude Code modu: prompt&#x27;un üzerinde kullanılan bağlamı ve prompt cache&#x27;in…
 - [ray-amjad/diagram-pane](https://github.com/ray-amjad/diagram-pane) - Claude Code modu: Claude.
 - [ray-amjad/dream-pass](https://github.com/ray-amjad/dream-pass) - Claude Code modu: Claude.
 - [ray-amjad/prompt-bouncer](https://github.com/ray-amjad/prompt-bouncer) - Claude Code modu: Claude görmeden önce belirsiz prompt.
-- [ray-amjad/secret-box](https://github.com/ray-amjad/secret-box) - Claude Code mod: Claude uses your secrets without seeing them.
-- [ray-amjad/transcript-redactor](https://github.com/ray-amjad/transcript-redactor) - A Claude Code mod that keeps secrets out of the session transcript: every key…
+- [ray-amjad/secret-box](https://github.com/ray-amjad/secret-box) - Claude Code modu: Claude, sırlarınızı görmeden onları kullanır.
+- [ray-amjad/transcript-redactor](https://github.com/ray-amjad/transcript-redactor) - Sırları oturum dökümünden uzak tutan bir Claude Code modu: her anahtar, Claude…
 - [RedRoosterKey/claude-code-ssh-usage-band](https://github.com/RedRoosterKey/claude-code-ssh-usage-band) - Claude Code modu: istemin üzerindeki bir satırda SSH ana bilgisayarı, RAM ve…
 - [Risdon8/push-ups](https://github.com/Risdon8/push-ups) - Claude Code modu: Claude çalışırken yapılacak şınavlar. Jeton yok.
-- [rogadev/paceline-mod](https://github.com/rogadev/paceline-mod) - paceline as a Claude Code mod: paces your usage limits in a line above the…
+- [rogadev/paceline-mod](https://github.com/rogadev/paceline-mod) - Bir Claude Code modu olarak paceline: kullanım limitlerinizi istemin üzerindeki…
 - [Rohitp/claude-mods](https://github.com/Rohitp/claude-mods) - claude code için modlar.
 - [saadk408/stepline](https://github.com/saadk408/stepline) - Claude Code modu: plan modunda onayladığınız planı prompt.
 - [saksham10arora-dotcom/awesome-claude-mods](https://github.com/saksham10arora-dotcom/awesome-claude-mods) - Özenle seçilmiş Claude Code modları listesi.
@@ -1810,39 +1811,38 @@ Siz yazarken Markdown, Claude Code'un istem kutusuna çizilir. Çitli kod, çiti
 - [saksham10arora-dotcom/claude-lofi](https://github.com/saksham10arora-dotcom/claude-lofi) - Oturumu takip eden bir lofi müzikleri: sakinlik, odaklanma, akış ve testlerin…
 - [saksham10arora-dotcom/claude-teach-me](https://github.com/saksham10arora-dotcom/claude-teach-me) - Claude kod yazarken öğrenin: kodu değiştiren bir turdan sonra, tam o…
 - [saksham10arora-dotcom/claude-vhs](https://github.com/saksham10arora-dotcom/claude-vhs) - Claude.
-- [SentientNr6/claude-mods](https://github.com/SentientNr6/claude-mods) - A collection of plugins for Claude.
-- [shahsanket2107/clarvis](https://github.com/shahsanket2107/clarvis) - Clarvis: Claude Code için resmî olmayan bir Avengers hayran modu.
 - [shengyy/ccoverhead](https://github.com/shengyy/ccoverhead) - İstemin üzerinde bağlamı, büyümeyi, kotayı, önbelleği, yerel maliyeti ve ajan…
 - [shissncg/claude-mods](https://github.com/shissncg/claude-mods)
-- [sidhantunnithan/jindan-cc-marketplace](https://github.com/sidhantunnithan/jindan-cc-marketplace) - Personal Claude Code mods.
-- [Spendry/claude-code-mods](https://github.com/Spendry/claude-code-mods) - Claude Code mods, installable as a plugin marketplace: deviation-kernel guards…
+- [sidhantunnithan/jindan-cc-marketplace](https://github.com/sidhantunnithan/jindan-cc-marketplace) - Kişisel Claude Code modları.
+- [Spendry/claude-code-mods](https://github.com/Spendry/claude-code-mods) - Eklenti marketplace olarak kurulabilen Claude Code modları: deviation-kernel…
 - [speti4/doom-pane](https://github.com/speti4/doom-pane) - Kurulum gerektirmeyen, Claude Code bölmesinde çalışan orijinal DOOM: motor…
-- [StalicJi/my-mods](https://github.com/StalicJi/my-mods) - 個人 Claude Code mod…
-- [stelmach-systems/claude-mods](https://github.com/stelmach-systems/claude-mods) - Mody Claude Code (function hooks): panel agentów, pasek budżetu, flota sesji.
-- [SteveAnthonyFM/subagent-guard](https://github.com/SteveAnthonyFM/subagent-guard) - Keep Claude.
+- [StalicJi/my-mods](https://github.com/StalicJi/my-mods) - Kişisel Claude Code mod marketplace.
+- [stelmach-systems/claude-mods](https://github.com/stelmach-systems/claude-mods) - Claude Code modları (işlev kancaları): ajan paneli, bütçe çubuğu, oturum filosu.
+- [SteveAnthonyFM/subagent-guard](https://github.com/SteveAnthonyFM/subagent-guard) - Claude.
 - [steven-ngle/blade-of-commits](https://github.com/steven-ngle/blade-of-commits) - Dans eden pixel-art Malenia ile Claude Code için tek tıkla commit mesajları.
-- [Sunkanxx/Mods](https://github.com/Sunkanxx/Mods) - Claude Code mods — marketplace sunkanxx-mods.
+- [Sunkanxx/Mods](https://github.com/Sunkanxx/Mods) - Claude Code modları — marketplace sunkanxx-mods.
 - [Tanish-Dev/claude-usage-band](https://github.com/Tanish-Dev/claude-usage-band) - Clawd Meter — Claude Code modu; Claude plan kullanımınızı.
 - [tartinerlabs/claude-code-mods](https://github.com/tartinerlabs/claude-code-mods)
 - [thangdo19/claude-code-mods](https://github.com/thangdo19/claude-code-mods) - Claude Code.
 - [TheBabaYaga/claude-session-flow](https://github.com/TheBabaYaga/claude-session-flow) - Her istemi, Claude.
 - [theishandubey/claude-mods](https://github.com/theishandubey/claude-mods) - Modlardan oluşan bir Claude Code eklenti pazaryeri: Claude Code içinde bantlar…
 - [tomfluff/claude-read-along](https://github.com/tomfluff/claude-read-along) - Okunan cümle vurgulanırken Claude Code yanıtlarını dinleyin.
-- [tunglt1810/claude-gadgets](https://github.com/tunglt1810/claude-gadgets) - Some Claude mods.
-- [twentynineteen/scrooge-context-vault](https://github.com/twentynineteen/scrooge-context-vault) - Claude Code mod: your context window as Scrooge McDuck.
-- [tyree88/tempered_plugins](https://github.com/tyree88/tempered_plugins) - Claude Code mods from Tempered Works: ship-state, timeline, limit-resume — plus…
-- [VaitaR/claude-code-limits](https://github.com/VaitaR/claude-code-limits) - Claude Code modu: istemin üstünde tek satırda 5h/7d kotası, bağlam penceresi…
+- [tunglt1810/claude-gadgets](https://github.com/tunglt1810/claude-gadgets) - Bazı Claude modları.
+- [twentynineteen/scrooge-context-vault](https://github.com/twentynineteen/scrooge-context-vault) - Claude Code modu: bağlam pencereniz Scrooge McDuck.
+- [tyree88/tempered_plugins](https://github.com/tyree88/tempered_plugins) - Tempered Works.
+- [UsamaSadiq/claude-mods](https://github.com/UsamaSadiq/claude-mods) - Small, fun and useful mods for Claude Code.
 - [VAlux/claude-session-progress](https://github.com/VAlux/claude-session-progress) - Claude Code modu: uzun süren görevler için animasyonlu ilerleme bandı ve…
 - [Vansitha/clawd-watch](https://github.com/Vansitha/clawd-watch) - Üç küçük Claude Code modu: alt ajanlarınızın ne zaman tamamlanacağını görün…
 - [varunmoka7/image-shrinker](https://github.com/varunmoka7/image-shrinker) - Claude onları okumadan önce büyük ekran görüntülerini küçültür;
 - [varunmoka7/layman](https://github.com/varunmoka7/layman) - &quot;Kayboldum&quot; deyin, Claude son yanıtını günlük ifadelerle yeniden açıklasın.
 - [varunmoka7/next-steps-autopilot](https://github.com/varunmoka7/next-steps-autopilot) - İstem kutusunun üzerinde önerilen sonraki istemleri gösterir.
 - [varunmoka7/side-chat](https://github.com/varunmoka7/side-chat) - Çalışmanızın yanındaki bir bölmede Claude.
-- [vihrea1337/pager](https://github.com/vihrea1337/pager) - Claude Code pings you in Telegram when a task is done or it waits for…
+- [vihrea1337/pager](https://github.com/vihrea1337/pager) - Claude, bir görev tamamlandığında veya izin beklediğinde Telegram üzerinden…
 - [WeaponizedLego/claude-code-mods](https://github.com/WeaponizedLego/claude-code-mods) - Claude Code modlarım.
-- [wellavelino/mystique](https://github.com/wellavelino/mystique) - A Claude Code mod: a highlighter pen for replies, a side panel for query…
-- [wimcraft/godville-pane](https://github.com/wimcraft/godville-pane) - A Claude Code mod: your Godville hero and diary in a sidebar.
+- [wellavelino/mystique](https://github.com/wellavelino/mystique) - Bir Claude Code modu: yanıtlar için fosforlu kalem, tablo olarak sorgu…
+- [wimcraft/godville-pane](https://github.com/wimcraft/godville-pane) - Bir Claude Code modu: Godville kahramanınız ve günlüğünüz bir kenar çubuğunda.
 - [wnsogabriel/claude-mods](https://github.com/wnsogabriel/claude-mods) - Claude Code için modlar: kullanım sınırları çubuğu (5 saat/haftalık) ve…
+- [Wowbagger1994/claude-mods](https://github.com/Wowbagger1994/claude-mods) - Mod per Claude Code: segreti oscurati, cose da fare, verifiche e CI, diario…
 - [wukonigcom/quanta-costa](https://github.com/wukonigcom/quanta-costa) - 🧾 Claude Code eklentisi: Claude Pro/Max kullanım limitleriniz, hız tahmini…
 - [xinhuagu/oh-my-claude-mods](https://github.com/xinhuagu/oh-my-claude-mods) - Claude Code için modlar. agent-crew: alt aracılarınızı rol, model, mevcut araç…
 - [yeonwooook/claude-study-latex](https://github.com/yeonwooook/claude-study-latex) - Claude.
@@ -1856,16 +1856,17 @@ Siz yazarken Markdown, Claude Code'un istem kutusuna çizilir. Çitli kod, çiti
 - [op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) - 🪧 Claude Code / Codex skill — Xiaohongshu karuselleri ve WeChat 21:9+1:1 kapak…
 - [Owloops/claude-powerline](https://github.com/Owloops/claude-powerline) - Claude Code için güzel, vim tarzı powerline.
 - [persiyanov/herdr-reviewr](https://github.com/persiyanov/herdr-reviewr) - Kodlama aracınızın diff.
-- [devswha/herdr-web-ui](https://github.com/devswha/herdr-web-ui) - Browser and phone client for herdr: chat and live terminal for every agent…
+- [devswha/herdr-web-ui](https://github.com/devswha/herdr-web-ui) - herdr için tarayıcı ve telefon istemcisi: her ajan bölmesi için sohbet ve canlı…
 - [uppinote20/claude-dashboard](https://github.com/uppinote20/claude-dashboard) - Bağlam kullanımı, API hız sınırları ve maliyet takibiyle Claude Code için…
 - [starbaser/ccproxy](https://github.com/starbaser/ccproxy) - Claude Code için modlar oluşturun: Her isteğe kanca ekleyin, her yanıtı…
 - [NYCU-Chung/cc-statusline](https://github.com/NYCU-Chung/cc-statusline) - Claude Code için kapsamlı durum satırı panosu — oturum bilgileri, kota…
 - [gwittebolle/claude-carbon](https://github.com/gwittebolle/claude-carbon) - claude-carbon: Claude Code oturumlarınızın karbon ayak izini takip edin.
 - [AwesomeZun/CC-statusline](https://github.com/AwesomeZun/CC-statusline) - awesomejun tarafından Claude Code için hazırlanmış estetik durum satırı.
+- [a86582751/dsh-nexttavern](https://github.com/a86582751/dsh-nexttavern) - DeepSeek Harness 长篇角色扮演agent（DSH酒馆插件）：SillyTavern…
 - [JohnnyVizz/claude-kit](https://github.com/JohnnyVizz/claude-kit) - Herkese açık Claude Code Skills.
 - [escapeboy/claude-code-kit](https://github.com/escapeboy/claude-code-kit) - Claude Code için Skills.
 - [mvalentsev/awesome-free-ai-coding](https://github.com/mvalentsev/awesome-free-ai-coding) - 📡 Yasal ücretsiz LLM APIs ve kodlama aracıları — kendini günceller, haftada iki…
-- [chen731215-dev/dsh-tavern-v2](https://github.com/chen731215-dev/dsh-tavern-v2) - DeepSeek Harness Tavern Plugin - character card roleplay, worldbook management…
+- [chen731215-dev/dsh-tavern-v2](https://github.com/chen731215-dev/dsh-tavern-v2) - DeepSeek Harness Tavern Eklentisi - karakter kartı rol yapma, dünya kitabı…
 - [backstabslash/goccc](https://github.com/backstabslash/goccc) - Claude Code için hızlı, bağımlılık gerektirmeyen maliyet hesaplayıcı ve…
 - [kylesnowschwartz/tail-claude-hud](https://github.com/kylesnowschwartz/tail-claude-hud) - Claude Code oturumları için terminal statusline.
 - [arturogarrido/claudinho](https://github.com/arturogarrido/claudinho) - ⚽ Takip ettiğiniz müsabaka için canlı futbol skorları, fikstürler ve puan…
@@ -1880,13 +1881,13 @@ Siz yazarken Markdown, Claude Code'un istem kutusuna çizilir. Çitli kod, çiti
 - [jcdendrite/claude-config](https://github.com/jcdendrite/claude-config) - Taşınabilir Claude Code genel yapılandırması: özel beceriler, PreToolUse…
 - [mutlumehmet/claude-plugins](https://github.com/mutlumehmet/claude-plugins) - Her gün kullandığım Claude Code eklentileri: herkesin makinesinde çalışacak…
 - [manson341349-beep/claude-desktop-mods](https://github.com/manson341349-beep/claude-desktop-mods) - Claude Desktop.
-- [cmfok/dsh-feishucard](https://github.com/cmfok/dsh-feishucard) - DSH &lt;-&gt; Feishu (Lark) bridge, self-developed (not a fork): streaming reply card…
+- [cmfok/dsh-feishucard](https://github.com/cmfok/dsh-feishucard) - DSH &lt;-&gt; Feishu (Lark) köprüsü, kendi geliştirmemizdir (fork değildir): akışlı…
 - [darthmolen/hytale-claude-code-marketplace](https://github.com/darthmolen/hytale-claude-code-marketplace) - Hytale oyununda modları kolaylaştırmak için Claude Code Eklentileri ve…
 - [frsorrentino/fable-director](https://github.com/frsorrentino/fable-director) - Claude Code için token yönetimi: en üst model yönlendirir, yürütme en ucuz…
 - [jeancarlo-javier/claude-status-bar](https://github.com/jeancarlo-javier/claude-status-bar) - Claude Code için canlı iş akışı aşaması durum satırı.
 - [romnycristopher/claude-am-mods](https://github.com/romnycristopher/claude-am-mods) - Claude Code Awesome Media modları için depo.
 - [tedserbinski/claude-code-statusline](https://github.com/tedserbinski/claude-code-statusline) - Claude Code için basit ve kullanışlı durum satırı kurulumu.
-- [cesarschutz/claude-code-kit](https://github.com/cesarschutz/claude-code-kit) - Marketplace de plugins para o Claude Code: mods, skills, agentes, hooks…
+- [cesarschutz/claude-code-kit](https://github.com/cesarschutz/claude-code-kit) - Claude Code için eklenti mağazası: modlar, beceriler, agent&#x27;lar, hook&#x27;lar…
 - [crosscountryridinggirlwonder916/claude-statusline](https://github.com/crosscountryridinggirlwonder916/claude-statusline) - Daha iyi çalışma alanı farkındalığı için Claude Code durum satırını hız…
 - [fbincon/claude-code-statusline](https://github.com/fbincon/claude-code-statusline) - Linux, WSL, Windows ve macOS için yapılandırılabilir Claude Code durum satırı;
 - [JairoTorregrosa/claude-statusline](https://github.com/JairoTorregrosa/claude-statusline) - Claude Code için hızlı Rust durum satırı — önce yük, önbelleğe alınmış git…
@@ -1894,44 +1895,43 @@ Siz yazarken Markdown, Claude Code'un istem kutusuna çizilir. Çitli kod, çiti
 - [jv-k/claude-gauge](https://github.com/jv-k/claude-gauge) - Claude Code için bir durum satırı ve token satırı: bağlam, tempo…
 - [kyllian330/claude-statusline](https://github.com/kyllian330/claude-statusline) - Model, bağlam, sınırlar, git bilgileri ve oturum süresi dahil olmak üzere…
 - [Obednal97/claude-statusline-kit](https://github.com/Obednal97/claude-statusline-kit) - Çok satırlı Claude Code durum satırı: harcama, bağlam yüzdesi, git ve etkin…
-- [QingqiShi/claude](https://github.com/QingqiShi/claude) - Personal ~/.claude for Claude Code: settings, global CLAUDE.md, hooks, status…
-- [salvanya/claude_code_statusline](https://github.com/salvanya/claude_code_statusline) - claude code için kullanışlı bilgiler içeren durum satırı.
 - [tc3oliver/claude-team-kit](https://github.com/tc3oliver/claude-team-kit) - Yerel aracı ekipleri. Kontrol altında.
 - [yedidya-buildfy/claude-addons](https://github.com/yedidya-buildfy/claude-addons) - Claude Code eklentileri: sekme durumunda renkli nokta izleyicisi + yerleşik GSD…
 - [zach-source/claude-factory](https://github.com/zach-source/claude-factory) - herdr üzerinde Claude Code için tanımlanabilir yazılım fabrikaları: xstate…
 - [akhilnalliboina/claude-usage-statusline](https://github.com/akhilnalliboina/claude-usage-statusline) - macOS ve Linux için Claude Code kullanım durum satırı, herdr yükleyici…
-- [alfredwesterveld/claude-cache-status](https://github.com/alfredwesterveld/claude-cache-status) - Claude Code desktop mod: prompt-cache TTL countdown, hit rate and misses.
+- [alfredwesterveld/claude-cache-status](https://github.com/alfredwesterveld/claude-cache-status) - Claude Code masaüstü modu: istem önbelleği TTL geri sayımı, isabet oranı ve…
 - [andkirby/claude-statusline](https://github.com/andkirby/claude-statusline) - Claude Code için özel durum satırı — kullanım yüzdesi, bağlam boyutu, maliyet…
 - [AsyrafHussin/claude-code-statusline](https://github.com/AsyrafHussin/claude-code-statusline) - Claude Code için sade ve bilgilendirici bir durum satırı — projeyi, git…
-- [aubinhaba/claude-code-payment-skills](https://github.com/aubinhaba/claude-code-payment-skills) - Claude Code plugin: code-review skills for payments, consistency, boundaries…
 - [bunderlog/claude-plugins](https://github.com/bunderlog/claude-plugins) - baloo içeren Claude Code eklenti pazaryeri: beceriler, değişiklikleri projenin…
-- [crafts69guy/claude-statusline.nvim](https://github.com/crafts69guy/claude-statusline.nvim) - Claude Code status line in Lua, with a live Neovim playground.
+- [crafts69guy/claude-statusline.nvim](https://github.com/crafts69guy/claude-statusline.nvim) - Lua içinde Claude Code durum satırı ve canlı bir Neovim oyun alanı.
 - [ctfbio/claude-code-statusline](https://github.com/ctfbio/claude-code-statusline) - Profesyonel düzeyde Claude Code durum satırı: oturum süresi, ECB döviz…
 - [cvrt-gmbh/claude-statusline](https://github.com/cvrt-gmbh/claude-statusline) - Claude Code için abonelik farkındalıklı durum satırı.
-- [d3r3nic/claude-live-sessions](https://github.com/d3r3nic/claude-live-sessions) - A Claude Code plugin: a pane of the live Claude Code and Codex sessions on your…
 - [diegorv/koko.claude-statusline](https://github.com/diegorv/koko.claude-statusline) - Claude Code için zengin bir terminal durum satırı — Bun + TypeScript, çalışma…
-- [fbandres/ccmods](https://github.com/fbandres/ccmods) - Mods for Claude Code: live panes, gauges and more, installable as plugins.
-- [filtercoffeeway/claude-kit](https://github.com/filtercoffeeway/claude-kit) - Claude Code için araçlar, beceriler ve aracılar — model, dal, PR, bağlam…
+- [emmanuelbarturen/claude-code-statusline](https://github.com/emmanuelbarturen/claude-code-statusline) - Statusline para Claude Code en español: tarea, skills, contexto con semáforo…
+- [FukKwang/claude-statusline](https://github.com/FukKwang/claude-statusline) - Colorful Claude Code status line: plan limits, context, cost and tokens.
+- [Gabriel-Dalton/claude-statusline-tokens](https://github.com/Gabriel-Dalton/claude-statusline-tokens) - Claude Code status line for Windows: token totals, API-rate cost, and…
 - [giribboy77-arch/claude-statusline](https://github.com/giribboy77-arch/claude-statusline) - Claude Code özel durum satırı (model, efor, bağlam, önbellek, kullanım sınırı).
-- [hardtomakeanadress/claude-code-deepseek-cost](https://github.com/hardtomakeanadress/claude-code-deepseek-cost) - Claude Code için gerçek DeepSeek API harcaması: oturum dökümlerini DeepSeek…
+- [gvart/claude-config](https://github.com/gvart/claude-config) - My Claude Code setup: agent-monitor mod, skills, agents and a one-command…
 - [hieuvo/claude-imgview](https://github.com/hieuvo/claude-imgview) - Görüntüleri Claude Code içinde önizleyin: resmi açmak için bir yanıtın…
-- [irfanfaraaz/claude-kit](https://github.com/irfanfaraaz/claude-kit) - My Claude Code setup: mods, skills and plugins.
+- [irfanfaraaz/claude-kit](https://github.com/irfanfaraaz/claude-kit) - Claude Code kurulumum: modlar, beceriler ve eklentiler.
 - [izahamyatim/claude-plugin-fizzy](https://github.com/izahamyatim/claude-plugin-fizzy) - 🚀 Gerçek zamanlı ekip görünürlüğü için Claude.
-- [kernastra/claudecode](https://github.com/kernastra/claudecode) - A collection of Claude Code skills, mods, and other add ons that I.
+- [kernastra/claudecode](https://github.com/kernastra/claudecode) - Oluşturduğum ve paylaşmak istediğim bir Claude Code becerileri, modları ve…
+- [kevinbadi/creatoros-claude-plugin](https://github.com/kevinbadi/creatoros-claude-plugin) - Creator OS for Claude Code: the connector, skills and a mod.
 - [Leechlike-intangibleasset343/claude-code-statusline](https://github.com/Leechlike-intangibleasset343/claude-code-statusline) - Bağlamı, maliyeti, süreyi, git dalını, hız sınırlarını ve canlı kullanımı…
+- [lucasmm96/claude-statusline](https://github.com/lucasmm96/claude-statusline) - Claude Code statusline hook — tracks token usage and context across sessions…
 - [msinclair-sudo/claude-code-setup](https://github.com/msinclair-sudo/claude-code-setup) - Claude Code ortam yükleyicisi: skills, statusline, hooks, permissions ve isteğe…
-- [muemadennis/claude-code-command-center](https://github.com/muemadennis/claude-code-command-center) - Claude Code Live Dashboard 2026: Track Costs, Tokens &amp; Git Branch Status.
 - [OpenClawFarm/claude-statusline](https://github.com/OpenClawFarm/claude-statusline) - Claude Code için HUD tarzı durum satırı — ağ durumu, TPS, bağlam, kotalar ve…
-- [parisgroup-ai/claude-statusline](https://github.com/parisgroup-ai/claude-statusline) - @parisgroup-ai/claude-statusline — Claude Code statusline for macOS + Linux.
-- [primelogiclabio/claude-tools](https://github.com/primelogiclabio/claude-tools) - Skills and mods for Claude Code and Cowork — project-tracker, reference-doc…
-- [robinalexandre/claude-code-kit](https://github.com/robinalexandre/claude-code-kit) - Skills, mods, hooks and a status line for Claude Code, plus a sync engine for…
-- [rotemx-10x/claude-code-statusline](https://github.com/rotemx-10x/claude-code-statusline) - A two-line status line for Claude Code.
-- [satoramoto/awesome-claude](https://github.com/satoramoto/awesome-claude) - Claude Code config and mods, with a shared component kit, a playground and…
+- [parisgroup-ai/claude-statusline](https://github.com/parisgroup-ai/claude-statusline) - @parisgroup-ai/claude-statusline — macOS + Linux için Claude Code durum satırı.
+- [primelogiclabio/claude-tools](https://github.com/primelogiclabio/claude-tools) - Claude Code ve Cowork için beceriler ve modlar — project-tracker, reference-doc…
+- [robinalexandre/claude-code-kit](https://github.com/robinalexandre/claude-code-kit) - Claude Code için beceriler, modlar, kancalar ve durum satırı;
+- [rotemx-10x/claude-code-statusline](https://github.com/rotemx-10x/claude-code-statusline) - Claude Code için iki satırlı bir durum satırı.
+- [satoramoto/awesome-claude](https://github.com/satoramoto/awesome-claude) - Paylaşılan bir bileşen kiti, bir oyun alanı ve Storybook içeren Claude Code…
+- [Shawn200212/humanizer_formal_claude](https://github.com/Shawn200212/humanizer_formal_claude) - Bilingual (中/英) interpretable model for repairing AI-drafted academic prose.
 - [Sofia-D4L/claude-conf](https://github.com/Sofia-D4L/claude-conf) - Claude Code için taşınabilir yapılandırma (statusline + yükleyici).
 - [SohamShirsat/claude-cockpit](https://github.com/SohamShirsat/claude-cockpit) - Claude Code için küçük bir gösterge tablosu: bağlam yüzdesi, önbellek geri…
 - [speti4/claude-statusline](https://github.com/speti4/claude-statusline) - Claude Code için özel terminal durum çubuğu: model, dizin, git durumu, bağlam…
 - [thaiquangquy/claude.me](https://github.com/thaiquangquy/claude.me) - Taşınabilir Claude Code yapılandırması: CLAUDE.md, ayarlar, durum satırı…
-- [vibe-coding-labs/claude-code-status-skills](https://github.com/vibe-coding-labs/claude-code-status-skills) - Claude Code status line: the current model ID, the hostname, a clickable git…
+- [vibe-coding-labs/claude-code-status-skills](https://github.com/vibe-coding-labs/claude-code-status-skills) - Claude Code durum satırı: mevcut model kimliği, ana bilgisayar adı…
 - [vladimir-ks/ai-agile-claude-code-statusline](https://github.com/vladimir-ks/ai-agile-claude-code-statusline) - Claude Code için gerçek zamanlı maliyet takibi ve oturum izleme durum satırı.
 - [warodan/vscode-claude-code-patch](https://github.com/warodan/vscode-claude-code-patch) - Claude Code becerisi (VS Code, Windows): sohbette dosya yollarının altında…
 - [ymoud/claude-code-statusline](https://github.com/ymoud/claude-code-statusline) - Klasörü, git dalını, modeli, bağlam penceresi kullanımını ve plan kullanım…
@@ -1939,8 +1939,9 @@ Siz yazarken Markdown, Claude Code'un istem kutusuna çizilir. Çitli kod, çiti
 - [zhuyansen/awesome-claude-code-hooks](https://github.com/zhuyansen/awesome-claude-code-hooks) - Claude Code kancaları, alt ajanları ve durum satırları: türe göre düzenlenmiş…
 - [tronschell/statusline.sh](https://github.com/tronschell/statusline.sh) - Claude Code durum satırları için görsel oluşturucu.
 - [Magnus-Gille/tokenatlas](https://github.com/Magnus-Gille/tokenatlas) - Gerçek zamanlı belirteç kullanımını ve tahmini enerji tüketimini gösteren…
+- [babarot/c-c-statusline](https://github.com/babarot/c-c-statusline) - A Deno-powered status line for Claude Code CLI.
 - [ishuagrawal/clawdhouse](https://github.com/ishuagrawal/clawdhouse) - Claude Code için modlar: işlev kancaları üzerine kurulu bölmeler, bantlar ve…
-- [timvdhoorn/cc-my-pi](https://github.com/timvdhoorn/cc-my-pi) - Claude Code-style UI bundle for the Pi coding agent — tool rendering, spinner…
+- [timvdhoorn/cc-my-pi](https://github.com/timvdhoorn/cc-my-pi) - Pi kodlama ajanı için Claude Code tarzı arayüz paketi — araç oluşturma…
 - [ashishsk93/baton-mods](https://github.com/ashishsk93/baton-mods) - Görevleri Claude Code oturumlarınız arasında aktarın.
 - [lahoramaker/mods-mcp](https://github.com/lahoramaker/mods-mcp) - Fablab.
 - [Rimcat-JA/translate-ck3-mods](https://github.com/Rimcat-JA/translate-ck3-mods) - Yerel bir LLM ile CK3 modlarını çevirmek için Codex ve Claude Code becerisi.
@@ -1958,7 +1959,7 @@ Siz yazarken Markdown, Claude Code'un istem kutusuna çizilir. Çitli kod, çiti
 DeepSeek Harness ve Cordis aynı yere farklı bir yönden ulaşır: onlar için eklenti, mod mekanizmasıdır; dolayısıyla oradaki bir eklenti, buradaki bir moda denktir.
 
 <details>
-<summary>🧵 <b><a href="https://github.com/ruvnet/ruflo">ruvnet/ruflo</a></b> · ⭐74358 · TypeScript · 👁️ observed · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/ruvnet/ruflo">ruvnet/ruflo</a></b> · ⭐74360 · TypeScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 Özet
 
@@ -1978,7 +1979,7 @@ DeepSeek Harness ve Cordis aynı yere farklı bir yönden ulaşır: onlar için 
 
 | Metrik         | Değer      |
 | -------------- | ---------- |
-| Yıldızlar      | **74358**  |
+| Yıldızlar      | **74360**  |
 | Son gönderme   | 2026-10-11 |
 | İlk listelenme | 2026-10-04 |
 
@@ -1994,7 +1995,7 @@ DeepSeek Harness ve Cordis aynı yere farklı bir yönden ulaşır: onlar için 
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/morluto/rea">morluto/rea</a></b> · ⭐100891 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/morluto/rea">morluto/rea</a></b> · ⭐103536 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Özet
 
@@ -2012,8 +2013,8 @@ Uygulama davranışından yerel ikili dosyalara kadar her şeyi ajanlarla tersin
 
 | Metrik         | Değer      |
 | -------------- | ---------- |
-| Yıldızlar      | **100891** |
-| Son gönderme   | 2026-10-11 |
+| Yıldızlar      | **103536** |
+| Son gönderme   | 2026-10-12 |
 | İlk listelenme | 2026-10-05 |
 
 🏷 `agent-skills` · `ai-agents` · `binary-analysis` · `claude-code` · `cli` · `codex` · `cordis` · `ctf`
@@ -2028,7 +2029,7 @@ Uygulama davranışından yerel ikili dosyalara kadar her şeyi ajanlarla tersin
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/nexu-io/open-design">nexu-io/open-design</a></b> · ⭐100557 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/nexu-io/open-design">nexu-io/open-design</a></b> · ⭐100566 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Özet
 
@@ -2046,7 +2047,7 @@ Uygulama davranışından yerel ikili dosyalara kadar her şeyi ajanlarla tersin
 
 | Metrik         | Değer      |
 | -------------- | ---------- |
-| Yıldızlar      | **100557** |
+| Yıldızlar      | **100566** |
 | Son gönderme   | 2026-10-11 |
 | İlk listelenme | 2026-10-04 |
 
@@ -2062,7 +2063,7 @@ Uygulama davranışından yerel ikili dosyalara kadar her şeyi ajanlarla tersin
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/tt-a1i/archify">tt-a1i/archify</a></b> · ⭐82028 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/tt-a1i/archify">tt-a1i/archify</a></b> · ⭐82046 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Özet
 
@@ -2080,7 +2081,7 @@ Herhangi bir fikri, planı veya kod tabanını güzel ve etkileşimli bir diyagr
 
 | Metrik         | Değer      |
 | -------------- | ---------- |
-| Yıldızlar      | **82028**  |
+| Yıldızlar      | **82046**  |
 | Son gönderme   | 2026-10-11 |
 | İlk listelenme | 2026-10-04 |
 
@@ -2123,7 +2124,7 @@ Karmaşık yazılım mühendisliği görevleri için güvenilir bir kodlama arac
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/titanwings/distilly">titanwings/distilly</a></b> · ⭐25499 · Python · 🔎 inferred · 19 天</summary>
+<summary>🧵 <b><a href="https://github.com/titanwings/distilly">titanwings/distilly</a></b> · ⭐25500 · Python · 🔎 inferred · 19 天</summary>
 
 ##### 📝 Özet
 
@@ -2141,7 +2142,7 @@ Distilly — Herhangi bir Agent veya Bot için nasıl düşündüklerini yeniden
 
 | Metrik         | Değer      |
 | -------------- | ---------- |
-| Yıldızlar      | **25499**  |
+| Yıldızlar      | **25500**  |
 | Son gönderme   | 2026-09-22 |
 | İlk listelenme | 2026-10-11 |
 
@@ -2157,7 +2158,41 @@ Distilly — Herhangi bir Agent veya Bot için nasıl düşündüklerini yeniden
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget">MeteorNOX/DeepSeek-Balance-Whale-Widget</a></b> · ⭐4493 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/Q00/ouroboros">Q00/ouroboros</a></b> · ⭐6203 · Python · 🔎 inferred · 0 天</summary>
+
+##### 📝 Özet
+
+Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
+
+##### 📌 Temel bilgiler
+
+| Alan     | Değer                                                                                           |
+| -------- | ----------------------------------------------------------------------------------------------- |
+| Kategori | `DSH ve Cordis eklenti ekosistemleri`                                                           |
+| Kanıt    | `bir mod, eklenti veya hook bildirdi, ancak özellikle mod yüzeyi hakkında hiçbir şey söylemedi` |
+| Dil      | Python                                                                                          |
+
+##### 📊 Veri
+
+| Metrik         | Değer      |
+| -------------- | ---------- |
+| Yıldızlar      | **6203**   |
+| Son gönderme   | 2026-10-11 |
+| İlk listelenme | 2026-10-12 |
+
+🏷 `agent-os` · `agentic-ai` · `ai-agent` · `ai-coding-agent` · `claude-code` · `cli` · `codex` · `coding-agent`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Görsel</th><th align="center" width="50%">🎬 Video</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/q00--ouroboros/5b0b313f6f066fb8.png" width="100%" alt="Q00/ouroboros screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/q00--ouroboros/099492564830e817.gif" width="100%" alt="Q00/ouroboros animation"><br><sub>animasyonlu kayıt</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget">MeteorNOX/DeepSeek-Balance-Whale-Widget</a></b> · ⭐4495 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Özet
 
@@ -2175,7 +2210,7 @@ DeepSeek Harness（DSH）arayüzünün sağ alt köşesinde yaşayan, DeepSeek h
 
 | Metrik         | Değer      |
 | -------------- | ---------- |
-| Yıldızlar      | **4493**   |
+| Yıldızlar      | **4495**   |
 | Son gönderme   | 2026-10-11 |
 | İlk listelenme | 2026-10-11 |
 
@@ -2195,7 +2230,7 @@ DeepSeek Harness（DSH）arayüzünün sağ alt köşesinde yaşayan, DeepSeek h
 
 ##### 📝 Özet
 
-The World's First Virtual Terminal for AI Agents
+Dünyanın İlk AI Ajanları için Sanal Terminali
 
 ##### 📌 Temel bilgiler
 
@@ -2218,7 +2253,7 @@ The World's First Virtual Terminal for AI Agents
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/dsh-tauri/deepseek-harness-desktop">dsh-tauri/deepseek-harness-desktop</a></b> · ⭐3093 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/dsh-tauri/deepseek-harness-desktop">dsh-tauri/deepseek-harness-desktop</a></b> · ⭐3088 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Özet
 
@@ -2236,7 +2271,7 @@ DeepSeek Harness Tauri masaüstü sürümü | Yalnızca 8 MB yükleyici, sıfır
 
 | Metrik         | Değer      |
 | -------------- | ---------- |
-| Yıldızlar      | **3093**   |
+| Yıldızlar      | **3088**   |
 | Son gönderme   | 2026-10-11 |
 | İlk listelenme | 2026-10-11 |
 
@@ -2252,45 +2287,11 @@ DeepSeek Harness Tauri masaüstü sürümü | Yalnızca 8 MB yükleyici, sıfır
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/bowenliang123/dsh-context">bowenliang123/dsh-context</a></b> · ⭐1995 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/xmanrui/dsh-im">xmanrui/dsh-im</a></b> · ⭐1849 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Özet
 
-The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器和侧边栏与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。
-
-##### 📌 Temel bilgiler
-
-| Alan     | Değer                                                                                           |
-| -------- | ----------------------------------------------------------------------------------------------- |
-| Kategori | `DSH ve Cordis eklenti ekosistemleri`                                                           |
-| Kanıt    | `bir mod, eklenti veya hook bildirdi, ancak özellikle mod yüzeyi hakkında hiçbir şey söylemedi` |
-| Dil      | TypeScript                                                                                      |
-
-##### 📊 Veri
-
-| Metrik         | Değer      |
-| -------------- | ---------- |
-| Yıldızlar      | **1995**   |
-| Son gönderme   | 2026-10-11 |
-| İlk listelenme | 2026-10-12 |
-
-🏷 `cordis-plugin` · `deepseek-harness` · `deepseek-harness-plugin` · `dsh-external` · `dsh-plugin` · `dsh-plugins`
-
----
-
-<table><tr><th align="center" width="50%">🖼 Görsel</th><th align="center" width="50%">🎬 Video</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/bowenliang123--dsh-context/573c0e5849eea852.png" width="100%" alt="bowenliang123/dsh-context screenshot"></td>
-<td align="center" valign="top"><sub>medya yayınlanmadı</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/xmanrui/dsh-im">xmanrui/dsh-im</a></b> · ⭐1841 · JavaScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 Özet
-
-通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).
+QR kodu veya bot kimlik bilgileriyle IM botlarını DeepSeek Harness'e bağlayın (Feishu, WeChat, DingTalk, WeCom, QQ, Slack, Telegram, Discord ve WhatsApp desteklenir). IM botlarını QR kodu veya kimlik bilgileri aracılığıyla DeepSeek Harness'e bağlayın (9 kanal).
 
 ##### 📌 Temel bilgiler
 
@@ -2304,7 +2305,7 @@ The best DeepSeek Harness plugin for context insight and management, with contex
 
 | Metrik         | Değer      |
 | -------------- | ---------- |
-| Yıldızlar      | **1841**   |
+| Yıldızlar      | **1849**   |
 | Son gönderme   | 2026-10-11 |
 | İlk listelenme | 2026-10-12 |
 
@@ -2347,11 +2348,11 @@ AI kodlama aracıları için yürütme öncesi koruma. Bir araç çağrısı ça
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/anywhere-labs/Agents-Anywhere">anywhere-labs/Agents-Anywhere</a></b> · ⭐1578 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/anywhere-labs/Agents-Anywhere">anywhere-labs/Agents-Anywhere</a></b> · ⭐1579 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Özet
 
-跨设备的开源Agent工作台
+Cihazlar arası açık kaynaklı Agent çalışma alanı
 
 ##### 📌 Temel bilgiler
 
@@ -2365,7 +2366,7 @@ AI kodlama aracıları için yürütme öncesi koruma. Bir araç çağrısı ça
 
 | Metrik         | Değer      |
 | -------------- | ---------- |
-| Yıldızlar      | **1578**   |
+| Yıldızlar      | **1579**   |
 | Son gönderme   | 2026-10-11 |
 | İlk listelenme | 2026-10-12 |
 
@@ -2379,6 +2380,40 @@ AI kodlama aracıları için yürütme öncesi koruma. Bir araç çağrısı ça
 </tr></table>
 
 <sub>Yeniden dağıtıma izin veren bir lisans belirtilmediği için varlığa upstream deposundan doğrudan bağlantı veriliyor.</sub>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/AdamPlatin123/dsh-plugin-radar">AdamPlatin123/dsh-plugin-radar</a></b> · ⭐1465 · Python · 🔎 inferred · 0 天</summary>
+
+##### 📝 Özet
+
+DSH Plugin Radar — open-source ecosystem radar for DeepSeek Harness plugins: continuous discovery (21k+ candidates), k8s runtime validation (13k+ tests), 15-min snapshots; the catalog is a generated artifact — 开源 DSH 插件生态雷达：持续发现 2.1 万+ 候选、k8s 运行级实测 1.3 万+、15 分钟快照；插件目录为自动生成的产物
+
+##### 📌 Temel bilgiler
+
+| Alan     | Değer                                                                                           |
+| -------- | ----------------------------------------------------------------------------------------------- |
+| Kategori | `DSH ve Cordis eklenti ekosistemleri`                                                           |
+| Kanıt    | `bir mod, eklenti veya hook bildirdi, ancak özellikle mod yüzeyi hakkında hiçbir şey söylemedi` |
+| Dil      | Python                                                                                          |
+
+##### 📊 Veri
+
+| Metrik         | Değer      |
+| -------------- | ---------- |
+| Yıldızlar      | **1465**   |
+| Son gönderme   | 2026-10-11 |
+| İlk listelenme | 2026-10-12 |
+
+🏷 `agent-plugins` · `continuous-validation` · `deepseek-harness` · `dsh` · `dsh-plugin` · `ecosystem-radar` · `plugin-registry`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Görsel</th><th align="center" width="50%">🎬 Video</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/adamplatin123--dsh-plugin-radar/fb6ad7eb8891212c.jpg" width="100%" alt="AdamPlatin123/dsh-plugin-radar screenshot"></td>
+<td align="center" valign="top"><sub>medya yayınlanmadı</sub></td>
+</tr></table>
 
 </details>
 
@@ -2417,7 +2452,7 @@ AI roman yazma yazılımı: ilhamları, karakterleri, dünya kurgusunu, taslakla
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/vshulcz/deja-vu">vshulcz/deja-vu</a></b> · ⭐1173 · Go · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/vshulcz/deja-vu">vshulcz/deja-vu</a></b> · ⭐1174 · Go · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Özet
 
@@ -2435,7 +2470,7 @@ Diskinizde zaten bulunan oturum geçmişinden oluşturulmuş Claude Code, Codex,
 
 | Metrik         | Değer      |
 | -------------- | ---------- |
-| Yıldızlar      | **1173**   |
+| Yıldızlar      | **1174**   |
 | Son gönderme   | 2026-10-11 |
 | İlk listelenme | 2026-10-04 |
 
@@ -2489,7 +2524,7 @@ DeepSeek Harness (dsh) Windows masaüstü istemcisi - paketlenmiş Node.js + dsh
 
 ##### 📝 Özet
 
-DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.
+DeepSeek Harness Masaüstü Uygulaması: DSH Oturumları, projeler, dosyalar, web araştırması, eklentiler ve Office ürünleri için yerel AI masaüstü çalışma alanı.
 
 ##### 📌 Temel bilgiler
 
@@ -2523,7 +2558,7 @@ DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, pro
 
 ##### 📝 Özet
 
-📚 AI Agent'ların doğrulanmış hata ayıklama deneyimlerini eşzamansız olarak paylaşması ve araması için git destekli, bağımlılıksız mikro ders kütüphanesi. | https://misakanet.org
+📚 Yapay Zekâ Ajanlarının doğrulanmış hata ayıklama deneyimlerini eşzamansız olarak paylaşması ve araması için sıfır bağımlılıklı, git destekli mikro ders kütüphanesi. | https://misakanet.org
 
 ##### 📌 Temel bilgiler
 
@@ -2557,7 +2592,7 @@ DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, pro
 
 ##### 📝 Özet
 
-Free web search provider for DeepSeek Harness - DuckDuckGo backend, no API key needed
+DeepSeek Harness için ücretsiz web arama sağlayıcısı - DuckDuckGo arka ucu, API anahtarı gerekmez
 
 ##### 📌 Temel bilgiler
 
@@ -2581,6 +2616,40 @@ Free web search provider for DeepSeek Harness - DuckDuckGo backend, no API key n
 
 <table><tr><th align="center" width="50%">🖼 Görsel</th><th align="center" width="50%">🎬 Video</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/dddmuc--dsh-free-search/ec034e713544ead5.png" width="100%" alt="DDDMUC/dsh-free-search screenshot"></td>
+<td align="center" valign="top"><sub>medya yayınlanmadı</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/xing-shuyin/pi-web-ui">xing-shuyin/pi-web-ui</a></b> · ⭐285 · TypeScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 Özet
+
+Just open your browser — get all your work done.
+
+##### 📌 Temel bilgiler
+
+| Alan     | Değer                                                                                           |
+| -------- | ----------------------------------------------------------------------------------------------- |
+| Kategori | `DSH ve Cordis eklenti ekosistemleri`                                                           |
+| Kanıt    | `bir mod, eklenti veya hook bildirdi, ancak özellikle mod yüzeyi hakkında hiçbir şey söylemedi` |
+| Dil      | TypeScript                                                                                      |
+
+##### 📊 Veri
+
+| Metrik         | Değer      |
+| -------------- | ---------- |
+| Yıldızlar      | **285**    |
+| Son gönderme   | 2026-10-11 |
+| İlk listelenme | 2026-10-12 |
+
+🏷 `dsh` · `dsh-desktop` · `dsh-plugin` · `pi` · `pi-web` · `pi-web-ui`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Görsel</th><th align="center" width="50%">🎬 Video</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/xing-shuyin--pi-web-ui/926fb8bfa4f6062a.jpg" width="100%" alt="xing-shuyin/pi-web-ui screenshot"></td>
 <td align="center" valign="top"><sub>medya yayınlanmadı</sub></td>
 </tr></table>
 
@@ -2621,40 +2690,6 @@ ACRYL - Agent Context Relay Yielding Lifecycles. Tek kalıcı çalışma alanı,
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/RevolutionLA/dsh-dream-skin">RevolutionLA/dsh-dream-skin</a></b> · ⭐225 · JavaScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 Özet
-
-DeepSeek Harness 换肤 / 壁纸 / 主题包插件 (dsh-plugin) — 8 套 Mirage 主题、每用户强调色、壁纸2.0、主题包导入导出/分享链接、收藏与随机，纯原生 token 系统实现。
-
-##### 📌 Temel bilgiler
-
-| Alan     | Değer                                                                                           |
-| -------- | ----------------------------------------------------------------------------------------------- |
-| Kategori | `DSH ve Cordis eklenti ekosistemleri`                                                           |
-| Kanıt    | `bir mod, eklenti veya hook bildirdi, ancak özellikle mod yüzeyi hakkında hiçbir şey söylemedi` |
-| Dil      | JavaScript                                                                                      |
-
-##### 📊 Veri
-
-| Metrik         | Değer      |
-| -------------- | ---------- |
-| Yıldızlar      | **225**    |
-| Son gönderme   | 2026-10-11 |
-| İlk listelenme | 2026-10-12 |
-
-🏷 `deepseek-harness` · `dsh` · `dsh-plugin` · `dsh-plugin-theme` · `skin` · `theme` · `wallpaper`
-
----
-
-<table><tr><th align="center" width="50%">🖼 Görsel</th><th align="center" width="50%">🎬 Video</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/revolutionla--dsh-dream-skin/9ae1ef97a89d3ff0.png" width="100%" alt="RevolutionLA/dsh-dream-skin screenshot"></td>
-<td align="center" valign="top"><sub>medya yayınlanmadı</sub></td>
-</tr></table>
-
-</details>
-
-<details>
 <summary>🧵 <b><a href="https://github.com/luobosibing2/dsh-jev-plugin">luobosibing2/dsh-jev-plugin</a></b> · ⭐204 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Özet
@@ -2689,45 +2724,11 @@ Aracı seçimi, denetim, düzeltmeler ve onaylar için System One karar katmanı
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/cocofhu/anime-find">cocofhu/anime-find</a></b> · ⭐176 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 Özet
-
-DeepSeek Harness 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力。
-
-##### 📌 Temel bilgiler
-
-| Alan     | Değer                                                                                           |
-| -------- | ----------------------------------------------------------------------------------------------- |
-| Kategori | `DSH ve Cordis eklenti ekosistemleri`                                                           |
-| Kanıt    | `bir mod, eklenti veya hook bildirdi, ancak özellikle mod yüzeyi hakkında hiçbir şey söylemedi` |
-| Dil      | TypeScript                                                                                      |
-
-##### 📊 Veri
-
-| Metrik         | Değer      |
-| -------------- | ---------- |
-| Yıldızlar      | **176**    |
-| Son gönderme   | 2026-10-11 |
-| İlk listelenme | 2026-10-12 |
-
-🏷 `anime` · `anime-search` · `bangumi` · `deepseek` · `deepseek-harness` · `dsh` · `dsh-plugin` · `magnet`
-
----
-
-<table><tr><th align="center" width="50%">🖼 Görsel</th><th align="center" width="50%">🎬 Video</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/cocofhu--anime-find/4e8000425bf8bf5f.jpg" width="100%" alt="cocofhu/anime-find screenshot"></td>
-<td align="center" valign="top"><sub>medya yayınlanmadı</sub></td>
-</tr></table>
-
-</details>
-
-<details>
 <summary>🧵 <b><a href="https://github.com/xiajiajun516/dsh-config-manager">xiajiajun516/dsh-config-manager</a></b> · ⭐176 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Özet
 
-DeepSeek Harness (DSH) backup & restore plugin — export, import, migrate and sync your complete DSH configuration, plugins, MCP servers, skills and workspace. One-click migration to another machine.
+DeepSeek Harness (DSH) yedekleme ve geri yükleme eklentisi — DSH yapılandırmanızın, eklentilerinizin, MCP sunucularınızın, becerilerinizin ve çalışma alanınızın tamamını dışa aktarın, içe aktarın, taşıyın ve eşitleyin. Başka bir makineye tek tıklamayla geçiş.
 
 ##### 📌 Temel bilgiler
 
@@ -2825,41 +2826,7 @@ DeepSeek Harness (dsh) için zamanı kaydırılmış görev devri: görevleri bo
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/WSL043/dsh-codex-subscription">WSL043/dsh-codex-subscription</a></b> · ⭐160 · JavaScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 Özet
-
-Use your ChatGPT Plus / Pro (Codex) subscription in DeepSeek Harness (DSH): GPT-6 & Codex models, images, web search and quota via ChatGPT sign-in — no OpenAI API key. Beta: control DSH from the ChatGPT mobile app. 在 DSH 中使用 ChatGPT 订阅，并可用 ChatGPT 手机 App 远程控制。
-
-##### 📌 Temel bilgiler
-
-| Alan     | Değer                                                                                           |
-| -------- | ----------------------------------------------------------------------------------------------- |
-| Kategori | `DSH ve Cordis eklenti ekosistemleri`                                                           |
-| Kanıt    | `bir mod, eklenti veya hook bildirdi, ancak özellikle mod yüzeyi hakkında hiçbir şey söylemedi` |
-| Dil      | JavaScript                                                                                      |
-
-##### 📊 Veri
-
-| Metrik         | Değer      |
-| -------------- | ---------- |
-| Yıldızlar      | **160**    |
-| Son gönderme   | 2026-10-11 |
-| İlk listelenme | 2026-10-12 |
-
-🏷 `ai-agent` · `chatgpt` · `chatgpt-plus` · `chatgpt-pro` · `chatgpt-subscription` · `codex` · `codex-cli-alternative` · `codex-subscription`
-
----
-
-<table><tr><th align="center" width="50%">🖼 Görsel</th><th align="center" width="50%">🎬 Video</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/wsl043--dsh-codex-subscription/0c3daa4061aa684e.webp" width="100%" alt="WSL043/dsh-codex-subscription screenshot"></td>
-<td align="center" valign="top"><sub>medya yayınlanmadı</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/morluto/flameox">morluto/flameox</a></b> · ⭐143 · Python · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/morluto/flameox">morluto/flameox</a></b> · ⭐145 · Python · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Özet
 
@@ -2877,7 +2844,7 @@ Agent'ların uygulama ve yerel koddaki, GPU çekirdeklerindeki ve çıkarım yı
 
 | Metrik         | Değer      |
 | -------------- | ---------- |
-| Yıldızlar      | **143**    |
+| Yıldızlar      | **145**    |
 | Son gönderme   | 2026-10-11 |
 | İlk listelenme | 2026-10-11 |
 
@@ -2893,11 +2860,47 @@ Agent'ların uygulama ve yerel koddaki, GPU çekirdeklerindeki ve çıkarım yı
 </details>
 
 <details>
+<summary>🧵 <b><a href="https://github.com/2BingLing/dsh-market">2BingLing/dsh-market</a></b> · ⭐139 · TypeScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 Özet
+
+DeepSeek Harness 插件市场 · 持续收录 6000+ DSH 插件：中文搜索 + 实用五维评分 + 一键安装。Web 版与 DSH 侧边栏插件双形态。Plugin marketplace for DeepSeek Harness: 6000+ plugins, Chinese search, 5-dim scoring, one-click install.
+
+##### 📌 Temel bilgiler
+
+| Alan     | Değer                                                                                           |
+| -------- | ----------------------------------------------------------------------------------------------- |
+| Kategori | `DSH ve Cordis eklenti ekosistemleri`                                                           |
+| Kanıt    | `bir mod, eklenti veya hook bildirdi, ancak özellikle mod yüzeyi hakkında hiçbir şey söylemedi` |
+| Dil      | TypeScript                                                                                      |
+
+##### 📊 Veri
+
+| Metrik         | Değer      |
+| -------------- | ---------- |
+| Yıldızlar      | **139**    |
+| Son gönderme   | 2026-10-11 |
+| İlk listelenme | 2026-10-12 |
+
+🏷 `deepseek-harness` · `deepseek-harness-plugin` · `deepseek-harness-plugins` · `dsh` · `dsh-bundle` · `dsh-market` · `dsh-plugin` · `dsh-plugins`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Görsel</th><th align="center" width="50%">🎬 Video</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/2BingLing/dsh-market/master/assets/readme/banner.webp" width="100%" alt="2BingLing/dsh-market screenshot"></td>
+<td align="center" valign="top"><sub>medya yayınlanmadı</sub></td>
+</tr></table>
+
+<sub>Yeniden dağıtıma izin veren bir lisans belirtilmediği için varlığa upstream deposundan doğrudan bağlantı veriliyor.</sub>
+
+</details>
+
+<details>
 <summary>🧵 <b><a href="https://github.com/FeatherHunter/dsh-mattpocock-skills-deck">FeatherHunter/dsh-mattpocock-skills-deck</a></b> · ⭐135 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Özet
 
-安装即自带mattpocock/skills v1.3.1的27个工程与效率技能，无需手动装技能。400亿token打造本插件，在原始技能之上提供10倍的开发效率，也能帮助新手更快上手该技能套件。全力支持GitHub issue；Markdown为预览版；GitLab暂不支持。感谢您的使用和支持💗
+Kurulumla birlikte mattpocock/skills v1.3.1'in 27 mühendislik ve verimlilik becerisi gelir; becerileri manuel olarak yüklemeniz gerekmez. 40 milyar token ile oluşturulan bu eklenti, özgün becerilerin üzerinde 10 kat geliştirme verimliliği sunar ve yeni başlayanların bu beceri paketini daha hızlı öğrenmesine yardımcı olur. GitHub issue'ları tam olarak desteklenir; Markdown önizleme sürümündedir; GitLab şu anda desteklenmemektedir. Kullanımınız ve desteğiniz için teşekkürler 💗
 
 ##### 📌 Temel bilgiler
 
@@ -2931,7 +2934,7 @@ Agent'ların uygulama ve yerel koddaki, GPU çekirdeklerindeki ve çıkarım yı
 
 ##### 📝 Özet
 
-Remote-work assistant for DeepSeek Harness (DSH): connect SSH (key or password), pick a remote workspace, operate with rw_* tools, and SFTP-mirror it into a real local DSH workspace.
+DeepSeek Harness (DSH) için uzaktan çalışma yardımcısı: SSH'ye (anahtar veya parola ile) bağlanın, uzak bir çalışma alanı seçin, rw_* araçlarıyla çalışın ve bunu gerçek bir yerel DSH çalışma alanına SFTP ile yansıtın.
 
 ##### 📌 Temel bilgiler
 
@@ -3035,7 +3038,7 @@ DSH eklentisi · Enjeksiyon tabanlı optimizer 0.8 (ana sürüm): Siz her zamank
 
 ##### 📝 Özet
 
-DSH plugin - framework upgrade safety & plugin gating: contract pre-check, rollback point, auto-rollback on failure, evidence-based auto-disable; plus a multi-source plugin market. Unofficial. | DSH 插件：框架升级安全 + 插件门控——升级前契约预检、回滚点、失败自动回滚、有确证证据才自动禁用；另带多源插件市场。非官方社区项目。
+DSH eklentisi - çerçeve yükseltme güvenliği ve eklenti geçitleme: sözleşme ön denetimi, geri alma noktası, başarısızlıkta otomatik geri alma, kanıta dayalı otomatik devre dışı bırakma; ayrıca çok kaynaklı eklenti pazarı. Resmî değildir. | DSH eklentisi: çerçeve yükseltme güvenliği + eklenti geçitleme — yükseltme öncesi sözleşme ön denetimi, geri alma noktası, başarısızlıkta otomatik geri alma, yalnızca doğrulanmış kanıt varsa otomatik devre dışı bırakma; ayrıca çok kaynaklı eklenti pazarı. Resmî olmayan topluluk projesi.
 
 ##### 📌 Temel bilgiler
 
@@ -3065,11 +3068,11 @@ DSH plugin - framework upgrade safety & plugin gating: contract pre-check, rollb
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/EricWang1358/dsh-web-studyhub">EricWang1358/dsh-web-studyhub</a></b> · ⭐90 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/ZASENJC/dsh-plugins-store">ZASENJC/dsh-plugins-store</a></b> · ⭐69 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Özet
 
-StudyHub: a DeepSeek Harness (DSH) plugin that turns your own material into questions and spaced review · 把自己的资料变成题目与间隔复习的 DSH 学习插件
+DeepSeek-Harness topluluk eklentilerini otomatik olarak sınıflandıran, derleyen ve doğrulayan pazar. DeepSeek-Harness topluluk eklentileri pazarı için otomatik sınıflandırma, derleme ve doğrulama.
 
 ##### 📌 Temel bilgiler
 
@@ -3077,22 +3080,22 @@ StudyHub: a DeepSeek Harness (DSH) plugin that turns your own material into ques
 | -------- | ----------------------------------------------------------------------------------------------- |
 | Kategori | `DSH ve Cordis eklenti ekosistemleri`                                                           |
 | Kanıt    | `bir mod, eklenti veya hook bildirdi, ancak özellikle mod yüzeyi hakkında hiçbir şey söylemedi` |
-| Dil      | JavaScript                                                                                      |
+| Dil      | TypeScript                                                                                      |
 
 ##### 📊 Veri
 
 | Metrik         | Değer      |
 | -------------- | ---------- |
-| Yıldızlar      | **90**     |
+| Yıldızlar      | **69**     |
 | Son gönderme   | 2026-10-11 |
 | İlk listelenme | 2026-10-12 |
 
-🏷 `dsh` · `dsh-plugin` · `education` · `flashcards` · `spaced-repetition` · `study`
+🏷 `agent-tools` · `awesome-list` · `community-project` · `deepseek-harness` · `dsh` · `dsh-plugin`
 
 ---
 
 <table><tr><th align="center" width="50%">🖼 Görsel</th><th align="center" width="50%">🎬 Video</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/ericwang1358--dsh-web-studyhub/1e4a97948bc59f9d.jpg" width="100%" alt="EricWang1358/dsh-web-studyhub screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/zasenjc--dsh-plugins-store/e83b24d43eca5912.png" width="100%" alt="ZASENJC/dsh-plugins-store screenshot"></td>
 <td align="center" valign="top"><sub>medya yayınlanmadı</sub></td>
 </tr></table>
 
@@ -3102,77 +3105,77 @@ StudyHub: a DeepSeek Harness (DSH) plugin that turns your own material into ques
 <summary><b>Bu kategoride daha fazlası</b> <sub>· 72</sub></summary>
 
 - [hashgraph-online/awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins) - Claude Code, OpenAI Codex / ChatGPT, Gemini, Antigravity, Pi / Oh My Pi, Grok…
-- [bruc3van/awesome-dsh-plugin](https://github.com/bruc3van/awesome-dsh-plugin) - 30 秒找到真正适合你的 DeepSeek Harness插件。每天自动抓取 GitHub 上的 `dsh-plugin`…
 - [FishBottle7/opencode2dsh](https://github.com/FishBottle7/opencode2dsh) - DSH eklentisi — DeepSeek Harness (DSH) için ücretsiz OpenCode Zen modelleri.
 - [bradeGithub/DSH-Plugins-Marketplace](https://github.com/bradeGithub/DSH-Plugins-Marketplace) - DSH eklenti pazarı / DSH Plugin Marketplace: DeepSeek Harness Web GUI içinde…
 - [arcships/rutis](https://github.com/arcships/rutis) - Kendi kendini yineleyen yazılımlar için bir eklenti çalışma zamanı — ajanların…
 - [like-study1/Oh-My-DSH](https://github.com/like-study1/Oh-My-DSH) - 🐳 DeepSeek Harness eklenti topluluğu — dsh-plugin ekosistemini otomatik…
-- [adamkhalile/luau-docs-oracle](https://github.com/adamkhalile/luau-docs-oracle) - Best Roblox Luau Bug Checker and API Verifier 2026 DevForum MCP Tool.
-- [ZASENJC/dsh-plugins-store](https://github.com/ZASENJC/dsh-plugins-store) - 自动分类、收录和验证 DeepSeek-Harness 社区插件的市场。 Automatically categorize, curate, and…
+- [adamkhalile/luau-docs-oracle](https://github.com/adamkhalile/luau-docs-oracle) - En İyi Roblox Luau Hata Denetleyicisi ve API Doğrulayıcı 2026 DevForum MCP Aracı.
 - [kukucaiCndy/Corum-Harness](https://github.com/kukucaiCndy/Corum-Harness) - Deepseek-Harness çekirdek altyapısı temel alınarak oluşturulmuş masaüstü Agent.
 - [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) - Yaşayan DeepSeek Harness eklenti dizini — saatlik yenilenir, uyumluluk testleri…
-- [1475505/miliastra-beyond-simulator](https://github.com/1475505/miliastra-beyond-simulator) - 千星沙箱模拟器：Lua 驱动的 2D 奇域外置沙箱 ，支持 DeepSeek Harness、Web 和 MCP.
+- [1475505/miliastra-beyond-simulator](https://github.com/1475505/miliastra-beyond-simulator) - Bin Yıldız Sandbox simülatörü: Lua tarafından desteklenen 2D harici tuhaf diyar…
 - [PolinniZhong/dsh-knit](https://github.com/PolinniZhong/dsh-knit) - AI Coding Agent.
-- [KongFangXun/sofagent](https://github.com/KongFangXun/sofagent) - sofagent is an open-source FDE Harness for AI coding agents — on entry, write…
 - [kejixiaoliang/awesome-dsh-plugins](https://github.com/kejixiaoliang/awesome-dsh-plugins) - DeepSeek Harness (DSH) eklentileri seçkisi — 14 kategoride 280.
-- [GZX2211/dsh-Visual-Workflow](https://github.com/GZX2211/dsh-Visual-Workflow) - 可视化 Agent 编排平台｜基于 DeepSeek Harness，支持 Workflow、Multi-Agent、元编排、MCP 与…
+- [GZX2211/dsh-Visual-Workflow](https://github.com/GZX2211/dsh-Visual-Workflow) - Görsel Agent orkestrasyon platformu｜DeepSeek Harness temelinde;
 - [universe-st/dsh-game-material-master](https://github.com/universe-st/dsh-game-material-master) - dsh oyun varlıkları ustası eklentisi. seedream görüntü oluşturma modeli ve…
-- [HOWILLMAKEIT/dsh-model-context-catalog](https://github.com/HOWILLMAKEIT/dsh-model-context-catalog) - DeepSeek Harness 插件：一键匹配模型上下文窗口，展示容量来源，支持勾选批量配置、已有窗口管理和手动编辑.
+- [Links2008/DeepSeek-Harness-Desktop](https://github.com/Links2008/DeepSeek-Harness-Desktop) - Windows 桌面版 DeepSeek Harness 发行版，支持原生通知、流畅的窗口控制、捆绑运行时和自动更新。追踪官方主分支.
+- [HOWILLMAKEIT/dsh-model-context-catalog](https://github.com/HOWILLMAKEIT/dsh-model-context-catalog) - DeepSeek Harness eklentisi: model bağlam pencerelerini tek tıklamayla…
 - [NekroAI/nekro-nxt](https://github.com/NekroAI/nekro-nxt) - NekroNXT: DeepSeek Harness (DSH) tabanlı çok platformlu grup sohbeti aracısı…
+- [Lixiaoyiao/deepseek-harness-action](https://github.com/Lixiaoyiao/deepseek-harness-action) - Community GitHub Action for DeepSeek Harness — AI Code Review · CI Diagnosis ·…
 - [wingsky-1/dsh-plugin-hub](https://github.com/wingsky-1/dsh-plugin-hub) - DSH (DeepSeek Harness) web GUI eklenti koleksiyonu — görev bildirimleri…
-- [zp-home/dsh-recommend](https://github.com/zp-home/dsh-recommend) - DSH 插件生态透明排行与推荐：每日自动抓取 dsh-plugin 话题 + 公开评分模型 + 排行/推荐插件与静态站.
+- [BotHarness/DeepSeekBot](https://github.com/BotHarness/DeepSeekBot) - DeepSeek Harness üzerine kurulmuş açık kaynaklı GrokBot alternatifi.
+- [zp-home/dsh-recommend](https://github.com/zp-home/dsh-recommend) - DSH eklenti ekosistemi için şeffaf sıralama ve öneriler: dsh-plugin konusunu…
 - [awesome-deepseekharness/awesome-deepseek-harness](https://github.com/awesome-deepseekharness/awesome-deepseek-harness) - Topluluk tarafından seçilmiş DeepSeek Harness (dsh) eklentileri, araçları…
-- [BotHarness/DeepSeekBot](https://github.com/BotHarness/DeepSeekBot) - Open-source GrokBot alternative built on DeepSeek Harness.
 - [hyqhyq3/dsh-mcp-manager](https://github.com/hyqhyq3/dsh-mcp-manager) - DeepSeek Harness için MCP sunucu yöneticisi eklentisi: Ayarlar → MCP sayfası…
 - [harrylabsj/kiwi](https://github.com/harrylabsj/kiwi) - A2A ticaret pazarlığı çalışma zamanı + DeepSeek Harness (dsh) eklentisi.
 - [Imzl-zl/dsh-toolbox-ui](https://github.com/Imzl-zl/dsh-toolbox-ui) - DeepSeek Harness Web için araç kutusu paneli: MCP yöneticisi.
 - [Y1X1n/dsh-prompt-optimizer](https://github.com/Y1X1n/dsh-prompt-optimizer) - DeepSeek Harness eklentisi · Gönderme çubuğunda istem taslağını tek tıklamayla…
-- [YELEBAI/dsh-plugin-marketplace](https://github.com/YELEBAI/dsh-plugin-marketplace) - Verified plugin marketplace and autonomous registry for DeepSeek Harness.
+- [YELEBAI/dsh-plugin-marketplace](https://github.com/YELEBAI/dsh-plugin-marketplace) - DeepSeek Harness için doğrulanmış eklenti pazarı ve otonom kayıt defteri.
 - [liustack/pptwise](https://github.com/liustack/pptwise) - HTML değil, gerçek bir PowerPoint. Yapay zekânıza nelerin ele alınacağını…
 - [Roarpeng/GraphFlow](https://github.com/Roarpeng/GraphFlow) - Kodlama aracıları için yerel öncelikli kod bilgi grafiği ve bağlam harness.
-- [dshworks/awesome-dsh-plugins](https://github.com/dshworks/awesome-dsh-plugins) - Spam-filtered, open-data registry of DeepSeek Harness (dsh) plugins, bundles…
+- [dshworks/awesome-dsh-plugins](https://github.com/dshworks/awesome-dsh-plugins) - DeepSeek Harness (dsh) eklentileri, paketleri ve becerileri için spam filtreli…
+- [billLiao/awesome-dsh-plugin](https://github.com/billLiao/awesome-dsh-plugin) - A curated list of plugins for DeepSeek Harness (dsh) — 精选 DeepSeek Harness 插件列表.
 - [AmethystLuna/embedded-workbench](https://github.com/AmethystLuna/embedded-workbench) - Gömülü C/C++ AI mühendislik eklentisi — ürün yazılımı becerileri.
 - [Ianzhyh/workbuddy-to-dsh](https://github.com/Ianzhyh/workbuddy-to-dsh) - Yerel WorkBuddy masaüstü uygulamasında oturum açmış modelleri.
+- [muyuanjin/dsh-ptc-plus](https://github.com/muyuanjin/dsh-ptc-plus) - A session-bound agent-native REPL for DeepSeek Harness PTC mode.
 - [MichaelShii/dsh-plugin-teamflow](https://github.com/MichaelShii/dsh-plugin-teamflow) - dsh plugin teamflow.
 - [MicroMilo/upstream-radar](https://github.com/MicroMilo/upstream-radar) - DeepSeek Harness eklentileri için her zaman açık uyumluluk testi: kesin…
 - [falling-ts/dsh-force-compact](https://github.com/falling-ts/dsh-force-compact) - Yerel öncelikli agent.
 - [GooDAnDReaDY/dsh-subscriptions](https://github.com/GooDAnDReaDY/dsh-subscriptions) - DeepSeek Harness için OAuth aboneliği LLM sağlayıcıları: ChatGPT Codex, Claude…
-- [yoza10635/dsh-argp](https://github.com/yoza10635/dsh-argp) - Guarded context compaction for DeepSeek Harness (dsh): the LLM proposes…
-- [vecnode/vncode](https://github.com/vecnode/vncode) - vncode 🤖 Agent-Human IDE ⌨️ Web and Desktop versions, bundles Plugins, Skills…
-- [YangShen-SWE/dsh-plugin-simple-pet](https://github.com/YangShen-SWE/dsh-plugin-simple-pet) - Windows desktop pet with DeepSeek billing, Codex subscription quotas, opt-in…
-- [bonerush/dsh-obsidian-mem](https://github.com/bonerush/dsh-obsidian-mem) - DeepSeek Harness host plugin that keeps project documents and long-term memory…
-- [cccakeee/awesome-dsh-plugins](https://github.com/cccakeee/awesome-dsh-plugins) - A curated, evidence-led directory of DeepSeek Harness (DSH) plugins: verified…
-- [Icather/dsh-clean-desktop-shell](https://github.com/Icather/dsh-clean-desktop-shell) - DSH 纯净桌面壳：双击像普通软件一样一键启动，后端活性实时监测 + 托盘快捷启停，零视觉改造.
+- [yoza10635/dsh-argp](https://github.com/yoza10635/dsh-argp) - DeepSeek Harness (dsh) için korumalı bağlam sıkıştırma: LLM önerir…
+- [vecnode/vncode](https://github.com/vecnode/vncode) - vncode 🤖 Agent-Human IDE ⌨️ Web ve Masaüstü sürümleri;
+- [bonerush/dsh-obsidian-mem](https://github.com/bonerush/dsh-obsidian-mem) - Proje belgelerini ve uzun süreli belleği özel bir Obsidian kasasında düz…
+- [cccakeee/awesome-dsh-plugins](https://github.com/cccakeee/awesome-dsh-plugins) - DeepSeek Harness (DSH) eklentileri için seçilmiş, kanıta dayalı dizin…
+- [dsh-pub/dsh-pub](https://github.com/dsh-pub/dsh-pub) - The bilingual, source-backed registry and installer for the DeepSeek Harness…
+- [Icather/dsh-clean-desktop-shell](https://github.com/Icather/dsh-clean-desktop-shell) - DSH için saf masaüstü kabuğu: sıradan bir uygulama gibi çift tıklamayla tek…
 - [unStone/dsh-xray](https://github.com/unStone/dsh-xray) - DeepSeek Harness eklentileri için X ışını: beyan edilen yetenekler ve gerçek…
-- [chnjames/dsh-plugin-market](https://github.com/chnjames/dsh-plugin-market) - DSH 插件市场 — DeepSeek Harness 设置内一键安装社区插件，并提供公开目录站（浏览 / 复制安装命令）.
-- [GooDAnDReaDY/dsh-moa](https://github.com/GooDAnDReaDY/dsh-moa) - Mixture of Agents (MoA) plugin for DeepSeek Harness with /moa slash command…
-- [KannaKuron/dsh-ide-git](https://github.com/KannaKuron/dsh-ide-git) - DSH plugin: an IDE-grade Git tool window as a native dsh-better-sidebar tab…
-- [ywsldxk/dsh-plugin-stars](https://github.com/ywsldxk/dsh-plugin-stars) - DeepSeek Harness (DSH) plugin leaderboard &amp; directory｜DeepSeek…
+- [YangShen-SWE/dsh-plugin-simple-pet](https://github.com/YangShen-SWE/dsh-plugin-simple-pet) - DeepSeek faturalandırmalı Windows masaüstü evcil hayvanı, Codex abonelik…
+- [chnjames/dsh-plugin-market](https://github.com/chnjames/dsh-plugin-market) - DSH eklenti pazarı — DeepSeek Harness ayarlarından topluluk eklentilerini tek…
+- [cyanseek/dsh-landscape](https://github.com/cyanseek/dsh-landscape) - Agent-first DeepSeek Harness plugin intelligence: verify existing plugins…
+- [KannaKuron/dsh-ide-git](https://github.com/KannaKuron/dsh-ide-git) - DSH eklentisi: yerel bir dsh-better-sidebar sekmesi olarak IDE düzeyinde Git…
+- [ywsldxk/dsh-plugin-stars](https://github.com/ywsldxk/dsh-plugin-stars) - DeepSeek Harness (DSH) eklenti liderlik tablosu ve dizini｜DeepSeek Harness…
 - [cherrchen/dsh-plugin-multi-root-workspace](https://github.com/cherrchen/dsh-plugin-multi-root-workspace) - Çok klasörlü çalışma alanı: DSH (DeepSeek Harness) aracısının yalnızca ana…
-- [majiayu000/dsh-plugin-registry](https://github.com/majiayu000/dsh-plugin-registry) - Searchable DeepSeek Harness plugin registry with curated listings and…
+- [majiayu000/dsh-plugin-registry](https://github.com/majiayu000/dsh-plugin-registry) - Seçilmiş listelere ve bildirim dosyasıyla doğrulanmış GitHub keşfine sahip…
 - [PerryLink/dsh-plugin-doctor](https://github.com/PerryLink/dsh-plugin-doctor) - DeepSeek Harness (dsh) eklentileri için sıfır bağımlılıklı doğrulama standardı…
-- [Retr67/dsh-opencode-models](https://github.com/Retr67/dsh-opencode-models) - DeepSeek Harness (DSH) eklentisi: ayarlar panelinde tek tıklamayla OpenCode Go…
-- [TheYoungChen/dsh-plugin-market](https://github.com/TheYoungChen/dsh-plugin-market) - DeepSeek Harness plugin market - browse, search &amp; install dsh-plugin topic…
+- [TheYoungChen/dsh-plugin-market](https://github.com/TheYoungChen/dsh-plugin-market) - DeepSeek Harness eklenti pazarı - dsh-plugin konusu eklentilerine göz atın…
 - [viztor/dsh-opencode-patch](https://github.com/viztor/dsh-opencode-patch) - DeepSeek Harness üzerinde OpenCode — OpenCode Zen + Go ücretsiz katman…
 - [AI-Scarlett/DSH-Store](https://github.com/AI-Scarlett/DSH-Store) - DSH STORE — DeepSeek Harness için üçüncü taraf eklenti pazaryeri ve korumalı…
 - [Atelyx/Atelyx](https://github.com/Atelyx/Atelyx) - Atelyx, insan odaklı ve genişletilebilir bir masaüstü çalışma alanıdır…
 - [dsh-cc/dsh-cc](https://github.com/dsh-cc/dsh-cc) - DeepSeek Harness için her şey dahil bir kodlama agent.
-- [GooDAnDReaDY/dsh-live-canvas](https://github.com/GooDAnDReaDY/dsh-live-canvas) - Interactive Visual Frontend Studio, Retool-Style CRUD Engine, Time-Travel…
+- [GooDAnDReaDY/dsh-live-canvas](https://github.com/GooDAnDReaDY/dsh-live-canvas) - Etkileşimli Görsel Ön Yüz Stüdyosu, Retool Tarzı CRUD Motoru, Zaman Yolculuklu…
 - [ItQianChen/dsh-github-flow](https://github.com/ItQianChen/dsh-github-flow) - DeepSeek Harness Agent.
+- [lmzhen/dsh-evolution](https://github.com/lmzhen/dsh-evolution) - Hermes-inspired agent self-evolution plugin family, purpose-built for DeepSeek…
 - [sakanamaru/dsh-minato](https://github.com/sakanamaru/dsh-minato) - dsh-minato — DeepSeek Harness (dsh) için topluluk sürümü yerel dağıtım ve…
-- [Seelerc/dsh-plugin-delete-archived](https://github.com/Seelerc/dsh-plugin-delete-archived) - Permanently delete archived DeepSeek Harness sessions along with their on-disk…
+- [Seelerc/dsh-plugin-delete-archived](https://github.com/Seelerc/dsh-plugin-delete-archived) - Arşivlenmiş DeepSeek Harness oturumlarını, disk üzerindeki geçmişleri ve günlük…
 - [tianyagk/dsh-tradewatcher](https://github.com/tianyagk/dsh-tradewatcher) - DeepSeek Harness (DSH) web eklentisi: market-dashboard kenar çubuğu sekmesi…
-- [tiphareth0/dsh-hardssh](https://github.com/tiphareth0/dsh-hardssh) - Run your work with existing DSH plugins on remote servers, across any number of…
 - [argszero/cordis-plugin-empty-response-retry](https://github.com/argszero/cordis-plugin-empty-response-retry) - Bir atıf içermeyen boş model denemesini yeniden denenebilir hâle getirir;
-- [argszero/cordis-plugin-goal-progress-guard](https://github.com/argszero/cordis-plugin-goal-progress-guard) - Progress judgement for dsh autonomous goal rounds: defer the loop while…
+- [argszero/cordis-plugin-goal-progress-guard](https://github.com/argszero/cordis-plugin-goal-progress-guard) - dsh otonom hedef turları için ilerleme değerlendirmesi: arka plan işleri…
+- [argszero/cordis-plugin-length-stop-overflow](https://github.com/argszero/cordis-plugin-length-stop-overflow) - dsh plugin: turn a truncated length stop into the CONTEXT_WINDOW_EXCEEDED…
 - [eovidiu/cordis-ios](https://github.com/eovidiu/cordis-ios) - Kendi temizliklerini yapan eklentiler: iOS ve macOS için cordis eklenti…
 - [Magica-Chen/dsh-preset-codex-claude](https://github.com/Magica-Chen/dsh-preset-codex-claude) - DeepSeek Harness ajan ön ayarı: Codex ve Claude Code, her biri salt okunur ve…
 - [validation-engineering/cordis-verus](https://github.com/validation-engineering/cordis-verus) - Verus tarafından doğrulanmış bir lifecycle kernel ve Cordis compatibility…
-- [YOU-SHOULD-KNOW-ME/antigrative-dashboard](https://github.com/YOU-SHOULD-KNOW-ME/antigrative-dashboard) - Inline Antigravity dashboard: tok/s, DSH-style cache hit rate, five-hour and…
-- [Jecvay/paseo-dsh-direct](https://github.com/Jecvay/paseo-dsh-direct) - DeepSeek Harness 的 Paseo Provider Plugin (Direct Provider).
-- [helloHupc/dsh-plugin-hub](https://github.com/helloHupc/dsh-plugin-hub) - DSH eklenti toplama sitesi: tüm ağdaki DeepSeek Harness eklentilerini bir araya…
-- [HaydenSmith1121/dsh-plugins](https://github.com/HaydenSmith1121/dsh-plugins) - DeepSeek Harness (dsh) 插件市场 —— 目录（一个插件一个配置文件）+ 可视化面板 + 一键安装；插件本体在…
-- [SCP-008-1/dshop](https://github.com/SCP-008-1/dshop) - dsh 插件商城 - 基于 GitHub topic:dsh-plugin 自动发现与每小时定时同步.
+- [helloHupc/dsh-plugin-hub](https://github.com/helloHupc/dsh-plugin-hub) - DSH eklenti toplama sitesi: DeepSeek Harness eklentilerini web genelinde toplu…
+- [HaydenSmith1121/dsh-plugins](https://github.com/HaydenSmith1121/dsh-plugins) - DeepSeek Harness (dsh) eklenti pazarı — katalog.
+- [SCP-008-1/dshop](https://github.com/SCP-008-1/dshop) - dsh eklenti mağazası - GitHub tabanlı topic:dsh-plugin ile otomatik keşif ve…
 
 </details>
 
@@ -3227,7 +3230,7 @@ Kaynak projede herhangi bir açıklama yayımlanmadı.
 </details>
 
 <details>
-<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49999983">A Claude Code mod plays MIDI music when it works</a></b> · ⭐3 · 👁️ observed · 3 天</summary>
+<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49999983">A Claude Code mod plays MIDI music when it works</a></b> · ⭐3 · 👁️ observed · 4 天</summary>
 
 ##### 📝 Özet
 
@@ -3315,7 +3318,7 @@ Merhaba HN, bunu kendim için geliştirdim ve açık kaynak hâline getirmek ist
 </details>
 
 <details>
-<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49971594">Terminal Steps: A Claude mod for a daily step goal, synced from Apple Health</a></b> · ⭐3 · 👁️ observed · 5 天</summary>
+<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49971594">Terminal Steps: A Claude mod for a daily step goal, synced from Apple Health</a></b> · ⭐3 · 👁️ observed · 6 天</summary>
 
 ##### 📝 Özet
 
@@ -3359,7 +3362,7 @@ Kaynak projede herhangi bir açıklama yayımlanmadı.
 </details>
 
 <details>
-<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49940121">Getting started with Claude Code mods</a></b> · ⭐2 · 👁️ observed · 8 天</summary>
+<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49940121">Getting started with Claude Code mods</a></b> · ⭐2 · 👁️ observed · 9 天</summary>
 
 ##### 📝 Özet
 
@@ -3430,20 +3433,21 @@ Bunu, en yeni kodlama modelleriyle Claude belirsiz komutlarla derin çalışma m
 
 Ekosistem Python ve TypeScript üzerinde yoğunlaşıyor, ancak tür denetimli istemciler başka dillerde de ortaya çıkmaya devam ediyor. Bu tablo, girdilerin kendilerinden oluşturulur.
 
-| Dil        | Kayıtlar | Örnekler                                                                                                      |
-| ---------- | -------- | ------------------------------------------------------------------------------------------------------------- |
-| TypeScript | 377      | `anthropics/claude-code`, `anthropics/claude-code-action`, `hamzafer/claude-code-mods`                        |
-| JavaScript | 90       | `karanb192/awesome-claude-code-mods`, `karanb192/claude-code-mods`, `ucsandman/claude-harness`                |
-| Python     | 38       | `anthropics/claude-agent-sdk-python`, `anthropics/claude-code-security-review`, `alexgreensh/token-optimizer` |
-| Shell      | 25       | `anthropics/claude-agent-sdk-typescript`, `0xDarkMatter/claude-mods`, `BeLazy167/claude-mods-skill`           |
-| HTML       | 17       | `awss1i/assay`, `darrell-tw/darrelltw-mods`, `omarcevi/claudemods`                                            |
-| Rust       | 6        | `persiyanov/herdr-reviewr`, `JairoTorregrosa/claude-statusline`, `OpenClawFarm/claude-statusline`             |
-| Go         | 5        | `backstabslash/goccc`, `kylesnowschwartz/tail-claude-hud`, `bunderlog/claude-plugins`                         |
-| PowerShell | 2        | `GoSlowPoke168/claude-statusline`, `YangShen-SWE/dsh-plugin-simple-pet`                                       |
-| C          | 1        | `reporails/arcade`                                                                                            |
-| C#         | 1        | `sakanamaru/dsh-minato`                                                                                       |
-| Lua        | 1        | `crafts69guy/claude-statusline.nvim`                                                                          |
-| Swift      | 1        | `eovidiu/cordis-ios`                                                                                          |
+| Dil        | Kayıtlar | Örnekler                                                                                                           |
+| ---------- | -------- | ------------------------------------------------------------------------------------------------------------------ |
+| TypeScript | 370      | `anthropics/claude-code`, `anthropics/claude-code-action`, `hamzafer/claude-code-mods`                             |
+| JavaScript | 86       | `karanb192/awesome-claude-code-mods`, `karanb192/claude-code-mods`, `ucsandman/claude-harness`                     |
+| Python     | 39       | `anthropics/claude-agent-sdk-python`, `anthropics/claude-code-security-review`, `alexgreensh/token-optimizer`      |
+| Shell      | 25       | `anthropics/claude-agent-sdk-typescript`, `0xDarkMatter/claude-mods`, `BeLazy167/claude-mods-skill`                |
+| HTML       | 16       | `HeyCubit/effortless`, `awss1i/assay`, `darrell-tw/darrelltw-mods`                                                 |
+| Rust       | 6        | `persiyanov/herdr-reviewr`, `JairoTorregrosa/claude-statusline`, `OpenClawFarm/claude-statusline`                  |
+| Go         | 5        | `backstabslash/goccc`, `kylesnowschwartz/tail-claude-hud`, `bunderlog/claude-plugins`                              |
+| PowerShell | 3        | `GoSlowPoke168/claude-statusline`, `Gabriel-Dalton/claude-statusline-tokens`, `YangShen-SWE/dsh-plugin-simple-pet` |
+| C          | 1        | `reporails/arcade`                                                                                                 |
+| C#         | 1        | `sakanamaru/dsh-minato`                                                                                            |
+| Lua        | 1        | `crafts69guy/claude-statusline.nvim`                                                                               |
+| MDX        | 1        | `jkf87/mod-guide`                                                                                                  |
+| Swift      | 1        | `eovidiu/cordis-ios`                                                                                               |
 
 <sub>Yalnızca dil belirten girdiler sayılır. Belgeler ve tartışma girdileri bu tablonun dışında tutulur.</sub>
 
@@ -3455,4 +3459,4 @@ Düzeltmeler memnuniyetle karşılanır ve bu listeyi iyileştirmenin en hızlı
 
 <sub>Independent community project. Not affiliated with, endorsed by, or reviewed by Anthropic. Claude Code, Claude and Anthropic are trademarks of Anthropic. Product behaviour changes without notice; verify anything load-bearing against the official documentation. Assets remain the property of their upstream projects and are reproduced only where a licence permits.</sub>
 
-<sub>Son güncelleme · 2026-10-12T06:04:10+08:00</sub>
+<sub>Son güncelleme · 2026-10-12T08:14:15+08:00</sub>
