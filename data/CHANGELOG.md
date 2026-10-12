@@ -1511,3 +1511,32 @@
 - `+` [webkubor/dsh-env-inspector](https://github.com/webkubor/dsh-env-inspector) — inferred / dsh-cordis — ⭐17
 - `+` [webkubor/dsh-mirror](https://github.com/webkubor/dsh-mirror) — inferred / dsh-cordis — ⭐17
 - …另有 51 条新增
+
+## 2026-10-12T21:21:57+08:00
+- 收录总数 **596**；本次更新新增 **74**
+- `+` [GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis) — inferred / dsh-cordis — ⭐1343
+- `+` [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui) — inferred / dsh-cordis — ⭐552
+- `+` [text2future/flowix](https://github.com/text2future/flowix) — inferred / dsh-cordis — ⭐459
+- `+` [tingly-dev/tingly-box](https://github.com/tingly-dev/tingly-box) — inferred / dsh-cordis — ⭐351
+- `+` [imsai-sh/awesome-deepseek-harness-plugins](https://github.com/imsai-sh/awesome-deepseek-harness-plugins) — inferred / dsh-cordis — ⭐278
+- `+` [Nwflower/dsh-claude-style](https://github.com/Nwflower/dsh-claude-style) — inferred / dsh-cordis — ⭐142
+- `+` [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory) — inferred / dsh-cordis — ⭐111
+- `+` [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit) — inferred / official — ⭐66
+- `+` [morluto/leantoken](https://github.com/morluto/leantoken) — inferred / dsh-cordis — ⭐64
+- `+` [cloader/dsh-taskboard](https://github.com/cloader/dsh-taskboard) — inferred / dsh-cordis — ⭐59
+- `+` [hanelalo/browser-bridge](https://github.com/hanelalo/browser-bridge) — inferred / dsh-cordis — ⭐52
+- `+` [HolyGrail/claude-mods](https://github.com/HolyGrail/claude-mods) — observed / mods — ⭐17
+- `+` [Tripstack-Corp/spyc](https://github.com/Tripstack-Corp/spyc) — inferred / mods — ⭐17
+- `+` [BrianHuang813/clawd-actor](https://github.com/BrianHuang813/clawd-actor) — observed / mods — ⭐15
+- `+` [ouli-1242/dsh-plugin-tool-management](https://github.com/ouli-1242/dsh-plugin-tool-management) — inferred / dsh-cordis — ⭐13
+- `+` [tellmewhattodo/dsh-serenity-plugin](https://github.com/tellmewhattodo/dsh-serenity-plugin) — unverified / dsh-cordis — ⭐8
+- `+` [chipweaver/veripower](https://github.com/chipweaver/veripower) — inferred / dsh-cordis — ⭐8
+- `+` [previsioncystolith584/ai-video-downloader](https://github.com/previsioncystolith584/ai-video-downloader) — unverified / mods — ⭐7
+- `+` [chrisnguyen1211/pillrdotlol](https://github.com/chrisnguyen1211/pillrdotlol) — inferred / mods — ⭐7
+- `+` [PianoPrince/dsh-workspace-mover](https://github.com/PianoPrince/dsh-workspace-mover) — inferred / dsh-cordis — ⭐7
+- `+` [luucas42/agent-flow](https://github.com/luucas42/agent-flow) — inferred / mods — ⭐6
+- `+` [Noob-stupid/dsh-github-login](https://github.com/Noob-stupid/dsh-github-login) — inferred / dsh-cordis — ⭐6
+- `+` [naicud/cc-vitals](https://github.com/naicud/cc-vitals) — observed / mods — ⭐4
+- `+` [cc-friend/ccost](https://github.com/cc-friend/ccost) — inferred / mods — ⭐4
+- `+` [PerryLink/perrylink](https://github.com/PerryLink/perrylink) — inferred / dsh-cordis — ⭐4
+- …另有 49 条新增
