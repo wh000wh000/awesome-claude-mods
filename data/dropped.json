@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-12T14:43:36+08:00",
- "count": 121,
+ "updated_at": "2026-10-12T16:56:44+08:00",
+ "count": 122,
  "policy": {
   "min_stars": 5,
   "min_description_chars": 40
@@ -40,7 +40,7 @@
    "description_chars": 39,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-10T18:58:53+08:00",
-   "last_seen_dropped": "2026-10-12T14:43:36+08:00"
+   "last_seen_dropped": "2026-10-12T16:56:44+08:00"
   },
   {
    "at": "2026-10-09T20:58:12+08:00",
@@ -531,7 +531,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-12T03:45:35+08:00",
-   "last_seen_dropped": "2026-10-12T14:43:36+08:00"
+   "last_seen_dropped": "2026-10-12T16:56:44+08:00"
   },
   {
    "at": "2026-10-12T03:45:35+08:00",
@@ -543,7 +543,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-12T03:45:35+08:00",
-   "last_seen_dropped": "2026-10-12T14:43:36+08:00"
+   "last_seen_dropped": "2026-10-12T16:56:44+08:00"
   },
   {
    "at": "2026-10-04T22:03:03+08:00",
@@ -675,7 +675,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-04T22:03:03+08:00",
-   "last_seen_dropped": "2026-10-12T14:43:36+08:00"
+   "last_seen_dropped": "2026-10-12T16:56:44+08:00"
   },
   {
    "at": "2026-10-04T22:04:33+08:00",
@@ -771,7 +771,7 @@
    "description_chars": 31,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-09T20:58:12+08:00",
-   "last_seen_dropped": "2026-10-12T14:43:36+08:00"
+   "last_seen_dropped": "2026-10-12T16:56:44+08:00"
   },
   {
    "at": "2026-10-09T16:31:11+08:00",
@@ -783,7 +783,7 @@
    "description_chars": 28,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-09T16:31:11+08:00",
-   "last_seen_dropped": "2026-10-12T14:43:36+08:00"
+   "last_seen_dropped": "2026-10-12T16:56:44+08:00"
   },
   {
    "at": "2026-10-09T16:31:11+08:00",
@@ -819,7 +819,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-07T07:52:50+08:00",
-   "last_seen_dropped": "2026-10-12T14:43:36+08:00"
+   "last_seen_dropped": "2026-10-12T16:56:44+08:00"
   },
   {
    "at": "2026-10-05T00:33:04+08:00",
@@ -994,12 +994,12 @@
    "id": "gh:netgfx/claude-power-mods",
    "name": "netgfx/claude-power-mods",
    "url": "https://github.com/netgfx/claude-power-mods",
-   "stars": 0,
+   "stars": 1,
    "evidence": "inferred",
    "description_chars": 31,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-08T10:39:21+08:00",
-   "last_seen_dropped": "2026-10-12T14:43:36+08:00"
+   "last_seen_dropped": "2026-10-12T16:56:44+08:00"
   },
   {
    "at": "2026-10-05T05:54:46+08:00",
@@ -1023,7 +1023,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-06T17:49:39+08:00",
-   "last_seen_dropped": "2026-10-11T16:42:35+08:00"
+   "last_seen_dropped": "2026-10-12T16:56:44+08:00"
   },
   {
    "at": "2026-10-05T01:24:38+08:00",
@@ -1082,7 +1082,7 @@
    "description_chars": 20,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-12T03:45:35+08:00",
-   "last_seen_dropped": "2026-10-12T14:43:36+08:00"
+   "last_seen_dropped": "2026-10-12T16:56:44+08:00"
   },
   {
    "at": "2026-10-04T22:04:33+08:00",
@@ -1167,6 +1167,18 @@
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-06T02:13:19+08:00",
    "last_seen_dropped": "2026-10-07T10:15:38+08:00"
+  },
+  {
+   "at": "2026-10-12T16:56:43+08:00",
+   "id": "gh:sjhmars/dsh-plugins",
+   "name": "sjhmars/dsh-plugins",
+   "url": "https://github.com/sjhmars/dsh-plugins",
+   "stars": 3,
+   "evidence": "inferred",
+   "description_chars": 13,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-10-12T16:56:43+08:00",
+   "last_seen_dropped": "2026-10-12T16:56:44+08:00"
   },
   {
    "at": "2026-10-05T08:10:00+08:00",
@@ -1274,7 +1286,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-12T14:43:34+08:00",
-   "last_seen_dropped": "2026-10-12T14:43:36+08:00"
+   "last_seen_dropped": "2026-10-12T16:56:44+08:00"
   },
   {
    "at": "2026-10-07T07:52:50+08:00",
@@ -1370,7 +1382,7 @@
    "description_chars": 35,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-08T10:39:21+08:00",
-   "last_seen_dropped": "2026-10-12T14:43:36+08:00"
+   "last_seen_dropped": "2026-10-12T16:56:44+08:00"
   },
   {
    "at": "2026-10-06T02:13:19+08:00",

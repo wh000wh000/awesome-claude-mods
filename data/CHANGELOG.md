@@ -1453,3 +1453,32 @@
 - `+` [398894496-arch/KRouter](https://github.com/398894496-arch/KRouter) — inferred / dsh-cordis — ⭐44
 - `+` [BotHarness/DeepSeekBot](https://github.com/BotHarness/DeepSeekBot) — inferred / dsh-cordis — ⭐32
 - …另有 133 条新增
+
+## 2026-10-12T16:56:43+08:00
+- 收录总数 **597**；本次更新新增 **90**
+- `+` [anbeime/skill](https://github.com/anbeime/skill) — inferred / dsh-cordis — ⭐7881
+- `+` [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) — inferred / dsh-cordis — ⭐2954
+- `+` [OpenPetsHQ/openpets](https://github.com/OpenPetsHQ/openpets) — inferred / dsh-cordis — ⭐1281
+- `+` [ysr666/dsh-vision-router](https://github.com/ysr666/dsh-vision-router) — inferred / dsh-cordis — ⭐1145
+- `+` [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui) — inferred / dsh-cordis — ⭐552
+- `+` [ZASENJC/dsh-plugins-store](https://github.com/ZASENJC/dsh-plugins-store) — inferred / dsh-cordis — ⭐69
+- `+` [NoNameLeGo/dsh-catppuccin-theme](https://github.com/NoNameLeGo/dsh-catppuccin-theme) — inferred / dsh-cordis — ⭐60
+- `+` [webkubor/dsh-bloom-theme](https://github.com/webkubor/dsh-bloom-theme) — inferred / dsh-cordis — ⭐59
+- `+` [PolinniZhong/dsh-knit](https://github.com/PolinniZhong/dsh-knit) — inferred / dsh-cordis — ⭐53
+- `+` [Amorfx/claude-paste-view](https://github.com/Amorfx/claude-paste-view) — observed / mods — ⭐19
+- `+` [ppy-web/dsh-plugin-xiaomi-mimo-tts](https://github.com/ppy-web/dsh-plugin-xiaomi-mimo-tts) — inferred / dsh-cordis — ⭐19
+- `+` [zhu1090093659/dsh-skins](https://github.com/zhu1090093659/dsh-skins) — inferred / dsh-cordis — ⭐16
+- `+` [billLiao/awesome-dsh-plugin](https://github.com/billLiao/awesome-dsh-plugin) — inferred / dsh-cordis — ⭐15
+- `+` [biedongbin/dsh-claude-compat](https://github.com/biedongbin/dsh-claude-compat) — inferred / dsh-cordis — ⭐14
+- `+` [zhu1090093659/dsh-pet](https://github.com/zhu1090093659/dsh-pet) — inferred / dsh-cordis — ⭐14
+- `+` [islibaodong/dsh-login](https://github.com/islibaodong/dsh-login) — inferred / dsh-cordis — ⭐13
+- `+` [dsh-plugin-lab/dsh-zhihu-search](https://github.com/dsh-plugin-lab/dsh-zhihu-search) — inferred / dsh-cordis — ⭐12
+- `+` [ai-yukin/dsh-0-tools](https://github.com/ai-yukin/dsh-0-tools) — inferred / dsh-cordis — ⭐9
+- `+` [FrostLeafKEE/dsh-chat-bridge](https://github.com/FrostLeafKEE/dsh-chat-bridge) — inferred / dsh-cordis — ⭐8
+- `+` [redfox-data/redfox-community-dsh](https://github.com/redfox-data/redfox-community-dsh) — inferred / official — ⭐7
+- `+` [tafcear/kimi-tide](https://github.com/tafcear/kimi-tide) — inferred / dsh-cordis — ⭐7
+- `+` [yuyongyan29-dev/claude-pet](https://github.com/yuyongyan29-dev/claude-pet) — inferred / mods — ⭐6
+- `+` [fschmutz/claude-usage-panel](https://github.com/fschmutz/claude-usage-panel) — inferred / official — ⭐6
+- `+` [PeterBon/dsh-hooks](https://github.com/PeterBon/dsh-hooks) — inferred / dsh-cordis — ⭐6
+- `+` [dsh-plugin-lab/dsh-workbuddy-bridge](https://github.com/dsh-plugin-lab/dsh-workbuddy-bridge) — inferred / dsh-cordis — ⭐6
+- …另有 65 条新增
