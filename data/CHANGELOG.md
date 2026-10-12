@@ -1569,3 +1569,32 @@
 - `+` [PerryLink/dsh-fund-research](https://github.com/PerryLink/dsh-fund-research) — inferred / dsh-cordis — ⭐68
 - `+` [Nyasers/DSHana](https://github.com/Nyasers/DSHana) — inferred / dsh-cordis — ⭐56
 - …另有 128 条新增
+
+## 2026-10-13T04:02:59+08:00
+- 收录总数 **593**；本次更新新增 **58**
+- `+` [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) — inferred / dsh-cordis — ⭐3418
+- `+` [EthanYoQ/AI-Novel-Writer](https://github.com/EthanYoQ/AI-Novel-Writer) — inferred / dsh-cordis — ⭐1422
+- `+` [Hilbert-beinghappy/seektty](https://github.com/Hilbert-beinghappy/seektty) — inferred / dsh-cordis — ⭐197
+- `+` [FeatherHunter/dsh-mattpocock-skills-deck](https://github.com/FeatherHunter/dsh-mattpocock-skills-deck) — inferred / dsh-cordis — ⭐140
+- `+` [hellosverre/claude-skins](https://github.com/hellosverre/claude-skins) — observed / mods — ⭐117
+- `+` [like-study1/Oh-My-DSH](https://github.com/like-study1/Oh-My-DSH) — inferred / dsh-cordis — ⭐90
+- `+` [ZASENJC/dsh-plugins-store](https://github.com/ZASENJC/dsh-plugins-store) — inferred / dsh-cordis — ⭐69
+- `+` [sageox/ox](https://github.com/sageox/ox) — inferred / mods — ⭐63
+- `+` [NoNameLeGo/dsh-catppuccin-theme](https://github.com/NoNameLeGo/dsh-catppuccin-theme) — inferred / dsh-cordis — ⭐60
+- `+` [GDWhisper/dsh-web-startup-auth](https://github.com/GDWhisper/dsh-web-startup-auth) — inferred / dsh-cordis — ⭐53
+- `+` [NekroAI/nekro-nxt](https://github.com/NekroAI/nekro-nxt) — inferred / dsh-cordis — ⭐35
+- `+` [zp-home/dsh-recommend](https://github.com/zp-home/dsh-recommend) — inferred / dsh-cordis — ⭐22
+- `+` [HackSing/dsh-plugins](https://github.com/HackSing/dsh-plugins) — inferred / dsh-cordis — ⭐12
+- `+` [cccakeee/awesome-dsh-plugins](https://github.com/cccakeee/awesome-dsh-plugins) — inferred / dsh-cordis — ⭐7
+- `+` [Exagone313/dsh-podman](https://github.com/Exagone313/dsh-podman) — inferred / dsh-cordis — ⭐6
+- `+` [jcdendrite/claude-config](https://github.com/jcdendrite/claude-config) — inferred / mods — ⭐5
+- `+` [zhouzhencheng07/dsh-kit](https://github.com/zhouzhencheng07/dsh-kit) — inferred / dsh-cordis — ⭐5
+- `+` [naicud/cc-vitals](https://github.com/naicud/cc-vitals) — observed / mods — ⭐4
+- `+` [mkalkere/claude-statusline](https://github.com/mkalkere/claude-statusline) — inferred / mods — ⭐4
+- `+` [TheYoungChen/dsh-plugin-market](https://github.com/TheYoungChen/dsh-plugin-market) — inferred / dsh-cordis — ⭐4
+- `+` [Antreas-Strb/glanceflow](https://github.com/Antreas-Strb/glanceflow) — observed / mods — ⭐4
+- `+` [alpadalar/ccinfobar](https://github.com/alpadalar/ccinfobar) — inferred / mods — ⭐3
+- `+` [SCP-008-1/dshop](https://github.com/SCP-008-1/dshop) — unverified / dsh-cordis — ⭐3
+- `+` [yangzhe1991/dsh-web-enhance](https://github.com/yangzhe1991/dsh-web-enhance) — inferred / dsh-cordis — ⭐3
+- `+` [Atelyx/Atelyx](https://github.com/Atelyx/Atelyx) — inferred / dsh-cordis — ⭐3
+- …另有 33 条新增
