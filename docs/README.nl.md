@@ -18,7 +18,7 @@
 <p align="center"><sub><a href="../README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.ru.md">Русский</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.vi.md">Tiếng Việt</a> · <a href="README.th.md">ไทย</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.pl.md">Polski</a> · <b>Nederlands</b> · <a href="README.uk.md">Українська</a></sub></p>
 
 > [!NOTE]
-> **Actieve index** · Laatste synchronisatie: `2026-10-13T19:28:29+08:00` (UTC+8)
+> **Actieve index** · Laatste synchronisatie: `2026-10-13T21:42:20+08:00` (UTC+8)
 > · Items: **494** · Toegevoegd in de nieuwste update: **0** · Implementatietalen: **13**
 
 <sub>Elk item hieronder is automatisch verzameld, gefilterd en opnieuw gecontroleerd. Niets hiervan is betaalde promotie.</sub>
@@ -466,7 +466,7 @@ Communitycatalogus van openbare Claude Code-mods (functiehooks), gescand vanuit 
 
 ##### 📝 Summary
 
-macOS menu bar & Windows tray app pinning Claude Code, Codex, Antigravity & Grok CLI quota, burn rate, and cost to your screen. Local-first, no LLM API calls. HTML reports, 14 themes.
+macOS-menubalk en Windows-systeemvakapplicatie vastmaken Claude Code, Codex, Antigravity en Grok CLI quota, verbruikssnelheid en kosten op je scherm. Lokaal als uitgangspunt, geen LLM API-aanroepen. HTML-rapporten, 14 thema's.
 
 <sub>🔧 Gebruik in code gevonden: `claude_pane/usage-dash/hooks/register.tsx`</sub>
 
@@ -534,7 +534,7 @@ Claude Code-mods: plugins op basis van hooks die live regels boven de prompt, be
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/karanb192/cache-tax">karanb192/cache-tax</a></b> · ⭐166 · TypeScript · 👁️ observed · 8 天</summary>
+<summary>🧩 <b><a href="https://github.com/karanb192/cache-tax">karanb192/cache-tax</a></b> · ⭐166 · TypeScript · 👁️ observed · 9 天</summary>
 
 ##### 📝 Summary
 
@@ -987,7 +987,7 @@ Een pixel-Pokémon die boven de prompt in Claude Code leeft
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/artemnovichkov/xcode-mods">artemnovichkov/xcode-mods</a></b> · ⭐20 · TypeScript · 👁️ observed · 10 天</summary>
+<summary>🧩 <b><a href="https://github.com/artemnovichkov/xcode-mods">artemnovichkov/xcode-mods</a></b> · ⭐20 · TypeScript · 👁️ observed · 11 天</summary>
 
 ##### 📝 Summary
 
@@ -1622,7 +1622,7 @@ Zes Claude Code-mods in één plugin (Token Weather, Cache Keeper, Wait What, Pr
 - [yodakeisuke/claudelingo](https://github.com/yodakeisuke/claudelingo) - Leer een vreemde taal terwijl je met Claude Code werkt.
 - [0xctx/sysop](https://github.com/0xctx/sysop) - Vertel Claude wat je wilt. Krijg het gebouwd, getest, door een andere AI…
 - [20alexl/windvane](https://github.com/20alexl/windvane) - Beheert een lange Claude Code-sessie zodat jij dat niet hoeft te doen: houdt in…
-- [Akeuuh/claude-mods](https://github.com/Akeuuh/claude-mods) - Claude Code plugin marketplace: mods built on function hooks.
+- [Akeuuh/claude-mods](https://github.com/Akeuuh/claude-mods) - Claude Code-plug-inmarktplaats: mods gebouwd op functiehooks.
 - [andrewbakercloudscale/claude-code-cost-sidebar](https://github.com/andrewbakercloudscale/claude-code-cost-sidebar) - Live zijbalk voor kosten-, token- en contextgebruik voor Claude Code: een mod…
 - [bully911210/claude-code-mods](https://github.com/bully911210/claude-code-mods) - Function-hook-mods voor Claude Code: een rij met telemetrie van limieten…
 - [cldotdev/claude-todo-list](https://github.com/cldotdev/claude-todo-list) - Een Claude Code-mod die een doorlopende lijst bijhoudt van de openstaande…
@@ -1653,7 +1653,7 @@ Zes Claude Code-mods in één plugin (Token Weather, Cache Keeper, Wait What, Pr
 - [rezzminator/buddy](https://github.com/rezzminator/buddy) - Claude Code-buddyplugin: een ASCII-metgezel boven je prompt die je regels…
 - [SeongGwangJu/k-mods](https://github.com/SeongGwangJu/k-mods) - Geweldige verzameling Claude Code-mods | verzameling Claude Code-mods.
 - [tanujarun/it-speaks](https://github.com/tanujarun/it-speaks) - It Speaks: een Claude Code-mod die de antwoorden van Claude en je prompts op…
-- [timoncool/slapbox](https://github.com/timoncool/slapbox) - 🍑 Spank Claude when it messes up — a stress-relief mod for Claude Code: cartoon…
+- [timoncool/slapbox](https://github.com/timoncool/slapbox) - 🍑 Geef Claude een pak slaag wanneer het fouten maakt — een…
 - [TroyJLorents-GH/mod-squad](https://github.com/TroyJLorents-GH/mod-squad) - Claude Code-mods: kleine plugins voor livepanelen, kostenbewuste modelroutering…
 - [UtsavBalar1231/oh-my-claudeagent](https://github.com/UtsavBalar1231/oh-my-claudeagent) - Claude Code, met bewijsstukken. Een plug-in die werk plant, delegeert en…
 - [VaitaR/claude-code-limits](https://github.com/VaitaR/claude-code-limits) - Claude Code-mod: quotum voor 5 uur/7 dagen, contextvenster, resterende tijd van…
@@ -1688,12 +1688,12 @@ Zes Claude Code-mods in één plugin (Token Weather, Cache Keeper, Wait What, Pr
 - [finalpantasy/claude-mod-pack](https://github.com/finalpantasy/claude-mod-pack) - Claude Mod Pack: kleine Claude Code-mods.
 - [francktrouillez/claude-freeze](https://github.com/francktrouillez/claude-freeze) - Claude Code-mod: bevries een sessie en hervat deze later alsof er niets is…
 - [GeckoKing9/claude-code-copy-button](https://github.com/GeckoKing9/claude-code-copy-button) - Ctrl+klik op de kopieerlink bij elk codeblok in antwoorden van Claude Code…
-- [guojunjie0614-cyber/workhorse](https://github.com/guojunjie0614-cyber/workhorse) - Claude Code mod: hand coding, review and ops jobs to Codex as background…
+- [guojunjie0614-cyber/workhorse](https://github.com/guojunjie0614-cyber/workhorse) - Claude Code-mod: besteed codeer-, review- en operationele taken uit aan Codex…
 - [Hekzory/spend-meter](https://github.com/Hekzory/spend-meter) - Een live uitgavenmeter voor Claude Code: de kosten van de sessie met subagents…
 - [Huuuuung/think-meter](https://github.com/Huuuuung/think-meter) - Claude Code-mod: hoe lang elk antwoord duurde, hoe lang Claude nadacht en…
 - [imsungbin/quackpit-mod](https://github.com/imsungbin/quackpit-mod) - Een cockpit boven je Claude Code-prompt. De eend leest de meters af.
 - [jasonXiao422/drawing2sw](https://github.com/jasonXiao422/drawing2sw) - Leest je technische tekeningen automatisch in en modelleert ze vervolgens in…
-- [jBeyondstars/ultracode-models](https://github.com/jBeyondstars/ultracode-models) - Claude Code mod: pick the model and effort every subagent runs on, Ultracode…
+- [jBeyondstars/ultracode-models](https://github.com/jBeyondstars/ultracode-models) - Claude Code-mod: kies het model en de inspanning waarop elke subagent draait…
 - [JeremyHo1123/claude-code-agent-board](https://github.com/JeremyHo1123/claude-code-agent-board) - Een live bord met Claude Code-subagents binnen VS Code: de subagents van elk…
 - [jessetsai1024/claude-ctx-panel](https://github.com/jessetsai1024/claude-ctx-panel) - Zijpaneel met contextgebruik: totaal, categorieën, groei per beurt, de grootste…
 - [jessetsai1024/claude-files](https://github.com/jessetsai1024/claude-files) - Zijpaneel met bestandenlijst: welke bestanden tijdens dit gesprek zijn…
@@ -1703,7 +1703,7 @@ Zes Claude Code-mods in één plugin (Token Weather, Cache Keeper, Wait What, Pr
 - [jessetsai1024/claude-tokens](https://github.com/jessetsai1024/claude-tokens) - Zijpaneel met tokenverkeer: hoeveel tokens het hoofdgesprek elke keer naar…
 - [jessetsai1024/claude-whisper](https://github.com/jessetsai1024/claude-whisper) - De eerlijke bonenpasta van claude code: na elke beurt zegt Claude zachtjes één…
 - [jiangnanquan/claude-code-zh](https://github.com/jiangnanquan/claude-code-zh) - Claude Code CLI vereenvoudigd Chinees — zelfbeheerde versie — eigen…
-- [jidhra/claude-mods](https://github.com/jidhra/claude-mods) - Jidhra.
+- [jidhra/claude-mods](https://github.com/jidhra/claude-mods) - De Claude Code-mods van Jidhra in één plug-inmarktplaats.
 - [kadaliao/claude-mods](https://github.com/kadaliao/claude-mods) - Claude Code-mods: functiehook-plug-ins die de eigen interface en het gedrag van…
 - [KaiC5504/clawd-bar](https://github.com/KaiC5504/clawd-bar) - Clawd leeft in een band boven je Claude Code-prompt: speelt de sessie na, toont…
 - [kajidog/cc-mods-tts](https://github.com/kajidog/cc-mods-tts) - Een mod die antwoorden en meldingen van Claude Code voorleest met VOICEVOX /…
@@ -1721,7 +1721,7 @@ Zes Claude Code-mods in één plugin (Token Weather, Cache Keeper, Wait What, Pr
 - [MDmubarak786/claude-mods](https://github.com/MDmubarak786/claude-mods) - Communitymods voor Claude Code: beveiligingen, panelen en opdrachten die binnen…
 - [mkiselyow/diff-lens](https://github.com/mkiselyow/diff-lens) - Claude Code-mod: vraag Claude om je door een PR te begeleiden, klik op een…
 - [moabualruz/rice-multi-models](https://github.com/moabualruz/rice-multi-models) - Claude Code-mod: Codex (ChatGPT-abonnement) en andere niet-Anthropic-modellen…
-- [MohamedHamed001/claude-mods](https://github.com/MohamedHamed001/claude-mods) - Claude Code plugins: delegation.
+- [MohamedHamed001/claude-mods](https://github.com/MohamedHamed001/claude-mods) - Claude Code-plug-ins: delegatie.
 - [mtami/terminal-tab-title](https://github.com/mtami/terminal-tab-title) - Claude Code-mod: geeft het terminaltabblad aan waarin Claude draait.
 - [muellerei/enable-todo-tools](https://github.com/muellerei/enable-todo-tools) - Claude Code-mod die de todo-tools weer inschakelt voor modellen die ze…
 - [muellerei/sweet-spot](https://github.com/muellerei/sweet-spot) - Claude Code-mod die wacht op een veilige pauze en daarna je sessie overdraagt…
@@ -1729,7 +1729,7 @@ Zes Claude Code-mods in één plugin (Token Weather, Cache Keeper, Wait What, Pr
 - [nachtgold/claude-code-connect-four](https://github.com/nachtgold/claude-code-connect-four) - Speel Vier op een rij tegen een AI binnen Claude Code (/connect-four).
 - [naoanao/agent-cross-check](https://github.com/naoanao/agent-cross-check) - Claude Code-mod: wanneer een andere code-agent een commit naar je repo maakt…
 - [naoanao/shared-repo-guard](https://github.com/naoanao/shared-repo-guard) - Claude Code-mod voor repo.
-- [niksavis/handily](https://github.com/niksavis/handily) - Claude Code mods that show your work items, tasks and sessions, for any…
+- [niksavis/handily](https://github.com/niksavis/handily) - Claude Code-mods die je werkitems, taken en sessies tonen, voor elke tracker.
 - [nu0ma/query-guard](https://github.com/nu0ma/query-guard) - Een beveiliging voor SQL in Claude Code: vraagt voordat Claude via een DB CLI…
 - [nwilsson/claudepad](https://github.com/nwilsson/claudepad) - Een notitieblokpaneel voor Claude Code, als mod.
 - [OG-Matcha/tessera](https://github.com/OG-Matcha/tessera) - Eén mod voor Claude Code, Windows en CJK als uitgangspunt: voorbeelden van…
@@ -1811,10 +1811,10 @@ Zes Claude Code-mods in één plugin (Token Weather, Cache Keeper, Wait What, Pr
 - [darthmolen/hytale-claude-code-marketplace](https://github.com/darthmolen/hytale-claude-code-marketplace) - Marktplaats voor Claude Code-plugins en -skills om mods voor de game Hytale te…
 - [devrim-1283/claude-code-statusline](https://github.com/devrim-1283/claude-code-statusline) - Statusline van één regel met kleurcodering voor Claude Code — map, model…
 - [hopp1395/cc-outline](https://github.com/hopp1395/cc-outline) - Viewer met gesplitst scherm voor Claude Code in Windows Terminal en tmux: de…
-- [ian-exnodes/statusbar](https://github.com/ian-exnodes/statusbar) - Claude Code plugin: a live two-row status line under the prompt with model…
+- [ian-exnodes/statusbar](https://github.com/ian-exnodes/statusbar) - Claude Code-plug-in: een live statusregel van twee rijen onder de prompt met…
 - [jeancarlo-javier/claude-status-bar](https://github.com/jeancarlo-javier/claude-status-bar) - Live statusregel voor workflowfasen voor Claude Code.
 - [mvrozanti/claude-progressbar](https://github.com/mvrozanti/claude-progressbar) - Voortgangsbalken voor de Bash-commando.
-- [naturalmoods/herdr-telegram-notify](https://github.com/naturalmoods/herdr-telegram-notify) - Messages you on Telegram when an agent finishes or needs input, with its last…
+- [naturalmoods/herdr-telegram-notify](https://github.com/naturalmoods/herdr-telegram-notify) - Stuurt je berichten op Telegram wanneer een agent klaar is of invoer nodig…
 - [risukisu/claude-code-statusline](https://github.com/risukisu/claude-code-statusline) - Een microdashboard van 3 regels voor de Claude Code-terminal — model…
 - [romnycristopher/claude-am-mods](https://github.com/romnycristopher/claude-am-mods) - Repository voor Claude Code Awesome Media-mods.
 - [rootstudioyaml/sprag](https://github.com/rootstudioyaml/sprag) - Bespaar op Claude Code- en Codex-tokengebruik: stuurt opzoekingen en testruns…
@@ -1822,12 +1822,12 @@ Zes Claude Code-mods in één plugin (Token Weather, Cache Keeper, Wait What, Pr
 - [barkleesanders/claude-hud](https://github.com/barkleesanders/claude-hud) - Real-time heads-updisplay voor Claude Code — contextstatus, toolactiviteit…
 - [carterptull/ampline-claude](https://github.com/carterptull/ampline-claude) - Een versterkte, kleurgegradeerde statusregel zonder afhankelijkheden voor…
 - [ist-j-ichikawa/claude-code-statusline](https://github.com/ist-j-ichikawa/claude-code-statusline) - De aangepaste statusregel van j-ichikawa voor Claude Code CLI.
-- [kyllian330/claude-statusline](https://github.com/kyllian330/claude-statusline) - Display key status details for Claude Code including model, context, limits…
+- [kyllian330/claude-statusline](https://github.com/kyllian330/claude-statusline) - Toon belangrijke statusdetails voor Claude Code, waaronder model, context…
 - [L3DigitalNet/ClaudeCodeStatusLine](https://github.com/L3DigitalNet/ClaudeCodeStatusLine) - Compacte, actief onderhouden statusregel voor Claude Code — model, inspanning…
 - [tc3oliver/claude-team-kit](https://github.com/tc3oliver/claude-team-kit) - Native agentteams. Onder controle. Strikte limieten voor het aantal werkers…
 - [Alpinoo/claude-code-usage-statusline](https://github.com/Alpinoo/claude-code-usage-statusline) - Windows PowerShell-statusregel voor Claude Code: limieten van 5 uur en per week…
 - [barnabys-drew/claude-code-statusline](https://github.com/barnabys-drew/claude-code-statusline) - Claude Code statusLine — context- en snelheidslimietbalken rechtstreeks uit de…
-- [black-astro/claude-statusline-astro](https://github.com/black-astro/claude-statusline-astro) - Claude Code 상태라인 — 폴더·브랜치·모델·사용량을 한 줄로, 맨 뒤엔 하루 한 번 뽑는 마스코트.
+- [black-astro/claude-statusline-astro](https://github.com/black-astro/claude-statusline-astro) - Claude Code-statusregel — map, branch, model en gebruik op één regel, met…
 - [Chy-Zaber-Bin-Zahid/claude-code-statusline](https://github.com/Chy-Zaber-Bin-Zahid/claude-code-statusline) - Een Claude Code-statusregel met contextbalken voor gebruik over 5 uur en per…
 - [crafts69guy/claude-statusline.nvim](https://github.com/crafts69guy/claude-statusline.nvim) - Claude Code-statusregel in Lua, met een live Neovim-playground.
 - [ctfbio/claude-code-statusline](https://github.com/ctfbio/claude-code-statusline) - Professionele statusregel voor Claude Code: sessieduur, kosten in meerdere…
@@ -1836,7 +1836,7 @@ Zes Claude Code-mods in één plugin (Token Weather, Cache Keeper, Wait What, Pr
 - [erDevKumar/claude-code-companion](https://github.com/erDevKumar/claude-code-companion) - VS Code-extensie: voortgang van Claude Code-taken, ETA en ratelimitquotum via…
 - [hieuvo/claude-imgview](https://github.com/hieuvo/claude-imgview) - Voorbeeldafbeeldingen in Claude Code: beweeg de muis over een chip onder een…
 - [IceThunder/claude-statusline](https://github.com/IceThunder/claude-statusline) - Claude Code-statusregel: model, 5u/7d-quotumbalken, maandelijkse uitgavenbalk…
-- [izahamyatim/claude-plugin-fizzy](https://github.com/izahamyatim/claude-plugin-fizzy) - 🚀 Sync Claude.
+- [izahamyatim/claude-plugin-fizzy](https://github.com/izahamyatim/claude-plugin-fizzy) - 🚀 Synchroniseer de todo.
 - [Kimmihappy793/claude-status-line](https://github.com/Kimmihappy793/claude-status-line) - Toont een gedetailleerde, kleurgecodeerde statusbalk voor Claude Code met…
 - [KitchenSink4AI/claude-code-statusline](https://github.com/KitchenSink4AI/claude-code-statusline) - De contextmeter voor Claude Code: werkelijke verbruikssnelheid, resterende…
 - [LounisBou/claude-statusbar](https://github.com/LounisBou/claude-statusbar) - Statusbalk van twee regels voor een terminalcodeeragent: map, git, PR, model…
@@ -1845,7 +1845,7 @@ Zes Claude Code-mods in één plugin (Token Weather, Cache Keeper, Wait What, Pr
 - [parisgroup-ai/claude-statusline](https://github.com/parisgroup-ai/claude-statusline) - @parisgroup-ai/claude-statusline — Claude Code-statusregel voor macOS + Linux.
 - [peaceinitiativemenhadenoil263/claude-status-bar](https://github.com/peaceinitiativemenhadenoil263/claude-status-bar) - Bewaak de status van Claude Code vanuit je macOS-menubalk met…
 - [Rubio-Enterprises/claude-statusline](https://github.com/Rubio-Enterprises/claude-statusline) - Aangepaste statusregel voor Claude Code.
-- [sgarcia-dev/claude-agent-watch](https://github.com/sgarcia-dev/claude-agent-watch) - Live pane and status line for the Codex, OpenCode, Antigravity, Hermes and…
+- [sgarcia-dev/claude-agent-watch](https://github.com/sgarcia-dev/claude-agent-watch) - Livepaneel en statusregel voor de Codex-, OpenCode-, Antigravity-, Hermes- en…
 - [silee-tools/claude-statusline](https://github.com/silee-tools/claude-statusline) - Breedteonafhankelijke verticale statusline-HUD voor Claude Code.
 - [Sofia-D4L/claude-conf](https://github.com/Sofia-D4L/claude-conf) - Draagbare configuratie voor Claude Code (statusregel + installatieprogramma).
 - [steemandavid/claude-code-statusline](https://github.com/steemandavid/claude-code-statusline) - Aangepaste statusregel voor Claude Code — model, context en gebruiksstatistieken.
@@ -2142,7 +2142,7 @@ Meta-framework voor spatiotemporele composabiliteit
 
 ##### 📝 Summary
 
-DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
+DeepSeek Harness (DSH) Web-plug-inaggregatie-ecosysteem · Alles is een plug-in, verspreid via de Creative Workshop｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 
 ##### 📌 Basic facts
 
@@ -2237,7 +2237,7 @@ De eerste virtuele terminal ter wereld voor AI Agents
 
 ##### 📝 Summary
 
-本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
+Lokale, private, open-source, zelfevoluerende platformonafhankelijke AI-agent voor contentontdekking: begrijpt je eerst en zoekt vervolgens proactief naar content op Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo en het open web. (ondersteunt deepseek harness-plug-ins) | Lokale, open-source, platformonafhankelijke AI-agent voor contentontdekking: begrijpt je en zoekt vervolgens proactief naar content op Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo en het open web. (ondersteunt deepseek harness-plug-ins)
 
 ##### 📌 Basic facts
 
@@ -2262,40 +2262,6 @@ De eerste virtuele terminal ter wereld voor AI Agents
 <table><tr><th align="center" width="50%">🖼 Afbeelding</th><th align="center" width="50%">🎬 Video</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/whiteguo233--openbiliclaw/00bf0e70f2903777.png" width="100%" alt="whiteguo233/OpenBiliClaw screenshot"></td>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/whiteguo233--openbiliclaw/c7c275524e19b917.gif" width="100%" alt="whiteguo233/OpenBiliClaw animation"><br><sub>geanimeerde opname</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/QingYunA/answer-me-with-html">QingYunA/answer-me-with-html</a></b> · ⭐3251 · JavaScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 Summary
-
-Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。
-
-##### 📌 Basic facts
-
-| Field    | Value                                                                            |
-| -------- | -------------------------------------------------------------------------------- |
-| Category | `DSH- en Cordis-plug-inecosystemen`                                              |
-| Evidence | `declared a mod, plugin or hook, but nothing about the mod surface specifically` |
-| Taal     | JavaScript                                                                       |
-
-##### 📊 Data
-
-| Metric       | Value      |
-| ------------ | ---------- |
-| Stars        | **3251**   |
-| Last push    | 2026-10-13 |
-| First listed | 2026-10-13 |
-
-🏷 `agent-skill` · `ai-agent` · `claude-code` · `claude-code-skill` · `claude-skill` · `claude-skills` · `cli` · `diagram`
-
----
-
-<table><tr><th align="center" width="50%">🖼 Afbeelding</th><th align="center" width="50%">🎬 Video</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/qingyuna--answer-me-with-html/d42d80099fe6e672.png" width="100%" alt="QingYunA/answer-me-with-html screenshot"></td>
-<td align="center" valign="top"><sub>geen media gepubliceerd</sub></td>
 </tr></table>
 
 </details>
@@ -2369,42 +2335,6 @@ Verbind IM-bots met DeepSeek Harness via QR-code of botreferenties (ondersteunt 
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/anywhere-labs/Agents-Anywhere">anywhere-labs/Agents-Anywhere</a></b> · ⭐1640 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 Summary
-
-Open-source Agent-werkplek voor meerdere apparaten
-
-##### 📌 Basic facts
-
-| Field    | Value                                                                            |
-| -------- | -------------------------------------------------------------------------------- |
-| Category | `DSH- en Cordis-plug-inecosystemen`                                              |
-| Evidence | `declared a mod, plugin or hook, but nothing about the mod surface specifically` |
-| Taal     | TypeScript                                                                       |
-
-##### 📊 Data
-
-| Metric       | Value      |
-| ------------ | ---------- |
-| Stars        | **1640**   |
-| Last push    | 2026-10-13 |
-| First listed | 2026-10-13 |
-
-🏷 `acp` · `agentclientprotocol` · `agents` · `claudecode` · `codex` · `codex-app` · `dsh` · `dsh-plugin`
-
----
-
-<table><tr><th align="center" width="50%">🖼 Afbeelding</th><th align="center" width="50%">🎬 Video</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/anywhere-labs/Agents-Anywhere/main/docs/images/readme-hero-zh.webp" width="100%" alt="anywhere-labs/Agents-Anywhere screenshot"></td>
-<td align="center" valign="top"><sub>geen media gepubliceerd</sub></td>
-</tr></table>
-
-<sub>Asset rechtstreeks gekoppeld vanuit de upstream repository omdat er geen licentie voor herdistributie was opgegeven.</sub>
-
-</details>
-
-<details>
 <summary>🧵 <b><a href="https://github.com/vshulcz/deja-vu">vshulcz/deja-vu</a></b> · ⭐1185 · Go · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Summary
@@ -2434,74 +2364,6 @@ Geheugen voor Claude Code, Codex, Cursor en 38 andere codeeragents, opgebouwd ui
 <table><tr><th align="center" width="50%">🖼 Afbeelding</th><th align="center" width="50%">🎬 Video</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/vshulcz--deja-vu/8033ba54a9424c88.png" width="100%" alt="vshulcz/deja-vu screenshot"></td>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/vshulcz--deja-vu/5fb930f1983f270b.gif" width="100%" alt="vshulcz/deja-vu animation"><br><sub>geanimeerde opname</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/LivXue/dsh-plugin-shop">LivXue/dsh-plugin-shop</a></b> · ⭐1011 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 Summary
-
-De meest uitgebreide DeepSeek Harness-pluginmarkt — dagelijks vernieuwd, afkomstig van het hele internet en vóór publicatie gecontroleerd.
-
-##### 📌 Basic facts
-
-| Field    | Value                                                                            |
-| -------- | -------------------------------------------------------------------------------- |
-| Category | `DSH- en Cordis-plug-inecosystemen`                                              |
-| Evidence | `declared a mod, plugin or hook, but nothing about the mod surface specifically` |
-| Taal     | TypeScript                                                                       |
-
-##### 📊 Data
-
-| Metric       | Value      |
-| ------------ | ---------- |
-| Stars        | **1011**   |
-| Last push    | 2026-10-13 |
-| First listed | 2026-10-13 |
-
-🏷 `agent` · `deepseek` · `deepseek-harness` · `deepseek-harness-plugin` · `dsh` · `dsh-plugin` · `harness`
-
----
-
-<table><tr><th align="center" width="50%">🖼 Afbeelding</th><th align="center" width="50%">🎬 Video</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/livxue--dsh-plugin-shop/0cd59c71bcc6f86e.png" width="100%" alt="LivXue/dsh-plugin-shop screenshot"></td>
-<td align="center" valign="top"><sub>geen media gepubliceerd</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/Ikalus1988/MisakaNet">Ikalus1988/MisakaNet</a></b> · ⭐526 · Python · 🔎 inferred · 0 天</summary>
-
-##### 📝 Summary
-
-📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. | https://misakanet.org
-
-##### 📌 Basic facts
-
-| Field    | Value                                                                            |
-| -------- | -------------------------------------------------------------------------------- |
-| Category | `DSH- en Cordis-plug-inecosystemen`                                              |
-| Evidence | `declared a mod, plugin or hook, but nothing about the mod surface specifically` |
-| Taal     | Python                                                                           |
-
-##### 📊 Data
-
-| Metric       | Value      |
-| ------------ | ---------- |
-| Stars        | **526**    |
-| Last push    | 2026-10-13 |
-| First listed | 2026-10-13 |
-
-🏷 `action` · `agents` · `cloudflare-workers` · `codex` · `cordis-plugin` · `d1` · `deepseek-harness` · `deepseek-harness-plugin`
-
----
-
-<table><tr><th align="center" width="50%">🖼 Afbeelding</th><th align="center" width="50%">🎬 Video</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/ikalus1988--misakanet/f6853900d49aba17.jpg" width="100%" alt="Ikalus1988/MisakaNet screenshot"></td>
-<td align="center" valign="top"><sub>geen media gepubliceerd</sub></td>
 </tr></table>
 
 </details>
@@ -2545,7 +2407,7 @@ Native lokale Taskboard-plugin voor DeepSeek Harness. Projecten op basis van SQL
 
 ##### 📝 Summary
 
-DeepSeek Harness 换肤 / 壁纸 / 主题包插件 (dsh-plugin) — 8 套 Mirage 主题、每用户强调色、壁纸2.0、主题包导入导出/分享链接、收藏与随机，纯原生 token 系统实现。
+DeepSeek Harness-themawisselaar-/achtergrond-/themapakketplug-in (dsh-plugin) — 8 Mirage-thema's, accentkleur per gebruiker, wallpaper 2.0, importeren en exporteren van themapakketten/deellinks, favorieten en willekeurige selectie, volledig geïmplementeerd met het native token-systeem.
 
 ##### 📌 Basic facts
 
@@ -2643,45 +2505,11 @@ DeepSeek Harness (DSH)-plug-in voor back-up en herstel — exporteer, importeer,
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/FeatherHunter/dsh-mattpocock-skills-deck">FeatherHunter/dsh-mattpocock-skills-deck</a></b> · ⭐143 · JavaScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 Summary
-
-Bij installatie krijg je 27 engineering- en productiviteitsskills uit mattpocock/skills v1.3.1, zonder dat je skills handmatig hoeft te installeren. Deze plugin is gebouwd met 40 miljard tokens en biedt boven op de originele skills tien keer zoveel ontwikkelingsproductiviteit, en helpt beginners ook sneller met deze skillset aan de slag. Volledige ondersteuning voor GitHub issues; Markdown is een previewversie; GitLab wordt momenteel niet ondersteund. Bedankt voor je gebruik en steun💗
-
-##### 📌 Basic facts
-
-| Field    | Value                                                                            |
-| -------- | -------------------------------------------------------------------------------- |
-| Category | `DSH- en Cordis-plug-inecosystemen`                                              |
-| Evidence | `declared a mod, plugin or hook, but nothing about the mod surface specifically` |
-| Taal     | JavaScript                                                                       |
-
-##### 📊 Data
-
-| Metric       | Value      |
-| ------------ | ---------- |
-| Stars        | **143**    |
-| Last push    | 2026-10-13 |
-| First listed | 2026-10-13 |
-
-🏷 `agent` · `ai` · `claude` · `deepseek-harness` · `dsh` · `dsh-better-sidebar` · `dsh-plugin` · `github-issues`
-
----
-
-<table><tr><th align="center" width="50%">🖼 Afbeelding</th><th align="center" width="50%">🎬 Video</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/featherhunter--dsh-mattpocock-skills-deck/c4bd78003446c161.png" width="100%" alt="FeatherHunter/dsh-mattpocock-skills-deck screenshot"></td>
-<td align="center" valign="top"><sub>geen media gepubliceerd</sub></td>
-</tr></table>
-
-</details>
-
-<details>
 <summary>🧵 <b><a href="https://github.com/Sutera-Diffusus/dsh-whale-musume">Sutera-Diffusus/dsh-whale-musume</a></b> · ⭐124 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Summary
 
-DeepSeek Harness 桌宠插件：元气鲸鱼娘看板娘陪你写代码 🐋 支持 DSH 桌面端 0.2.0-rc.2 与旧版 Web（desktop pet / mascot，local-first）
+DeepSeek Harness-desktopdierplug-in: de energieke walvismascotte vergezelt je bij het coderen 🐋 Ondersteunt DSH-desktopversie 0.2.0-rc.2 en oudere Web-versies (desktop pet / mascot, local-first)
 
 ##### 📌 Basic facts
 
@@ -2745,45 +2573,11 @@ You.com-skills en -plugins voor webzoeken, contentextractie, onderzoek, financi�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/JingbiaoMei/Tokdash">JingbiaoMei/Tokdash</a></b> · ⭐85 · Python · 🔎 inferred · 0 天</summary>
-
-##### 📝 Summary
-
-Agent Dashboard: Visualization and analytics for Sessions and Quota Usage. Track, analyze, and optimize token usage across providers with heatmaps, cost tracking, token counting and quota resets..
-
-##### 📌 Basic facts
-
-| Field    | Value                                                                            |
-| -------- | -------------------------------------------------------------------------------- |
-| Category | `DSH- en Cordis-plug-inecosystemen`                                              |
-| Evidence | `declared a mod, plugin or hook, but nothing about the mod surface specifically` |
-| Taal     | Python                                                                           |
-
-##### 📊 Data
-
-| Metric       | Value      |
-| ------------ | ---------- |
-| Stars        | **85**     |
-| Last push    | 2026-10-13 |
-| First listed | 2026-10-13 |
-
-🏷 `agent` · `analytics` · `anthropic` · `claude-code` · `claude-code-plugin` · `codex` · `codex-cli` · `dashboard`
-
----
-
-<table><tr><th align="center" width="50%">🖼 Afbeelding</th><th align="center" width="50%">🎬 Video</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/jingbiaomei--tokdash/cb7e85100dfe6e93.png" width="100%" alt="JingbiaoMei/Tokdash screenshot"></td>
-<td align="center" valign="top"><sub>geen media gepubliceerd</sub></td>
-</tr></table>
-
-</details>
-
-<details>
 <summary>🧵 <b><a href="https://github.com/dsh-wsl-workspace-maintainers/dsh-wsl-workspace">dsh-wsl-workspace-maintainers/dsh-wsl-workspace</a></b> · ⭐80 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Summary
 
-WSL workspace support for DeepSeek Harness——无缝的 WSL 工作区使用体验，无需在 WSL 之中再安装一个dsh，安装该插件后在 GUI 里直接添加 WSL 工作区即可。WSL workspace support for DeepSeek Harness — Enjoy a seamless WSL workspace experience without needing to install dsh inside WSL. Once this plugin is installed, you can directly add a WSL workspace right from the GUI.
+WSL-workspaceondersteuning voor DeepSeek Harness——een naadloze WSL-workspace-ervaring, zonder dat je dsh opnieuw binnen WSL hoeft te installeren. Nadat deze plug-in is geïnstalleerd, kun je direct vanuit de GUI een WSL-workspace toevoegen. WSL-workspace support for DeepSeek Harness — Geniet van een naadloze WSL-workspace-ervaring zonder dsh binnen WSL te hoeven installeren. Zodra deze plug-in is geïnstalleerd, kun je rechtstreeks vanuit de GUI een WSL-workspace toevoegen.
 
 ##### 📌 Basic facts
 
@@ -2949,45 +2743,11 @@ Kennisbank voor pluginontwikkeling voor DeepSeek Harness (dsh): de ontwikkelgids
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/NekroAI/nekro-nxt">NekroAI/nekro-nxt</a></b> · ⭐35 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 Summary
-
-NekroNXT: een door DSH aangedreven systeem van agents voor groepschats op meerdere platforms｜Een door DSH aangedreven systeem van agents voor groepschats op meerdere platforms
-
-##### 📌 Basic facts
-
-| Field    | Value                                                                            |
-| -------- | -------------------------------------------------------------------------------- |
-| Category | `DSH- en Cordis-plug-inecosystemen`                                              |
-| Evidence | `declared a mod, plugin or hook, but nothing about the mod surface specifically` |
-| Taal     | TypeScript                                                                       |
-
-##### 📊 Data
-
-| Metric       | Value      |
-| ------------ | ---------- |
-| Stars        | **35**     |
-| Last push    | 2026-10-13 |
-| First listed | 2026-10-13 |
-
-🏷 `ai-agents` · `cordis` · `deepseek-harness` · `desktop-app` · `docker` · `dsh` · `dsh-plugin` · `electron`
-
----
-
-<table><tr><th align="center" width="50%">🖼 Afbeelding</th><th align="center" width="50%">🎬 Video</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/nekroai--nekro-nxt/7c9f9f2e5bc195f1.png" width="100%" alt="NekroAI/nekro-nxt screenshot"></td>
-<td align="center" valign="top"><sub>geen media gepubliceerd</sub></td>
-</tr></table>
-
-</details>
-
-<details>
 <summary>🧵 <b><a href="https://github.com/HOWILLMAKEIT/dsh-model-context-catalog">HOWILLMAKEIT/dsh-model-context-catalog</a></b> · ⭐34 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Summary
 
-DeepSeek Harness 插件：一键匹配模型上下文窗口，展示容量来源，支持勾选批量配置、已有窗口管理和手动编辑。
+DeepSeek Harness-plug-in: stem het contextvenster van het model met één klik af, toon de bron van de capaciteit en ondersteun het selecteren en batchgewijs configureren, het beheren van bestaande vensters en handmatige bewerking.
 
 ##### 📌 Basic facts
 
@@ -3017,72 +2777,310 @@ DeepSeek Harness 插件：一键匹配模型上下文窗口，展示容量来源
 </details>
 
 <details>
+<summary>🧵 <b><a href="https://github.com/gjj-star/dsh-conversation-navigator">gjj-star/dsh-conversation-navigator</a></b> · ⭐23 · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 Summary
+
+DSH-sessienavigatie
+
+##### 📌 Basic facts
+
+| Field    | Value                                                                            |
+| -------- | -------------------------------------------------------------------------------- |
+| Category | `DSH- en Cordis-plug-inecosystemen`                                              |
+| Evidence | `declared a mod, plugin or hook, but nothing about the mod surface specifically` |
+| Taal     | JavaScript                                                                       |
+
+##### 📊 Data
+
+| Metric       | Value      |
+| ------------ | ---------- |
+| Stars        | **23**     |
+| Last push    | 2026-10-13 |
+| First listed | 2026-10-13 |
+
+🏷 `cordis` · `dsh` · `dsh-plugin` · `dsh-plugins` · `ui`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Afbeelding</th><th align="center" width="50%">🎬 Video</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/gjj-star--dsh-conversation-navigator/4aef8cb83b546a1c.png" width="100%" alt="gjj-star/dsh-conversation-navigator screenshot"></td>
+<td align="center" valign="top"><sub>geen media gepubliceerd</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/HaoyueQin/dsh-usage-statistics-panel">HaoyueQin/dsh-usage-statistics-panel</a></b> · ⭐23 · TypeScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 Summary
+
+DSH-webplugin: tokengebruiksstatistieken per dag met een GitHub-achtige activiteitenheatmap, cache-hitratio-curve en uitsplitsing per model
+
+##### 📌 Basic facts
+
+| Field    | Value                                                                            |
+| -------- | -------------------------------------------------------------------------------- |
+| Category | `DSH- en Cordis-plug-inecosystemen`                                              |
+| Evidence | `declared a mod, plugin or hook, but nothing about the mod surface specifically` |
+| Taal     | TypeScript                                                                       |
+
+##### 📊 Data
+
+| Metric       | Value      |
+| ------------ | ---------- |
+| Stars        | **23**     |
+| Last push    | 2026-10-12 |
+| First listed | 2026-10-13 |
+
+🏷 `cordis` · `data-visualization` · `deepseek-harness` · `dsh-plugin` · `llm` · `plugin` · `react` · `settings-panel`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Afbeelding</th><th align="center" width="50%">🎬 Video</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/haoyueqin--dsh-usage-statistics-panel/e57757e1005cbc5b.png" width="100%" alt="HaoyueQin/dsh-usage-statistics-panel screenshot"></td>
+<td align="center" valign="top"><sub>geen media gepubliceerd</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/liustack/pptwise">liustack/pptwise</a></b> · ⭐21 · TypeScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 Summary
+
+Een echte PowerPoint, geen HTML. Vertel je AI wat er behandeld moet worden en pptwise bouwt op je eigen machine een bewerkbare presentatie. Agent Skill + DSH-plugin, geen account en geen API-sleutel nodig om te renderen. | Een echte PPT, geen HTML. Vertel de AI wat er besproken moet worden en pptwise maakt op je eigen computer een bewerkbare PPT. Agent Skill + DSH-plugin, geen registratie nodig en voor het renderen is geen API-sleutel nodig.
+
+##### 📌 Basic facts
+
+| Field    | Value                                                                            |
+| -------- | -------------------------------------------------------------------------------- |
+| Category | `DSH- en Cordis-plug-inecosystemen`                                              |
+| Evidence | `declared a mod, plugin or hook, but nothing about the mod surface specifically` |
+| Taal     | TypeScript                                                                       |
+
+##### 📊 Data
+
+| Metric       | Value      |
+| ------------ | ---------- |
+| Stars        | **21**     |
+| Last push    | 2026-10-13 |
+| First listed | 2026-10-04 |
+
+🏷 `agent-skill` · `agent-skills` · `ai-agent` · `claude-code` · `claude-skills` · `codex` · `cordis` · `deck-generation`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Afbeelding</th><th align="center" width="50%">🎬 Video</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/liustack--pptwise/e6f193d6fc2ea355.png" width="100%" alt="liustack/pptwise screenshot"></td>
+<td align="center" valign="top"><sub>geen media gepubliceerd</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/KannaKuron/dsh-better-workspace">KannaKuron/dsh-better-workspace</a></b> · ⭐18 · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 Summary
+
+DSH-webplugin: een hiërarchische werkruimteboom voor de zijbalk — titels met / groeperen in virtuele mappen; de add-workspace-flow krijgt een parent-group-popup
+
+##### 📌 Basic facts
+
+| Field    | Value                                                                            |
+| -------- | -------------------------------------------------------------------------------- |
+| Category | `DSH- en Cordis-plug-inecosystemen`                                              |
+| Evidence | `declared a mod, plugin or hook, but nothing about the mod surface specifically` |
+| Taal     | JavaScript                                                                       |
+
+##### 📊 Data
+
+| Metric       | Value      |
+| ------------ | ---------- |
+| Stars        | **18**     |
+| Last push    | 2026-10-12 |
+| First listed | 2026-10-13 |
+
+🏷 `cordis` · `deepseek` · `deepseek-harness` · `dsh` · `dsh-plugin` · `sidebar` · `tree` · `workspace`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Afbeelding</th><th align="center" width="50%">🎬 Video</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/kannakuron--dsh-better-workspace/83cddff440dfe49a.png" width="100%" alt="KannaKuron/dsh-better-workspace screenshot"></td>
+<td align="center" valign="top"><sub>geen media gepubliceerd</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/vecnode/vncode">vecnode/vncode</a></b> · ⭐8 · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 Summary
+
+vncode 🤖 Agent-Human IDE ⌨️ Web- en desktopversies, met bundels van plug-ins, vaardigheden en interfaces.
+
+##### 📌 Basic facts
+
+| Field    | Value                                                                            |
+| -------- | -------------------------------------------------------------------------------- |
+| Category | `DSH- en Cordis-plug-inecosystemen`                                              |
+| Evidence | `declared a mod, plugin or hook, but nothing about the mod surface specifically` |
+| Taal     | JavaScript                                                                       |
+
+##### 📊 Data
+
+| Metric       | Value      |
+| ------------ | ---------- |
+| Stars        | **8**      |
+| Last push    | 2026-10-13 |
+| First listed | 2026-10-13 |
+
+🏷 `agent-skills` · `deepseek-ai` · `deepseek-api` · `deepseek-chat` · `deepseek-harness` · `dsh` · `dsh-plugin` · `harness`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Afbeelding</th><th align="center" width="50%">🎬 Video</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/vecnode--vncode/73837d3e9e3dc179.png" width="100%" alt="vecnode/vncode screenshot"></td>
+<td align="center" valign="top"><sub>geen media gepubliceerd</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/unStone/dsh-xray">unStone/dsh-xray</a></b> · ⭐7 · Python · 🔎 inferred · 0 天</summary>
+
+##### 📝 Summary
+
+X-ray voor DeepSeek Harness-plug-ins: gedeclareerde mogelijkheden tegenover daadwerkelijk gedrag. Register + statische scanner + badges.
+
+##### 📌 Basic facts
+
+| Field    | Value                                                                            |
+| -------- | -------------------------------------------------------------------------------- |
+| Category | `DSH- en Cordis-plug-inecosystemen`                                              |
+| Evidence | `declared a mod, plugin or hook, but nothing about the mod surface specifically` |
+| Taal     | Python                                                                           |
+
+##### 📊 Data
+
+| Metric       | Value      |
+| ------------ | ---------- |
+| Stars        | **7**      |
+| Last push    | 2026-10-13 |
+| First listed | 2026-10-13 |
+
+🏷 `agent-security` · `ai-agents` · `ai-security` · `capability-analysis` · `cordis` · `deepseek-harness` · `dsh` · `dsh-plugin`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Afbeelding</th><th align="center" width="50%">🎬 Video</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/unstone--dsh-xray/35167f8867e8b79d.png" width="100%" alt="unStone/dsh-xray screenshot"></td>
+<td align="center" valign="top"><sub>geen media gepubliceerd</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/alone-tree/dsh-skill-mcp-manager">alone-tree/dsh-skill-mcp-manager</a></b> · ⭐6 · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 Summary
+
+Capabiliteitenbibliotheek (Capability) — visueel totaalbeheer van DSH Skills & MCP: MCP on demand laden, hot reload tijdens sessies en SKILL/MCP-beschrijvingen die in de plugin kunnen worden bekeken.
+
+##### 📌 Basic facts
+
+| Field    | Value                                                                            |
+| -------- | -------------------------------------------------------------------------------- |
+| Category | `DSH- en Cordis-plug-inecosystemen`                                              |
+| Evidence | `declared a mod, plugin or hook, but nothing about the mod surface specifically` |
+| Taal     | JavaScript                                                                       |
+
+##### 📊 Data
+
+| Metric       | Value      |
+| ------------ | ---------- |
+| Stars        | **6**      |
+| Last push    | 2026-10-13 |
+| First listed | 2026-10-13 |
+
+🏷 `cordis` · `deepseek-harness` · `dsh` · `dsh-plugin` · `mcp` · `skill`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Afbeelding</th><th align="center" width="50%">🎬 Video</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/alone-tree--dsh-skill-mcp-manager/bc0fce1b6eabef09.png" width="100%" alt="alone-tree/dsh-skill-mcp-manager screenshot"></td>
+<td align="center" valign="top"><sub>geen media gepubliceerd</sub></td>
+</tr></table>
+
+</details>
+
+<details>
 <summary><b>Meer in deze categorie</b> <sub>· 64</sub></summary>
 
+- [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) - Beantwoord me met HTML — een agentvaardigheid die moeilijke vragen beantwoordt…
+- [anywhere-labs/Agents-Anywhere](https://github.com/anywhere-labs/Agents-Anywhere) - Open-source Agent-werkplek voor meerdere apparaten.
 - [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - Een beveiliging vóór uitvoering voor AI-codeeragents.
+- [LivXue/dsh-plugin-shop](https://github.com/LivXue/dsh-plugin-shop) - De meest uitgebreide DeepSeek Harness-pluginmarkt — dagelijks vernieuwd…
 - [hashgraph-online/awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins) - Een samengestelde lijst met de beste geweldige AI-plugins voor AI-assistenten…
-- [FishBottle7/opencode2dsh](https://github.com/FishBottle7/opencode2dsh) - DSH plugin — free OpenCode Zen models for DeepSeek Harness (DSH).
+- [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) - 📚 Een micro-lessenbibliotheek zonder afhankelijkheden, ondersteund door git…
+- [FishBottle7/opencode2dsh](https://github.com/FishBottle7/opencode2dsh) - DSH-plugin — gratis OpenCode Zen-modellen voor DeepSeek Harness (DSH).
 - [bradeGithub/DSH-Plugins-Marketplace](https://github.com/bradeGithub/DSH-Plugins-Marketplace) - DSH-pluginmarkt / DSH Plugin Marketplace: blader, installeer en update alle…
-- [daha1216/dsh-adult-tension](https://github.com/daha1216/dsh-adult-tension) - DeepSeek 自带破甲 18+ 互动叙事：活人感 NPC（自主决策/拒绝迎合）、211个世界与上万素材、开局随心定制、世界自行运转、零漂移存档.
+- [daha1216/dsh-adult-tension](https://github.com/daha1216/dsh-adult-tension) - Interactieve 18+-vertelling met ingebouwde pantserdoorbraak voor DeepSeek…
 - [jaccen/Awesome-Gaussian-Skills](https://github.com/jaccen/Awesome-Gaussian-Skills) - Doorlopende updates van artikelen over grafische vormgeving, 3DGS en…
+- [FeatherHunter/dsh-mattpocock-skills-deck](https://github.com/FeatherHunter/dsh-mattpocock-skills-deck) - Bij installatie krijg je 27 engineering- en productiviteitsskills uit…
 - [arcships/rutis](https://github.com/arcships/rutis) - Een pluginruntime voor software die zichzelf herhaalt — de basis waarop agents…
+- [JingbiaoMei/Tokdash](https://github.com/JingbiaoMei/Tokdash) - Agent-dashboard: visualisatie en analyse voor sessies en quotagebruik.
 - [kejixiaoliang/awesome-dsh-plugins](https://github.com/kejixiaoliang/awesome-dsh-plugins) - Uitgelichte directory van DeepSeek Harness (DSH)-plugins — meer dan 280…
 - [KannaKuron/dsh-gitbash-shell](https://github.com/KannaKuron/dsh-gitbash-shell) - DSH-plugin: Git Bash-shell voor alle agentmodi op Windows.
+- [NekroAI/nekro-nxt](https://github.com/NekroAI/nekro-nxt) - NekroNXT: een door DSH aangedreven systeem van agents voor groepschats op…
 - [dphmoblie/deepseek-harness-android](https://github.com/dphmoblie/deepseek-harness-android) - dsh voor Android: geïntegreerd met DeepSeek Harness, Ubuntu-runtimeomgeving…
 - [FeatherHunter/dsh-im-companion](https://github.com/FeatherHunter/dsh-im-companion) - dsh-im-companion: versterkt dsh-im met het concept van een assistent en thuis…
-- [gjj-star/dsh-conversation-navigator](https://github.com/gjj-star/dsh-conversation-navigator) - DSH 会话导航.
-- [HaoyueQin/dsh-usage-statistics-panel](https://github.com/HaoyueQin/dsh-usage-statistics-panel) - DSH-webplugin: tokengebruiksstatistieken per dag met een GitHub-achtige…
 - [Y1X1n/dsh-prompt-optimizer](https://github.com/Y1X1n/dsh-prompt-optimizer) - DeepSeek Harness-plugin · optimaliseer promptconcepten met één klik in de…
 - [awesome-deepseekharness/awesome-deepseek-harness](https://github.com/awesome-deepseekharness/awesome-deepseek-harness) - Door de community samengestelde DeepSeek Harness (dsh)-plugins, tools, skills…
 - [harrylabsj/kiwi](https://github.com/harrylabsj/kiwi) - A2A-runtime voor commerciële onderhandelingen + DeepSeek Harness (dsh)-plugin.
-- [liustack/pptwise](https://github.com/liustack/pptwise) - Een echte PowerPoint, geen HTML. Vertel je AI wat er behandeld moet worden en…
-- [KCNyu/clawock](https://github.com/KCNyu/clawock) - AI argues. Code settles. The losses stay on the page.
-- [00080000/dsh-project-memory](https://github.com/00080000/dsh-project-memory) - Read-time project memory plugin for DeepSeek Harness (dsh).
-- [KannaKuron/dsh-better-workspace](https://github.com/KannaKuron/dsh-better-workspace) - DSH-webplugin: een hiërarchische werkruimteboom voor de zijbalk — titels met /…
+- [KCNyu/clawock](https://github.com/KCNyu/clawock) - AI debatteert. Code beslist. De verliezen blijven op de pagina staan.
+- [00080000/dsh-project-memory](https://github.com/00080000/dsh-project-memory) - Plug-in voor projectgeheugen bij het lezen voor DeepSeek Harness (dsh).
 - [EternalNight996/memory-eternal](https://github.com/EternalNight996/memory-eternal) - DeepSeek Harness-plugin: slaat gesprekken automatisch op als kenniskaarten, met…
-- [dshworks/awesome-dsh-plugins](https://github.com/dshworks/awesome-dsh-plugins) - Spam-filtered, open-data registry of DeepSeek Harness (dsh) plugins, bundles…
-- [realguan/dsh-dock](https://github.com/realguan/dsh-dock) - 专为 DeepSeek Harness (DSH) 打造的跨平台桌面控制中心：多工作台管理、3,400+ 社区插件市场、会话自愈、凭据与系统诊断.
-- [dsh-plugin-lab/dsh-zhihu-search](https://github.com/dsh-plugin-lab/dsh-zhihu-search) - DSH 插件：基于知乎开放平台官方 API 创建的站内搜索、全网索引搜索与直答三个工具。搜索不幻觉，引用有出处。（原生嵌入“设置-插件-插件配置”）.
+- [dshworks/awesome-dsh-plugins](https://github.com/dshworks/awesome-dsh-plugins) - Spamgefilterd register met open data van DeepSeek Harness (dsh)-plug-ins…
+- [realguan/dsh-dock](https://github.com/realguan/dsh-dock) - Platformonafhankelijk desktopbedieningscentrum, speciaal gebouwd voor DeepSeek…
+- [dsh-plugin-lab/dsh-zhihu-search](https://github.com/dsh-plugin-lab/dsh-zhihu-search) - DSH-plug-in: drie tools voor zoeken binnen Zhihu, zoeken in de index van het…
 - [MicroMilo/upstream-radar](https://github.com/MicroMilo/upstream-radar) - Altijd actieve compatibiliteitstests voor DeepSeek Harness-plug-ins: exacte…
-- [xiaoshenming/dsh-session-surgeon](https://github.com/xiaoshenming/dsh-session-surgeon) - Repair DeepSeek Harness sessions that refuse to load. 修好打不开的 DSH 会话文件.
-- [vvlife/awesome-deepseek-harness-plugins](https://github.com/vvlife/awesome-deepseek-harness-plugins) - A curated list of plugins, tools, skins, and extensions for DeepSeek Harness…
-- [xbzbing/dsh-git-panel](https://github.com/xbzbing/dsh-git-panel) - DSH 插件：Web GUI 里的 IDE 风格 Git 面板——分支/提交历史总览、变更提交与 amend、文件浏览、代码与图片新旧差异对照、输入框分支标记…
+- [xiaoshenming/dsh-session-surgeon](https://github.com/xiaoshenming/dsh-session-surgeon) - Herstel DeepSeek Harness-sessies die niet willen laden.
+- [vvlife/awesome-deepseek-harness-plugins](https://github.com/vvlife/awesome-deepseek-harness-plugins) - Een samengestelde lijst met plug-ins, tools, skins en extensies voor DeepSeek…
+- [xbzbing/dsh-git-panel](https://github.com/xbzbing/dsh-git-panel) - DSH-plug-in: een IDE-achtig Git-paneel in de Web-GUI — overzicht van branches…
 - [jiangnanquan/dsh-ux](https://github.com/jiangnanquan/dsh-ux) - DSH-web-ui-uitbreidingsplugin + randloze Electron-desktopschil.
-- [vecnode/vncode](https://github.com/vecnode/vncode) - vncode 🤖 Agent-Human IDE ⌨️ Web and Desktop versions, bundles Plugins, Skills…
-- [dsh-plugin-lab/dsh-workbuddy-bridge](https://github.com/dsh-plugin-lab/dsh-workbuddy-bridge) - DSH 插件：把 WorkBuddy 桌面 App 里的模型接入 DeepSeek Harness，零配置直接用。（原生嵌入&quot;设置-插件-插件配置&quot;）.
+- [dsh-plugin-lab/dsh-workbuddy-bridge](https://github.com/dsh-plugin-lab/dsh-workbuddy-bridge) - DSH-plug-in: verbind de modellen in de WorkBuddy-desktopapp met DeepSeek…
 - [EdwinZDZ/dsh-api-balance-ring](https://github.com/EdwinZDZ/dsh-api-balance-ring) - Een realtime DeepSeek API-saldo-ring voor de DeepSeek Harness-composer — beweeg…
-- [unStone/dsh-xray](https://github.com/unStone/dsh-xray) - X-ray for DeepSeek Harness plugins: declared capabilities vs actual behavior.
-- [alone-tree/dsh-skill-mcp-manager](https://github.com/alone-tree/dsh-skill-mcp-manager) - Capabiliteitenbibliotheek (Capability) — visueel totaalbeheer van DSH Skills &amp;…
 - [cherrchen/dsh-plugin-multi-root-workspace](https://github.com/cherrchen/dsh-plugin-multi-root-workspace) - Werkruimte met meerdere mappen: laat de agent van DSH (DeepSeek Harness) niet…
-- [dsh-pub/dsh-pub](https://github.com/dsh-pub/dsh-pub) - The bilingual, source-backed registry and installer for the DeepSeek Harness…
+- [dsh-pub/dsh-pub](https://github.com/dsh-pub/dsh-pub) - Het tweetalige register en installatieprogramma met bronverwijzingen voor het…
 - [KannaKuron/dsh-ide-git](https://github.com/KannaKuron/dsh-ide-git) - DSH-plug-in: een IDE-achtig Git-toolvenster als native dsh-better-sidebar-tab…
-- [mjylfz/dsh-skill-mover](https://github.com/mjylfz/dsh-skill-mover) - 把其他 Agent 的技能一键搬进 DeepSeek Harness：支持 14 个平台 + 共享层识别、同名技能合并、不重复搬运、可回滚.
-- [xiaoso456/dsh-workflow-lite](https://github.com/xiaoso456/dsh-workflow-lite) - DeepSeek Harness 的软工作流插件：在画布上设计流程，编译成计划提示词，由模型按计划执行；运行状态由模型自己记，没有执行引擎.
+- [mjylfz/dsh-skill-mover](https://github.com/mjylfz/dsh-skill-mover) - Verplaats vaardigheden van andere Agents met één klik naar DeepSeek Harness…
+- [xiaoso456/dsh-workflow-lite](https://github.com/xiaoso456/dsh-workflow-lite) - De softworkflowplug-in van DeepSeek Harness: ontwerp workflows op een canvas en…
 - [z7ping/agent-lens](https://github.com/z7ping/agent-lens) - Zie elke observeerbare actie van AI-codeeragents.
 - [Aliuyanfeng/dsh-soul](https://github.com/Aliuyanfeng/dsh-soul) - De DeepSeek Harness Personalization Settings-plugin wordt gebruikt om de…
 - [cv-superding/dsh-webin](https://github.com/cv-superding/dsh-webin) - Onofficiële DSH-plugin: bedien AI-webinterfaces (DeepSeek/Qwen/...) in een…
-- [czcdr/dsh-plugin-rea](https://github.com/czcdr/dsh-plugin-rea) - 第三方适配插件：把上游 REA（逆向一切，github.com/morluto/rea）的 MCP 服务注册进 DeepSeek Harness，得到…
+- [czcdr/dsh-plugin-rea](https://github.com/czcdr/dsh-plugin-rea) - Plug-in van derden: registreert de MCP-service van de upstream REA.
 - [henlii/dsh-plugins](https://github.com/henlii/dsh-plugins) - DSH-plugincollectie: wachtwoordauthenticatie + vertrouwen voor dsh-webtoegang…
 - [ItQianChen/dsh-github-flow](https://github.com/ItQianChen/dsh-github-flow) - Geef DeepSeek Harness Agent native handen en voeten om GitHub te bedienen!
 - [PerryLink/dsh-plugin-doctor](https://github.com/PerryLink/dsh-plugin-doctor) - Verificat standaard zonder afhankelijkheden voor DeepSeek Harness…
 - [PerryLink/perrylink](https://github.com/PerryLink/perrylink) - DeepSeek Harness-pluginecosysteem: 86 opensourceplugins in een familie van 101…
-- [SuCriss/dsh-leekbox](https://github.com/SuCriss/dsh-leekbox) - 韭菜盒子 LeekBox — A股看盘助手 · DeepSeek Harness (DSH) web 插件.
+- [SuCriss/dsh-leekbox](https://github.com/SuCriss/dsh-leekbox) - LeekBox — assistent voor het volgen van A-aandelen · DeepSeek Harness (DSH)…
 - [tianyagk/dsh-tradewatcher](https://github.com/tianyagk/dsh-tradewatcher) - DeepSeek Harness (DSH)-webplugin: markt-dashboard-zijtab voor monitoring — drie…
 - [viztor/dsh-opencode-patch](https://github.com/viztor/dsh-opencode-patch) - OpenCode op DeepSeek Harness — DSH-plug-in die OpenCode Zen + Go gratis…
 - [AI-Scarlett/DSH-Store](https://github.com/AI-Scarlett/DSH-Store) - DSH STORE — marktplaats voor plug-ins van derden en beheerder van de beveiligde…
 - [Atelyx/Atelyx](https://github.com/Atelyx/Atelyx) - Atelyx is een mensgerichte, uitbreidbare desktopwerkplek: gesprekken, notities…
 - [dsh-cc/dsh-cc](https://github.com/dsh-cc/dsh-cc) - Een coding-agent met alles ingebouwd voor DeepSeek Harness — workflows in de…
-- [dsh-plugin-lab/dsh-ds-balance](https://github.com/dsh-plugin-lab/dsh-ds-balance) - DSH plugin: shows your DeepSeek account balance at the bottom of the left…
-- [iluluyu/dsh-ui-outline](https://github.com/iluluyu/dsh-ui-outline) - ChatGPT-style right-edge turn navigation plugin for DeepSeek Harness (dsh) web.
+- [dsh-plugin-lab/dsh-ds-balance](https://github.com/dsh-plugin-lab/dsh-ds-balance) - DSH-plug-in: toont het saldo van je DeepSeek-account onderaan de linkerzijbalk…
+- [iluluyu/dsh-ui-outline](https://github.com/iluluyu/dsh-ui-outline) - ChatGPT-achtige plug-in voor navigatie tussen beurten aan de rechterrand voor…
 - [sakanamaru/dsh-minato](https://github.com/sakanamaru/dsh-minato) - dsh-minato — communitytoolkit voor lokale implementatie en beheer voor DeepSeek…
-- [Wenston-dev/awesome-dsh-plugin](https://github.com/Wenston-dev/awesome-dsh-plugin) - Awesome dsh plugin list — automated DeepSeek Harness plugin directory.
+- [Wenston-dev/awesome-dsh-plugin](https://github.com/Wenston-dev/awesome-dsh-plugin) - Awesome dsh-plug-inlijst — geautomatiseerde DeepSeek Harness-plug-indirectory.
 - [argszero/cordis-plugin-sandbox-grant-advisor](https://github.com/argszero/cordis-plugin-sandbox-grant-advisor) - DeepSeek Harness-plug-in: verandert de fout bij het provisionen van de ACL voor…
 - [argszero/cordis-plugin-tool-deadline-guard](https://github.com/argszero/cordis-plugin-tool-deadline-guard) - Deadlines op implementatieniveau voor dsh-toolaanroepen die er geen opgeven…
 - [fshoocn/cordis-port](https://github.com/fshoocn/cordis-port) - Python-port van cordis · plug-inruntime / dependency injection / eventbus ·…
 - [xinvxueyuan/cordis-plugin-github](https://github.com/xinvxueyuan/cordis-plugin-github) - Cordis / DeepSeek Harness-plugin — genormaliseerde GitHub API-tools voor…
 - [majiayu000/dsh-desk](https://github.com/majiayu000/dsh-desk) - Installeerbare Tauri-desktopdistributie voor DeepSeek Harness met gebundelde…
 - [tellmewhattodo/dsh-serenity-plugin](https://github.com/tellmewhattodo/dsh-serenity-plugin) - dsh-serenity-plugin.
-- [LittleCar30/dsh-deepseek-web](https://github.com/LittleCar30/dsh-deepseek-web) - Standalone dsh desktop plugin for driving DeepSeek Web through a dedicated real…
+- [LittleCar30/dsh-deepseek-web](https://github.com/LittleCar30/dsh-deepseek-web) - Standalone dsh-desktopplug-in voor het bedienen van DeepSeek Web via een…
 
 </details>
 
@@ -3366,4 +3364,4 @@ Corrections are welcome and are the fastest way to improve this list. Open an is
 
 <sub>Independent community project. Not affiliated with, endorsed by, or reviewed by Anthropic. Claude Code, Claude and Anthropic are trademarks of Anthropic. Product behaviour changes without notice; verify anything load-bearing against the official documentation. Assets remain the property of their upstream projects and are reproduced only where a licence permits.</sub>
 
-<sub>Last updated · 2026-10-13T19:28:29+08:00</sub>
+<sub>Last updated · 2026-10-13T21:42:20+08:00</sub>

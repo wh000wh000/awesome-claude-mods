@@ -18,7 +18,7 @@
 <p align="center"><sub><a href="../README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.ru.md">Русский</a> · <a href="README.it.md">Italiano</a> · <b>العربية</b> · <a href="README.hi.md">हिन्दी</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.vi.md">Tiếng Việt</a> · <a href="README.th.md">ไทย</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.pl.md">Polski</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.uk.md">Українська</a></sub></p>
 
 > [!NOTE]
-> **الفهرس المباشر** · آخر مزامنة: `2026-10-13T19:28:29+08:00` (UTC+8)
+> **الفهرس المباشر** · آخر مزامنة: `2026-10-13T21:42:20+08:00` (UTC+8)
 > · الإدخالات: **494** · أُضيفت في آخر تحديث: **0** · لغات التنفيذ: **13**
 
 <sub>جُمعت كل الإدخالات أدناه، وصُفّيت وأُعيد التحقق منها تلقائيًا. لا يوجد هنا أي محتوى مدفوع.</sub>
@@ -466,7 +466,7 @@ Claude Code هو أداة برمجة وكيلية تعمل في الطرفية،
 
 ##### 📝 الملخص
 
-macOS menu bar & Windows tray app pinning Claude Code, Codex, Antigravity & Grok CLI quota, burn rate, and cost to your screen. Local-first, no LLM API calls. HTML reports, 14 themes.
+تثبيت تطبيق شريط القوائم macOS وعلبة النظام Windows الذي يثبت حصة Claude Code وCodex وAntigravity وGrok CLI ومعدل الاستهلاك والتكلفة على شاشتك. محلي أولًا، بلا استدعاءات LLM API. تقارير HTML، و14 سمة.
 
 <sub>🔧 مُستخدم في الشيفرة: `claude_pane/usage-dash/hooks/register.tsx`</sub>
 
@@ -534,7 +534,7 @@ macOS menu bar & Windows tray app pinning Claude Code, Codex, Antigravity & Grok
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/karanb192/cache-tax">karanb192/cache-tax</a></b> · ⭐166 · TypeScript · 👁️ observed · 8 天</summary>
+<summary>🧩 <b><a href="https://github.com/karanb192/cache-tax">karanb192/cache-tax</a></b> · ⭐166 · TypeScript · 👁️ observed · 9 天</summary>
 
 ##### 📝 الملخص
 
@@ -987,7 +987,7 @@ Skills ووكلاء وأوامر وقواعد وخطافات وأنماط إخر
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/artemnovichkov/xcode-mods">artemnovichkov/xcode-mods</a></b> · ⭐20 · TypeScript · 👁️ observed · 10 天</summary>
+<summary>🧩 <b><a href="https://github.com/artemnovichkov/xcode-mods">artemnovichkov/xcode-mods</a></b> · ⭐20 · TypeScript · 👁️ observed · 11 天</summary>
 
 ##### 📝 الملخص
 
@@ -1622,7 +1622,7 @@ LINE داخل Claude Code: واجهة enil TUI كتعديل Claude Code
 - [yodakeisuke/claudelingo](https://github.com/yodakeisuke/claudelingo) - تعلّم لغة أجنبية أثناء عملك مع كود Claude.
 - [0xctx/sysop](https://github.com/0xctx/sysop) - أخبر Claude بما تريده. واستلمه مبنيًا ومختبرًا ومراجعًا بواسطة ذكاء اصطناعي آخر…
 - [20alexl/windvane](https://github.com/20alexl/windvane) - يرعى جلسة Claude Code طويلة كي لا تضطر إلى ذلك: يراقب امتلاء السياق، ويُعدّ…
-- [Akeuuh/claude-mods](https://github.com/Akeuuh/claude-mods) - Claude Code plugin marketplace: mods built on function hooks.
+- [Akeuuh/claude-mods](https://github.com/Akeuuh/claude-mods) - سوق إضافات Claude Code: تعديلات مبنية على خطافات الدوال.
 - [andrewbakercloudscale/claude-code-cost-sidebar](https://github.com/andrewbakercloudscale/claude-code-cost-sidebar) - شريط جانبي مباشر لتكلفة واستخدام الرموز والسياق في Claude Code: تعديل يعرض…
 - [bully911210/claude-code-mods](https://github.com/bully911210/claude-code-mods) - تعديلات function-hook لـ Claude Code: صف لقياس الحدود، ولوحات أسئلة وخطوات…
 - [cldotdev/claude-todo-list](https://github.com/cldotdev/claude-todo-list) - تعديل لـ Claude Code يحتفظ بقائمة مستمرة بالعناصر المفتوحة في محادثة ويعرضها في…
@@ -1653,7 +1653,7 @@ LINE داخل Claude Code: واجهة enil TUI كتعديل Claude Code
 - [rezzminator/buddy](https://github.com/rezzminator/buddy) - إضافة رفيق لكود Claude: مرافق ASCII فوق موجّهك يتذكر قواعدك ويشير إلى اختصارات…
 - [SeongGwangJu/k-mods](https://github.com/SeongGwangJu/k-mods) - مجموعة تعديلات رائعة لـ Claude Code | مجموعة تعديلات كود كلود.
 - [tanujarun/it-speaks](https://github.com/tanujarun/it-speaks) - It Speaks: تعديل Claude Code يقرأ ردود Claude وموجهاتك بصوت عالٍ عند الطلب،…
-- [timoncool/slapbox](https://github.com/timoncool/slapbox) - 🍑 Spank Claude when it messes up — a stress-relief mod for Claude Code: cartoon…
+- [timoncool/slapbox](https://github.com/timoncool/slapbox) - 🍑 اضرب Claude عندما يخطئ — mod لتخفيف التوتر لـ Claude Code: مؤخرة كرتونية، 8…
 - [TroyJLorents-GH/mod-squad](https://github.com/TroyJLorents-GH/mod-squad) - تعديلات Claude Code: إضافات صغيرة للوحات المباشرة، وتوجيه النماذج الواعي…
 - [UtsavBalar1231/oh-my-claudeagent](https://github.com/UtsavBalar1231/oh-my-claudeagent) - Claude Code، مع الإيصالات. إضافة تخطط للعمل وتفوضه وتثبت إنجازه.
 - [VaitaR/claude-code-limits](https://github.com/VaitaR/claude-code-limits) - تعديل Claude Code: حصة 5h/7d، ونافذة السياق، والوقت المتبقي لذاكرة التخزين…
@@ -1688,12 +1688,12 @@ LINE داخل Claude Code: واجهة enil TUI كتعديل Claude Code
 - [finalpantasy/claude-mod-pack](https://github.com/finalpantasy/claude-mod-pack) - حزمة تعديلات Claude: تعديلات صغيرة لـ Claude Code.
 - [francktrouillez/claude-freeze](https://github.com/francktrouillez/claude-freeze) - تعديل Claude Code: جمّد جلسة واستأنفها لاحقًا كما لو لم يحدث شيء.
 - [GeckoKing9/claude-code-copy-button](https://github.com/GeckoKing9/claude-code-copy-button) - انسخ الرابط بالنقر على Ctrl+النقر في كل كتلة كود ضمن ردود Claude Code.
-- [guojunjie0614-cyber/workhorse](https://github.com/guojunjie0614-cyber/workhorse) - Claude Code mod: hand coding, review and ops jobs to Codex as background…
+- [guojunjie0614-cyber/workhorse](https://github.com/guojunjie0614-cyber/workhorse) - mod لـ Claude Code: سلّم مهام البرمجة اليدوية والمراجعة والعمليات إلى Codex…
 - [Hekzory/spend-meter](https://github.com/Hekzory/spend-meter) - مقياس إنفاق مباشر لـ Claude Code: تكلفة الجلسة مع الوكلاء الفرعيين وسير العمل،…
 - [Huuuuung/think-meter](https://github.com/Huuuuung/think-meter) - تعديل Claude Code: المدة التي استغرقها كل رد، والمدة التي فكّر فيها Claude،…
 - [imsungbin/quackpit-mod](https://github.com/imsungbin/quackpit-mod) - قمرة قيادة فوق مطالبة Claude Code. البطة تقرأ العدادات.
 - [jasonXiao422/drawing2sw](https://github.com/jasonXiao422/drawing2sw) - قراءة رسوماتك الهندسية تلقائيًا، ثم إنشاء النموذج في SolidWorks.
-- [jBeyondstars/ultracode-models](https://github.com/jBeyondstars/ultracode-models) - Claude Code mod: pick the model and effort every subagent runs on, Ultracode…
+- [jBeyondstars/ultracode-models](https://github.com/jBeyondstars/ultracode-models) - mod لـ Claude Code: اختر النموذج والجهد اللذين يعمل بهما كل وكيل فرعي، بما في…
 - [JeremyHo1123/claude-code-agent-board](https://github.com/JeremyHo1123/claude-code-agent-board) - لوحة مباشرة للوكلاء الفرعيين في Claude Code داخل VS Code: الوكلاء الفرعيون لكل…
 - [jessetsai1024/claude-ctx-panel](https://github.com/jessetsai1024/claude-ctx-panel) - لوحة استخدام context في الشريط الجانبي: الإجمالي، والتصنيف، والنمو في كل جولة،…
 - [jessetsai1024/claude-files](https://github.com/jessetsai1024/claude-files) - قائمة الملفات في الشريط الجانبي: ما الملفات التي أُنشئت أو عُدّلت أو حُذفت في…
@@ -1702,8 +1702,8 @@ LINE داخل Claude Code: واجهة enil TUI كتعديل Claude Code
 - [jessetsai1024/claude-timeline](https://github.com/jessetsai1024/claude-timeline) - الخط الزمني في الشريط الجانبي: أين ذهب وقت هذه الجولة.
 - [jessetsai1024/claude-tokens](https://github.com/jessetsai1024/claude-tokens) - تبادل token في الشريط الجانبي: كم token ترسل المحادثة الرئيسية إلى Anthropic في…
 - [jessetsai1024/claude-whisper](https://github.com/jessetsai1024/claude-whisper) - حلوى الصدق لـ claude code: بعد انتهاء كل جولة، يقول Claude بهدوء جملة عمّا يدور…
-- [jiangnanquan/claude-code-zh](https://github.com/jiangnanquan/claude-code-zh) - Claude Code CLI 简体中文汉化（自管版）——自己的翻译表 + patch 工具 + 升级检查.
-- [jidhra/claude-mods](https://github.com/jidhra/claude-mods) - Jidhra.
+- [jiangnanquan/claude-code-zh](https://github.com/jiangnanquan/claude-code-zh) - تعريب Claude Code CLI إلى الصينية المبسطة (إصدار مُدار ذاتيًا) —— جدول ترجمتك…
+- [jidhra/claude-mods](https://github.com/jidhra/claude-mods) - تعديلات Claude Code من Jidhra في سوق إضافات واحد.
 - [kadaliao/claude-mods](https://github.com/kadaliao/claude-mods) - إضافات Claude Code: إضافات بخطافات الدوال تغيّر واجهة Claude Code وسلوكه…
 - [KaiC5504/clawd-bar](https://github.com/KaiC5504/clawd-bar) - يعيش Clawd في شريط فوق موجّه Claude Code الخاص بك: يمثّل الجلسة، ويعرض ما يعمل،…
 - [kajidog/cc-mods-tts](https://github.com/kajidog/cc-mods-tts) - تعديل يقرأ ردود وإشعارات Claude Code بصوت عالٍ باستخدام VOICEVOX / Irodori-TTS…
@@ -1721,7 +1721,7 @@ LINE داخل Claude Code: واجهة enil TUI كتعديل Claude Code
 - [MDmubarak786/claude-mods](https://github.com/MDmubarak786/claude-mods) - إضافات مجتمعية لـ Claude Code: وسائل حماية وأجزاء وأوامر تعمل داخل Claude Code.
 - [mkiselyow/diff-lens](https://github.com/mkiselyow/diff-lens) - تعديل Claude Code: اطلب من Claude إرشادك خلال PR، وانقر أي رابط ملف في رده،…
 - [moabualruz/rice-multi-models](https://github.com/moabualruz/rice-multi-models) - تعديل Code لـ Claude: Codex (اشتراك ChatGPT) ونماذج أخرى غير نماذج Anthropic…
-- [MohamedHamed001/claude-mods](https://github.com/MohamedHamed001/claude-mods) - Claude Code plugins: delegation.
+- [MohamedHamed001/claude-mods](https://github.com/MohamedHamed001/claude-mods) - إضافات Claude Code: التفويض.
 - [mtami/terminal-tab-title](https://github.com/mtami/terminal-tab-title) - تعديل Code لـ Claude: يسمّي علامة تبويب الطرفية التي يعمل فيها Claude.
 - [muellerei/enable-todo-tools](https://github.com/muellerei/enable-todo-tools) - تعديل Claude Code يعيد تشغيل أدوات todo للنماذج التي تستبعدها، عبر ضبط…
 - [muellerei/sweet-spot](https://github.com/muellerei/sweet-spot) - تعديل Claude Code ينتظر توقفًا آمنًا، ثم يسلّم جلستك أو يضغطها.
@@ -1729,7 +1729,7 @@ LINE داخل Claude Code: واجهة enil TUI كتعديل Claude Code
 - [nachtgold/claude-code-connect-four](https://github.com/nachtgold/claude-code-connect-four) - العب Connect Four ضد AI داخل Claude Code (/connect-four).
 - [naoanao/agent-cross-check](https://github.com/naoanao/agent-cross-check) - تعديل Claude Code: عندما يرسل وكيل برمجي آخر التزامًا إلى مستودعك، يلاحظ Claude…
 - [naoanao/shared-repo-guard](https://github.com/naoanao/shared-repo-guard) - تعديل Claude Code للمستودعات التي تتشاركها عدة وكلاء للذكاء الاصطناعي: يمنع…
-- [niksavis/handily](https://github.com/niksavis/handily) - Claude Code mods that show your work items, tasks and sessions, for any…
+- [niksavis/handily](https://github.com/niksavis/handily) - تعديلات Claude Code تعرض عناصر عملك ومهامك وجلساتك، لأي متتبع.
 - [nu0ma/query-guard](https://github.com/nu0ma/query-guard) - حاجز حماية لـ SQL في Claude Code: يسأل قبل أن ينفّذ Claude عمليات DELETE…
 - [nwilsson/claudepad](https://github.com/nwilsson/claudepad) - لوحة ملاحظات لـ Code الخاص بـ Claude، كتعديل.
 - [OG-Matcha/tessera](https://github.com/OG-Matcha/tessera) - تعديل واحد لـ Claude Code وWindows، مع أولوية لـ CJK: معاينات للصور والنصوص…
@@ -1811,10 +1811,10 @@ LINE داخل Claude Code: واجهة enil TUI كتعديل Claude Code
 - [darthmolen/hytale-claude-code-marketplace](https://github.com/darthmolen/hytale-claude-code-marketplace) - سوق لإضافات ومهارات Claude Code لتسهيل تعديلات لعبة Hytale.
 - [devrim-1283/claude-code-statusline](https://github.com/devrim-1283/claude-code-statusline) - سطر حالة أحادي السطر ومُرمّز بالألوان لـ Claude Code — المجلد، والنموذج،…
 - [hopp1395/cc-outline](https://github.com/hopp1395/cc-outline) - عارض بأجزاء مقسّمة لـ Claude Code في Windows Terminal وtmux: الجلسة بصيغة…
-- [ian-exnodes/statusbar](https://github.com/ian-exnodes/statusbar) - Claude Code plugin: a live two-row status line under the prompt with model…
+- [ian-exnodes/statusbar](https://github.com/ian-exnodes/statusbar) - إضافة Claude Code: سطر حالة حي من صفين أسفل المطالبة يعرض النموذج وgit وامتلاء…
 - [jeancarlo-javier/claude-status-bar](https://github.com/jeancarlo-javier/claude-status-bar) - سطر حالة مباشر لمرحلة سير العمل في Claude Code (Plan → Exec → Verify → Done)،…
 - [mvrozanti/claude-progressbar](https://github.com/mvrozanti/claude-progressbar) - أشرطة تقدم لأوامر Bash التي يشغّلها Claude Code، مرسومة في سطر الحالة: محللة من…
-- [naturalmoods/herdr-telegram-notify](https://github.com/naturalmoods/herdr-telegram-notify) - Messages you on Telegram when an agent finishes or needs input, with its last…
+- [naturalmoods/herdr-telegram-notify](https://github.com/naturalmoods/herdr-telegram-notify) - يراسلك على Telegram عندما ينتهي الوكيل أو يحتاج إلى إدخال، مع رسالته الأخيرة…
 - [risukisu/claude-code-statusline](https://github.com/risukisu/claude-code-statusline) - لوحة معلومات مصغرة من 3 أسطر لطرفية Claude Code — النموذج، واستهلاك السياق،…
 - [romnycristopher/claude-am-mods](https://github.com/romnycristopher/claude-am-mods) - مستودع لتعديلات Awesome Media لـ Claude Code.
 - [rootstudioyaml/sprag](https://github.com/rootstudioyaml/sprag) - خفّض إنفاق Claude Code وCodex من الرموز: يوجّه عمليات البحث والتشغيل التجريبي…
@@ -1822,7 +1822,7 @@ LINE داخل Claude Code: واجهة enil TUI كتعديل Claude Code
 - [barkleesanders/claude-hud](https://github.com/barkleesanders/claude-hud) - شاشة عرض فورية لحالة Claude Code — صحة السياق، ونشاط الأدوات، وتتبع الوكلاء،…
 - [carterptull/ampline-claude](https://github.com/carterptull/ampline-claude) - سطر حالة معزّز ومتدرج الألوان لـ Claude Code، من دون أي تبعيات.
 - [ist-j-ichikawa/claude-code-statusline](https://github.com/ist-j-ichikawa/claude-code-statusline) - شريط الحالة المخصص لـ j-ichikawa في Claude Code CLI.
-- [kyllian330/claude-statusline](https://github.com/kyllian330/claude-statusline) - Display key status details for Claude Code including model, context, limits…
+- [kyllian330/claude-statusline](https://github.com/kyllian330/claude-statusline) - اعرض تفاصيل الحالة الرئيسية لـ Claude Code بما في ذلك النموذج والسياق والحدود…
 - [L3DigitalNet/ClaudeCodeStatusLine](https://github.com/L3DigitalNet/ClaudeCodeStatusLine) - سطر حالة مدمج تتم صيانته بنشاط لـ Claude Code — النموذج والجهد واستخدام الرموز…
 - [tc3oliver/claude-team-kit](https://github.com/tc3oliver/claude-team-kit) - فرق وكلاء أصلية. تحت السيطرة. حدود صارمة لعدد العمال، ورؤية مباشرة للفريق،…
 - [Alpinoo/claude-code-usage-statusline](https://github.com/Alpinoo/claude-code-usage-statusline) - سطر حالة Windows PowerShell لـ Claude Code: حدود 5 ساعات وأسبوعية مع عدّادات…
@@ -1836,7 +1836,7 @@ LINE داخل Claude Code: واجهة enil TUI كتعديل Claude Code
 - [erDevKumar/claude-code-companion](https://github.com/erDevKumar/claude-code-companion) - امتداد VS Code: تقدّم مهمة Code لـ Claude ووقت الوصول المتوقع وحصة حد المعدل…
 - [hieuvo/claude-imgview](https://github.com/hieuvo/claude-imgview) - معاينة الصور داخل Claude Code: مرّر المؤشر فوق شريحة أسفل الرد لإظهار الصورة،…
 - [IceThunder/claude-statusline](https://github.com/IceThunder/claude-statusline) - سطر حالة Code لـ Claude: النموذج، وأشرطة حصة 5 ساعات/7 أيام، وشريط الإنفاق…
-- [izahamyatim/claude-plugin-fizzy](https://github.com/izahamyatim/claude-plugin-fizzy) - 🚀 Sync Claude.
+- [izahamyatim/claude-plugin-fizzy](https://github.com/izahamyatim/claude-plugin-fizzy) - 🚀 مزامنة مهام Claude إلى Fizzy.do لرؤية فورية للفريق، وتحويل المهام إلى بطاقات…
 - [Kimmihappy793/claude-status-line](https://github.com/Kimmihappy793/claude-status-line) - عرض شريط حالة مفصل ومشفّر بالألوان لـ Claude Code يوضح السياق وحالة git…
 - [KitchenSink4AI/claude-code-statusline](https://github.com/KitchenSink4AI/claude-code-statusline) - مقياس السياق لـ Claude Code: معدل الاستهلاك الفعلي، والدورات المتبقية، وحدود…
 - [LounisBou/claude-statusbar](https://github.com/LounisBou/claude-statusbar) - شريط حالة من سطرين لوكيل برمجة في الطرفية: الدليل، وgit، وPR، والنموذج،…
@@ -1845,7 +1845,7 @@ LINE داخل Claude Code: واجهة enil TUI كتعديل Claude Code
 - [parisgroup-ai/claude-statusline](https://github.com/parisgroup-ai/claude-statusline) - @parisgroup-ai/claude-statusline — سطر حالة Code لـ Claude لـ macOS + Linux.
 - [peaceinitiativemenhadenoil263/claude-status-bar](https://github.com/peaceinitiativemenhadenoil263/claude-status-bar) - راقب حالة Claude Code من شريط قوائم macOS مع مؤشرات آنية للمهام النشطة…
 - [Rubio-Enterprises/claude-statusline](https://github.com/Rubio-Enterprises/claude-statusline) - سطر حالة مخصص لـ Claude Code (المصدر الرئيسي: kamranahmedse/claude-statusline).
-- [sgarcia-dev/claude-agent-watch](https://github.com/sgarcia-dev/claude-agent-watch) - Live pane and status line for the Codex, OpenCode, Antigravity, Hermes and…
+- [sgarcia-dev/claude-agent-watch](https://github.com/sgarcia-dev/claude-agent-watch) - لوحة حية وسطر حالة للوكلاء الفرعيين Codex وOpenCode وAntigravity وHermes…
 - [silee-tools/claude-statusline](https://github.com/silee-tools/claude-statusline) - واجهة HUD لسطر حالة مكدس عموديًا ومستقل عن العرض لـ Claude Code.
 - [Sofia-D4L/claude-conf](https://github.com/Sofia-D4L/claude-conf) - إعداد محمول لـ Code لـ Claude (سطر الحالة + مُثبّت).
 - [steemandavid/claude-code-statusline](https://github.com/steemandavid/claude-code-statusline) - سطر حالة مخصص لـ Claude Code — النموذج والسياق وإحصاءات الاستخدام.
@@ -2142,7 +2142,7 @@ Distilly — استخلص طريقة تفكيرهم إلى Skills قابلة ل�
 
 ##### 📝 الملخص
 
-DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
+DeepSeek Harness (DSH) Web منظومة تجميع إضافات · كل شيء إضافة، تُوزَّع عبر Creative Workshop｜｜DeepSeek Harness (DSH) Web منظومة تجميع إضافات · كل شيء إضافة، تُوزَّع عبر Creative Workshop
 
 ##### 📌 حقائق أساسية
 
@@ -2237,7 +2237,7 @@ DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意�
 
 ##### 📝 الملخص
 
-本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
+وكيل اكتشاف محتوى AI محلي أولًا وخاص ومفتوح المصدر ومتعدد المنصات ويتطور ذاتيًا: يفهمك أولًا، ثم يعثر استباقيًا على المحتوى عبر Bilibili وXiaohongshu وDouyin وYouTube وX وZhihu وReddit وWeibo والويب المفتوح.（يدعم إضافة deepseek harness） | وكيل اكتشاف محتوى AI محلي أولًا ومفتوح المصدر ومتعدد المنصات: يفهمك، ثم يعثر استباقيًا على المحتوى عبر Bilibili وXiaohongshu وDouyin وYouTube وX وZhihu وReddit وWeibo والويب المفتوح.（يدعم إضافة deepseek harness）
 
 ##### 📌 حقائق أساسية
 
@@ -2262,40 +2262,6 @@ DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意�
 <table><tr><th align="center" width="50%">🖼 صورة</th><th align="center" width="50%">🎬 فيديو</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/whiteguo233--openbiliclaw/00bf0e70f2903777.png" width="100%" alt="whiteguo233/OpenBiliClaw screenshot"></td>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/whiteguo233--openbiliclaw/c7c275524e19b917.gif" width="100%" alt="whiteguo233/OpenBiliClaw animation"><br><sub>تسجيل متحرك</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/QingYunA/answer-me-with-html">QingYunA/answer-me-with-html</a></b> · ⭐3251 · JavaScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 الملخص
-
-Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。
-
-##### 📌 حقائق أساسية
-
-| الحقل  | القيمة                                                             |
-| ------ | ------------------------------------------------------------------ |
-| الفئة  | `منظومتَا إضافات DSH وCordis`                                       |
-| الدليل | `أعلن عن تعديل أو إضافة أو خطاف، لكن دون ذكر واجهة التعديل تحديداً` |
-| اللغة  | JavaScript                                                         |
-
-##### 📊 البيانات
-
-| المقياس   | القيمة     |
-| --------- | ---------- |
-| النجوم    | **3251**   |
-| آخر دفعة  | 2026-10-13 |
-| أول إدراج | 2026-10-13 |
-
-🏷 `agent-skill` · `ai-agent` · `claude-code` · `claude-code-skill` · `claude-skill` · `claude-skills` · `cli` · `diagram`
-
----
-
-<table><tr><th align="center" width="50%">🖼 صورة</th><th align="center" width="50%">🎬 فيديو</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/qingyuna--answer-me-with-html/d42d80099fe6e672.png" width="100%" alt="QingYunA/answer-me-with-html screenshot"></td>
-<td align="center" valign="top"><sub>لا توجد وسائط منشورة</sub></td>
 </tr></table>
 
 </details>
@@ -2369,42 +2335,6 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/anywhere-labs/Agents-Anywhere">anywhere-labs/Agents-Anywhere</a></b> · ⭐1640 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 الملخص
-
-ورشة عمل Agent مفتوحة المصدر ومتعددة الأجهزة
-
-##### 📌 حقائق أساسية
-
-| الحقل  | القيمة                                                             |
-| ------ | ------------------------------------------------------------------ |
-| الفئة  | `منظومتَا إضافات DSH وCordis`                                       |
-| الدليل | `أعلن عن تعديل أو إضافة أو خطاف، لكن دون ذكر واجهة التعديل تحديداً` |
-| اللغة  | TypeScript                                                         |
-
-##### 📊 البيانات
-
-| المقياس   | القيمة     |
-| --------- | ---------- |
-| النجوم    | **1640**   |
-| آخر دفعة  | 2026-10-13 |
-| أول إدراج | 2026-10-13 |
-
-🏷 `acp` · `agentclientprotocol` · `agents` · `claudecode` · `codex` · `codex-app` · `dsh` · `dsh-plugin`
-
----
-
-<table><tr><th align="center" width="50%">🖼 صورة</th><th align="center" width="50%">🎬 فيديو</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/anywhere-labs/Agents-Anywhere/main/docs/images/readme-hero-zh.webp" width="100%" alt="anywhere-labs/Agents-Anywhere screenshot"></td>
-<td align="center" valign="top"><sub>لا توجد وسائط منشورة</sub></td>
-</tr></table>
-
-<sub>تمت الإشارة إلى الأصل مباشرةً من المستودع المصدر لعدم الإعلان عن ترخيص يسمح بإعادة التوزيع.</sub>
-
-</details>
-
-<details>
 <summary>🧵 <b><a href="https://github.com/vshulcz/deja-vu">vshulcz/deja-vu</a></b> · ⭐1185 · Go · 🔎 inferred · 0 天</summary>
 
 ##### 📝 الملخص
@@ -2434,74 +2364,6 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 <table><tr><th align="center" width="50%">🖼 صورة</th><th align="center" width="50%">🎬 فيديو</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/vshulcz--deja-vu/8033ba54a9424c88.png" width="100%" alt="vshulcz/deja-vu screenshot"></td>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/vshulcz--deja-vu/5fb930f1983f270b.gif" width="100%" alt="vshulcz/deja-vu animation"><br><sub>تسجيل متحرك</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/LivXue/dsh-plugin-shop">LivXue/dsh-plugin-shop</a></b> · ⭐1011 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 الملخص
-
-أشمل سوق لإضافات DeepSeek Harness — يُحدَّث يوميًا، وتُجمع مواده من جميع أنحاء الإنترنت وتُراجَع قبل النشر.
-
-##### 📌 حقائق أساسية
-
-| الحقل  | القيمة                                                             |
-| ------ | ------------------------------------------------------------------ |
-| الفئة  | `منظومتَا إضافات DSH وCordis`                                       |
-| الدليل | `أعلن عن تعديل أو إضافة أو خطاف، لكن دون ذكر واجهة التعديل تحديداً` |
-| اللغة  | TypeScript                                                         |
-
-##### 📊 البيانات
-
-| المقياس   | القيمة     |
-| --------- | ---------- |
-| النجوم    | **1011**   |
-| آخر دفعة  | 2026-10-13 |
-| أول إدراج | 2026-10-13 |
-
-🏷 `agent` · `deepseek` · `deepseek-harness` · `deepseek-harness-plugin` · `dsh` · `dsh-plugin` · `harness`
-
----
-
-<table><tr><th align="center" width="50%">🖼 صورة</th><th align="center" width="50%">🎬 فيديو</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/livxue--dsh-plugin-shop/0cd59c71bcc6f86e.png" width="100%" alt="LivXue/dsh-plugin-shop screenshot"></td>
-<td align="center" valign="top"><sub>لا توجد وسائط منشورة</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/Ikalus1988/MisakaNet">Ikalus1988/MisakaNet</a></b> · ⭐526 · Python · 🔎 inferred · 0 天</summary>
-
-##### 📝 الملخص
-
-📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. | https://misakanet.org
-
-##### 📌 حقائق أساسية
-
-| الحقل  | القيمة                                                             |
-| ------ | ------------------------------------------------------------------ |
-| الفئة  | `منظومتَا إضافات DSH وCordis`                                       |
-| الدليل | `أعلن عن تعديل أو إضافة أو خطاف، لكن دون ذكر واجهة التعديل تحديداً` |
-| اللغة  | Python                                                             |
-
-##### 📊 البيانات
-
-| المقياس   | القيمة     |
-| --------- | ---------- |
-| النجوم    | **526**    |
-| آخر دفعة  | 2026-10-13 |
-| أول إدراج | 2026-10-13 |
-
-🏷 `action` · `agents` · `cloudflare-workers` · `codex` · `cordis-plugin` · `d1` · `deepseek-harness` · `deepseek-harness-plugin`
-
----
-
-<table><tr><th align="center" width="50%">🖼 صورة</th><th align="center" width="50%">🎬 فيديو</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/ikalus1988--misakanet/f6853900d49aba17.jpg" width="100%" alt="Ikalus1988/MisakaNet screenshot"></td>
-<td align="center" valign="top"><sub>لا توجد وسائط منشورة</sub></td>
 </tr></table>
 
 </details>
@@ -2545,7 +2407,7 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 ##### 📝 الملخص
 
-DeepSeek Harness 换肤 / 壁纸 / 主题包插件 (dsh-plugin) — 8 套 Mirage 主题、每用户强调色、壁纸2.0、主题包导入导出/分享链接、收藏与随机，纯原生 token 系统实现。
+إضافة تغيير المظهر / الخلفيات / حزم السمات لـ DeepSeek Harness (dsh-plugin) — 8 مجموعات سمات Mirage، ولون إبراز لكل مستخدم، وخلفيات 2.0، واستيراد/تصدير حزم السمات وروابط المشاركة، والمفضلة والعشوائي، منفذة بنظام token أصلي خالص.
 
 ##### 📌 حقائق أساسية
 
@@ -2643,45 +2505,11 @@ DeepSeek Harness 换肤 / 壁纸 / 主题包插件 (dsh-plugin) — 8 套 Mirage
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/FeatherHunter/dsh-mattpocock-skills-deck">FeatherHunter/dsh-mattpocock-skills-deck</a></b> · ⭐143 · JavaScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 الملخص
-
-يتضمن التثبيت تلقائيًا 27 مهارة هندسية ومهارة إنتاجية من mattpocock/skills v1.3.1، من دون الحاجة إلى تثبيت المهارات يدويًا. صُممت هذه الإضافة باستخدام 40 مليار رمز، وتوفر إنتاجية تطوير أعلى بعشر مرات مقارنة بالمهارات الأصلية، كما تساعد المبتدئين على إتقان مجموعة المهارات هذه بسرعة أكبر. دعم كامل لـ GitHub issue؛ وMarkdown في إصدار معاينة؛ ولا يدعم GitLab حاليًا. شكرًا لاستخدامكم ودعمكم 💗
-
-##### 📌 حقائق أساسية
-
-| الحقل  | القيمة                                                             |
-| ------ | ------------------------------------------------------------------ |
-| الفئة  | `منظومتَا إضافات DSH وCordis`                                       |
-| الدليل | `أعلن عن تعديل أو إضافة أو خطاف، لكن دون ذكر واجهة التعديل تحديداً` |
-| اللغة  | JavaScript                                                         |
-
-##### 📊 البيانات
-
-| المقياس   | القيمة     |
-| --------- | ---------- |
-| النجوم    | **143**    |
-| آخر دفعة  | 2026-10-13 |
-| أول إدراج | 2026-10-13 |
-
-🏷 `agent` · `ai` · `claude` · `deepseek-harness` · `dsh` · `dsh-better-sidebar` · `dsh-plugin` · `github-issues`
-
----
-
-<table><tr><th align="center" width="50%">🖼 صورة</th><th align="center" width="50%">🎬 فيديو</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/featherhunter--dsh-mattpocock-skills-deck/c4bd78003446c161.png" width="100%" alt="FeatherHunter/dsh-mattpocock-skills-deck screenshot"></td>
-<td align="center" valign="top"><sub>لا توجد وسائط منشورة</sub></td>
-</tr></table>
-
-</details>
-
-<details>
 <summary>🧵 <b><a href="https://github.com/Sutera-Diffusus/dsh-whale-musume">Sutera-Diffusus/dsh-whale-musume</a></b> · ⭐124 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 الملخص
 
-DeepSeek Harness 桌宠插件：元气鲸鱼娘看板娘陪你写代码 🐋 支持 DSH 桌面端 0.2.0-rc.2 与旧版 Web（desktop pet / mascot，local-first）
+إضافة حيوان سطح مكتب لـ DeepSeek Harness: فتاة الحوت النشيطة كـ mascot ترافقك في كتابة الكود 🐋 تدعم إصدار DSH لسطح المكتب 0.2.0-rc.2 وWeb القديم (desktop pet / mascot، محلي أولًا)
 
 ##### 📌 حقائق أساسية
 
@@ -2745,45 +2573,11 @@ DeepSeek Harness 桌宠插件：元气鲸鱼娘看板娘陪你写代码 🐋 支
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/JingbiaoMei/Tokdash">JingbiaoMei/Tokdash</a></b> · ⭐85 · Python · 🔎 inferred · 0 天</summary>
-
-##### 📝 الملخص
-
-Agent Dashboard: Visualization and analytics for Sessions and Quota Usage. Track, analyze, and optimize token usage across providers with heatmaps, cost tracking, token counting and quota resets..
-
-##### 📌 حقائق أساسية
-
-| الحقل  | القيمة                                                             |
-| ------ | ------------------------------------------------------------------ |
-| الفئة  | `منظومتَا إضافات DSH وCordis`                                       |
-| الدليل | `أعلن عن تعديل أو إضافة أو خطاف، لكن دون ذكر واجهة التعديل تحديداً` |
-| اللغة  | Python                                                             |
-
-##### 📊 البيانات
-
-| المقياس   | القيمة     |
-| --------- | ---------- |
-| النجوم    | **85**     |
-| آخر دفعة  | 2026-10-13 |
-| أول إدراج | 2026-10-13 |
-
-🏷 `agent` · `analytics` · `anthropic` · `claude-code` · `claude-code-plugin` · `codex` · `codex-cli` · `dashboard`
-
----
-
-<table><tr><th align="center" width="50%">🖼 صورة</th><th align="center" width="50%">🎬 فيديو</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/jingbiaomei--tokdash/cb7e85100dfe6e93.png" width="100%" alt="JingbiaoMei/Tokdash screenshot"></td>
-<td align="center" valign="top"><sub>لا توجد وسائط منشورة</sub></td>
-</tr></table>
-
-</details>
-
-<details>
 <summary>🧵 <b><a href="https://github.com/dsh-wsl-workspace-maintainers/dsh-wsl-workspace">dsh-wsl-workspace-maintainers/dsh-wsl-workspace</a></b> · ⭐80 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 الملخص
 
-WSL workspace support for DeepSeek Harness——无缝的 WSL 工作区使用体验，无需在 WSL 之中再安装一个dsh，安装该插件后在 GUI 里直接添加 WSL 工作区即可。WSL workspace support for DeepSeek Harness — Enjoy a seamless WSL workspace experience without needing to install dsh inside WSL. Once this plugin is installed, you can directly add a WSL workspace right from the GUI.
+دعم مساحة عمل WSL لـ DeepSeek Harness——تجربة استخدام سلسة لمساحة عمل WSL، بلا حاجة إلى تثبيت dsh آخر داخل WSL؛ بعد تثبيت هذه الإضافة يمكن إضافة مساحة عمل WSL مباشرة من GUI. دعم مساحة عمل WSL لـ DeepSeek Harness — استمتع بتجربة سلسة لمساحة عمل WSL بلا حاجة إلى تثبيت dsh داخل WSL. بمجرد تثبيت هذه الإضافة، يمكنك إضافة مساحة عمل WSL مباشرة من GUI.
 
 ##### 📌 حقائق أساسية
 
@@ -2949,45 +2743,11 @@ WSL workspace support for DeepSeek Harness——无缝的 WSL 工作区使用体
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/NekroAI/nekro-nxt">NekroAI/nekro-nxt</a></b> · ⭐35 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 الملخص
-
-NekroNXT: نظام وكلاء للدردشة الجماعية متعدد المنصات ومدعوم بـ DeepSeek Harness (DSH) ｜نظام وكلاء للدردشة الجماعية متعدد المنصات ومدعوم بـ DSH
-
-##### 📌 حقائق أساسية
-
-| الحقل  | القيمة                                                             |
-| ------ | ------------------------------------------------------------------ |
-| الفئة  | `منظومتَا إضافات DSH وCordis`                                       |
-| الدليل | `أعلن عن تعديل أو إضافة أو خطاف، لكن دون ذكر واجهة التعديل تحديداً` |
-| اللغة  | TypeScript                                                         |
-
-##### 📊 البيانات
-
-| المقياس   | القيمة     |
-| --------- | ---------- |
-| النجوم    | **35**     |
-| آخر دفعة  | 2026-10-13 |
-| أول إدراج | 2026-10-13 |
-
-🏷 `ai-agents` · `cordis` · `deepseek-harness` · `desktop-app` · `docker` · `dsh` · `dsh-plugin` · `electron`
-
----
-
-<table><tr><th align="center" width="50%">🖼 صورة</th><th align="center" width="50%">🎬 فيديو</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/nekroai--nekro-nxt/7c9f9f2e5bc195f1.png" width="100%" alt="NekroAI/nekro-nxt screenshot"></td>
-<td align="center" valign="top"><sub>لا توجد وسائط منشورة</sub></td>
-</tr></table>
-
-</details>
-
-<details>
 <summary>🧵 <b><a href="https://github.com/HOWILLMAKEIT/dsh-model-context-catalog">HOWILLMAKEIT/dsh-model-context-catalog</a></b> · ⭐34 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 الملخص
 
-DeepSeek Harness 插件：一键匹配模型上下文窗口，展示容量来源，支持勾选批量配置、已有窗口管理和手动编辑。
+إضافة DeepSeek Harness: مطابقة نافذة سياق النموذج بنقرة واحدة، وعرض مصدر السعة، ودعم تكوين جماعي عبر التحديد، وإدارة النوافذ الموجودة، والتحرير اليدوي.
 
 ##### 📌 حقائق أساسية
 
@@ -3017,72 +2777,310 @@ DeepSeek Harness 插件：一键匹配模型上下文窗口，展示容量来源
 </details>
 
 <details>
+<summary>🧵 <b><a href="https://github.com/gjj-star/dsh-conversation-navigator">gjj-star/dsh-conversation-navigator</a></b> · ⭐23 · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 الملخص
+
+تنقل جلسات DSH
+
+##### 📌 حقائق أساسية
+
+| الحقل  | القيمة                                                             |
+| ------ | ------------------------------------------------------------------ |
+| الفئة  | `منظومتَا إضافات DSH وCordis`                                       |
+| الدليل | `أعلن عن تعديل أو إضافة أو خطاف، لكن دون ذكر واجهة التعديل تحديداً` |
+| اللغة  | JavaScript                                                         |
+
+##### 📊 البيانات
+
+| المقياس   | القيمة     |
+| --------- | ---------- |
+| النجوم    | **23**     |
+| آخر دفعة  | 2026-10-13 |
+| أول إدراج | 2026-10-13 |
+
+🏷 `cordis` · `dsh` · `dsh-plugin` · `dsh-plugins` · `ui`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 صورة</th><th align="center" width="50%">🎬 فيديو</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/gjj-star--dsh-conversation-navigator/4aef8cb83b546a1c.png" width="100%" alt="gjj-star/dsh-conversation-navigator screenshot"></td>
+<td align="center" valign="top"><sub>لا توجد وسائط منشورة</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/HaoyueQin/dsh-usage-statistics-panel">HaoyueQin/dsh-usage-statistics-panel</a></b> · ⭐23 · TypeScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 الملخص
+
+إضافة ويب لـ DSH: إحصاءات استخدام الرموز اليومية مع خريطة حرارية للنشاط بأسلوب GitHub، ومنحنى معدل إصابة الذاكرة المؤقتة، وتقسيم حسب النموذج
+
+##### 📌 حقائق أساسية
+
+| الحقل  | القيمة                                                             |
+| ------ | ------------------------------------------------------------------ |
+| الفئة  | `منظومتَا إضافات DSH وCordis`                                       |
+| الدليل | `أعلن عن تعديل أو إضافة أو خطاف، لكن دون ذكر واجهة التعديل تحديداً` |
+| اللغة  | TypeScript                                                         |
+
+##### 📊 البيانات
+
+| المقياس   | القيمة     |
+| --------- | ---------- |
+| النجوم    | **23**     |
+| آخر دفعة  | 2026-10-12 |
+| أول إدراج | 2026-10-13 |
+
+🏷 `cordis` · `data-visualization` · `deepseek-harness` · `dsh-plugin` · `llm` · `plugin` · `react` · `settings-panel`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 صورة</th><th align="center" width="50%">🎬 فيديو</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/haoyueqin--dsh-usage-statistics-panel/e57757e1005cbc5b.png" width="100%" alt="HaoyueQin/dsh-usage-statistics-panel screenshot"></td>
+<td align="center" valign="top"><sub>لا توجد وسائط منشورة</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/liustack/pptwise">liustack/pptwise</a></b> · ⭐21 · TypeScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 الملخص
+
+PowerPoint حقيقي، وليس HTML. أخبر ذكاءك الاصطناعي بما يجب تغطيته، وسيبني pptwise عرضًا قابلًا للتحرير على جهازك. مهارة Agent + إضافة DSH، من دون حساب أو مفتاح API لعملية التصيير. | ملف PPT حقيقي، وليس HTML. أخبر الذكاء الاصطناعي بما تريد شرحه، وسيُنشئ pptwise ملف PPT قابلًا للتحرير على حاسوبك. مهارة Agent + إضافة DSH، بلا تسجيل، ولا حاجة إلى مفتاح API للتصيير.
+
+##### 📌 حقائق أساسية
+
+| الحقل  | القيمة                                                             |
+| ------ | ------------------------------------------------------------------ |
+| الفئة  | `منظومتَا إضافات DSH وCordis`                                       |
+| الدليل | `أعلن عن تعديل أو إضافة أو خطاف، لكن دون ذكر واجهة التعديل تحديداً` |
+| اللغة  | TypeScript                                                         |
+
+##### 📊 البيانات
+
+| المقياس   | القيمة     |
+| --------- | ---------- |
+| النجوم    | **21**     |
+| آخر دفعة  | 2026-10-13 |
+| أول إدراج | 2026-10-04 |
+
+🏷 `agent-skill` · `agent-skills` · `ai-agent` · `claude-code` · `claude-skills` · `codex` · `cordis` · `deck-generation`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 صورة</th><th align="center" width="50%">🎬 فيديو</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/liustack--pptwise/e6f193d6fc2ea355.png" width="100%" alt="liustack/pptwise screenshot"></td>
+<td align="center" valign="top"><sub>لا توجد وسائط منشورة</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/KannaKuron/dsh-better-workspace">KannaKuron/dsh-better-workspace</a></b> · ⭐18 · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 الملخص
+
+إضافة ويب لـ DSH: شجرة مساحة عمل هرمية في الشريط الجانبي — العناوين التي تحتوي على / تُجمع في مجلدات افتراضية؛ ويحصل مسار إضافة مساحة العمل على نافذة منبثقة للمجموعة الأصلية
+
+##### 📌 حقائق أساسية
+
+| الحقل  | القيمة                                                             |
+| ------ | ------------------------------------------------------------------ |
+| الفئة  | `منظومتَا إضافات DSH وCordis`                                       |
+| الدليل | `أعلن عن تعديل أو إضافة أو خطاف، لكن دون ذكر واجهة التعديل تحديداً` |
+| اللغة  | JavaScript                                                         |
+
+##### 📊 البيانات
+
+| المقياس   | القيمة     |
+| --------- | ---------- |
+| النجوم    | **18**     |
+| آخر دفعة  | 2026-10-12 |
+| أول إدراج | 2026-10-13 |
+
+🏷 `cordis` · `deepseek` · `deepseek-harness` · `dsh` · `dsh-plugin` · `sidebar` · `tree` · `workspace`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 صورة</th><th align="center" width="50%">🎬 فيديو</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/kannakuron--dsh-better-workspace/83cddff440dfe49a.png" width="100%" alt="KannaKuron/dsh-better-workspace screenshot"></td>
+<td align="center" valign="top"><sub>لا توجد وسائط منشورة</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/vecnode/vncode">vecnode/vncode</a></b> · ⭐8 · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 الملخص
+
+vncode 🤖 Agent-Human IDE ⌨️ إصدارات Web وسطح المكتب، تجمع Plugins وSkills وInterfaces.
+
+##### 📌 حقائق أساسية
+
+| الحقل  | القيمة                                                             |
+| ------ | ------------------------------------------------------------------ |
+| الفئة  | `منظومتَا إضافات DSH وCordis`                                       |
+| الدليل | `أعلن عن تعديل أو إضافة أو خطاف، لكن دون ذكر واجهة التعديل تحديداً` |
+| اللغة  | JavaScript                                                         |
+
+##### 📊 البيانات
+
+| المقياس   | القيمة     |
+| --------- | ---------- |
+| النجوم    | **8**      |
+| آخر دفعة  | 2026-10-13 |
+| أول إدراج | 2026-10-13 |
+
+🏷 `agent-skills` · `deepseek-ai` · `deepseek-api` · `deepseek-chat` · `deepseek-harness` · `dsh` · `dsh-plugin` · `harness`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 صورة</th><th align="center" width="50%">🎬 فيديو</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/vecnode--vncode/73837d3e9e3dc179.png" width="100%" alt="vecnode/vncode screenshot"></td>
+<td align="center" valign="top"><sub>لا توجد وسائط منشورة</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/unStone/dsh-xray">unStone/dsh-xray</a></b> · ⭐7 · Python · 🔎 inferred · 0 天</summary>
+
+##### 📝 الملخص
+
+أشعة X لإضافات DeepSeek Harness: القدرات المعلنة مقابل السلوك الفعلي. سجل + ماسح ثابت + شارات.
+
+##### 📌 حقائق أساسية
+
+| الحقل  | القيمة                                                             |
+| ------ | ------------------------------------------------------------------ |
+| الفئة  | `منظومتَا إضافات DSH وCordis`                                       |
+| الدليل | `أعلن عن تعديل أو إضافة أو خطاف، لكن دون ذكر واجهة التعديل تحديداً` |
+| اللغة  | Python                                                             |
+
+##### 📊 البيانات
+
+| المقياس   | القيمة     |
+| --------- | ---------- |
+| النجوم    | **7**      |
+| آخر دفعة  | 2026-10-13 |
+| أول إدراج | 2026-10-13 |
+
+🏷 `agent-security` · `ai-agents` · `ai-security` · `capability-analysis` · `cordis` · `deepseek-harness` · `dsh` · `dsh-plugin`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 صورة</th><th align="center" width="50%">🎬 فيديو</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/unstone--dsh-xray/35167f8867e8b79d.png" width="100%" alt="unStone/dsh-xray screenshot"></td>
+<td align="center" valign="top"><sub>لا توجد وسائط منشورة</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/alone-tree/dsh-skill-mcp-manager">alone-tree/dsh-skill-mcp-manager</a></b> · ⭐6 · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 الملخص
+
+مكتبة القدرات (Capability) — إدارة مرئية شاملة لـ DSH Skills وMCP: تحميل MCP عند الطلب، وإعادة تحميل ساخنة داخل الجلسة، وعرض أوصاف SKILL/MCP داخل الإضافة.
+
+##### 📌 حقائق أساسية
+
+| الحقل  | القيمة                                                             |
+| ------ | ------------------------------------------------------------------ |
+| الفئة  | `منظومتَا إضافات DSH وCordis`                                       |
+| الدليل | `أعلن عن تعديل أو إضافة أو خطاف، لكن دون ذكر واجهة التعديل تحديداً` |
+| اللغة  | JavaScript                                                         |
+
+##### 📊 البيانات
+
+| المقياس   | القيمة     |
+| --------- | ---------- |
+| النجوم    | **6**      |
+| آخر دفعة  | 2026-10-13 |
+| أول إدراج | 2026-10-13 |
+
+🏷 `cordis` · `deepseek-harness` · `dsh` · `dsh-plugin` · `mcp` · `skill`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 صورة</th><th align="center" width="50%">🎬 فيديو</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/alone-tree--dsh-skill-mcp-manager/bc0fce1b6eabef09.png" width="100%" alt="alone-tree/dsh-skill-mcp-manager screenshot"></td>
+<td align="center" valign="top"><sub>لا توجد وسائط منشورة</sub></td>
+</tr></table>
+
+</details>
+
+<details>
 <summary><b>المزيد في هذه الفئة</b> <sub>· 64</sub></summary>
 
+- [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) - أجبني بـ HTML — مهارة وكيل تجيب عن الأسئلة الصعبة بصفحة HTML واحدة يمكنك…
+- [anywhere-labs/Agents-Anywhere](https://github.com/anywhere-labs/Agents-Anywhere) - ورشة عمل Agent مفتوحة المصدر ومتعددة الأجهزة.
 - [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - حارس قبل التنفيذ لوكلاء البرمجة بالذكاء الاصطناعي.
+- [LivXue/dsh-plugin-shop](https://github.com/LivXue/dsh-plugin-shop) - أشمل سوق لإضافات DeepSeek Harness — يُحدَّث يوميًا، وتُجمع مواده من جميع أنحاء…
 - [hashgraph-online/awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins) - قائمة منتقاة من أفضل إضافات الذكاء الاصطناعي الرائعة للمساعدين بالذكاء…
-- [FishBottle7/opencode2dsh](https://github.com/FishBottle7/opencode2dsh) - DSH plugin — free OpenCode Zen models for DeepSeek Harness (DSH).
+- [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) - 📚 مكتبة دروس مصغّرة بلا اعتماديات ومدعومة بـ git لوكلاء AI لمشاركة خبرات تصحيح…
+- [FishBottle7/opencode2dsh](https://github.com/FishBottle7/opencode2dsh) - إضافة DSH — نماذج OpenCode Zen مجانية لـ DeepSeek Harness (DSH).
 - [bradeGithub/DSH-Plugins-Marketplace](https://github.com/bradeGithub/DSH-Plugins-Marketplace) - سوق إضافات DSH / DSH Plugin Marketplace: تصفّح وثبّت وحدّث جميع إضافات…
-- [daha1216/dsh-adult-tension](https://github.com/daha1216/dsh-adult-tension) - DeepSeek 自带破甲 18+ 互动叙事：活人感 NPC（自主决策/拒绝迎合）、211个世界与上万素材、开局随心定制、世界自行运转、零漂移存档.
+- [daha1216/dsh-adult-tension](https://github.com/daha1216/dsh-adult-tension) - سرد تفاعلي 18+ مدمج الاختراق في DeepSeek: NPC بإحساس حيّ.
 - [jaccen/Awesome-Gaussian-Skills](https://github.com/jaccen/Awesome-Gaussian-Skills) - أوراق بحثية محدّثة باستمرار في الرسوميات و3DGS والذكاء المكاني؛ AI Agent Skills…
+- [FeatherHunter/dsh-mattpocock-skills-deck](https://github.com/FeatherHunter/dsh-mattpocock-skills-deck) - يتضمن التثبيت تلقائيًا 27 مهارة هندسية ومهارة إنتاجية من mattpocock/skills…
 - [arcships/rutis](https://github.com/arcships/rutis) - بيئة تشغيل إضافات للبرمجيات التي تطور نفسها — الأساس الذي يكتب فيه الوكلاء…
+- [JingbiaoMei/Tokdash](https://github.com/JingbiaoMei/Tokdash) - لوحة معلومات الوكيل: تصوّر وتحليلات للجلسات واستخدام الحصة.
 - [kejixiaoliang/awesome-dsh-plugins](https://github.com/kejixiaoliang/awesome-dsh-plugins) - دليل مختارات إضافات DeepSeek Harness (DSH) — أكثر من 280 إضافة مجتمعية ضمن 14…
 - [KannaKuron/dsh-gitbash-shell](https://github.com/KannaKuron/dsh-gitbash-shell) - إضافة DSH: صدفة Git Bash لجميع أوضاع الوكلاء على Windows (تستبدل منفّذ pwsh).
+- [NekroAI/nekro-nxt](https://github.com/NekroAI/nekro-nxt) - NekroNXT: نظام وكلاء للدردشة الجماعية متعدد المنصات ومدعوم بـ DeepSeek Harness…
 - [dphmoblie/deepseek-harness-android](https://github.com/dphmoblie/deepseek-harness-android) - نسخة dsh لأندرويد: تدمج DeepSeek Harness، وبيئة تشغيل Ubuntu، وإدارة الإضافات…
 - [FeatherHunter/dsh-im-companion](https://github.com/FeatherHunter/dsh-im-companion) - dsh-im-companion: يعزّز dsh-im بمفهوم المساعد والمنزل — يمكنك رؤية مساحة العمل…
-- [gjj-star/dsh-conversation-navigator](https://github.com/gjj-star/dsh-conversation-navigator) - DSH 会话导航.
-- [HaoyueQin/dsh-usage-statistics-panel](https://github.com/HaoyueQin/dsh-usage-statistics-panel) - إضافة ويب لـ DSH: إحصاءات استخدام الرموز اليومية مع خريطة حرارية للنشاط بأسلوب…
 - [Y1X1n/dsh-prompt-optimizer](https://github.com/Y1X1n/dsh-prompt-optimizer) - إضافة DeepSeek Harness · «تحسين» مسودة الموجه بنقرة واحدة في شريط الإرسال…
 - [awesome-deepseekharness/awesome-deepseek-harness](https://github.com/awesome-deepseekharness/awesome-deepseek-harness) - إضافات وأدوات ومهارات وموارد تعلم DeepSeek Harness (dsh) منتقاة من المجتمع.
 - [harrylabsj/kiwi](https://github.com/harrylabsj/kiwi) - بيئة تشغيل تفاوض تجاري A2A + إضافة DeepSeek Harness (dsh).
-- [liustack/pptwise](https://github.com/liustack/pptwise) - PowerPoint حقيقي، وليس HTML. أخبر ذكاءك الاصطناعي بما يجب تغطيته، وسيبني…
-- [KCNyu/clawock](https://github.com/KCNyu/clawock) - AI argues. Code settles. The losses stay on the page.
-- [00080000/dsh-project-memory](https://github.com/00080000/dsh-project-memory) - Read-time project memory plugin for DeepSeek Harness (dsh).
-- [KannaKuron/dsh-better-workspace](https://github.com/KannaKuron/dsh-better-workspace) - إضافة ويب لـ DSH: شجرة مساحة عمل هرمية في الشريط الجانبي — العناوين التي تحتوي…
+- [KCNyu/clawock](https://github.com/KCNyu/clawock) - AI يجادل. الكود يحسم. الخسائر تبقى على الصفحة.
+- [00080000/dsh-project-memory](https://github.com/00080000/dsh-project-memory) - إضافة ذاكرة مشروع وقت القراءة لـ DeepSeek Harness (dsh).
 - [EternalNight996/memory-eternal](https://github.com/EternalNight996/memory-eternal) - إضافة DeepSeek Harness: ترسّخ المحادثات تلقائيًا كبطاقات معرفة، مع قاعدة معرفة…
-- [dshworks/awesome-dsh-plugins](https://github.com/dshworks/awesome-dsh-plugins) - Spam-filtered, open-data registry of DeepSeek Harness (dsh) plugins, bundles…
-- [realguan/dsh-dock](https://github.com/realguan/dsh-dock) - 专为 DeepSeek Harness (DSH) 打造的跨平台桌面控制中心：多工作台管理、3,400+ 社区插件市场、会话自愈、凭据与系统诊断.
-- [dsh-plugin-lab/dsh-zhihu-search](https://github.com/dsh-plugin-lab/dsh-zhihu-search) - DSH 插件：基于知乎开放平台官方 API 创建的站内搜索、全网索引搜索与直答三个工具。搜索不幻觉，引用有出处。（原生嵌入“设置-插件-插件配置”）.
+- [dshworks/awesome-dsh-plugins](https://github.com/dshworks/awesome-dsh-plugins) - سجل بيانات مفتوح ومفلتر من الرسائل المزعجة لإضافات وحزم ومهارات DeepSeek…
+- [realguan/dsh-dock](https://github.com/realguan/dsh-dock) - مركز تحكم سطح مكتب متعدد المنصات مصمم خصيصًا لـ DeepSeek Harness (DSH): إدارة…
+- [dsh-plugin-lab/dsh-zhihu-search](https://github.com/dsh-plugin-lab/dsh-zhihu-search) - إضافة DSH: ثلاث أدوات مبنية على API الرسمي لمنصة Zhihu المفتوحة: بحث داخل…
 - [MicroMilo/upstream-radar](https://github.com/MicroMilo/upstream-radar) - اختبار توافق دائم التشغيل لإضافات DeepSeek Harness: إصدارات مطابقة، ومشغلات…
-- [xiaoshenming/dsh-session-surgeon](https://github.com/xiaoshenming/dsh-session-surgeon) - Repair DeepSeek Harness sessions that refuse to load. 修好打不开的 DSH 会话文件.
-- [vvlife/awesome-deepseek-harness-plugins](https://github.com/vvlife/awesome-deepseek-harness-plugins) - A curated list of plugins, tools, skins, and extensions for DeepSeek Harness…
-- [xbzbing/dsh-git-panel](https://github.com/xbzbing/dsh-git-panel) - DSH 插件：Web GUI 里的 IDE 风格 Git 面板——分支/提交历史总览、变更提交与 amend、文件浏览、代码与图片新旧差异对照、输入框分支标记…
+- [xiaoshenming/dsh-session-surgeon](https://github.com/xiaoshenming/dsh-session-surgeon) - إصلاح جلسات DeepSeek Harness التي ترفض التحميل.
+- [vvlife/awesome-deepseek-harness-plugins](https://github.com/vvlife/awesome-deepseek-harness-plugins) - قائمة منتقاة من الإضافات والأدوات والجلود والامتدادات لـ DeepSeek Harness (DSH).
+- [xbzbing/dsh-git-panel](https://github.com/xbzbing/dsh-git-panel) - إضافة DSH: لوحة Git بأسلوب IDE داخل Web GUI — نظرة عامة على الفروع/سجل…
 - [jiangnanquan/dsh-ux](https://github.com/jiangnanquan/dsh-ux) - إضافة تحسين DSH web UI + غلاف سطح مكتب Electron بلا حدود.
-- [vecnode/vncode](https://github.com/vecnode/vncode) - vncode 🤖 Agent-Human IDE ⌨️ Web and Desktop versions, bundles Plugins, Skills…
-- [dsh-plugin-lab/dsh-workbuddy-bridge](https://github.com/dsh-plugin-lab/dsh-workbuddy-bridge) - DSH 插件：把 WorkBuddy 桌面 App 里的模型接入 DeepSeek Harness，零配置直接用。（原生嵌入&quot;设置-插件-插件配置&quot;）.
+- [dsh-plugin-lab/dsh-workbuddy-bridge](https://github.com/dsh-plugin-lab/dsh-workbuddy-bridge) - إضافة DSH: توصيل النماذج الموجودة في تطبيق سطح المكتب WorkBuddy إلى DeepSeek…
 - [EdwinZDZ/dsh-api-balance-ring](https://github.com/EdwinZDZ/dsh-api-balance-ring) - حلقة رصيد DeepSeek API آنية لـ composer في DeepSeek Harness — مرّر المؤشر لرؤية…
-- [unStone/dsh-xray](https://github.com/unStone/dsh-xray) - X-ray for DeepSeek Harness plugins: declared capabilities vs actual behavior.
-- [alone-tree/dsh-skill-mcp-manager](https://github.com/alone-tree/dsh-skill-mcp-manager) - مكتبة القدرات (Capability) — إدارة مرئية شاملة لـ DSH Skills وMCP: تحميل MCP…
 - [cherrchen/dsh-plugin-multi-root-workspace](https://github.com/cherrchen/dsh-plugin-multi-root-workspace) - مساحة عمل متعددة المجلدات: تمكّن وكيل DSH (DeepSeek Harness) من قراءة وكتابة…
-- [dsh-pub/dsh-pub](https://github.com/dsh-pub/dsh-pub) - The bilingual, source-backed registry and installer for the DeepSeek Harness…
+- [dsh-pub/dsh-pub](https://github.com/dsh-pub/dsh-pub) - السجل والمثبت ثنائي اللغة والمدعوم بالمصادر لمنظومة إضافات DeepSeek Harness.
 - [KannaKuron/dsh-ide-git](https://github.com/KannaKuron/dsh-ide-git) - إضافة DSH: نافذة أدوات Git بمستوى IDE كعلامة تبويب أصلية dsh-better-sidebar…
-- [mjylfz/dsh-skill-mover](https://github.com/mjylfz/dsh-skill-mover) - 把其他 Agent 的技能一键搬进 DeepSeek Harness：支持 14 个平台 + 共享层识别、同名技能合并、不重复搬运、可回滚.
-- [xiaoso456/dsh-workflow-lite](https://github.com/xiaoso456/dsh-workflow-lite) - DeepSeek Harness 的软工作流插件：在画布上设计流程，编译成计划提示词，由模型按计划执行；运行状态由模型自己记，没有执行引擎.
+- [mjylfz/dsh-skill-mover](https://github.com/mjylfz/dsh-skill-mover) - انقل مهارات وكلاء آخرين إلى DeepSeek Harness بنقرة واحدة: يدعم 14 منصة + التعرف…
+- [xiaoso456/dsh-workflow-lite](https://github.com/xiaoso456/dsh-workflow-lite) - إضافة سير عمل مرن لـ DeepSeek Harness: صمّم العملية على لوحة، واجمعها إلى…
 - [z7ping/agent-lens](https://github.com/z7ping/agent-lens) - شاهد كل إجراء قابل للملاحظة يتخذه وكيل ترميز AI.
 - [Aliuyanfeng/dsh-soul](https://github.com/Aliuyanfeng/dsh-soul) - تُستخدم إضافة إعدادات التخصيص في DeepSeek Harness لتهيئة الاسم المستعار، وأسلوب…
 - [cv-superding/dsh-webin](https://github.com/cv-superding/dsh-webin) - إضافة DSH غير رسمية: شغّل واجهات ويب الذكاء الاصطناعي (DeepSeek/Qwen/...) في…
-- [czcdr/dsh-plugin-rea](https://github.com/czcdr/dsh-plugin-rea) - 第三方适配插件：把上游 REA（逆向一切，github.com/morluto/rea）的 MCP 服务注册进 DeepSeek Harness，得到…
+- [czcdr/dsh-plugin-rea](https://github.com/czcdr/dsh-plugin-rea) - إضافة تكييف طرف ثالث: تسجل خدمة MCP الخاصة بـ REA upstream.
 - [henlii/dsh-plugins](https://github.com/henlii/dsh-plugins) - مجموعة إضافات DSH: مصادقة بكلمة مرور + ثقة للوصول إلى dsh web عبر LAN/Tailscale…
 - [ItQianChen/dsh-github-flow](https://github.com/ItQianChen/dsh-github-flow) - امنح وكيل DeepSeek Harness أيديًا وأقدامًا أصلية للتحكم في GitHub! إعادة…
 - [PerryLink/dsh-plugin-doctor](https://github.com/PerryLink/dsh-plugin-doctor) - معيار تحقق بلا تبعيات لإضافات DeepSeek Harness (dsh) — بوابات البنية الثابتة…
 - [PerryLink/perrylink](https://github.com/PerryLink/perrylink) - منظومة إضافات DeepSeek Harness: 86 إضافة مفتوحة المصدر ضمن عائلة من 101…
-- [SuCriss/dsh-leekbox](https://github.com/SuCriss/dsh-leekbox) - 韭菜盒子 LeekBox — A股看盘助手 · DeepSeek Harness (DSH) web 插件.
+- [SuCriss/dsh-leekbox](https://github.com/SuCriss/dsh-leekbox) - 韭菜盒子 LeekBox — مساعد متابعة أسهم A · إضافة DeepSeek Harness (DSH) web.
 - [tianyagk/dsh-tradewatcher](https://github.com/tianyagk/dsh-tradewatcher) - إضافة ويب DeepSeek Harness (DSH): علامة تبويب جانبية market-dashboard لمراقبة…
 - [viztor/dsh-opencode-patch](https://github.com/viztor/dsh-opencode-patch) - OpenCode على DeepSeek Harness — إضافة DSH تُبقي OpenCode Zen + نماذج Go…
 - [AI-Scarlett/DSH-Store](https://github.com/AI-Scarlett/DSH-Store) - DSH STORE — سوق إضافات تابع لجهات خارجية ومدير دورة حياة محمي لـ DeepSeek…
 - [Atelyx/Atelyx](https://github.com/Atelyx/Atelyx) - Atelyx هو مساحة عمل مكتبية قابلة للتوسعة تتمحور حول الإنسان: المحادثات…
 - [dsh-cc/dsh-cc](https://github.com/dsh-cc/dsh-cc) - وكيل ترميز متكامل لـ DeepSeek Harness — سير عمل بأسلوب Claude Code، مع اختيارك…
-- [dsh-plugin-lab/dsh-ds-balance](https://github.com/dsh-plugin-lab/dsh-ds-balance) - DSH plugin: shows your DeepSeek account balance at the bottom of the left…
-- [iluluyu/dsh-ui-outline](https://github.com/iluluyu/dsh-ui-outline) - ChatGPT-style right-edge turn navigation plugin for DeepSeek Harness (dsh) web.
+- [dsh-plugin-lab/dsh-ds-balance](https://github.com/dsh-plugin-lab/dsh-ds-balance) - إضافة DSH: تعرض رصيد حساب DeepSeek في أسفل الشريط الجانبي الأيسر (واجهة أصلية).
+- [iluluyu/dsh-ui-outline](https://github.com/iluluyu/dsh-ui-outline) - إضافة تنقل بين الأدوار على الحافة اليمنى بأسلوب ChatGPT لـ DeepSeek Harness…
 - [sakanamaru/dsh-minato](https://github.com/sakanamaru/dsh-minato) - dsh-minato — حزمة نشر وتشغيل وصيانة محلية من المجتمع لـ DeepSeek Harness (dsh)…
-- [Wenston-dev/awesome-dsh-plugin](https://github.com/Wenston-dev/awesome-dsh-plugin) - Awesome dsh plugin list — automated DeepSeek Harness plugin directory.
+- [Wenston-dev/awesome-dsh-plugin](https://github.com/Wenston-dev/awesome-dsh-plugin) - قائمة إضافات dsh رائعة — دليل إضافات DeepSeek Harness مؤتمت.
 - [argszero/cordis-plugin-sandbox-grant-advisor](https://github.com/argszero/cordis-plugin-sandbox-grant-advisor) - إضافة DeepSeek Harness: تحوّل فشل توفير ACL في sandbox لـ Windows…
 - [argszero/cordis-plugin-tool-deadline-guard](https://github.com/argszero/cordis-plugin-tool-deadline-guard) - مهل نهائية على مستوى النشر لاستدعاءات أداة dsh التي لا تعلن عن أي مهلة: تُركَّب…
 - [fshoocn/cordis-port](https://github.com/fshoocn/cordis-port) - نقل Python إلى حزمة cordis الأساسية · وقت تشغيل إضافي / حقن تبعيات / ناقل أحداث…
 - [xinvxueyuan/cordis-plugin-github](https://github.com/xinvxueyuan/cordis-plugin-github) - إضافة Cordis / DeepSeek Harness — أدوات GitHub API مطبّعة لوكلاء الذكاء…
 - [majiayu000/dsh-desk](https://github.com/majiayu000/dsh-desk) - توزيعة سطح مكتب Tauri قابلة للتثبيت لـ DeepSeek Harness مع بيئة تشغيل مضمّنة،…
 - [tellmewhattodo/dsh-serenity-plugin](https://github.com/tellmewhattodo/dsh-serenity-plugin) - dsh-serenity-plugin.
-- [LittleCar30/dsh-deepseek-web](https://github.com/LittleCar30/dsh-deepseek-web) - Standalone dsh desktop plugin for driving DeepSeek Web through a dedicated real…
+- [LittleCar30/dsh-deepseek-web](https://github.com/LittleCar30/dsh-deepseek-web) - إضافة dsh مستقلة لسطح المكتب لتشغيل DeepSeek Web عبر متصفح حقيقي مخصص.
 
 </details>
 
@@ -3366,4 +3364,4 @@ DeepSeek Harness 插件：一键匹配模型上下文窗口，展示容量来源
 
 <sub>مشروع مجتمعي مستقل. لا تربطه صلة بـAnthropic، ولا يحظى بتأييده أو مراجعته. إن Claude Code وClaude وAnthropic علامات تجارية مملوكة لـAnthropic. قد يتغير سلوك المنتج دون إشعار؛ تحقّق من أي شيء أساسي بالرجوع إلى التوثيق الرسمي. تظل الأصول ملكاً لمشاريعها الأصلية، ولا يُعاد إنتاجها إلا حيث تسمح الرخصة بذلك.</sub>
 
-<sub>آخر تحديث · 2026-10-13T19:28:29+08:00</sub>
+<sub>آخر تحديث · 2026-10-13T21:42:20+08:00</sub>
