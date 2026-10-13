@@ -1656,3 +1656,32 @@
 - `+` [LeiSureYu/dsh-smart-download](https://github.com/LeiSureYu/dsh-smart-download) — inferred / dsh-cordis — ⭐3
 - `+` [kevinmedeiros/claude-mods](https://github.com/kevinmedeiros/claude-mods) — observed / mods — ⭐1
 - …另有 24 条新增
+
+## 2026-10-13T10:35:23+08:00
+- 收录总数 **587**；本次更新新增 **67**
+- `+` [titanwings/distilly](https://github.com/titanwings/distilly) — inferred / dsh-cordis — ⭐25537
+- `+` [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) — inferred / dsh-cordis — ⭐13408
+- `+` [YaoApp/yao](https://github.com/YaoApp/yao) — inferred / dsh-cordis — ⭐8119
+- `+` [op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) — inferred / mods — ⭐7486
+- `+` [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) — inferred / dsh-cordis — ⭐1604
+- `+` [Han-1413141/dsh-cost-meter](https://github.com/Han-1413141/dsh-cost-meter) — inferred / dsh-cordis — ⭐400
+- `+` [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) — inferred / dsh-cordis — ⭐377
+- `+` [xing-shuyin/pi-web-ui](https://github.com/xing-shuyin/pi-web-ui) — inferred / dsh-cordis — ⭐291
+- `+` [NYCU-Chung/cc-statusline](https://github.com/NYCU-Chung/cc-statusline) — inferred / mods — ⭐264
+- `+` [amirfish1/claude-command-center](https://github.com/amirfish1/claude-command-center) — inferred / mods — ⭐182
+- `+` [jaccen/Awesome-Gaussian-Skills](https://github.com/jaccen/Awesome-Gaussian-Skills) — inferred / dsh-cordis — ⭐161
+- `+` [2BingLing/dsh-market](https://github.com/2BingLing/dsh-market) — inferred / dsh-cordis — ⭐145
+- `+` [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory) — inferred / dsh-cordis — ⭐113
+- `+` [MichengAI/dsh-agency-agents](https://github.com/MichengAI/dsh-agency-agents) — inferred / dsh-cordis — ⭐111
+- `+` [like-study1/Oh-My-DSH](https://github.com/like-study1/Oh-My-DSH) — inferred / dsh-cordis — ⭐90
+- `+` [youdotcom-oss/agent-skills](https://github.com/youdotcom-oss/agent-skills) — inferred / dsh-cordis — ⭐88
+- `+` [mvalentsev/awesome-free-ai-coding](https://github.com/mvalentsev/awesome-free-ai-coding) — inferred / mods — ⭐62
+- `+` [eleckoi/ElecKoi](https://github.com/eleckoi/ElecKoi) — inferred / dsh-cordis — ⭐51
+- `+` [skyf0xx/hedgehog](https://github.com/skyf0xx/hedgehog) — inferred / dsh-cordis — ⭐44
+- `+` [YRN-playmaker/dsh-wallpaper_share](https://github.com/YRN-playmaker/dsh-wallpaper_share) — inferred / dsh-cordis — ⭐31
+- `+` [Lixiaoyiao/deepseek-harness-action](https://github.com/Lixiaoyiao/deepseek-harness-action) — inferred / dsh-cordis — ⭐30
+- `+` [1624318455/dsh-plugin-tts](https://github.com/1624318455/dsh-plugin-tts) — inferred / dsh-cordis — ⭐25
+- `+` [dphmoblie/deepseek-harness-android](https://github.com/dphmoblie/deepseek-harness-android) — inferred / dsh-cordis — ⭐24
+- `+` [awesome-deepseekharness/awesome-deepseek-harness](https://github.com/awesome-deepseekharness/awesome-deepseek-harness) — inferred / dsh-cordis — ⭐21
+- `+` [harrylabsj/kiwi](https://github.com/harrylabsj/kiwi) — inferred / dsh-cordis — ⭐20
+- …另有 42 条新增
