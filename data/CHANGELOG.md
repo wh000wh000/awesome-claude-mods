@@ -1685,3 +1685,32 @@
 - `+` [awesome-deepseekharness/awesome-deepseek-harness](https://github.com/awesome-deepseekharness/awesome-deepseek-harness) — inferred / dsh-cordis — ⭐21
 - `+` [harrylabsj/kiwi](https://github.com/harrylabsj/kiwi) — inferred / dsh-cordis — ⭐20
 - …另有 42 条新增
+
+## 2026-10-13T12:45:51+08:00
+- 收录总数 **587**；本次更新新增 **65**
+- `+` [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) — inferred / dsh-cordis — ⭐6297
+- `+` [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) — inferred / dsh-cordis — ⭐3183
+- `+` [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) — inferred / dsh-cordis — ⭐2553
+- `+` [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context) — inferred / dsh-cordis — ⭐2050
+- `+` [anywhere-labs/Agents-Anywhere](https://github.com/anywhere-labs/Agents-Anywhere) — inferred / dsh-cordis — ⭐1629
+- `+` [LivXue/dsh-plugin-shop](https://github.com/LivXue/dsh-plugin-shop) — inferred / dsh-cordis — ⭐1009
+- `+` [imsai-sh/awesome-deepseek-harness-plugins](https://github.com/imsai-sh/awesome-deepseek-harness-plugins) — inferred / dsh-cordis — ⭐280
+- `+` [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) — inferred / dsh-cordis — ⭐229
+- `+` [luobosibing2/dsh-jev-plugin](https://github.com/luobosibing2/dsh-jev-plugin) — inferred / dsh-cordis — ⭐205
+- `+` [dshplugin/dsh-plugin-hub](https://github.com/dshplugin/dsh-plugin-hub) — inferred / dsh-cordis — ⭐205
+- `+` [wenbin-wb/dsh-bridge](https://github.com/wenbin-wb/dsh-bridge) — inferred / dsh-cordis — ⭐195
+- `+` [yyh-001/dsh-meme](https://github.com/yyh-001/dsh-meme) — inferred / dsh-cordis — ⭐178
+- `+` [xcisxc29/dsh-wechat](https://github.com/xcisxc29/dsh-wechat) — inferred / dsh-cordis — ⭐142
+- `+` [MichengAI/dsh-skills-manager](https://github.com/MichengAI/dsh-skills-manager) — inferred / dsh-cordis — ⭐140
+- `+` [MichengAI/dsh-codex-ui](https://github.com/MichengAI/dsh-codex-ui) — inferred / dsh-cordis — ⭐137
+- `+` [Noob-stupid/dsh-plugin-gating-hub](https://github.com/Noob-stupid/dsh-plugin-gating-hub) — inferred / dsh-cordis — ⭐100
+- `+` [dsh-wsl-workspace-maintainers/dsh-wsl-workspace](https://github.com/dsh-wsl-workspace-maintainers/dsh-wsl-workspace) — inferred / dsh-cordis — ⭐80
+- `+` [adamkhalile/luau-docs-oracle](https://github.com/adamkhalile/luau-docs-oracle) — inferred / dsh-cordis — ⭐70
+- `+` [Contexera/dsh-agent-team](https://github.com/Contexera/dsh-agent-team) — inferred / dsh-cordis — ⭐62
+- `+` [Imzl-zl/dsh-toolbox-ui](https://github.com/Imzl-zl/dsh-toolbox-ui) — inferred / dsh-cordis — ⭐20
+- `+` [dhicoc/dsh-theme-mineradio](https://github.com/dhicoc/dsh-theme-mineradio) — inferred / dsh-cordis — ⭐18
+- `+` [Tripstack-Corp/spyc](https://github.com/Tripstack-Corp/spyc) — inferred / mods — ⭐17
+- `+` [Chael-Chael/dsh-reference-anything](https://github.com/Chael-Chael/dsh-reference-anything) — inferred / dsh-cordis — ⭐14
+- `+` [islibaodong/dsh-login](https://github.com/islibaodong/dsh-login) — inferred / dsh-cordis — ⭐13
+- `+` [codedev-david/termpolis](https://github.com/codedev-david/termpolis) — inferred / mods — ⭐13
+- …另有 40 条新增
