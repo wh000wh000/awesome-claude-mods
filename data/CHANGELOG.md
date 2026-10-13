@@ -1627,3 +1627,32 @@
 - `+` [lucianokatze/mk-usage](https://github.com/lucianokatze/mk-usage) — observed / mods — ⭐0
 - `+` [philarete173/claude_mods](https://github.com/philarete173/claude_mods) — observed / mods — ⭐0
 - …另有 11 条新增
+
+## 2026-10-13T08:25:48+08:00
+- 收录总数 **583**；本次更新新增 **49**
+- `+` [AdamPlatin123/dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) — inferred / dsh-cordis — ⭐1466
+- `+` [platonai/Browser4](https://github.com/platonai/Browser4) — inferred / dsh-cordis — ⭐1152
+- `+` [bruc3van/awesome-dsh-plugin](https://github.com/bruc3van/awesome-dsh-plugin) — inferred / dsh-cordis — ⭐407
+- `+` [KunoLu/sbtd-plugins](https://github.com/KunoLu/sbtd-plugins) — unverified / dsh-cordis — ⭐185
+- `+` [xiajiajun516/dsh-config-manager](https://github.com/xiajiajun516/dsh-config-manager) — inferred / dsh-cordis — ⭐184
+- `+` [Noob-stupid/dsh-plugin-gating-hub](https://github.com/Noob-stupid/dsh-plugin-gating-hub) — inferred / dsh-cordis — ⭐100
+- `+` [adamkhalile/luau-docs-oracle](https://github.com/adamkhalile/luau-docs-oracle) — inferred / dsh-cordis — ⭐70
+- `+` [hyzyn/dsh-plugin-kit](https://github.com/hyzyn/dsh-plugin-kit) — inferred / dsh-cordis — ⭐48
+- `+` [pigeon189/zcode-fox-widget](https://github.com/pigeon189/zcode-fox-widget) — inferred / dsh-cordis — ⭐23
+- `+` [YELEBAI/dsh-plugin-marketplace](https://github.com/YELEBAI/dsh-plugin-marketplace) — inferred / dsh-cordis — ⭐20
+- `+` [KCNyu/clawock](https://github.com/KCNyu/clawock) — inferred / dsh-cordis — ⭐19
+- `+` [dshworks/awesome-dsh-plugins](https://github.com/dshworks/awesome-dsh-plugins) — inferred / dsh-cordis — ⭐16
+- `+` [billLiao/awesome-dsh-plugin](https://github.com/billLiao/awesome-dsh-plugin) — inferred / dsh-cordis — ⭐15
+- `+` [muyuanjin/dsh-ptc-plus](https://github.com/muyuanjin/dsh-ptc-plus) — inferred / dsh-cordis — ⭐12
+- `+` [tellmewhattodo/dsh-serenity-plugin](https://github.com/tellmewhattodo/dsh-serenity-plugin) — unverified / dsh-cordis — ⭐8
+- `+` [previsioncystolith584/ai-video-downloader](https://github.com/previsioncystolith584/ai-video-downloader) — unverified / mods — ⭐7
+- `+` [Icather/dsh-clean-desktop-shell](https://github.com/Icather/dsh-clean-desktop-shell) — inferred / dsh-cordis — ⭐7
+- `+` [chnjames/dsh-plugin-market](https://github.com/chnjames/dsh-plugin-market) — inferred / dsh-cordis — ⭐6
+- `+` [ywsldxk/dsh-plugin-stars](https://github.com/ywsldxk/dsh-plugin-stars) — inferred / dsh-cordis — ⭐5
+- `+` [ericbust/namedrop](https://github.com/ericbust/namedrop) — inferred / mods — ⭐4
+- `+` [majiayu000/dsh-plugin-registry](https://github.com/majiayu000/dsh-plugin-registry) — inferred / dsh-cordis — ⭐4
+- `+` [BatuhanCakmakk/wavy-usage](https://github.com/BatuhanCakmakk/wavy-usage) — observed / mods — ⭐4
+- `+` [skkjkk/dsh-usage-dashboard](https://github.com/skkjkk/dsh-usage-dashboard) — inferred / dsh-cordis — ⭐3
+- `+` [LeiSureYu/dsh-smart-download](https://github.com/LeiSureYu/dsh-smart-download) — inferred / dsh-cordis — ⭐3
+- `+` [kevinmedeiros/claude-mods](https://github.com/kevinmedeiros/claude-mods) — observed / mods — ⭐1
+- …另有 24 条新增

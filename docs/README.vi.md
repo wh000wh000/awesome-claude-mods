@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/entries-585-0d9488" alt="entries">
+  <img src="https://img.shields.io/badge/entries-583-0d9488" alt="entries">
   <img src="https://img.shields.io/badge/languages-20-1f6feb" alt="languages">
   <img src="https://img.shields.io/badge/refresh-every%202h-16a34a" alt="refresh">
   <a href="../LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="MIT"></a>
@@ -18,8 +18,8 @@
 <p align="center"><sub><a href="../README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.ru.md">Русский</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.tr.md">Türkçe</a> · <b>Tiếng Việt</b> · <a href="README.th.md">ไทย</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.pl.md">Polski</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.uk.md">Українська</a></sub></p>
 
 > [!NOTE]
-> **Danh mục hiện tại** · Lần đồng bộ gần nhất: `2026-10-13T06:19:35+08:00` (UTC+8)
-> · Mục: **585** · Được thêm trong bản cập nhật mới nhất: **0** · Ngôn ngữ triển khai: **12**
+> **Danh mục hiện tại** · Lần đồng bộ gần nhất: `2026-10-13T08:29:52+08:00` (UTC+8)
+> · Mục: **583** · Được thêm trong bản cập nhật mới nhất: **0** · Ngôn ngữ triển khai: **13**
 
 <sub>Mọi mục bên dưới đều được tự động thu thập, lọc và kiểm tra lại. Không có mục nào ở đây là nội dung trả phí.</sub>
 
@@ -34,20 +34,20 @@
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/anthropics--claude-code-action/b852b554eaf6a231.jpg" width="100%" alt="anthropics/claude-code-action">
 <b>🏛️ <a href="https://github.com/anthropics/claude-code-action">anthropics/claude-code-action</a></b>
-<sub>⭐9486 · TypeScript · ✅ official</sub>
+<sub>⭐9488 · TypeScript · ✅ official</sub>
 </td>
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/alexgreensh/token-optimizer/main/skills/token-optimizer/assets/dashboard-demo.gif" width="100%" alt="alexgreensh/token-optimizer">
 <b>🧩 <a href="https://github.com/alexgreensh/token-optimizer">alexgreensh/token-optimizer</a></b>
 <sub>⭐2543 · Python · 👁️ observed</sub>
-<sub>Find the ghost tokens. Fix them. Survive compaction. Avoid context quality decay.</sub>
+<sub>Tìm các token ma. Sửa chúng. Sống sót qua quá trình nén. Tránh suy giảm chất lượng ngữ cảnh.</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/ruvnet--ruflo/86b2691275e30a26.jpg" width="100%" alt="ruvnet/ruflo">
 <b>🧵 <a href="https://github.com/ruvnet/ruflo">ruvnet/ruflo</a></b>
-<sub>⭐74439 · TypeScript · 👁️ observed</sub>
+<sub>⭐74447 · TypeScript · 👁️ observed</sub>
 <sub>🌊 Agent harness nguyên bản. Triển khai các bầy tác tử thông minh nhiều người chơi, điều phối quy trình làm việc tự động và xây dựng hệ thống AI hội thoại. Có bộ nhớ…</sub>
 </td>
 <td width="50%" valign="top">
@@ -61,9 +61,9 @@
 
 - [Mod Claude Code là gì](#mod-claude-code-là-gì)
 - [Cách phân loại các mục](#cách-phân-loại-các-mục)
-- [Chính thức: các kho lưu trữ và ghi chú phát hành của Anthropic](#chính-thức-các-kho-lưu-trữ-và-ghi-chú-phát-hành-của-anthropic) — **17**
-- [Mod: được xây dựng bằng khả năng mod](#mod-được-xây-dựng-bằng-khả-năng-mod) — **451**
-- [Các hệ sinh thái plugin của DSH và Cordis](#các-hệ-sinh-thái-plugin-của-dsh-và-cordis) — **106**
+- [Chính thức: các kho lưu trữ và ghi chú phát hành của Anthropic](#chính-thức-các-kho-lưu-trữ-và-ghi-chú-phát-hành-của-anthropic) — **16**
+- [Mod: được xây dựng bằng khả năng mod](#mod-được-xây-dựng-bằng-khả-năng-mod) — **448**
+- [Các hệ sinh thái plugin của DSH và Cordis](#các-hệ-sinh-thái-plugin-của-dsh-và-cordis) — **108**
 - [Bài viết, thảo luận và video](#bài-viết-thảo-luận-và-video) — **11**
 - [Dự án theo ngôn ngữ triển khai](#dự-án-theo-ngôn-ngữ-triển-khai)
 
@@ -93,7 +93,7 @@ Hầu hết các danh sách trong lĩnh vực này chỉ khẳng định một m
 Các kho lưu trữ mã nguồn Claude của Anthropic và những bản phát hành đã định hình bề mặt mod. Đọc từ nguồn thay vì dựa trên bản tóm tắt.
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code">anthropics/claude-code</a></b> · ⭐150420 · TypeScript · ✅ official · 1 天</summary>
+<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code">anthropics/claude-code</a></b> · ⭐150436 · TypeScript · ✅ official · 0 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -113,14 +113,14 @@ Claude Code là một công cụ lập trình tác tử hoạt động trong ter
 
 | Chỉ số               | Giá trị    |
 | -------------------- | ---------- |
-| Lượt sao             | **150420** |
-| Lần push gần nhất    | 2026-10-11 |
+| Lượt sao             | **150436** |
+| Lần push gần nhất    | 2026-10-13 |
 | Lần đầu được liệt kê | 2026-10-04 |
 
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code-action">anthropics/claude-code-action</a></b> · ⭐9486 · TypeScript · ✅ official · 3 天</summary>
+<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code-action">anthropics/claude-code-action</a></b> · ⭐9488 · TypeScript · ✅ official · 3 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -138,7 +138,7 @@ Không có mô tả từ nguồn gốc nào được công bố.
 
 | Chỉ số               | Giá trị    |
 | -------------------- | ---------- |
-| Lượt sao             | **9486**   |
+| Lượt sao             | **9488**   |
 | Lần push gần nhất    | 2026-10-09 |
 | Lần đầu được liệt kê | 2026-10-11 |
 
@@ -177,7 +177,7 @@ Không có mô tả từ nguồn gốc nào được công bố.
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code-security-review">anthropics/claude-code-security-review</a></b> · ⭐6354 · Python · ✅ official · 243 天</summary>
+<summary>🏛️ <b><a href="https://github.com/anthropics/claude-code-security-review">anthropics/claude-code-security-review</a></b> · ⭐6355 · Python · ✅ official · 243 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -195,7 +195,7 @@ Một GitHub xem xét bảo mật được hỗ trợ bởi AI, sử dụng Clau
 
 | Chỉ số               | Giá trị    |
 | -------------------- | ---------- |
-| Lượt sao             | **6354**   |
+| Lượt sao             | **6355**   |
 | Lần push gần nhất    | 2026-02-11 |
 | Lần đầu được liệt kê | 2026-10-11 |
 
@@ -417,40 +417,6 @@ Console quản lý MCP cho client DeepSeek Harness MCP chính thức: lệnh /mc
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/fschmutz/claude-usage-panel">fschmutz/claude-usage-panel</a></b> · ⭐6 · JavaScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 Tóm tắt
-
-See your Claude Code plan usage everywhere: GNOME top bar, macOS menu bar, a status line under the Claude Code prompt, and a get_usage MCP tool for Claude Code + Cursor. Session, weekly & per-model (Fable/Opus) limits from the official usage API, with burn-rate forecasts. One-line install, self-updating.
-
-##### 📌 Thông tin cơ bản
-
-| Trường     | Giá trị                                                                       |
-| ---------- | ----------------------------------------------------------------------------- |
-| Danh mục   | `Chính thức: các kho lưu trữ và ghi chú phát hành của Anthropic`              |
-| Bằng chứng | `tuyên bố có mod, plugin hoặc hook, nhưng không đề cập cụ thể đến bề mặt mod` |
-| Ngôn ngữ   | JavaScript                                                                    |
-
-##### 📊 Dữ liệu
-
-| Chỉ số               | Giá trị    |
-| -------------------- | ---------- |
-| Lượt sao             | **6**      |
-| Lần push gần nhất    | 2026-10-12 |
-| Lần đầu được liệt kê | 2026-10-13 |
-
-🏷 `anthropic` · `ccusage` · `claude` · `claude-code` · `cursor` · `developer-tools` · `gnome` · `gnome-extension`
-
----
-
-<table><tr><th align="center" width="50%">🖼 Hình ảnh</th><th align="center" width="50%">🎬 Video</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/fschmutz--claude-usage-panel/40b54f8d52b03345.png" width="100%" alt="fschmutz/claude-usage-panel screenshot"></td>
-<td align="center" valign="top"><sub>chưa đăng phương tiện nào</sub></td>
-</tr></table>
-
-</details>
-
-<details>
 <summary>🏛️ <b><a href="https://github.com/PerryLink/dsh-ticktick">PerryLink/dsh-ticktick</a></b> · ⭐4 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Tóm tắt
@@ -503,7 +469,7 @@ Mỗi mục ở đây đều cho thấy bằng chứng về việc sử dụng k
 
 ##### 📝 Tóm tắt
 
-Find the ghost tokens. Fix them. Survive compaction. Avoid context quality decay.
+Tìm các token ma. Sửa chúng. Sống sót qua quá trình nén. Tránh suy giảm chất lượng ngữ cảnh.
 
 ##### 📌 Thông tin cơ bản
 
@@ -535,7 +501,7 @@ Find the ghost tokens. Fix them. Survive compaction. Avoid context quality decay
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/karanb192/awesome-claude-code-mods">karanb192/awesome-claude-code-mods</a></b> · ⭐530 · JavaScript · 👁️ observed · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/karanb192/awesome-claude-code-mods">karanb192/awesome-claude-code-mods</a></b> · ⭐535 · JavaScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -555,7 +521,7 @@ Danh mục cộng đồng về các bản mod Claude Code công khai (hook chứ
 
 | Chỉ số               | Giá trị    |
 | -------------------- | ---------- |
-| Lượt sao             | **530**    |
+| Lượt sao             | **535**    |
 | Lần push gần nhất    | 2026-10-12 |
 | Lần đầu được liệt kê | 2026-10-04 |
 
@@ -564,7 +530,7 @@ Danh mục cộng đồng về các bản mod Claude Code công khai (hook chứ
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/hamzafer/claude-code-mods">hamzafer/claude-code-mods</a></b> · ⭐210 · TypeScript · 👁️ observed · 1 天</summary>
+<summary>🧩 <b><a href="https://github.com/hamzafer/claude-code-mods">hamzafer/claude-code-mods</a></b> · ⭐211 · TypeScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -584,8 +550,8 @@ Mod Claude Code: các plugin dựa trên hook, thêm các dòng trực tiếp ph
 
 | Chỉ số               | Giá trị    |
 | -------------------- | ---------- |
-| Lượt sao             | **210**    |
-| Lần push gần nhất    | 2026-10-11 |
+| Lượt sao             | **211**    |
+| Lần push gần nhất    | 2026-10-12 |
 | Lần đầu được liệt kê | 2026-10-11 |
 
 🏷 `ai-agents` · `anthropic` · `claude` · `claude-code` · `claude-code-mod` · `claude-code-mods` · `claude-code-plugins` · `developer-tools`
@@ -600,7 +566,7 @@ Mod Claude Code: các plugin dựa trên hook, thêm các dòng trực tiếp ph
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/karanb192/cache-tax">karanb192/cache-tax</a></b> · ⭐161 · TypeScript · 👁️ observed · 8 天</summary>
+<summary>🧩 <b><a href="https://github.com/karanb192/cache-tax">karanb192/cache-tax</a></b> · ⭐163 · TypeScript · 👁️ observed · 8 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -618,7 +584,7 @@ Giữ bộ nhớ đệm prompt của Claude Code luôn nóng trong lúc nghỉ v
 
 | Chỉ số               | Giá trị    |
 | -------------------- | ---------- |
-| Lượt sao             | **161**    |
+| Lượt sao             | **163**    |
 | Lần push gần nhất    | 2026-10-04 |
 | Lần đầu được liệt kê | 2026-10-10 |
 
@@ -634,7 +600,7 @@ Giữ bộ nhớ đệm prompt của Claude Code luôn nóng trong lúc nghỉ v
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/hellosverre/claude-skins">hellosverre/claude-skins</a></b> · ⭐117 · TypeScript · 👁️ observed · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/hellosverre/claude-skins">hellosverre/claude-skins</a></b> · ⭐119 · TypeScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -652,7 +618,7 @@ Skin cho Claude Code: các hàng công cụ với biểu tượng, thẻ thẻ d
 
 | Chỉ số               | Giá trị    |
 | -------------------- | ---------- |
-| Lượt sao             | **117**    |
+| Lượt sao             | **119**    |
 | Lần push gần nhất    | 2026-10-12 |
 | Lần đầu được liệt kê | 2026-10-13 |
 
@@ -668,7 +634,7 @@ Skin cho Claude Code: các hàng công cụ với biểu tượng, thẻ thẻ d
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/NahumLitvin/prismantis">NahumLitvin/prismantis</a></b> · ⭐88 · TypeScript · 👁️ observed · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/NahumLitvin/prismantis">NahumLitvin/prismantis</a></b> · ⭐89 · TypeScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -686,7 +652,7 @@ Các phản hồi Claude Code đầy màu sắc, có thể đổi chủ đề: b
 
 | Chỉ số               | Giá trị    |
 | -------------------- | ---------- |
-| Lượt sao             | **88**     |
+| Lượt sao             | **89**     |
 | Lần push gần nhất    | 2026-10-12 |
 | Lần đầu được liệt kê | 2026-10-11 |
 
@@ -702,7 +668,7 @@ Các phản hồi Claude Code đầy màu sắc, có thể đổi chủ đề: b
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/Tickloop/claude-mods">Tickloop/claude-mods</a></b> · ⭐78 · TypeScript · 👁️ observed · 4 天</summary>
+<summary>🧩 <b><a href="https://github.com/Tickloop/claude-mods">Tickloop/claude-mods</a></b> · ⭐79 · TypeScript · 👁️ observed · 4 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -720,7 +686,7 @@ Bộ sưu tập các mod claude code
 
 | Chỉ số               | Giá trị    |
 | -------------------- | ---------- |
-| Lượt sao             | **78**     |
+| Lượt sao             | **79**     |
 | Lần push gần nhất    | 2026-10-08 |
 | Lần đầu được liệt kê | 2026-10-11 |
 
@@ -963,7 +929,7 @@ Nâng cấp cho Claude Code: một bảng điều khiển trực tiếp, các ch
 | Chỉ số               | Giá trị    |
 | -------------------- | ---------- |
 | Lượt sao             | **26**     |
-| Lần push gần nhất    | 2026-10-12 |
+| Lần push gần nhất    | 2026-10-13 |
 | Lần đầu được liệt kê | 2026-10-11 |
 
 🏷 `ai-coding` · `anthropic` · `claude` · `claude-code` · `claude-code-mod` · `developer-tools` · `eye-candy` · `terminal`
@@ -1248,6 +1214,40 @@ Mod Claude Code: usage-band hiển thị giới hạn 5h/7d, cửa sổ ngữ c�
 </details>
 
 <details>
+<summary>🧩 <b><a href="https://github.com/OneWave-AI/claude-code-mods">OneWave-AI/claude-code-mods</a></b> · ⭐13 · TypeScript · 👁️ observed · 9 天</summary>
+
+##### 📝 Tóm tắt
+
+Mười mod mã nguồn mở cho Claude Code: pane trực tiếp, dải, status line và bộ bảo vệ lệnh gọi công cụ. Đồng hồ đo mức tiêu thụ, launch codes, session wrapped, boss fight, code pet và nhiều hơn nữa.
+
+##### 📌 Thông tin cơ bản
+
+| Trường     | Giá trị                                                                   |
+| ---------- | ------------------------------------------------------------------------- |
+| Danh mục   | `Mod: được xây dựng bằng khả năng mod`                                    |
+| Bằng chứng | `văn bản của chính nó gọi tên một mod API, hoặc tuyên bố có khả năng mod` |
+| Ngôn ngữ   | TypeScript                                                                |
+
+##### 📊 Dữ liệu
+
+| Chỉ số               | Giá trị    |
+| -------------------- | ---------- |
+| Lượt sao             | **13**     |
+| Lần push gần nhất    | 2026-10-03 |
+| Lần đầu được liệt kê | 2026-10-11 |
+
+🏷 `anthropic` · `claude` · `claude-code` · `claude-code-mods` · `claude-code-plugins`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Hình ảnh</th><th align="center" width="50%">🎬 Video</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/onewave-ai--claude-code-mods/763e0352f43b1cbc.png" width="100%" alt="OneWave-AI/claude-code-mods screenshot"></td>
+<td align="center" valign="top"><sub>chưa đăng phương tiện nào</sub></td>
+</tr></table>
+
+</details>
+
+<details>
 <summary>🧩 <b><a href="https://github.com/aieo-product/claude_qamods">aieo-product/claude_qamods</a></b> · ⭐12 · TypeScript · 👁️ observed · 5 天</summary>
 
 ##### 📝 Tóm tắt
@@ -1311,40 +1311,6 @@ Bản mod Claude Code: ngữ cảnh tính theo token, giới hạn 5 giờ và h
 <table><tr><th align="center" width="50%">🖼 Hình ảnh</th><th align="center" width="50%">🎬 Video</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/augiefra--claude-mods/5e1358adde3e377d.png" width="100%" alt="augiefra/claude-mods screenshot"></td>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/augiefra--claude-mods/27f137c61fc42d0c.gif" width="100%" alt="augiefra/claude-mods animation"><br><sub>bản ghi hình động</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧩 <b><a href="https://github.com/OneWave-AI/claude-code-mods">OneWave-AI/claude-code-mods</a></b> · ⭐12 · TypeScript · 👁️ observed · 9 天</summary>
-
-##### 📝 Tóm tắt
-
-Mười mod mã nguồn mở cho Claude Code: pane trực tiếp, dải, status line và bộ bảo vệ lệnh gọi công cụ. Đồng hồ đo mức tiêu thụ, launch codes, session wrapped, boss fight, code pet và nhiều hơn nữa.
-
-##### 📌 Thông tin cơ bản
-
-| Trường     | Giá trị                                                                   |
-| ---------- | ------------------------------------------------------------------------- |
-| Danh mục   | `Mod: được xây dựng bằng khả năng mod`                                    |
-| Bằng chứng | `văn bản của chính nó gọi tên một mod API, hoặc tuyên bố có khả năng mod` |
-| Ngôn ngữ   | TypeScript                                                                |
-
-##### 📊 Dữ liệu
-
-| Chỉ số               | Giá trị    |
-| -------------------- | ---------- |
-| Lượt sao             | **12**     |
-| Lần push gần nhất    | 2026-10-03 |
-| Lần đầu được liệt kê | 2026-10-11 |
-
-🏷 `anthropic` · `claude` · `claude-code` · `claude-code-mods` · `claude-code-plugins`
-
----
-
-<table><tr><th align="center" width="50%">🖼 Hình ảnh</th><th align="center" width="50%">🎬 Video</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/onewave-ai--claude-code-mods/763e0352f43b1cbc.png" width="100%" alt="OneWave-AI/claude-code-mods screenshot"></td>
-<td align="center" valign="top"><sub>chưa đăng phương tiện nào</sub></td>
 </tr></table>
 
 </details>
@@ -1626,11 +1592,11 @@ Lộ trình của bạn, tự theo dõi chính nó. Cây lộ trình trên máy 
 </details>
 
 <details>
-<summary><b>Xem thêm trong danh mục này</b> <sub>· 417</sub></summary>
+<summary><b>Xem thêm trong danh mục này</b> <sub>· 414</sub></summary>
 
 - [karanb192/claude-code-mods](https://github.com/karanb192/claude-code-mods) - Các Mod Claude và công cụ để xây dựng chúng: một builder skill, sau đó là các…
-- [ucsandman/claude-harness](https://github.com/ucsandman/claude-harness) - Bộ harness Claude Code tôi chạy hằng ngày, được xuất bản dưới tên này từ ngày…
 - [ray-amjad/claude-code-mods](https://github.com/ray-amjad/claude-code-mods) - Các bản sửa đổi Claude Code của Ray Amjad: ngăn, dải, bộ bảo vệ lời nhắc, xử lý…
+- [ucsandman/claude-harness](https://github.com/ucsandman/claude-harness) - Bộ harness Claude Code tôi chạy hằng ngày, được xuất bản dưới tên này từ ngày…
 - [kagamiurayama/claude-code-roof-mod](https://github.com/kagamiurayama/claude-code-roof-mod) - Dùng Claude Mods để thay mái nhà cho Claude Code: không sửa tệp nhị phân, thay…
 - [nateherkai/claude-code-mods](https://github.com/nateherkai/claude-code-mods) - Bốn mod Claude Code: Cache Keeper, Recording Mode, Goal Meter và Collision Guard.
 - [Hangghost/learning-hacker-claude-mod](https://github.com/Hangghost/learning-hacker-claude-mod) - Các mod Claude Code của Learning Hacker: biến hoạt động của agent thành thứ có…
@@ -1665,24 +1631,25 @@ Lộ trình của bạn, tự theo dõi chính nó. Cây lộ trình trên máy 
 - [hahmjuntae/claude-mods-image-preview](https://github.com/hahmjuntae/claude-mods-image-preview) - Claude Code mod: hình thu nhỏ của ảnh đã dán phía trên lời nhắc, trong mọi…
 - [leopiney/wolfbud-claude-mod](https://github.com/leopiney/wolfbud-claude-mod) - Đồng nghiệp giọng nói cho Claude Code.
 - [Antreas-Strb/glanceflow](https://github.com/Antreas-Strb/glanceflow) - GlanceFlow cho Claude Code: checklist nhẹ nhàng phía trên prompt, hiển thị kế…
+- [BatuhanCakmakk/wavy-usage](https://github.com/BatuhanCakmakk/wavy-usage) - Liquid-filled usage rings above the Claude Code prompt: 5h/7d limits, context…
 - [Boom-Vitt/boombignose-mods](https://github.com/Boom-Vitt/boombignose-mods) - Claude Code mods: thanh ngữ cảnh, bảng tác nhân, làm mờ PDPA.
 - [borabiricik/claude-mods](https://github.com/borabiricik/claude-mods) - Claude Code mods: typing-speed, đồng hồ đo tốc độ gõ trực tiếp với thống kê…
 - [charimsma/dopa-mode](https://github.com/charimsma/dopa-mode) - Pháo hoa cho Claude Code: mỗi lần nhấn phím, lần gọi công cụ, commit và bài…
+- [davekiss/mods](https://github.com/davekiss/mods) - Các bản mod Claude Code của Dave Kiss.
 - [dougcunha/claude-mods](https://github.com/dougcunha/claude-mods) - Các mod cho Claude Code: các ngăn, lệnh và hook được xây dựng bằng plugin…
 - [DrishtantKaushal/AwesomeClaudeCodeMods](https://github.com/DrishtantKaushal/AwesomeClaudeCodeMods) - Khám phá Claude Code mods, plugin và extension với các bản demo hoạt ảnh, danh…
 - [galElmalah/claude-mods](https://github.com/galElmalah/claude-mods) - Claude Code mod: sơ đồ mermaid được vẽ trực tiếp trong transcript.
 - [ha-ptt0601/cc-mods](https://github.com/ha-ptt0601/cc-mods) - Các mod Claude Code nhỏ (plugin function-hook): session-switcher và hơn thế nữa.
+- [hellosverre/mod-store](https://github.com/hellosverre/mod-store) - Cửa hàng ứng dụng dành cho các bản mod Claude Code, bên trong Claude Code: dùng…
 - [ice-lfernandes/claude-code-mods](https://github.com/ice-lfernandes/claude-code-mods) - Sáu bản mod Claude Code: giới hạn kế hoạch và context phía trên prompt, trợ lý…
 - [LeeHigma0201/claude-code-mods](https://github.com/LeeHigma0201/claude-code-mods) - Claude Code mods: mod-scout (tìm các mod bạn sẽ sử dụng nhiều nhất)…
 - [Nongfsq/frank-claude-cockpit](https://github.com/Nongfsq/frank-claude-cockpit) - Hai Claude Code mods để chạy nhiều phiên cùng lúc: thẻ ngữ cảnh phía trên lời…
 - [timoncool/givememod](https://github.com/timoncool/givememod) - Mod Claude Code theo yêu cầu — một skill đọc cuộc trò chuyện của bạn và xây…
 - [ayagmar/claude-modmgr](https://github.com/ayagmar/claude-modmgr) - modmgr: khám phá, kiểm tra, bật/tắt và cập nhật Claude Code mods.
 - [claude-code-mods/best-claude-code-mods](https://github.com/claude-code-mods/best-claude-code-mods) - Claude Code Mods tốt nhất: được tuyển chọn, xác thực và ghim.
-- [davekiss/mods](https://github.com/davekiss/mods) - Các bản mod Claude Code của Dave Kiss.
 - [dominicrico/jev-router](https://github.com/dominicrico/jev-router) - Plugin Claude Code: định tuyến model Claude tự động.
 - [ElirazKed/claude-code-pr-watch](https://github.com/ElirazKed/claude-code-pr-watch) - Bản sửa đổi mã Claude: ngăn trực tiếp hiển thị các PR GitHub mà một phiên mở…
 - [FynnXland/fynn-mods](https://github.com/FynnXland/fynn-mods) - Sáu mod cho Claude Code: linh vật Clawd động, thanh giới hạn sử dụng và…
-- [hellosverre/mod-store](https://github.com/hellosverre/mod-store) - Cửa hàng ứng dụng dành cho các bản mod Claude Code, bên trong Claude Code: dùng…
 - [Hula-Hoop-AI/supermods](https://github.com/Hula-Hoop-AI/supermods) - Một marketplace các mod cho Claude Code: trình gỡ lỗi từng bước cho vòng lặp…
 - [ibrahimkobeissy/claude-mods](https://github.com/ibrahimkobeissy/claude-mods) - Các bản mod mã nguồn mở cho Claude Code: ngăn, dòng trạng thái, thông báo…
 - [mertkayacs/ultramod](https://github.com/mertkayacs/ultramod) - Bộ mod tất-cả-trong-một tốt nhất cho Claude Code: giới hạn sử dụng và HUD…
@@ -1696,13 +1663,14 @@ Lộ trình của bạn, tự theo dõi chính nó. Cây lộ trình trên máy 
 - [wdsewdser-bit/claude-code-mods](https://github.com/wdsewdser-bit/claude-code-mods) - Hai mod Claude Code: cache-keeper và ctx-mod.
 - [xsyetopz/dotclaude](https://github.com/xsyetopz/dotclaude) - Một plugin Claude Code rất có chính kiến, được thiết kế bởi một Rustacean say…
 - [yash-gadodia/claude-mods](https://github.com/yash-gadodia/claude-mods) - Claude Code mods giúp tác nhân làm việc trung thực — các function hooks bảo vệ…
-- [CodyAMaughan/meme-factory](https://github.com/CodyAMaughan/meme-factory) - Fresh from the factory. A Claude Code mod: ask for a meme, keep working.
+- [CodyAMaughan/meme-factory](https://github.com/CodyAMaughan/meme-factory) - Mới xuất xưởng. Một bản mod Claude Code: yêu cầu một meme rồi tiếp tục làm…
 - [DarioFontanel/claude-code-mods](https://github.com/DarioFontanel/claude-code-mods) - Mod cho Claude Code: thanh bộ nhớ đệm prompt, các bước tiếp theo, nút thao tác…
 - [estruyf/claude-stats-mod](https://github.com/estruyf/claude-stats-mod) - Một bản mod Claude Code vẽ các giới hạn sử dụng và khoản chi tiêu của bạn trong…
 - [gaius-codius/ostrakon](https://github.com/gaius-codius/ostrakon) - Một mod cho Claude Code để ghi lại suy nghĩ giữa lúc làm việc, phân loại chúng…
 - [gerricchaplin/pr-pulse](https://github.com/gerricchaplin/pr-pulse) - Trạng thái PR, mức sẵn sàng để merge, các kiểm tra, bình luận và cảnh báo…
 - [herman925/925-cc-plugins](https://github.com/herman925/925-cc-plugins) - Các bản mod Claude Code của Herman (chợ herman-mods).
 - [homieyangg/claude-code-mods](https://github.com/homieyangg/claude-code-mods) - Các mod Claude Code: thanh tiến trình cho kế hoạch, sổ ghi lại những gì Claude…
+- [Malkiz/claude-reply-comments](https://github.com/Malkiz/claude-reply-comments) - Bản mod Claude Code: trả lời Claude từng điểm ngay trên văn bản.
 - [MankhongGarden/claude-code-mods-field-notes](https://github.com/MankhongGarden/claude-code-mods-field-notes) - Ghi chú thực địa ngày đầu về các mod Claude Code trên Windows: thanh nhiên liệu…
 - [NMenzel/claude-devtools-mod](https://github.com/NMenzel/claude-devtools-mod) - Claude DevTools: trình gỡ lỗi cho các lệnh gọi công cụ Code Claude.
 - [oborchers/claude-gh-status](https://github.com/oborchers/claude-gh-status) - Bản mod Claude Code: trạng thái pull request GitHub trực tiếp.
@@ -1714,7 +1682,6 @@ Lộ trình của bạn, tự theo dõi chính nó. Cây lộ trình trên máy 
 - [Singh-AP/awesome-claude-mods](https://github.com/Singh-AP/awesome-claude-mods) - 🧩 Các mod Code của Claude đã được kiểm thử và cài đặt bằng một lệnh: hàng rào…
 - [soulrocha/Claude-code-hero-journey](https://github.com/soulrocha/Claude-code-hero-journey) - 🦀 Một bản mod HUD RPG ấm cúng cho Claude Code.
 - [theonly1me/claude-code-mods](https://github.com/theonly1me/claude-code-mods) - Một loạt mod claude code do tôi xây dựng.
-- [VladLeus/claude-mods](https://github.com/VladLeus/claude-mods) - Các bản mod Claude Code: bảng điều khiển đội tác nhân và chế độ tự động lái…
 - [y-hirakaw/claude-code-mods](https://github.com/y-hirakaw/claude-code-mods) - Các mod Claude Code. touch-map: xem những tệp nào Claude đã liệt kê, đọc, chỉnh…
 - [yodakeisuke/claudelingo](https://github.com/yodakeisuke/claudelingo) - Học một ngoại ngữ trong khi làm việc với Claude Code.
 - [yuntaengtaeng/snitch](https://github.com/yuntaengtaeng/snitch) - Bản mod Claude Code báo cáo trực tiếp các tệp mà Claude đã thay đổi và lý do…
@@ -1726,17 +1693,17 @@ Lộ trình của bạn, tự theo dõi chính nó. Cây lộ trình trên máy 
 - [bully911210/claude-code-mods](https://github.com/bully911210/claude-code-mods) - Các bản mod function-hook cho Claude Code: một hàng telemetry giới hạn, các…
 - [comertial/comertial-mods](https://github.com/comertial/comertial-mods) - Các bản mod Claude Code dành cho Kỹ sư thực thụ.
 - [CrazyCoder/claude-desktop-recap](https://github.com/CrazyCoder/claude-desktop-recap) - Bản tóm tắt phiên terminal của Claude Code, trong tab Code của ứng dụng máy…
-- [crockalet/claude-mods](https://github.com/crockalet/claude-mods) - Một mod Claude Code: ngăn hiển thị nhiệm vụ của phiên, nội dung cần bạn xử lý…
 - [danielpg95/modster-hunter](https://github.com/danielpg95/modster-hunter) - Một mod Claude Code: bắt các Modster pixel-art trong một trò chơi nhàn rỗi…
 - [Davron2004/slash-coverage](https://github.com/Davron2004/slash-coverage) - Xem mỗi agent Claude Code có những tệp nào trong ngữ cảnh của nó, và mỗi tệp…
 - [enhki/claude-mods](https://github.com/enhki/claude-mods) - Các mod Claude Code nhỏ cho terminal và ứng dụng desktop.
 - [Exdenta/ambient-spanish](https://github.com/Exdenta/ambient-spanish) - Kỹ năng + mod Claude CLI thêm từ tiếng Tây Ban Nha vào phản hồi của agent.
-- [florian101010/cache-meter](https://github.com/florian101010/cache-meter) - Bản mod Claude Code giúp bạn không phải viết lại prompt-cache: /keepwarm giữ…
+- [florian101010/cache-meter](https://github.com/florian101010/cache-meter) - Claude Code Mod – stop wasting tokens: /keepwarm.
 - [FrBmt-BIGetNouf/alarum-claude-mod](https://github.com/FrBmt-BIGetNouf/alarum-claude-mod) - Các sự kiện Alarum của bạn phía trên prompt của Claude Code: điều gì vừa đến…
 - [FrBmt-BIGetNouf/floatee-claude-mod](https://github.com/FrBmt-BIGetNouf/floatee-claude-mod) - Danh sách việc cần làm Floatee của bạn nằm phía trên prompt của Claude Code…
 - [gregdotca/ccmod-the-machine](https://github.com/gregdotca/ccmod-the-machine) - Một bản mod Code của Claude biến nó thành The Machine trong Person of Interest.
 - [JimmySadek/claude-code-tint-mod](https://github.com/JimmySadek/claude-code-tint-mod) - Mod cho Claude Code (mod CC tint): tô màu mỗi cửa sổ theo repository của nó…
 - [jonyfs/astrolabe](https://github.com/jonyfs/astrolabe) - 🧭 Mod Claude Code: trạng thái session, tiến độ Spec Kit trực tiếp và quản trị…
+- [kevinmedeiros/claude-mods](https://github.com/kevinmedeiros/claude-mods) - Live mods for Claude Code: plan limits that tell you how long they.
 - [kongyo2/context-view](https://github.com/kongyo2/context-view) - Cửa sổ ngữ cảnh dưới dạng một hàng phía trên prompt, được hiển thị theo cách…
 - [kuehn-lars/cc-graph](https://github.com/kuehn-lars/cc-graph) - cc-graph: biểu đồ trực tiếp về những gì Claude Code biết.
 - [kyledarling-io/claude-code-desktop-hud](https://github.com/kyledarling-io/claude-code-desktop-hud) - HUD tác vụ trực tiếp cho Claude Code Desktop: một dải phía trên prompt trong…
@@ -1744,8 +1711,6 @@ Lộ trình của bạn, tự theo dõi chính nó. Cây lộ trình trên máy 
 - [leonidb/claude-code-mods](https://github.com/leonidb/claude-code-mods) - Đừng để sự chú ý của bạn bị phân tán trong khi chờ câu trả lời của Code Claude.
 - [LupusMalusDeviant/mod-box](https://github.com/LupusMalusDeviant/mod-box) - Mười bốn mod Claude Code trong một plugin, mỗi mod có thể bật/tắt, kèm một cửa…
 - [m4cd4r4/clear-resume](https://github.com/m4cd4r4/clear-resume) - Plugin miễn phí, mã nguồn mở cho Claude Code.
-- [Malkiz/claude-reply-comments](https://github.com/Malkiz/claude-reply-comments) - Bản mod Claude Code: trả lời Claude từng điểm ngay trên văn bản.
-- [mangow314/mango-mods](https://github.com/mangow314/mango-mods) - Các mod cho Claude Code dành cho những phiên làm việc dài: sitrep ghi lại kết…
 - [midudev/better-claude](https://github.com/midudev/better-claude) - Hàng đợi prompt cho Claude Code dưới dạng bản mod: /after &lt;task&gt; chạy tác vụ đó…
 - [modmyclaude/claude-code-mods](https://github.com/modmyclaude/claude-code-mods) - Bản sửa đổi Code Claude: được tuyển chọn, kiểm thử và mỗi bản sửa đổi đều đi…
 - [NotRedFox/NotRedFoxs-Claude-skills](https://github.com/NotRedFox/NotRedFoxs-Claude-skills) - Các skill Claude Code: trình kiểm chứng sự thật tài liệu, trình kiểm tra mã…
@@ -1754,21 +1719,18 @@ Lộ trình của bạn, tự theo dõi chính nó. Cây lộ trình trên máy 
 - [rezzminator/buddy](https://github.com/rezzminator/buddy) - Plugin bạn đồng hành Claude Code: một người bạn ASCII phía trên prompt, ghi nhớ…
 - [rezzminator/tool-visibility-controller](https://github.com/rezzminator/tool-visibility-controller) - Plugin Claude Code để hiển thị công cụ theo từng agent — ẩn và từ chối…
 - [samfrmr/barmkin-mod](https://github.com/samfrmr/barmkin-mod) - Các bản mod Claude Code: lớp bảo mật cho Claude Code - che giấu bí mật, thông…
-- [samox73/claude-code-latex](https://github.com/samox73/claude-code-latex) - Kết xuất công thức toán hiển thị LaTeX trong terminal của Claude Code: đã tích…
 - [SeongGwangJu/k-mods](https://github.com/SeongGwangJu/k-mods) - Bộ sưu tập các bản mod Claude Code tuyệt vời | Bộ sưu tập mod Claude Code.
 - [shahsanket2107/clarvis](https://github.com/shahsanket2107/clarvis) - Clarvis: một mod fan Avengers không chính thức cho Claude Code.
 - [tanujarun/it-speaks](https://github.com/tanujarun/it-speaks) - It Speaks: mod Claude Code đọc to câu trả lời của Claude và prompt của bạn theo…
-- [thangvofastboy/claude-mods](https://github.com/thangvofastboy/claude-mods)
 - [timoncool/slapbox](https://github.com/timoncool/slapbox) - 🍑 Đánh Claude khi nó làm hỏng việc — mod xả stress cho Claude Code: mông hoạt…
 - [TroyJLorents-GH/mod-squad](https://github.com/TroyJLorents-GH/mod-squad) - Các mod Claude Code: các plugin nhỏ cho các khung trực tiếp, định tuyến mô hình…
 - [UtsavBalar1231/oh-my-claudeagent](https://github.com/UtsavBalar1231/oh-my-claudeagent) - Claude Code, có bằng chứng. Plugin lập kế hoạch, phân công và chứng minh công…
-- [VaitaR/claude-code-limits](https://github.com/VaitaR/claude-code-limits) - Claude Code mod: 5h/7d quota, context window, prompt-cache time left and…
+- [VaitaR/claude-code-limits](https://github.com/VaitaR/claude-code-limits) - Bản mod Claude Code: hạn ngạch 5h/7d, cửa sổ ngữ cảnh, thời gian còn lại của bộ…
 - [valeryia-piatrova/token-hamster](https://github.com/valeryia-piatrova/token-hamster) - 🐹 Mod &amp; plugin Claude Code: trình giám sát mức sử dụng, trình theo dõi token &amp;…
 - [Xabilimon1/EMCC](https://github.com/Xabilimon1/EMCC) - EMCC (Every Mod Claude Code): một bộ sưu tập được tuyển chọn và kiểm thử gồm…
 - [yyosifov/prompt-mods](https://github.com/yyosifov/prompt-mods) - Các bản mod Claude Code nhỏ gọn, hoàn thiện cho ô prompt.
 - [0xgigilau/claude-usage-meters](https://github.com/0xgigilau/claude-usage-meters) - Bản mod Claude Code: thanh tiến trình cho ngữ cảnh, mức sử dụng…
 - [aecheman27-gif/claude-mods](https://github.com/aecheman27-gif/claude-mods) - Marketplace các bản mod Claude Code (my-claude-mods): dải trạng thái, khung, bộ…
-- [AgemameSutachi/claude-code-mods](https://github.com/AgemameSutachi/claude-code-mods)
 - [alan-oliv/claude-mods](https://github.com/alan-oliv/claude-mods) - Các bản mod Claude Code: thẻ thống kê phiên phía trên prompt.
 - [Aler1x/claude-cat](https://github.com/Aler1x/claude-cat) - Một chú mèo braille hoạt ảnh phía trên lời nhắc Claude Code.
 - [aloki-alok/omni-cat](https://github.com/aloki-alok/omni-cat) - Một chú mèo pixel phía trên prompt Claude Code của bạn chạy một cuộc gọi thử…
@@ -1777,36 +1739,38 @@ Lộ trình của bạn, tự theo dõi chính nó. Cây lộ trình trên máy 
 - [andrej-kolic/claude-mods](https://github.com/andrej-kolic/claude-mods) - Các mod đa dụng cho Claude Code: bands, panes, toasts và hooks.
 - [andytw366/claude-mods](https://github.com/andytw366/claude-mods)
 - [aott33/model-router](https://github.com/aott33/model-router) - Một bản mod Claude Code chọn mô hình cho từng tác nhân con trước khi tác nhân…
-- [arthurseredaa/herdr-pane-peek](https://github.com/arthurseredaa/herdr-pane-peek) - Claude Code mod for herdr: search panes across all workspaces and insert the…
+- [arthurglaizal/quiet-token-bar](https://github.com/arthurglaizal/quiet-token-bar) - A Claude Code mod: your context window in one quiet line, grey until it matters.
+- [arthurseredaa/herdr-pane-peek](https://github.com/arthurseredaa/herdr-pane-peek) - Bản mod Claude Code cho herdr: các ngăn tìm kiếm trên mọi không gian làm việc…
+- [Ashley-Pettit/lgtm-flash](https://github.com/Ashley-Pettit/lgtm-flash) - The LGTM Lines ship sails past after every code change — a Claude Code mod.
 - [Ashley-Pettit/villager-hp](https://github.com/Ashley-Pettit/villager-hp) - Giới hạn sử dụng Claude của bạn dưới dạng thẻ sức khỏe dân làng hoạt hình, kèm…
 - [AskTinNguyen/ather-mods](https://github.com/AskTinNguyen/ather-mods) - Các mod Claude Code cho nhóm S2 (chợ ather).
+- [astrosteveo/plain-english](https://github.com/astrosteveo/plain-english) - A Claude Code mod that makes Claude write plain English and flags its usual…
 - [Atanur/deskfit](https://github.com/Atanur/deskfit) - Bài tập ngắn trong khi Claude làm việc: mục tiêu hằng ngày, chuỗi ngày, huy…
+- [avishalom/session-note](https://github.com/avishalom/session-note) - Claude Code mod: pin a context comment and a color to a session.
 - [aycandv/claude-usage-meter](https://github.com/aycandv/claude-usage-meter) - Bảng sử dụng cho Claude Code: chi tiêu theo từng model.
 - [barmoshe/bar-mods](https://github.com/barmoshe/bar-mods) - Các bản mod Claude Code: các khung trực tiếp, dải thông tin và bộ bảo vệ chạy…
 - [Barncore/agent-watch](https://github.com/Barncore/agent-watch) - Một bản mod Claude Code hiển thị các tác nhân con của bạn đang làm gì: thanh…
 - [Barncore/turn-timer](https://github.com/Barncore/turn-timer) - Một bản mod Claude Code hiển thị mỗi lượt mất bao lâu trong một chip đồng hồ…
-- [benelog/claude-mods](https://github.com/benelog/claude-mods) - Mods for Claude Code: a status-line HUD and more.
+- [benelog/claude-mods](https://github.com/benelog/claude-mods) - Các bản mod cho Claude Code: HUD trên dòng trạng thái và nhiều tính năng khác.
 - [benjaminr/nowplaying](https://github.com/benjaminr/nowplaying) - Mod Now Playing cho Claude Code: Apple Music và Spotify phía trên prompt, cùng…
 - [bracyw/claude-mods](https://github.com/bracyw/claude-mods) - Các bản sao được duy trì, kiểm tra của các bản mod Claude Code.
-- [brahim1o1/claude-turn-profiler](https://github.com/brahim1o1/claude-turn-profiler) - The Performance tab for Claude Code turns: a live waterfall of every model…
+- [brahim1o1/claude-turn-profiler](https://github.com/brahim1o1/claude-turn-profiler) - Tab Performance cho Claude Code hiển thị trực tiếp dạng thác nước của mọi yêu…
 - [broening/claude-mods](https://github.com/broening/claude-mods) - Các mod cho Claude Code: đồng hồ cache, bán kính nổ, gợi ý, danh sách công…
 - [Carismarkus/clowl](https://github.com/Carismarkus/clowl) - Chỉ là một chú cú cho Claude Code của bạn.
 - [cch-agent/claude-mods](https://github.com/cch-agent/claude-mods) - Các bản mod Claude Code cá nhân.
+- [cdeust/claude-mods](https://github.com/cdeust/claude-mods) - Claude Code mods for the ai-architect.tools harness: one concern per mod, state…
 - [ChaseWNorton/claude-doom](https://github.com/ChaseWNorton/claude-doom) - Engine Doom nguyên bản với Freedoom, có thể chơi bên trong Claude Code.
-- [chittychat-studio/claude-code-mods](https://github.com/chittychat-studio/claude-code-mods) - Các bản mod Claude Code nhỏ gọn, dễ đọc từ kênh CorporateChittyChat.
+- [chshin84/claude-mods](https://github.com/chshin84/claude-mods) - Claude Code 단어 사전 패널과 상태 표시줄 플러그인.
+- [cldotdev/claude-todo-list](https://github.com/cldotdev/claude-todo-list) - A Claude Code mod that keeps a running list of the open items in a conversation…
 - [connectwithub/loopkeeper](https://github.com/connectwithub/loopkeeper) - Giữ Claude Code đi đúng kế hoạch: các giai đoạn, cổng phê duyệt và ngân sách…
 - [cprentice9/ccmods](https://github.com/cprentice9/ccmods) - Các bản mod Claude Code.
 - [CTeitzel/claude-code-cache-band](https://github.com/CTeitzel/claude-code-cache-band) - Mod cho Claude Code: một dải phía trên prompt với bộ đếm ngược prompt-cache…
-- [curran-gehring/claude-dot](https://github.com/curran-gehring/claude-dot) - Một bản mod Claude Code đưa các dấu chấm của OpenAI đến Claude: một trợ lý luôn…
-- [cybertron288/claude-mods](https://github.com/cybertron288/claude-mods) - Các bản mod Claude Code cá nhân của tôi, được tùy chỉnh cho thiết lập riêng…
-- [d3nims/d3nim-claude-mods](https://github.com/d3nims/d3nim-claude-mods) - Các mod Claude Code dành riêng cho nhóm d3nim.
 - [DannyW618/What-skills-am-i-using](https://github.com/DannyW618/What-skills-am-i-using) - Bản mod Claude Code: xem cuộc hội thoại của bạn đang sử dụng những skill…
 - [davidcoulson/crab-workshop](https://github.com/davidcoulson/crab-workshop) - Mười một mod Claude Code (plugin function-hook) cho quy trình homelab với nhiều…
-- [davidho27941/cockpit](https://github.com/davidho27941/cockpit) - Các bản mod Claude Code: bảng OpenSpec và tác nhân con, bàn giao trước khi thu…
 - [davidurco/cc-tamagotchi](https://github.com/davidurco/cc-tamagotchi) - Một Tamagotchi sống bên trong Claude Code: nó nở, ăn đoạn mã Claude viết, để…
 - [deepr1tester-cloud/claude-pr-tracker](https://github.com/deepr1tester-cloud/claude-pr-tracker) - Bản mod Claude Code: trạng thái review PR, phê duyệt, kiểm tra và xung đột phía…
 - [dim-owl/roll-call](https://github.com/dim-owl/roll-call) - Một mod cho Claude Code: bảng các phiên khác của bạn phía trên prompt — ai đang…
-- [dookers-code/dooks-mods](https://github.com/dookers-code/dooks-mods) - My collection of claude mods.
+- [dookers-code/dooks-mods](https://github.com/dookers-code/dooks-mods) - Bộ sưu tập các bản mod claude của tôi.
 - [dot-agi/arrester](https://github.com/dot-agi/arrester) - Bản mod Claude Code: sau khi guard chặn một lệnh gọi công cụ, nó dừng các đường…
 - [dot-agi/downrange](https://github.com/dot-agi/downrange) - Bản mod Claude Code: các tác vụ nền trong một chế độ xem, với tiến độ và thời…
 - [dot-agi/high-command](https://github.com/dot-agi/high-command) - Bản mod Claude Code: một hộp thư đến cho tin nhắn từ đồng đội, subagent được…
@@ -1815,10 +1779,9 @@ Lộ trình của bạn, tự theo dõi chính nó. Cây lộ trình trên máy 
 - [drolosoft/taskrail](https://github.com/drolosoft/taskrail) - Một bảng sóng trực tiếp về kế hoạch phiên của bạn phía trên ô nhắc Claude Code.
 - [Eiyuo/Claude-Mods](https://github.com/Eiyuo/Claude-Mods)
 - [elijah-rou/agent-kit](https://github.com/elijah-rou/agent-kit) - Hướng dẫn, kỹ năng, tiện ích mở rộng Pi và các mod Claude Code cho Pi, Codex và…
-- [esinecan/mental-model-mod](https://github.com/esinecan/mental-model-mod) - Bản mod Claude Code: mô hình làm việc của Claude về Eren, bằng chính lời của…
-- [fabiopbarbieri/claude-test-progress](https://github.com/fabiopbarbieri/claude-test-progress) - Bản mod Claude Code cho tiến trình kiểm thử nền: JUnit, Karma, pytest và…
 - [feizaodemon/claude-mods](https://github.com/feizaodemon/claude-mods) - Các mod Code Claude (plugin móc hàm): session-meter và nhiều mod khác.
-- [finalpantasy/claude-mod-hider](https://github.com/finalpantasy/claude-mod-hider) - Claude Mod Hider: one tiny button that hides every Claude Code mod above your…
+- [finalpantasy/claude-mod-hider](https://github.com/finalpantasy/claude-mod-hider) - Trình ẩn mod Claude: một nút nhỏ ẩn mọi bản mod Claude Code phía trên lời nhắc…
+- [finalpantasy/claude-mod-pack](https://github.com/finalpantasy/claude-mod-pack) - Claude Mod Pack: small Claude Code mods.
 - [fllag/claude-mods](https://github.com/fllag/claude-mods) - Các bản mod đang thử nghiệm của đội Hospedin dành cho Claude Code.
 - [fran343/claude-mods](https://github.com/fran343/claude-mods)
 - [francktrouillez/claude-freeze](https://github.com/francktrouillez/claude-freeze) - Bản mod Claude Code: đóng băng một phiên và tiếp tục sau như thể chưa có gì xảy…
@@ -1826,14 +1789,15 @@ Lộ trình của bạn, tự theo dõi chính nó. Cây lộ trình trên máy 
 - [GeckoKing9/claude-code-copy-button](https://github.com/GeckoKing9/claude-code-copy-button) - Ctrl+nhấp để sao chép liên kết trên mọi khối mã trong phản hồi Claude Code.
 - [gggg5151/claude-desktop-links-to-vscode-mod](https://github.com/gggg5151/claude-desktop-links-to-vscode-mod) - Một bản mod Claude Code cho ứng dụng máy tính để bàn: nhấp vào tham chiếu tệp…
 - [h3h/blocks-only](https://github.com/h3h/blocks-only) - Bản mod Claude Code: các lượt lập trình kết thúc bằng báo cáo đã xác thực về…
-- [hal-9/claude-mods](https://github.com/hal-9/claude-mods) - Marketplace riêng tư của các mod Code Claude.
 - [haruki-cl/claude-code-mods](https://github.com/haruki-cl/claude-code-mods) - Các bản mod Claude Code: token-weather (mức sử dụng context và khung bộ nhớ)…
 - [hb03/claude-mods](https://github.com/hb03/claude-mods) - Các mod tiếng Đức cho Claude Code: thông tin ngữ cảnh/cache, các mục còn bỏ ngỏ…
-- [Hekzory/spend-meter](https://github.com/Hekzory/spend-meter) - A live spend meter for Claude Code: the session.
+- [Hekzory/spend-meter](https://github.com/Hekzory/spend-meter) - Đồng hồ đo chi tiêu trực tiếp cho Claude Code: chi phí của phiên cùng các…
 - [Huuuuung/think-meter](https://github.com/Huuuuung/think-meter) - Bản mod Claude Code: mỗi câu trả lời mất bao lâu, Claude suy nghĩ bao lâu và…
 - [hymleong/claude-mods](https://github.com/hymleong/claude-mods) - marketplace các bản mod claude.
 - [imsungbin/quackpit-mod](https://github.com/imsungbin/quackpit-mod) - Một buồng lái phía trên lời nhắc Code Claude của bạn.
+- [Isaacg1000/isaac-mods](https://github.com/Isaacg1000/isaac-mods) - Eight Claude Code mods: progress panel, tool skins, file tree, cache and delete…
 - [jasonXiao422/drawing2sw](https://github.com/jasonXiao422/drawing2sw) - Tự động đọc bản vẽ kỹ thuật của bạn rồi dựng mô hình trong SolidWorks.
+- [jeffyfung/claude-mods](https://github.com/jeffyfung/claude-mods) - A place to house my claude mods.
 - [JeremyHo1123/claude-code-agent-board](https://github.com/JeremyHo1123/claude-code-agent-board) - Bảng trực tiếp của các tác nhân con Claude Code bên trong VS Code: tác nhân con…
 - [jessetsai1024/claude-ctx-panel](https://github.com/jessetsai1024/claude-ctx-panel) - Bảng điều khiển mức sử dụng context ở thanh bên: tổng lượng, phân loại, mức…
 - [jessetsai1024/claude-files](https://github.com/jessetsai1024/claude-files) - Danh sách tệp ở thanh bên: những tệp nào được tạo mới, sửa đổi, xóa trong cuộc…
@@ -1842,8 +1806,8 @@ Lộ trình của bạn, tự theo dõi chính nó. Cây lộ trình trên máy 
 - [jessetsai1024/claude-timeline](https://github.com/jessetsai1024/claude-timeline) - Dòng thời gian ở thanh bên: thời gian của lượt này được dành cho việc gì.
 - [jessetsai1024/claude-tokens](https://github.com/jessetsai1024/claude-tokens) - Lưu lượng token ở thanh bên: mỗi lần cuộc hội thoại chính gửi bao nhiêu token…
 - [jessetsai1024/claude-whisper](https://github.com/jessetsai1024/claude-whisper) - Gói đậu đỏ trung thực của claude code: sau khi trả lời mỗi lượt, Claude khẽ nói…
-- [Jh-jaehyuk/plan-checklist](https://github.com/Jh-jaehyuk/plan-checklist) - Danh sách kiểm tra kế hoạch có kiểm soát bằng bằng chứng cho Claude Code: các…
-- [jorgehsy/claude-mods](https://github.com/jorgehsy/claude-mods) - Catálogo de mods para Claude Code.
+- [jkf87/mod-guide](https://github.com/jkf87/mod-guide) - Unofficial community guide to Claude Code mods (function hooks) in 6 languages…
+- [jorgehsy/claude-mods](https://github.com/jorgehsy/claude-mods) - Danh mục mod cho Claude Code.
 - [Joseph-Ayoub/claude-mods](https://github.com/Joseph-Ayoub/claude-mods) - Các bản mod Claude Code của Joseph Ayoub: một marketplace plugin (joseph-mods).
 - [jrojasdeveloper/naruto-buddy](https://github.com/jrojasdeveloper/naruto-buddy) - Bản mod Claude Code: Naruto pixel-art hoạt ảnh phía trên prompt.
 - [jrpferreira2002-jpg/clawd-vibe](https://github.com/jrpferreira2002-jpg/clawd-vibe) - Bản mod Claude Code: Clawd phía trên prompt, clawd có tâm trạng.
@@ -1853,36 +1817,40 @@ Lộ trình của bạn, tự theo dõi chính nó. Cây lộ trình trên máy 
 - [KiranPothana/session-board](https://github.com/KiranPothana/session-board) - Mod cho Claude Code: mọi phiên Claude Code trong một cửa sổ nổi, kèm tóm tắt…
 - [KrasimirKralev/krasi-mods](https://github.com/KrasimirKralev/krasi-mods) - Các bản mod Claude Code nhỏ trong một chợ plugin.
 - [Kruhlikau/subagent-tuner](https://github.com/Kruhlikau/subagent-tuner) - Code mod Claude: chọn model và mức độ suy luận của mọi subagent.
+- [krysmalskipl/claude-code-mods](https://github.com/krysmalskipl/claude-code-mods) - Claude Code mods by krysmalskipl: install only the ones you want.
 - [kyuskoj/claude-mods](https://github.com/kyuskoj/claude-mods)
 - [lakmadev/claude-mods](https://github.com/lakmadev/claude-mods) - Mười Claude Code mod: thú cưng pixel hoạt họa, Code Wrapped, nhạc lo-fi, cùng…
 - [Loup0007A/claude-mods](https://github.com/Loup0007A/claude-mods)
 - [Lucas-CX/awesome-claude-mods](https://github.com/Lucas-CX/awesome-claude-mods) - Hướng dẫn Claude Code Mods do cộng đồng tuyển chọn: trường hợp sử dụng, bản…
-- [lucianokatze/mk-usage](https://github.com/lucianokatze/mk-usage) - Mod de Claude Code: los límites de tu plan (sesión 5h, semana) y la renovación…
+- [lucianokatze/mk-usage](https://github.com/lucianokatze/mk-usage) - Bản mod Claude Code: các giới hạn gói của bạn (phiên 5h, tuần) và thời điểm gia…
 - [LupusMalusDeviant/claude-mods](https://github.com/LupusMalusDeviant/claude-mods) - Các bản mod Claude Code đơn lẻ từ Mod Box, mỗi bản có thể được cài đặt riêng.
+- [Lutifya/claude-code-mods](https://github.com/Lutifya/claude-code-mods) - Claude Code mods: next-steps (suggested prompts + usage bars) and scratch.
 - [M-i-k-e-l/agent-state](https://github.com/M-i-k-e-l/agent-state) - Một mod Claude Code hiển thị Claude đang làm gì trong phụ đề tab iTerm2, để chỉ…
 - [malinfossum/mango-buddy](https://github.com/malinfossum/mango-buddy) - Một chú mèo đen mềm mại phía trên lời nhắc Claude Code của bạn.
-- [malitov/effort-per-model](https://github.com/malitov/effort-per-model) - Claude Code mod: remembers the effort level per model and restores it on switch.
+- [malitov/effort-per-model](https://github.com/malitov/effort-per-model) - Bản mod Claude Code: ghi nhớ mức độ nỗ lực theo từng mô hình và khôi phục khi…
 - [marcelmatula/claude-mods](https://github.com/marcelmatula/claude-mods) - Các Code mod Claude của Marcel trong một plugin marketplace (marcel-mods).
 - [MarkMerk/markmerk-mods](https://github.com/MarkMerk/markmerk-mods) - Các mod nhỏ cho Claude Code: runner-avatar, một avatar nhỏ chạy phía trên…
 - [MathysRaw/claude-mods](https://github.com/MathysRaw/claude-mods) - Các bản mod Claude: bộ đếm token (token-meter).
 - [mattbv/intent-ledger](https://github.com/mattbv/intent-ledger) - Bản mod Claude Code: ngăn trực tiếp hiển thị những gì coding agent AI của bạn…
 - [max-gom/claude-session-remover](https://github.com/max-gom/claude-session-remover) - Mod Code Claude: khung /sessions để duyệt và xóa các phiên cùng dữ liệu trên…
-- [melandres8/claude-mods](https://github.com/melandres8/claude-mods) - Claude Code mods: relevo (planner/builder relay between two sessions) and…
+- [melandres8/claude-mods](https://github.com/melandres8/claude-mods) - Các bản mod Claude Code: relevo (chuyển tiếp planner/builder giữa hai phiên) và…
 - [michaelblaess/turbo-mod](https://github.com/michaelblaess/turbo-mod) - Thanh bên cho Claude Code: các tệp do Claude viết, các khung terminal, trạng…
+- [mkiselyow/diff-lens](https://github.com/mkiselyow/diff-lens) - Claude Code mod: ask Claude to guide you through a PR, click any file link in…
 - [moabualruz/rice-multi-models](https://github.com/moabualruz/rice-multi-models) - Code mod Claude: Codex (gói đăng ký ChatGPT) và các model không phải Anthropic…
 - [monkfrodo/claude-mods](https://github.com/monkfrodo/claude-mods)
-- [MoriHiroshiDesu/hiroshi-claude-mods](https://github.com/MoriHiroshiDesu/hiroshi-claude-mods) - Mods pessoais do Claude Code (interface e comportamento).
+- [MoriHiroshiDesu/hiroshi-claude-mods](https://github.com/MoriHiroshiDesu/hiroshi-claude-mods) - Các bản mod Claude Code cá nhân (giao diện và hành vi).
 - [mtami/terminal-tab-title](https://github.com/mtami/terminal-tab-title) - Code mod Claude: đặt tên cho tab terminal nơi Claude chạy.
 - [muellerei/enable-todo-tools](https://github.com/muellerei/enable-todo-tools) - Mod Code Claude bật lại các công cụ todo cho những mô hình loại bỏ chúng, bằng…
 - [muellerei/sweet-spot](https://github.com/muellerei/sweet-spot) - Mod Claude Code chờ đến lúc tạm dừng an toàn, sau đó chuyển giao phiên của bạn…
 - [muellerei/task-line](https://github.com/muellerei/task-line) - Mod Code Claude: một dòng cho mỗi nhiệm vụ phía trên prompt, hiển thị nhiệm vụ…
+- [mugenracerman/clean-view](https://github.com/mugenracerman/clean-view) - Claude Code mod: hides technical output and shows a plain-English progress box…
 - [nachtgold/claude-code-connect-four](https://github.com/nachtgold/claude-code-connect-four) - Chơi Connect Four với AI bên trong Claude Code (/connect-four).
 - [naoanao/agent-cross-check](https://github.com/naoanao/agent-cross-check) - Mod Code Claude: khi một agent lập trình khác commit vào repo của bạn, Claude…
-- [naoanao/context-saver](https://github.com/naoanao/context-saver) - Mod Code Claude: giữ các phiên nhẹ — dòng mức sử dụng, cảnh báo và một lần nén…
 - [naoanao/shared-repo-guard](https://github.com/naoanao/shared-repo-guard) - Mod Code Claude cho các repo được nhiều agent AI chia sẻ: ngăn các giá trị bí…
 - [Nasrallah-Adel/claude-delegate-launcher](https://github.com/Nasrallah-Adel/claude-delegate-launcher) - Claude Code mod: một nút cho mỗi trình triển khai delegate-skills.
 - [NicoSKOOL/seo-mods](https://github.com/NicoSKOOL/seo-mods) - Các Code mod Claude cho SEO: thứ hạng DataWise trực tiếp phía trên prompt và cơ…
 - [nnemirovsky/cc-monitor-rearm](https://github.com/nnemirovsky/cc-monitor-rearm) - Kích hoạt lại các lượt theo dõi Monitor dài của Claude Code khi chúng hết hạn…
+- [nozomichi00/claude-code-mods](https://github.com/nozomichi00/claude-code-mods)
 - [nu0ma/query-guard](https://github.com/nu0ma/query-guard) - Thanh bảo vệ SQL cho Code Claude: hỏi trước khi Claude chạy DELETE, UPDATE…
 - [nwilsson/claudepad](https://github.com/nwilsson/claudepad) - Một khung notepad cho Claude Code, dưới dạng mod.
 - [OG-Matcha/tessera](https://github.com/OG-Matcha/tessera) - Một mod cho Code Claude, ưu tiên Windows và CJK: bản xem trước hình ảnh và văn…
@@ -1891,18 +1859,16 @@ Lộ trình của bạn, tự theo dõi chính nó. Cây lộ trình trên máy 
 - [omarnaman/claude-mods](https://github.com/omarnaman/claude-mods)
 - [osaki42/awesome-claude-mods](https://github.com/osaki42/awesome-claude-mods) - Các Mod Code Claude tốt nhất, được sắp xếp theo những gì chúng làm cho bạn.
 - [Para-FR/claude-code-mods-fr](https://github.com/Para-FR/claude-code-mods-fr) - Hai Mod Claude cho Code Claude: garde-du-corps.
-- [paragpandyareal/claude-code-timestamps](https://github.com/paragpandyareal/claude-code-timestamps) - Dấu thời gian cho Code Claude: thời gian trên mọi tin nhắn, câu trả lời và lần…
 - [patrick-lai/claude-fish-stack-mod](https://github.com/patrick-lai/claude-fish-stack-mod) - fishStack: một Code mod Claude. Worktree cố định với bước khởi đầu chỉ đọc, nút…
-- [philarete173/claude_mods](https://github.com/philarete173/claude_mods) - Live session-stats side pane for the Claude desktop app.
+- [philarete173/claude_mods](https://github.com/philarete173/claude_mods) - Ngăn bên thống kê phiên trực tiếp cho tab Code của ứng dụng desktop Claude: ngữ…
 - [PhilRoli/claude-mods](https://github.com/PhilRoli/claude-mods) - Code mod Claude: tạm dừng các phiên trước khi chuyến tàu TrainTracker của bạn…
 - [pradyb/claude-mods](https://github.com/pradyb/claude-mods) - Các mod cho Claude Code: safety-guard chặn lệnh phá hoại và truy cập tệp bí…
 - [pvjbuilds/crab-buddy](https://github.com/pvjbuilds/crab-buddy) - Một chú cua pixel-art Claude hoạt hình cho Claude Code: nó diễn lại những gì…
+- [r1305/claude-mods](https://github.com/r1305/claude-mods) - Mods para Claude Code: enrutado de modelos con dashboard de consumo y…
 - [rafagomes/claude-code-mods](https://github.com/rafagomes/claude-code-mods) - Các mod cho Claude Code: plugin function-hook chạy bên trong phiên…
 - [Risdon8/push-ups](https://github.com/Risdon8/push-ups) - Bản mod cho Claude Code: bài tập chống đẩy thực hiện trong khi Claude làm việc.
 - [risen372/claude-mods](https://github.com/risen372/claude-mods)
 - [RobGruhl/claude-mod-learnings](https://github.com/RobGruhl/claude-mod-learnings) - Hook Chain: cẩm nang thực địa về các mod Claude Code, từ ELI5 đến kỹ thuật…
-- [robinmarin/claude-mods](https://github.com/robinmarin/claude-mods) - chỉ là danh sách các mod tôi đang sử dụng.
-- [rogod4rk/claude-code-mods](https://github.com/rogod4rk/claude-code-mods) - Ba mod không phụ thuộc thư viện cho Code Claude: statusline thích ứng, bộ bảo…
 - [Rohitp/claude-mods](https://github.com/Rohitp/claude-mods) - Các mod cho claude code.
 - [Ross-cripto/modshelf](https://github.com/Ross-cripto/modshelf) - Một marketplace mã nguồn mở cho Claude Code mod, với các kỹ năng của kho lưu…
 - [saadk408/stepline](https://github.com/saadk408/stepline) - Mod Claude Code: biến kế hoạch bạn phê duyệt trong chế độ plan thành một…
@@ -1911,29 +1877,26 @@ Lộ trình của bạn, tự theo dõi chính nó. Cây lộ trình trên máy 
 - [saksham10arora-dotcom/claude-lofi](https://github.com/saksham10arora-dotcom/claude-lofi) - Nhạc nền lofi theo sát phiên làm việc: bình tĩnh, tập trung, trôi chảy, cùng…
 - [saksham10arora-dotcom/claude-teach-me](https://github.com/saksham10arora-dotcom/claude-teach-me) - Học trong khi Claude viết mã: sau một lượt đã thay đổi mã, một câu hỏi về chính…
 - [saksham10arora-dotcom/claude-vhs](https://github.com/saksham10arora-dotcom/claude-vhs) - Bản ghi của mọi chỉnh sửa mà Claude thực hiện: phát lại từng thay đổi bằng cách…
-- [sam-ruff/account-switcher-claude-code-mod](https://github.com/sam-ruff/account-switcher-claude-code-mod) - A mod for claude code that allows you to switch between accounts.
-- [SashimmyUni/polis](https://github.com/SashimmyUni/polis) - Một Code mod Claude: dashboard dự án và bản đồ thành phố isometric của các…
+- [sam-ruff/account-switcher-claude-code-mod](https://github.com/sam-ruff/account-switcher-claude-code-mod) - Một bản mod cho claude code cho phép bạn chuyển đổi giữa các tài khoản.
 - [servaes/cockpit](https://github.com/servaes/cockpit) - Cockpit Board và các Code mod Claude khác của André Servaes.
-- [Shashwat-19/Claude-cockpit](https://github.com/Shashwat-19/Claude-cockpit) - Trung tâm điều khiển cho Claude Code: đội agent phụ trực tiếp, mức sử dụng…
 - [Showrin/claude-mods](https://github.com/Showrin/claude-mods) - Các mod Code Claude của Showrin cho công việc hằng ngày hiệu quả hơn.
 - [sillss1/brain-dash](https://github.com/sillss1/brain-dash) - Code mod Claude: giới hạn context và plan với dự báo burn-rate, cùng radar…
 - [someonewithpc/claude-mod-keep-going](https://github.com/someonewithpc/claude-mod-keep-going) - Code mod Claude giúp các phiên không có người giám sát tiếp tục chạy qua các…
-- [sp1e/context-meter](https://github.com/sp1e/context-meter) - Claude Code mod: context-window meter per session, with Compact now…
+- [sp1e/context-meter](https://github.com/sp1e/context-meter) - Bản mod Claude Code: đồng hồ đo cửa sổ ngữ cảnh theo từng phiên, với Compact…
 - [StanislavKozachenko/claude-mods](https://github.com/StanislavKozachenko/claude-mods) - Một bộ sưu tập Claude Code mod: các hook chức năng TypeScript, được phát hành…
 - [steven-ngle/blade-of-commits](https://github.com/steven-ngle/blade-of-commits) - Thông điệp commit một cú nhấp cho Claude Code với Malenia pixel-art đang nhảy.
 - [T-AI-Labs/claude-code-mods](https://github.com/T-AI-Labs/claude-code-mods) - Các mod cho Claude Code. cache-meter: tỷ lệ prompt-cache hit, mức lấp đầy…
 - [Tanish-Dev/claude-usage-band](https://github.com/Tanish-Dev/claude-usage-band) - Clawd Meter — một bản mod Claude Code hiển thị mức sử dụng gói Claude của bạn…
-- [tanmen/claude-tanmen-plugins](https://github.com/tanmen/claude-tanmen-plugins) - Unofficial Claude Code mods by tanmen (marketplace: tanmen).
+- [tanmen/claude-tanmen-plugins](https://github.com/tanmen/claude-tanmen-plugins) - Các bản mod Claude Code không chính thức của tanmen (marketplace: tanmen).
 - [tanwar-harsh/luff-crew-monitor](https://github.com/tanwar-harsh/luff-crew-monitor) - Code mod Claude: panel crew trực tiếp cho mọi subagent.
 - [thangnguyen-69/claude-mods](https://github.com/thangnguyen-69/claude-mods) - Plugin marketplace Code Claude: các bài review Plannotator trên tailnet và sẽ…
 - [TheBabaYaga/claude-session-flow](https://github.com/TheBabaYaga/claude-session-flow) - Một mod Claude Code hiển thị phiên hiện tại trong một ngăn: từng lời nhắc, phần…
 - [theishandubey/claude-mods](https://github.com/theishandubey/claude-mods) - Một chợ plugin Claude Code của các mod: plugin function-hooks vẽ band, pane và…
-- [tiger3645/claude-tts](https://github.com/tiger3645/claude-tts) - Bản mod Code Claude: đọc to các phản hồi của Claude (plugin đọc thành tiếng).
-- [tomfluff/claude-read-along](https://github.com/tomfluff/claude-read-along) - Listen to Claude Code.
+- [thomasreichmann/image-peek](https://github.com/thomasreichmann/image-peek) - Claude Code mod: inline previews of the images Claude reads, drawn in the…
+- [tomfluff/claude-read-along](https://github.com/tomfluff/claude-read-along) - Nghe các câu trả lời của Claude Code trong khi câu đang được đọc được tô sáng.
 - [TomySpagnoletti/cc-mods-copy-latest-replies](https://github.com/TomySpagnoletti/cc-mods-copy-latest-replies) - Code mod Claude: một nút bên dưới câu trả lời cuối của Claude sao chép mọi câu…
 - [Toptaab/token-garden](https://github.com/Toptaab/token-garden) - Các Claude Code mod của Toptaab.
 - [tornikegomareli/claude-whoami](https://github.com/tornikegomareli/claude-whoami) - Chế độ CC hiển thị bạn đang đăng nhập vào account, organization và plan Claude…
-- [tunglt1810/claude-gadgets](https://github.com/tunglt1810/claude-gadgets) - Một số mod Claude.
 - [VAlux/claude-session-progress](https://github.com/VAlux/claude-session-progress) - Mod Claude Code: dải tiến trình động và bản tóm tắt hoàn tất cho các tác vụ…
 - [Vansitha/clawd-watch](https://github.com/Vansitha/clawd-watch) - Ba mod Claude Code nhỏ: xem khi nào các subagent của bạn hoàn tất, xếp hàng các…
 - [varunmoka7/layman](https://github.com/varunmoka7/layman) - Nói &quot;I.
@@ -1941,8 +1904,8 @@ Lộ trình của bạn, tự theo dõi chính nó. Cây lộ trình trên máy 
 - [vmurin/cache-weather](https://github.com/vmurin/cache-weather) - Claude Code plugin: đếm ngược bộ nhớ đệm lời nhắc, tỷ lệ trúng bộ nhớ đệm, thời…
 - [webfront/claude-mods](https://github.com/webfront/claude-mods) - Các mod đặc biệt cho claude code và code trong ứng dụng claude.
 - [wesleystagg/model-router](https://github.com/wesleystagg/model-router) - Bản mod Code Claude: model của chính phiên làm việc chọn model và mức độ nỗ lực…
-- [wipeer/claude-mods](https://github.com/wipeer/claude-mods) - Các mod cải thiện trải nghiệm nhỏ cho Claude Code.
 - [wisbech/molt](https://github.com/wisbech/molt) - molt — khi context vượt quá giới hạn của shell, tách nó vào thư mục và tiếp…
+- [wonr-spec/claude-mods](https://github.com/wonr-spec/claude-mods) - Claude Code mod 모음 (wonr-mods 마켓플레이스).
 - [Wowbagger1994/claude-mods](https://github.com/Wowbagger1994/claude-mods) - Mod cho Claude Code: bí mật được che giấu, việc cần làm, kiểm tra và CI, nhật…
 - [wukonigcom/quanta-costa](https://github.com/wukonigcom/quanta-costa) - 🧾 Plugin Claude Code: giới hạn sử dụng Claude Pro/Max của bạn với dự báo tốc…
 - [xinhuagu/oh-my-claude-mods](https://github.com/xinhuagu/oh-my-claude-mods) - Các bản mod cho Claude Code. agent-crew: theo dõi các agent phụ làm việc như…
@@ -1953,17 +1916,14 @@ Lộ trình của bạn, tự theo dõi chính nó. Cây lộ trình trên máy 
 - [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - Tất cả các phần trong system prompt của Claude Code, 27 mô tả công cụ tích hợp…
 - [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) - Kỹ năng video AI cho Claude Code &amp; Codex — video sản phẩm kiểu điện ảnh với…
 - [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) - Hơn 45 mẹo để tận dụng tối đa Claude Code, từ cơ bản đến nâng cao — bao gồm…
-- [op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) - 🪧 Claude Code / Codex skill — tạo carousel Xiaohongshu và các cặp ảnh bìa…
 - [persiyanov/herdr-reviewr](https://github.com/persiyanov/herdr-reviewr) - Xem diff của agent lập trình trong một khung terminal và gửi nhận xét theo dòng…
 - [uppinote20/claude-dashboard](https://github.com/uppinote20/claude-dashboard) - Plugin dòng trạng thái toàn diện cho Claude Code với thông tin sử dụng ngữ…
 - [starbaser/ccproxy](https://github.com/starbaser/ccproxy) - Xây dựng mod cho Claude Code: hook mọi yêu cầu, sửa đổi mọi phản hồi, /model…
-- [NYCU-Chung/cc-statusline](https://github.com/NYCU-Chung/cc-statusline) - Bảng điều khiển statusline toàn diện cho Claude Code — thông tin phiên, thanh…
 - [gwittebolle/claude-carbon](https://github.com/gwittebolle/claude-carbon) - claude-carbon: theo dõi dấu chân carbon của các phiên Claude Code.
 - [AwesomeZun/CC-statusline](https://github.com/AwesomeZun/CC-statusline) - Statusline đẹp mắt cho Claude Code do awesomejun tạo.
 - [a86582751/dsh-nexttavern](https://github.com/a86582751/dsh-nexttavern) - Agent nhập vai dài DeepSeek Harness (plugin DSH Tavern): nhập thẻ nhân vật…
 - [JohnnyVizz/claude-kit](https://github.com/JohnnyVizz/claude-kit) - Các skill và mod Claude Code công khai.
 - [escapeboy/claude-code-kit](https://github.com/escapeboy/claude-code-kit) - Skill, mod, tác nhân phụ, hook, lệnh slash và hướng dẫn cho Claude Code — có…
-- [mvalentsev/awesome-free-ai-coding](https://github.com/mvalentsev/awesome-free-ai-coding) - 📡 LLM APIs hợp pháp miễn phí &amp; các tác nhân lập trình — tự cập nhật, được thăm…
 - [arturogarrido/claudinho](https://github.com/arturogarrido/claudinho) - ⚽ Tỷ số bóng đá trực tiếp, lịch thi đấu và bảng xếp hạng cho giải đấu bạn theo…
 - [johncattrall/keymap-ai](https://github.com/johncattrall/keymap-ai) - Agent Skill biến tác nhân lập trình của bạn thành chuyên gia firmware bàn phím.
 - [PerryLink/dsh-talk](https://github.com/PerryLink/dsh-talk) - Vòng lặp phiên ưu tiên giọng nói cho DeepSeek Harness: nút micro trong composer…
@@ -1972,37 +1932,38 @@ Lộ trình của bạn, tự theo dõi chính nó. Cây lộ trình trên máy 
 - [benz-ai-x/dsh-research-graph](https://github.com/benz-ai-x/dsh-research-graph) - DSH Research Graph · 研图 — plugin DeepSeek Harness cho các chủ đề nghiên cứu…
 - [1225Sakura/oh-my-deepseekharness](https://github.com/1225Sakura/oh-my-deepseekharness) - Lớp điều phối đa tác nhân cho DeepSeek Harness (omd) — các chế độ…
 - [hoobnn/hoobnn-agent-mods](https://github.com/hoobnn/hoobnn-agent-mods) - Bộ sưu tập plugin dành cho Claude Code, pi và DeepSeek Harness: HUD trên thanh…
-- [pierrebelin/claude-code-toolkit](https://github.com/pierrebelin/claude-code-toolkit) - Portable Claude Code toolkit for .NET DDD/Clean Architecture: strict TDD…
+- [pierrebelin/claude-code-toolkit](https://github.com/pierrebelin/claude-code-toolkit) - Bộ công cụ Claude Code di động cho .NET DDD/Clean Architecture: các agent TDD…
 - [TurboKach/claude-code-statusline](https://github.com/TurboKach/claude-code-statusline) - Dòng trạng thái Code Claude nhẹ — một script Bash khoảng 170 dòng, không phụ…
 - [jcdendrite/claude-config](https://github.com/jcdendrite/claude-config) - Cấu hình toàn cục Claude Code có tính di động: kỹ năng tùy chỉnh, hook…
 - [manson341349-beep/claude-desktop-mods](https://github.com/manson341349-beep/claude-desktop-mods) - Các mod không chính thức cho tab Code của Claude Desktop — usage-pet: một dải…
 - [mutlumehmet/claude-plugins](https://github.com/mutlumehmet/claude-plugins) - Các plugin Claude Code tôi dùng hằng ngày: skills và mods, được tinh chỉnh để…
 - [cc-friend/ccost](https://github.com/cc-friend/ccost) - Phân tích mức sử dụng token và chi phí Claude Code từ nhật ký hội thoại cục bộ…
+- [ericbust/namedrop](https://github.com/ericbust/namedrop) - @mentions for Codex, Claude Code, and your terminal.
 - [mkalkere/claude-statusline](https://github.com/mkalkere/claude-statusline) - Status line đẹp mắt, giàu thông tin cho Claude Code.
 - [abdullahkavakli/let-them-talk](https://github.com/abdullahkavakli/let-them-talk) - Bảng trực quan cho các tác nhân Claude Code của bạn: xem các phiên, tác nhân…
 - [alpadalar/ccinfobar](https://github.com/alpadalar/ccinfobar) - Status line có thể tùy chỉnh cho Claude Code với trình chỉnh sửa kéo và thả.
 - [darthmolen/hytale-claude-code-marketplace](https://github.com/darthmolen/hytale-claude-code-marketplace) - Marketplace cho Claude Code Plugins và Skills để hỗ trợ mod trò chơi Hytale.
 - [devrim-1283/claude-code-statusline](https://github.com/devrim-1283/claude-code-statusline) - Statusline một dòng, mã hóa màu cho Claude Code — thư mục, model, mức sử dụng…
 - [frsorrentino/fable-director](https://github.com/frsorrentino/fable-director) - Quản trị token cho Claude Code: mô hình hàng đầu định hướng, việc thực thi được…
-- [hopp1395/cc-outline](https://github.com/hopp1395/cc-outline) - Trình xem chia đôi cho Claude Code trong Windows Terminal và tmux: phiên được…
-- [jeancarlo-javier/claude-status-bar](https://github.com/jeancarlo-javier/claude-status-bar) - Live workflow-phase status line for Claude Code (Plan → Exec → Verify → Done)…
+- [jeancarlo-javier/claude-status-bar](https://github.com/jeancarlo-javier/claude-status-bar) - Dòng trạng thái trực tiếp của các giai đoạn quy trình cho Claude Code.
 - [risukisu/claude-code-statusline](https://github.com/risukisu/claude-code-statusline) - Bảng điều khiển siêu nhỏ 3 dòng cho terminal Claude Code — model, mức tiêu thụ…
 - [romnycristopher/claude-am-mods](https://github.com/romnycristopher/claude-am-mods) - Kho lưu trữ các mod Awesome Media cho Claude Code.
 - [rootstudioyaml/sprag](https://github.com/rootstudioyaml/sprag) - Cắt giảm chi phí Code Claude và token Codex: chuyển các lượt tra cứu và chạy…
 - [mitre/claude-statusline](https://github.com/mitre/claude-statusline) - Statusline nhanh, có thể cấu hình cho Claude Code — một binary Go tĩnh duy nhất.
+- [carterptull/ampline-claude](https://github.com/carterptull/ampline-claude) - An amplified color-graded, zero-dependency statusline for Claude Code.
 - [crosscountryridinggirlwonder916/claude-statusline](https://github.com/crosscountryridinggirlwonder916/claude-statusline) - Hiển thị statusline Claude Code với giới hạn tốc độ, thư mục hiện tại và thông…
 - [L3DigitalNet/ClaudeCodeStatusLine](https://github.com/L3DigitalNet/ClaudeCodeStatusLine) - Status line nhỏ gọn, được duy trì tích cực cho Claude Code — mô hình, mức độ nỗ…
 - [Ma1achy/claude-statusline](https://github.com/Ma1achy/claude-statusline) - dòng trạng thái thân thiện, cho phép tùy chỉnh mọi thứ của Claude Code — thanh…
 - [zach-source/claude-factory](https://github.com/zach-source/claude-factory) - Các xưởng phần mềm có thể định nghĩa cho Claude Code trên herdr: đồ thị trạm…
+- [0xSerachu/claude-shortcuts](https://github.com/0xSerachu/claude-shortcuts) - Explore and quiz yourself on all Claude Code shortcuts with categorized…
 - [Alpinoo/claude-code-usage-statusline](https://github.com/Alpinoo/claude-code-usage-statusline) - Dòng trạng thái PowerShell Windows Code cho Claude: giới hạn 5 giờ và hàng tuần…
-- [crafts69guy/claude-statusline.nvim](https://github.com/crafts69guy/claude-statusline.nvim) - Dòng trạng thái Code của Claude trong Lua, cùng playground Neovim trực tiếp.
-- [divramod/divramod-claude-code-plugins](https://github.com/divramod/divramod-claude-code-plugins) - divramod.
+- [ctfbio/claude-code-statusline](https://github.com/ctfbio/claude-code-statusline) - Professional-grade Claude Code statusline: session duration, multi-currency…
+- [divramod/divramod-claude-code-plugins](https://github.com/divramod/divramod-claude-code-plugins) - Các plugin Claude Code của divramod, một marketplace: agent skills và các ngăn…
 - [erDevKumar/claude-code-companion](https://github.com/erDevKumar/claude-code-companion) - Extension VS Code: tiến độ task Code Claude, ETA và quota rate-limit qua…
 - [fbandres/ccmods](https://github.com/fbandres/ccmods) - Các mod cho Claude Code: các pane trực tiếp, gauge và nhiều tính năng khác, có…
 - [FukKwang/claude-statusline](https://github.com/FukKwang/claude-statusline) - Dòng trạng thái Claude Code đầy màu sắc: giới hạn gói, ngữ cảnh, chi phí và…
 - [Gabriel-Dalton/claude-statusline-tokens](https://github.com/Gabriel-Dalton/claude-statusline-tokens) - Dòng trạng thái Claude Code cho Windows: tổng token, chi phí theo API-rate và…
 - [gvart/claude-config](https://github.com/gvart/claude-config) - Thiết lập Claude Code của tôi: mod agent-monitor, skills, agents và trình cài…
-- [hanneshapke/claude-statusline](https://github.com/hanneshapke/claude-statusline) - Thanh trạng thái một dòng cho Code Claude: mô hình, git, ngữ cảnh, token, chi…
 - [hieuvo/claude-imgview](https://github.com/hieuvo/claude-imgview) - Xem trước hình ảnh bên trong Claude Code: di chuột lên một chip dưới câu trả…
 - [IceThunder/claude-statusline](https://github.com/IceThunder/claude-statusline) - Status line Code Claude: model, các thanh quota 5h/7d, thanh chi tiêu hàng…
 - [IdoSagiv/claude-config](https://github.com/IdoSagiv/claude-config) - Cấu hình Claude Code cá nhân: quyền, statusline, các máy chủ MCP.
@@ -2014,11 +1975,12 @@ Lộ trình của bạn, tự theo dõi chính nó. Cây lộ trình trên máy 
 - [lucasmm96/claude-statusline](https://github.com/lucasmm96/claude-statusline) - Hook statusline Claude Code — theo dõi mức sử dụng token và ngữ cảnh qua các…
 - [markallisongit/claude-statusline](https://github.com/markallisongit/claude-statusline) - Statusline Code Claude kèm trình cài đặt cho Linux và Git Bash trên Windows.
 - [mgstegmaier/claude-plugins](https://github.com/mgstegmaier/claude-plugins) - các plugin, skill, mod claude tự phát triển, không bị giới hạn và nhiều hơn nữa.
-- [MSFSupply/claude-marketplace](https://github.com/MSFSupply/claude-marketplace) - Marketplace Claude Code của MSF Supply: các mod được tuyển chọn và cố định theo…
 - [munkgorn/usage-statusline-claude](https://github.com/munkgorn/usage-statusline-claude) - Dòng trạng thái nhiều dòng phong phú cho Claude Code — giới hạn sử dụng trực…
+- [mvrozanti/claude-progressbar](https://github.com/mvrozanti/claude-progressbar) - Progress bars for the Bash commands Claude Code runs, drawn in its statusline…
 - [naughty00shortie/claude-statusline](https://github.com/naughty00shortie/claude-statusline) - Status line nhiều dòng cho Claude Code: thanh ngữ cảnh, nhánh git, các thanh…
 - [parisgroup-ai/claude-statusline](https://github.com/parisgroup-ai/claude-statusline) - @parisgroup-ai/claude-statusline — dòng trạng thái Code của Claude cho macOS +…
 - [peaceinitiativemenhadenoil263/claude-status-bar](https://github.com/peaceinitiativemenhadenoil263/claude-status-bar) - Theo dõi trạng thái Claude Code từ thanh menu macOS của bạn với các chỉ báo…
+- [pkkid/claude-aitools](https://github.com/pkkid/claude-aitools) - Various mods and skills for my Claude Desktop setup.
 - [primelogiclabio/claude-tools](https://github.com/primelogiclabio/claude-tools) - Các skill và mod cho Claude Code và Cowork — project-tracker, reference-doc và…
 - [rainyfei/claude-statusline-win](https://github.com/rainyfei/claude-statusline-win) - Dòng trạng thái Claude Code cho Windows (PowerShell): thanh sử dụng, đếm ngược…
 - [Rubio-Enterprises/claude-statusline](https://github.com/Rubio-Enterprises/claude-statusline) - Statusline Code Claude tùy chỉnh.
@@ -2037,14 +1999,15 @@ Lộ trình của bạn, tự theo dõi chính nó. Cây lộ trình trên máy 
 - [ymoud/claude-code-statusline](https://github.com/ymoud/claude-code-statusline) - Dòng trạng thái Claude Code: thư mục, nhánh git, mô hình, mức sử dụng cửa sổ…
 - [YoniYon00/claude-feedback-rings](https://github.com/YoniYon00/claude-feedback-rings) - Context Rot Detector 2026 - Trình giám sát bộ nhớ AI chủ động và giới hạn tốc…
 - [zhuyansen/awesome-claude-code-hooks](https://github.com/zhuyansen/awesome-claude-code-hooks) - Hook, subagent và statusline Claude Code: các bộ sưu tập và công cụ mã nguồn…
-- [tronschell/statusline.sh](https://github.com/tronschell/statusline.sh) - A visual builder for Claude Code statuslines.
+- [tronschell/statusline.sh](https://github.com/tronschell/statusline.sh) - Trình xây dựng trực quan cho statusline của Claude Code.
 - [Magnus-Gille/tokenatlas](https://github.com/Magnus-Gille/tokenatlas) - Statusline Claude Code hiển thị mức sử dụng token theo thời gian thực và mức…
+- [previsioncystolith584/ai-video-downloader](https://github.com/previsioncystolith584/ai-video-downloader) - Download videos from major platforms and automatically add translated…
 - [ishuagrawal/clawdhouse](https://github.com/ishuagrawal/clawdhouse) - Mods cho Claude Code: các ngăn, dải và bạn đồng hành được xây dựng trên…
 - [ashishsk93/baton-mods](https://github.com/ashishsk93/baton-mods) - Chuyển tác vụ giữa các phiên Claude Code của bạn.
 - [lahoramaker/mods-mcp](https://github.com/lahoramaker/mods-mcp) - Điều này trong một máy chủ MCP để điều khiển MODS, công cụ đa nền tảng dạng…
+- [charlie947/mod-maker](https://github.com/charlie947/mod-maker) - Mod Maker: tìm những gì bạn yêu cầu Claude Code lặp đi lặp lại và biến nó thành…
 - [Rimcat-JA/translate-ck3-mods](https://github.com/Rimcat-JA/translate-ck3-mods) - Skill Codex và Claude Code để dịch các mod CK3 với LLM cục bộ.
 - [sTomerG/agent-kit](https://github.com/sTomerG/agent-kit) - Các mod mã nguồn mở và extension khác cho Claude Code.
-- [charlie947/mod-maker](https://github.com/charlie947/mod-maker) - Mod Maker: tìm những gì bạn yêu cầu Claude Code lặp đi lặp lại và biến nó thành…
 
 </details>
 
@@ -2055,7 +2018,7 @@ Lộ trình của bạn, tự theo dõi chính nó. Cây lộ trình trên máy 
 DeepSeek Harness và Cordis đi đến cùng một nơi theo hướng khác: với chúng, plugin là cơ chế mod, vì vậy một plugin ở đó tương đương với một mod ở đây.
 
 <details>
-<summary>🧵 <b><a href="https://github.com/ruvnet/ruflo">ruvnet/ruflo</a></b> · ⭐74439 · TypeScript · 👁️ observed · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/ruvnet/ruflo">ruvnet/ruflo</a></b> · ⭐74447 · TypeScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -2075,7 +2038,7 @@ DeepSeek Harness và Cordis đi đến cùng một nơi theo hướng khác: v�
 
 | Chỉ số               | Giá trị    |
 | -------------------- | ---------- |
-| Lượt sao             | **74439**  |
+| Lượt sao             | **74447**  |
 | Lần push gần nhất    | 2026-10-12 |
 | Lần đầu được liệt kê | 2026-10-04 |
 
@@ -2091,7 +2054,7 @@ DeepSeek Harness và Cordis đi đến cùng một nơi theo hướng khác: v�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/morluto/rea">morluto/rea</a></b> · ⭐153127 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/morluto/rea">morluto/rea</a></b> · ⭐156274 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -2109,8 +2072,8 @@ DeepSeek Harness và Cordis đi đến cùng một nơi theo hướng khác: v�
 
 | Chỉ số               | Giá trị    |
 | -------------------- | ---------- |
-| Lượt sao             | **153127** |
-| Lần push gần nhất    | 2026-10-12 |
+| Lượt sao             | **156274** |
+| Lần push gần nhất    | 2026-10-13 |
 | Lần đầu được liệt kê | 2026-10-05 |
 
 🏷 `agent-skills` · `ai-agents` · `binary-analysis` · `claude-code` · `cli` · `codex` · `cordis` · `ctf`
@@ -2125,7 +2088,7 @@ DeepSeek Harness và Cordis đi đến cùng một nơi theo hướng khác: v�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/nexu-io/open-design">nexu-io/open-design</a></b> · ⭐100748 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/nexu-io/open-design">nexu-io/open-design</a></b> · ⭐100754 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -2143,7 +2106,7 @@ DeepSeek Harness và Cordis đi đến cùng một nơi theo hướng khác: v�
 
 | Chỉ số               | Giá trị    |
 | -------------------- | ---------- |
-| Lượt sao             | **100748** |
+| Lượt sao             | **100754** |
 | Lần push gần nhất    | 2026-10-12 |
 | Lần đầu được liệt kê | 2026-10-04 |
 
@@ -2159,7 +2122,7 @@ DeepSeek Harness và Cordis đi đến cùng một nơi theo hướng khác: v�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/tt-a1i/archify">tt-a1i/archify</a></b> · ⭐82525 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/tt-a1i/archify">tt-a1i/archify</a></b> · ⭐82542 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -2177,7 +2140,7 @@ Biến bất kỳ ý tưởng, kế hoạch hoặc cơ sở mã nào thành mộ
 
 | Chỉ số               | Giá trị    |
 | -------------------- | ---------- |
-| Lượt sao             | **82525**  |
+| Lượt sao             | **82542**  |
 | Lần push gần nhất    | 2026-10-12 |
 | Lần đầu được liệt kê | 2026-10-04 |
 
@@ -2212,7 +2175,7 @@ Một tác nhân lập trình đáng tin cậy cho các tác vụ kỹ thuật p
 | Chỉ số               | Giá trị    |
 | -------------------- | ---------- |
 | Lượt sao             | **35769**  |
-| Lần push gần nhất    | 2026-10-12 |
+| Lần push gần nhất    | 2026-10-13 |
 | Lần đầu được liệt kê | 2026-10-06 |
 
 🏷 `agent` · `agent-framework` · `ai-agent` · `ai-coding` · `cli` · `coding-agent` · `deepseek` · `developer-tools`
@@ -2220,41 +2183,7 @@ Một tác nhân lập trình đáng tin cậy cho các tác vụ kỹ thuật p
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/titanwings/distilly">titanwings/distilly</a></b> · ⭐25532 · Python · 🔎 inferred · 0 天</summary>
-
-##### 📝 Tóm tắt
-
-Distilly — Chắt lọc cách họ tư duy thành các Skill có thể tái sử dụng cho mọi Agent hoặc Bot. Trước đây là Colleague Skill（原同事 Skill）.
-
-##### 📌 Thông tin cơ bản
-
-| Trường     | Giá trị                                                                       |
-| ---------- | ----------------------------------------------------------------------------- |
-| Danh mục   | `Các hệ sinh thái plugin của DSH và Cordis`                                   |
-| Bằng chứng | `tuyên bố có mod, plugin hoặc hook, nhưng không đề cập cụ thể đến bề mặt mod` |
-| Ngôn ngữ   | Python                                                                        |
-
-##### 📊 Dữ liệu
-
-| Chỉ số               | Giá trị    |
-| -------------------- | ---------- |
-| Lượt sao             | **25532**  |
-| Lần push gần nhất    | 2026-10-12 |
-| Lần đầu được liệt kê | 2026-10-11 |
-
-🏷 `agent-skills` · `agentic-ai` · `ai-agent` · `ai-agents` · `ai-assistants` · `ai-persona` · `claude-code` · `claude-skills`
-
----
-
-<table><tr><th align="center" width="50%">🖼 Hình ảnh</th><th align="center" width="50%">🎬 Video</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/titanwings--distilly/1e118bb52fdcbd1c.png" width="100%" alt="titanwings/distilly screenshot"></td>
-<td align="center" valign="top"><sub>chưa đăng phương tiện nào</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/awesome-dsh-plugin/awesome-dsh-plugin">awesome-dsh-plugin/awesome-dsh-plugin</a></b> · ⭐18516 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/awesome-dsh-plugin/awesome-dsh-plugin">awesome-dsh-plugin/awesome-dsh-plugin</a></b> · ⭐18519 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -2272,7 +2201,7 @@ Danh sách tuyển chọn các plugin cho DeepSeek Harness (dsh) · Danh sách t
 
 | Chỉ số               | Giá trị    |
 | -------------------- | ---------- |
-| Lượt sao             | **18516**  |
+| Lượt sao             | **18519**  |
 | Lần push gần nhất    | 2026-10-12 |
 | Lần đầu được liệt kê | 2026-10-13 |
 
@@ -2315,7 +2244,7 @@ Hệ sinh thái tổng hợp plugin DeepSeek Harness (DSH) Web · Mọi thứ đ
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/dsh-market/dsh-market">dsh-market/dsh-market</a></b> · ⭐6275 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/dsh-market/dsh-market">dsh-market/dsh-market</a></b> · ⭐6277 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -2333,7 +2262,7 @@ Chợ plugin bên trong DeepSeek Harness — duyệt, tìm kiếm, cài đặt m
 
 | Chỉ số               | Giá trị    |
 | -------------------- | ---------- |
-| Lượt sao             | **6275**   |
+| Lượt sao             | **6277**   |
 | Lần push gần nhất    | 2026-10-12 |
 | Lần đầu được liệt kê | 2026-10-13 |
 
@@ -2349,7 +2278,7 @@ Chợ plugin bên trong DeepSeek Harness — duyệt, tìm kiếm, cài đặt m
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/ccch1mneyyy/dsh-TUI">ccch1mneyyy/dsh-TUI</a></b> · ⭐4461 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/ccch1mneyyy/dsh-TUI">ccch1mneyyy/dsh-TUI</a></b> · ⭐4466 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -2367,8 +2296,8 @@ Plugin TUI chính thức được DSH đề xuất hàng đầu — hiệu năng
 
 | Chỉ số               | Giá trị    |
 | -------------------- | ---------- |
-| Lượt sao             | **4461**   |
-| Lần push gần nhất    | 2026-10-12 |
+| Lượt sao             | **4466**   |
+| Lần push gần nhất    | 2026-10-13 |
 | Lần đầu được liệt kê | 2026-10-12 |
 
 🏷 `claude-code` · `coding-agent` · `deepseek` · `deepseek-harness` · `dsh-plugin` · `ink` · `react` · `terminal`
@@ -2402,7 +2331,7 @@ Terminal ảo đầu tiên trên thế giới cho AI Agents
 | Chỉ số               | Giá trị    |
 | -------------------- | ---------- |
 | Lượt sao             | **3680**   |
-| Lần push gần nhất    | 2026-10-12 |
+| Lần push gần nhất    | 2026-10-13 |
 | Lần đầu được liệt kê | 2026-10-13 |
 
 🏷 `agent-sandbox` · `agent-tools` · `ai-agents` · `bash` · `claude-code` · `dsh` · `dsh-plugin` · `fuse`
@@ -2410,7 +2339,7 @@ Terminal ảo đầu tiên trên thế giới cho AI Agents
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/dsh-tauri/deepseek-harness-desktop">dsh-tauri/deepseek-harness-desktop</a></b> · ⭐3034 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/dsh-tauri/deepseek-harness-desktop">dsh-tauri/deepseek-harness-desktop</a></b> · ⭐3001 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -2428,8 +2357,8 @@ DeepSeek Harness bản máy tính Tauri | Trình cài đặt chỉ 8mb, không c
 
 | Chỉ số               | Giá trị    |
 | -------------------- | ---------- |
-| Lượt sao             | **3034**   |
-| Lần push gần nhất    | 2026-10-12 |
+| Lượt sao             | **3001**   |
+| Lần push gần nhất    | 2026-10-13 |
 | Lần đầu được liệt kê | 2026-10-12 |
 
 🏷 `deepseek` · `deepseek-harness` · `desktop` · `dsh` · `dsh-desktop` · `dsh-plugin` · `tauri`
@@ -2444,7 +2373,7 @@ DeepSeek Harness bản máy tính Tauri | Trình cài đặt chỉ 8mb, không c
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/xmanrui/dsh-im">xmanrui/dsh-im</a></b> · ⭐1911 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/xmanrui/dsh-im">xmanrui/dsh-im</a></b> · ⭐1912 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -2462,7 +2391,7 @@ Kết nối bot IM vào DeepSeek Harness qua quét mã QR hoặc thông tin xác
 
 | Chỉ số               | Giá trị    |
 | -------------------- | ---------- |
-| Lượt sao             | **1911**   |
+| Lượt sao             | **1912**   |
 | Lần push gần nhất    | 2026-10-12 |
 | Lần đầu được liệt kê | 2026-10-13 |
 
@@ -2478,7 +2407,41 @@ Kết nối bot IM vào DeepSeek Harness qua quét mã QR hoặc thông tin xác
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/EthanYoQ/AI-Novel-Writer">EthanYoQ/AI-Novel-Writer</a></b> · ⭐1423 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/AdamPlatin123/dsh-plugin-radar">AdamPlatin123/dsh-plugin-radar</a></b> · ⭐1466 · Python · 🔎 inferred · 0 天</summary>
+
+##### 📝 Tóm tắt
+
+DSH Plugin Radar — open-source ecosystem radar for DeepSeek Harness plugins: continuous discovery (21k+ candidates), k8s runtime validation (13k+ tests), 15-min snapshots; the catalog is a generated artifact — 开源 DSH 插件生态雷达：持续发现 2.1 万+ 候选、k8s 运行级实测 1.3 万+、15 分钟快照；插件目录为自动生成的产物
+
+##### 📌 Thông tin cơ bản
+
+| Trường     | Giá trị                                                                       |
+| ---------- | ----------------------------------------------------------------------------- |
+| Danh mục   | `Các hệ sinh thái plugin của DSH và Cordis`                                   |
+| Bằng chứng | `tuyên bố có mod, plugin hoặc hook, nhưng không đề cập cụ thể đến bề mặt mod` |
+| Ngôn ngữ   | Python                                                                        |
+
+##### 📊 Dữ liệu
+
+| Chỉ số               | Giá trị    |
+| -------------------- | ---------- |
+| Lượt sao             | **1466**   |
+| Lần push gần nhất    | 2026-10-12 |
+| Lần đầu được liệt kê | 2026-10-13 |
+
+🏷 `agent-plugins` · `continuous-validation` · `deepseek-harness` · `dsh` · `dsh-plugin` · `ecosystem-radar` · `plugin-registry`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Hình ảnh</th><th align="center" width="50%">🎬 Video</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/adamplatin123--dsh-plugin-radar/fb6ad7eb8891212c.jpg" width="100%" alt="AdamPlatin123/dsh-plugin-radar screenshot"></td>
+<td align="center" valign="top"><sub>chưa đăng phương tiện nào</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/EthanYoQ/AI-Novel-Writer">EthanYoQ/AI-Novel-Writer</a></b> · ⭐1425 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -2496,7 +2459,7 @@ Phần mềm sáng tác tiểu thuyết AI: tổ chức ý tưởng, nhân vật
 
 | Chỉ số               | Giá trị    |
 | -------------------- | ---------- |
-| Lượt sao             | **1423**   |
+| Lượt sao             | **1425**   |
 | Lần push gần nhất    | 2026-10-12 |
 | Lần đầu được liệt kê | 2026-10-13 |
 
@@ -2546,11 +2509,11 @@ Bộ nhớ cho Claude Code, Codex, Cursor và hơn 38 tác nhân lập trình kh
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/wecode-ai/Wegent">wecode-ai/Wegent</a></b> · ⭐870 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/platonai/Browser4">platonai/Browser4</a></b> · ⭐1152 · Kotlin · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Tóm tắt
 
-Plan, build, and deliver with an open-source, self-hostable AI workspace for coding, collaboration, and automation.
+Browser4 — an AI-native browser engine for autonomous agents, intelligent extraction, and large-scale web automation.
 
 ##### 📌 Thông tin cơ bản
 
@@ -2558,33 +2521,33 @@ Plan, build, and deliver with an open-source, self-hostable AI workspace for cod
 | ---------- | ----------------------------------------------------------------------------- |
 | Danh mục   | `Các hệ sinh thái plugin của DSH và Cordis`                                   |
 | Bằng chứng | `tuyên bố có mod, plugin hoặc hook, nhưng không đề cập cụ thể đến bề mặt mod` |
-| Ngôn ngữ   | TypeScript                                                                    |
+| Ngôn ngữ   | Kotlin                                                                        |
 
 ##### 📊 Dữ liệu
 
 | Chỉ số               | Giá trị    |
 | -------------------- | ---------- |
-| Lượt sao             | **870**    |
+| Lượt sao             | **1152**   |
 | Lần push gần nhất    | 2026-10-12 |
 | Lần đầu được liệt kê | 2026-10-13 |
 
-🏷 `agent` · `ai` · `chatbot` · `claude-code` · `codex` · `dsh-plugin` · `wework`
+🏷 `agentic-ai` · `agentic-browser` · `ai-browser` · `browser-agent` · `browser-infra` · `browser-use-agent` · `chrome-browser` · `chrome-devtools-protocol`
 
 ---
 
 <table><tr><th align="center" width="50%">🖼 Hình ảnh</th><th align="center" width="50%">🎬 Video</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/wecode-ai--wegent/991765bc5aba6a3c.png" width="100%" alt="wecode-ai/Wegent screenshot"></td>
-<td align="center" valign="top"><sub>chưa đăng phương tiện nào</sub></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/platonai--browser4/491fddf43874c5c7.jpg" width="100%" alt="platonai/Browser4 screenshot"></td>
+<td align="center" valign="top"><a href="https://img.youtube.com/vi/_BcryqWzVMI/0.jpg"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/platonai--browser4/491fddf43874c5c7.jpg" width="100%" alt="video"></a><br><sub><a href="https://img.youtube.com/vi/_BcryqWzVMI/0.jpg">Xem trên img.youtube.com</a> · nội dung phát sẽ mở trên trang web lưu trữ; GitHub không thể nhúng nội dung này trực tiếp</sub></td>
 </tr></table>
 
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/vibeinging/dsh-desktop">vibeinging/dsh-desktop</a></b> · ⭐593 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/vibeinging/dsh-desktop">vibeinging/dsh-desktop</a></b> · ⭐594 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Tóm tắt
 
-DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.
+Ứng dụng máy tính DeepSeek Harness: không gian làm việc AI cục bộ cho các phiên DSH, dự án, tệp, nghiên cứu web, plugin và các sản phẩm Office.
 
 ##### 📌 Thông tin cơ bản
 
@@ -2598,7 +2561,7 @@ DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, pro
 
 | Chỉ số               | Giá trị    |
 | -------------------- | ---------- |
-| Lượt sao             | **593**    |
+| Lượt sao             | **594**    |
 | Lần push gần nhất    | 2026-10-12 |
 | Lần đầu được liệt kê | 2026-10-13 |
 
@@ -2618,7 +2581,7 @@ DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, pro
 
 ##### 📝 Tóm tắt
 
-📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. | https://misakanet.org
+📚 Thư viện bài học nhỏ dựa trên git, không phụ thuộc, dành cho AI Agents chia sẻ và tìm kiếm không đồng bộ các kinh nghiệm gỡ lỗi đã được xác minh. | https://misakanet.org
 
 ##### 📌 Thông tin cơ bản
 
@@ -2784,11 +2747,11 @@ Giao diện terminal theo phong cách Claude Code dành cho DeepSeek Harness, h�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/wenbin-wb/dsh-bridge">wenbin-wb/dsh-bridge</a></b> · ⭐194 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/xiajiajun516/dsh-config-manager">xiajiajun516/dsh-config-manager</a></b> · ⭐184 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Tóm tắt
 
-🚀 Plugin truy cập từ xa đa kênh và bảo vệ an toàn cho DeepSeek Harness | Kết nối trực tiếp qua quét mã trong mạng LAN, Cloudflare / tunnel Internet công cộng tự xây dựng, hội thoại vòng đời đầy đủ qua bot WeChat / QQ / Feishu / Telegram | Tích hợp xác thực an toàn truy cập toàn giao thức, chống giả mạo nền và hệ thống dự phòng cứu hộ
+DeepSeek Harness (DSH) backup & restore plugin — export, import, migrate and sync your complete DSH configuration, plugins, MCP servers, skills and workspace. One-click migration to another machine.
 
 ##### 📌 Thông tin cơ bản
 
@@ -2796,22 +2759,22 @@ Giao diện terminal theo phong cách Claude Code dành cho DeepSeek Harness, h�
 | ---------- | ----------------------------------------------------------------------------- |
 | Danh mục   | `Các hệ sinh thái plugin của DSH và Cordis`                                   |
 | Bằng chứng | `tuyên bố có mod, plugin hoặc hook, nhưng không đề cập cụ thể đến bề mặt mod` |
-| Ngôn ngữ   | JavaScript                                                                    |
+| Ngôn ngữ   | TypeScript                                                                    |
 
 ##### 📊 Dữ liệu
 
 | Chỉ số               | Giá trị    |
 | -------------------- | ---------- |
-| Lượt sao             | **194**    |
-| Lần push gần nhất    | 2026-10-12 |
+| Lượt sao             | **184**    |
+| Lần push gần nhất    | 2026-10-13 |
 | Lần đầu được liệt kê | 2026-10-13 |
 
-🏷 `cloudflare-tunnel` · `deepseek-harness` · `dsh` · `dsh-plugin` · `feishu` · `mobile` · `pwa` · `qq-bot`
+🏷 `backup` · `cli` · `config-manager` · `configuration` · `cordis` · `deepseek` · `deepseek-harness` · `dsh`
 
 ---
 
 <table><tr><th align="center" width="50%">🖼 Hình ảnh</th><th align="center" width="50%">🎬 Video</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/wenbin-wb--dsh-bridge/d0ee292e99883caa.webp" width="100%" alt="wenbin-wb/dsh-bridge screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/xiajiajun516--dsh-config-manager/52a2f3587f8e40b4.png" width="100%" alt="xiajiajun516/dsh-config-manager screenshot"></td>
 <td align="center" valign="top"><sub>chưa đăng phương tiện nào</sub></td>
 </tr></table>
 
@@ -2888,6 +2851,40 @@ Chủ đề máy tính để bàn Claude Code cho DeepSeek Harness｜ Chủ đ�
 </details>
 
 <details>
+<summary>🧵 <b><a href="https://github.com/FeatherHunter/dsh-mattpocock-skills-deck">FeatherHunter/dsh-mattpocock-skills-deck</a></b> · ⭐141 · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 Tóm tắt
+
+Cài đặt là có sẵn 27 kỹ năng về kỹ thuật và năng suất của mattpocock/skills v1.3.1, không cần cài kỹ năng thủ công. Plugin này được xây dựng với 40 tỷ token, mang lại hiệu suất phát triển cao gấp 10 lần so với các kỹ năng gốc, đồng thời giúp người mới làm quen với bộ kỹ năng nhanh hơn. Hỗ trợ đầy đủ GitHub issue; Markdown hiện là bản xem trước; GitLab chưa được hỗ trợ. Cảm ơn bạn đã sử dụng và ủng hộ 💗
+
+##### 📌 Thông tin cơ bản
+
+| Trường     | Giá trị                                                                       |
+| ---------- | ----------------------------------------------------------------------------- |
+| Danh mục   | `Các hệ sinh thái plugin của DSH và Cordis`                                   |
+| Bằng chứng | `tuyên bố có mod, plugin hoặc hook, nhưng không đề cập cụ thể đến bề mặt mod` |
+| Ngôn ngữ   | JavaScript                                                                    |
+
+##### 📊 Dữ liệu
+
+| Chỉ số               | Giá trị    |
+| -------------------- | ---------- |
+| Lượt sao             | **141**    |
+| Lần push gần nhất    | 2026-10-12 |
+| Lần đầu được liệt kê | 2026-10-13 |
+
+🏷 `agent` · `ai` · `claude` · `deepseek-harness` · `dsh` · `dsh-better-sidebar` · `dsh-plugin` · `github-issues`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Hình ảnh</th><th align="center" width="50%">🎬 Video</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/featherhunter--dsh-mattpocock-skills-deck/c4bd78003446c161.png" width="100%" alt="FeatherHunter/dsh-mattpocock-skills-deck screenshot"></td>
+<td align="center" valign="top"><sub>chưa đăng phương tiện nào</sub></td>
+</tr></table>
+
+</details>
+
+<details>
 <summary>🧵 <b><a href="https://github.com/PerryLink/dsh-memento">PerryLink/dsh-memento</a></b> · ⭐141 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Tóm tắt
@@ -2922,79 +2919,11 @@ Bộ nhớ liên phiên có giới hạn, phân lớp, có cổng phê duyệt, 
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/FeatherHunter/dsh-mattpocock-skills-deck">FeatherHunter/dsh-mattpocock-skills-deck</a></b> · ⭐140 · JavaScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 Tóm tắt
-
-Cài đặt là có sẵn 27 kỹ năng về kỹ thuật và năng suất của mattpocock/skills v1.3.1, không cần cài kỹ năng thủ công. Plugin này được xây dựng với 40 tỷ token, mang lại hiệu suất phát triển cao gấp 10 lần so với các kỹ năng gốc, đồng thời giúp người mới làm quen với bộ kỹ năng nhanh hơn. Hỗ trợ đầy đủ GitHub issue; Markdown hiện là bản xem trước; GitLab chưa được hỗ trợ. Cảm ơn bạn đã sử dụng và ủng hộ 💗
-
-##### 📌 Thông tin cơ bản
-
-| Trường     | Giá trị                                                                       |
-| ---------- | ----------------------------------------------------------------------------- |
-| Danh mục   | `Các hệ sinh thái plugin của DSH và Cordis`                                   |
-| Bằng chứng | `tuyên bố có mod, plugin hoặc hook, nhưng không đề cập cụ thể đến bề mặt mod` |
-| Ngôn ngữ   | JavaScript                                                                    |
-
-##### 📊 Dữ liệu
-
-| Chỉ số               | Giá trị    |
-| -------------------- | ---------- |
-| Lượt sao             | **140**    |
-| Lần push gần nhất    | 2026-10-12 |
-| Lần đầu được liệt kê | 2026-10-13 |
-
-🏷 `agent` · `ai` · `claude` · `deepseek-harness` · `dsh` · `dsh-better-sidebar` · `dsh-plugin` · `github-issues`
-
----
-
-<table><tr><th align="center" width="50%">🖼 Hình ảnh</th><th align="center" width="50%">🎬 Video</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/featherhunter--dsh-mattpocock-skills-deck/c4bd78003446c161.png" width="100%" alt="FeatherHunter/dsh-mattpocock-skills-deck screenshot"></td>
-<td align="center" valign="top"><sub>chưa đăng phương tiện nào</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧵 <b><a href="https://github.com/PerryLink/dsh-permission-rules">PerryLink/dsh-permission-rules</a></b> · ⭐122 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 Tóm tắt
-
-Quy tắc quyền khai báo kiểu Claude Code cho DeepSeek Harness: các quy tắc allow/deny/ask có thứ tự với khớp tên công cụ, đối số (glob/regex) và đường dẫn workspace trên luồng tools/pre-execute, kiểm toán session-log và tải lại HMR.
-
-##### 📌 Thông tin cơ bản
-
-| Trường     | Giá trị                                                                       |
-| ---------- | ----------------------------------------------------------------------------- |
-| Danh mục   | `Các hệ sinh thái plugin của DSH và Cordis`                                   |
-| Bằng chứng | `tuyên bố có mod, plugin hoặc hook, nhưng không đề cập cụ thể đến bề mặt mod` |
-| Ngôn ngữ   | TypeScript                                                                    |
-
-##### 📊 Dữ liệu
-
-| Chỉ số               | Giá trị    |
-| -------------------- | ---------- |
-| Lượt sao             | **122**    |
-| Lần push gần nhất    | 2026-10-12 |
-| Lần đầu được liệt kê | 2026-10-13 |
-
-🏷 `ai-agent` · `ai-agents` · `ai-safety` · `allow-deny-ask` · `approval` · `cordis` · `deepseek` · `deepseek-harness`
-
----
-
-<table><tr><th align="center" width="50%">🖼 Hình ảnh</th><th align="center" width="50%">🎬 Video</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/perrylink--dsh-permission-rules/d950618f5f9cf382.png" width="100%" alt="PerryLink/dsh-permission-rules screenshot"></td>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/perrylink--dsh-permission-rules/25c9ccd2f2133850.gif" width="100%" alt="PerryLink/dsh-permission-rules animation"><br><sub>bản ghi hình động</sub></td>
-</tr></table>
-
-</details>
-
-<details>
 <summary>🧵 <b><a href="https://github.com/AskTheWay/dsh-auto-memory">AskTheWay/dsh-auto-memory</a></b> · ⭐106 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Tóm tắt
 
-Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into the system prompt. File-only, no external services.
+Plugin tự động ghi nhớ theo phong cách mã nguồn Claude cho DeepSeek Harness (dsh): các tệp bộ nhớ có kiểu + chỉ mục MEMORY.md được tự động chèn vào system prompt. Chỉ dùng tệp, không có dịch vụ bên ngoài.
 
 ##### 📌 Thông tin cơ bản
 
@@ -3018,6 +2947,40 @@ Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory fi
 
 <table><tr><th align="center" width="50%">🖼 Hình ảnh</th><th align="center" width="50%">🎬 Video</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/asktheway--dsh-auto-memory/1ff60db2b929f245.png" width="100%" alt="AskTheWay/dsh-auto-memory screenshot"></td>
+<td align="center" valign="top"><sub>chưa đăng phương tiện nào</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🧵 <b><a href="https://github.com/Noob-stupid/dsh-plugin-gating-hub">Noob-stupid/dsh-plugin-gating-hub</a></b> · ⭐100 · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📝 Tóm tắt
+
+DSH plugin - framework upgrade safety & plugin gating: contract pre-check, rollback point, auto-rollback on failure, evidence-based auto-disable; plus a multi-source plugin market. Unofficial. | DSH 插件：框架升级安全 + 插件门控——升级前契约预检、回滚点、失败自动回滚、有确证证据才自动禁用；另带多源插件市场。非官方社区项目。
+
+##### 📌 Thông tin cơ bản
+
+| Trường     | Giá trị                                                                       |
+| ---------- | ----------------------------------------------------------------------------- |
+| Danh mục   | `Các hệ sinh thái plugin của DSH và Cordis`                                   |
+| Bằng chứng | `tuyên bố có mod, plugin hoặc hook, nhưng không đề cập cụ thể đến bề mặt mod` |
+| Ngôn ngữ   | JavaScript                                                                    |
+
+##### 📊 Dữ liệu
+
+| Chỉ số               | Giá trị    |
+| -------------------- | ---------- |
+| Lượt sao             | **100**    |
+| Lần push gần nhất    | 2026-10-12 |
+| Lần đầu được liệt kê | 2026-10-13 |
+
+🏷 `ai-empower` · `cli` · `deepseek-harness` · `dsh` · `dsh-plugin` · `dsh-plugins` · `framework-upgrade` · `marketplace`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Hình ảnh</th><th align="center" width="50%">🎬 Video</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/noob-stupid--dsh-plugin-gating-hub/0b18270cf916dc1c.png" width="100%" alt="Noob-stupid/dsh-plugin-gating-hub screenshot"></td>
 <td align="center" valign="top"><sub>chưa đăng phương tiện nào</sub></td>
 </tr></table>
 
@@ -3094,40 +3057,6 @@ Agent phiên bản máy tính để bàn được xây dựng trên nền tảng
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/ZASENJC/dsh-plugins-store">ZASENJC/dsh-plugins-store</a></b> · ⭐69 · TypeScript · 🔎 inferred · 0 天</summary>
-
-##### 📝 Tóm tắt
-
-Chợ plugin cộng đồng DeepSeek-Harness tự động phân loại, tuyển chọn và xác minh. Tự động phân loại, tuyển chọn và xác minh chợ plugin cộng đồng DeepSeek-Harness.
-
-##### 📌 Thông tin cơ bản
-
-| Trường     | Giá trị                                                                       |
-| ---------- | ----------------------------------------------------------------------------- |
-| Danh mục   | `Các hệ sinh thái plugin của DSH và Cordis`                                   |
-| Bằng chứng | `tuyên bố có mod, plugin hoặc hook, nhưng không đề cập cụ thể đến bề mặt mod` |
-| Ngôn ngữ   | TypeScript                                                                    |
-
-##### 📊 Dữ liệu
-
-| Chỉ số               | Giá trị    |
-| -------------------- | ---------- |
-| Lượt sao             | **69**     |
-| Lần push gần nhất    | 2026-10-12 |
-| Lần đầu được liệt kê | 2026-10-13 |
-
-🏷 `agent-tools` · `awesome-list` · `community-project` · `deepseek-harness` · `dsh` · `dsh-plugin`
-
----
-
-<table><tr><th align="center" width="50%">🖼 Hình ảnh</th><th align="center" width="50%">🎬 Video</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/zasenjc--dsh-plugins-store/e83b24d43eca5912.png" width="100%" alt="ZASENJC/dsh-plugins-store screenshot"></td>
-<td align="center" valign="top"><sub>chưa đăng phương tiện nào</sub></td>
-</tr></table>
-
-</details>
-
-<details>
 <summary>🧵 <b><a href="https://github.com/PerryLink/dsh-fund-research">PerryLink/dsh-fund-research</a></b> · ⭐68 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Tóm tắt
@@ -3162,11 +3091,11 @@ Báo cáo nghiên cứu xác định cho quỹ tương hỗ công khai Trung Qu�
 </details>
 
 <details>
-<summary>🧵 <b><a href="https://github.com/NoNameLeGo/dsh-catppuccin-theme">NoNameLeGo/dsh-catppuccin-theme</a></b> · ⭐60 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧵 <b><a href="https://github.com/whyihaveyou/dsh-suite">whyihaveyou/dsh-suite</a></b> · ⭐59 · HTML · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Tóm tắt
 
-Plugin chủ đề Catppuccin cho DeepSeek Harness Web GUI: chuyển đổi tức thì giữa bốn chủ đề Latte / Frappé / Macchiato / Mocha, tích hợp hiệu ứng kính có thể bật/tắt (Glassmorphism)
+Danh mục plugin DeepSeek Harness luôn được cập nhật — làm mới mỗi giờ, kiểm tra khả năng tương thích hằng ngày, có cửa hàng plugin và công cụ tạo khung tích hợp. Danh mục plugin DSH luôn được cập nhật: làm mới mỗi giờ, kiểm tra tương thích thực tế hằng ngày, tích hợp cửa hàng plugin và công cụ tạo khung.
 
 ##### 📌 Thông tin cơ bản
 
@@ -3174,80 +3103,115 @@ Plugin chủ đề Catppuccin cho DeepSeek Harness Web GUI: chuyển đổi tứ
 | ---------- | ----------------------------------------------------------------------------- |
 | Danh mục   | `Các hệ sinh thái plugin của DSH và Cordis`                                   |
 | Bằng chứng | `tuyên bố có mod, plugin hoặc hook, nhưng không đề cập cụ thể đến bề mặt mod` |
-| Ngôn ngữ   | TypeScript                                                                    |
+| Ngôn ngữ   | HTML                                                                          |
 
 ##### 📊 Dữ liệu
 
 | Chỉ số               | Giá trị    |
 | -------------------- | ---------- |
-| Lượt sao             | **60**     |
+| Lượt sao             | **59**     |
 | Lần push gần nhất    | 2026-10-12 |
-| Lần đầu được liệt kê | 2026-10-13 |
+| Lần đầu được liệt kê | 2026-10-06 |
 
-🏷 `catppuccin` · `deepseek-harness` · `dsh` · `dsh-plugin` · `theme`
+🏷 `agent-framework` · `awesome-list` · `cordis` · `deepseek` · `deepseek-harness` · `developer-tools` · `dsh` · `dsh-plugin`
 
 ---
 
 <table><tr><th align="center" width="50%">🖼 Hình ảnh</th><th align="center" width="50%">🎬 Video</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/nonamelego--dsh-catppuccin-theme/c3d2472cfd609d68.png" width="100%" alt="NoNameLeGo/dsh-catppuccin-theme screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/whyihaveyou--dsh-suite/e9daf3bb6313ff1b.png" width="100%" alt="whyihaveyou/dsh-suite screenshot"></td>
 <td align="center" valign="top"><sub>chưa đăng phương tiện nào</sub></td>
 </tr></table>
 
 </details>
 
 <details>
-<summary><b>Xem thêm trong danh mục này</b> <sub>· 72</sub></summary>
+<summary>🧵 <b><a href="https://github.com/PolinniZhong/dsh-knit">PolinniZhong/dsh-knit</a></b> · ⭐54 · JavaScript · 🔎 inferred · 0 天</summary>
 
-- [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - Bộ bảo vệ trước khi thực thi dành cho các tác nhân lập trình AI.
+##### 📝 Tóm tắt
+
+Truy xuất ngữ cảnh không gian làm việc nhận biết nhiệm vụ và theo dõi vòng đời dành cho AI coding agent: tìm, tổ chức và liên tục theo dõi các tài liệu, mã nguồn và phương tiện liên quan nhất đến nhiệm vụ hiện tại. Hoàn toàn cục bộ, không gọi model, không mạng. Truy xuất ngữ cảnh không gian làm việc nhận biết nhiệm vụ và theo dõi vòng đời dành cho AI coding agent. Tìm, tổ chức và theo dõi ngữ cảnh không gian làm việc phù hợp nhất với nhiệm vụ hiện tại — cục bộ, xác định, không gọi model, không mạng.
+
+##### 📌 Thông tin cơ bản
+
+| Trường     | Giá trị                                                                       |
+| ---------- | ----------------------------------------------------------------------------- |
+| Danh mục   | `Các hệ sinh thái plugin của DSH và Cordis`                                   |
+| Bằng chứng | `tuyên bố có mod, plugin hoặc hook, nhưng không đề cập cụ thể đến bề mặt mod` |
+| Ngôn ngữ   | JavaScript                                                                    |
+
+##### 📊 Dữ liệu
+
+| Chỉ số               | Giá trị    |
+| -------------------- | ---------- |
+| Lượt sao             | **54**     |
+| Lần push gần nhất    | 2026-10-12 |
+| Lần đầu được liệt kê | 2026-10-12 |
+
+🏷 `agent-tools` · `ai-agent` · `cordis` · `deepseek` · `deepseek-harness` · `developer-tools` · `dsh` · `dsh-better-sidebar`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Hình ảnh</th><th align="center" width="50%">🎬 Video</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/polinnizhong--dsh-knit/e98f690af54d1e8d.png" width="100%" alt="PolinniZhong/dsh-knit screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-claude-mods/main/media/polinnizhong--dsh-knit/338cb6ef3e90368c.gif" width="100%" alt="PolinniZhong/dsh-knit animation"><br><sub>bản ghi hình động</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary><b>Xem thêm trong danh mục này</b> <sub>· 74</sub></summary>
+
 - [hashgraph-online/awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins) - Danh sách tuyển chọn các plugin AI tuyệt vời nhất cho trợ lý AI, bao gồm Claude…
+- [bruc3van/awesome-dsh-plugin](https://github.com/bruc3van/awesome-dsh-plugin) - 30 秒找到真正适合你的 DeepSeek Harness插件。每天自动抓取 GitHub 上的 `dsh-plugin`…
 - [bradeGithub/DSH-Plugins-Marketplace](https://github.com/bradeGithub/DSH-Plugins-Marketplace) - Chợ plugin DSH / DSH Plugin Marketplace: duyệt, cài đặt và cập nhật tất cả…
-- [daha1216/dsh-adult-tension](https://github.com/daha1216/dsh-adult-tension) - DeepSeek 自带破甲 18+ 互动叙事：活人感 NPC（自主决策/拒绝迎合）、211个世界与上万素材、开局随心定制、世界自行运转、零漂移存档.
-- [jaccen/Awesome-Gaussian-Skills](https://github.com/jaccen/Awesome-Gaussian-Skills) - Các bài báo được cập nhật liên tục về đồ họa học và 3DGS, trí tuệ không gian;
+- [daha1216/dsh-adult-tension](https://github.com/daha1216/dsh-adult-tension) - DeepSeek tích hợp sẵn cốt truyện tương tác 18+ phá giáp: NPC có cảm giác như…
 - [arcships/rutis](https://github.com/arcships/rutis) - Môi trường runtime plugin cho phần mềm tự lặp lại — lớp nền nơi các agent viết…
-- [like-study1/Oh-My-DSH](https://github.com/like-study1/Oh-My-DSH) - 🐳 Cộng đồng plugin DeepSeek Harness — tự động đồng bộ hệ sinh thái dsh-plugin ·…
-- [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) - Danh mục plugin DeepSeek Harness luôn được cập nhật — làm mới mỗi giờ, kiểm tra…
-- [Nyasers/DSHana](https://github.com/Nyasers/DSHana) - DSHana: DeepSeek Harness làm subagent cho HanaAgent.
-- [PolinniZhong/dsh-knit](https://github.com/PolinniZhong/dsh-knit) - Truy xuất ngữ cảnh không gian làm việc nhận biết nhiệm vụ và theo dõi vòng đời…
-- [GDWhisper/dsh-web-startup-auth](https://github.com/GDWhisper/dsh-web-startup-auth) - Plugin khởi chạy Web từ xa + xác thực tên người dùng/mật khẩu cho DSH.
+- [adamkhalile/luau-docs-oracle](https://github.com/adamkhalile/luau-docs-oracle) - Best Roblox Luau Bug Checker and API Verifier 2026 DevForum MCP Tool.
 - [PerryLink/dsh-data-quality](https://github.com/PerryLink/dsh-data-quality) - Plugin DeepSeek Harness: lập hồ sơ dữ liệu, làm sạch và xác minh một cách xác…
 - [KongFangXun/sofagent](https://github.com/KongFangXun/sofagent) - sofagent là một FDE Harness mã nguồn mở cho các AI coding agent — khi vào, ghi…
 - [BotHarness/DeepSeekBot](https://github.com/BotHarness/DeepSeekBot) - Giải pháp thay thế GrokBot mã nguồn mở xây dựng trên DeepSeek Harness.
 - [kejixiaoliang/awesome-dsh-plugins](https://github.com/kejixiaoliang/awesome-dsh-plugins) - Danh mục tuyển chọn plugin DeepSeek Harness (DSH) — hơn 280 plugin cộng đồng…
 - [PerryLink/dsh-plugin-guide](https://github.com/PerryLink/dsh-plugin-guide) - Cơ sở tri thức phát triển plugin DeepSeek Harness (dsh): hướng dẫn phát triển…
+- [hyzyn/dsh-plugin-kit](https://github.com/hyzyn/dsh-plugin-kit) - Plugin family for the DeepSeek Harness (DSH) Web GUI: a pnpm monorepo with a…
 - [NekroAI/nekro-nxt](https://github.com/NekroAI/nekro-nxt) - NekroNXT: hệ thống tác nhân trò chuyện nhóm đa nền tảng dựa trên DeepSeek…
 - [KannaKuron/dsh-gitbash-shell](https://github.com/KannaKuron/dsh-gitbash-shell) - Plugin DSH: shell Git Bash cho mọi chế độ agent trên Windows.
-- [YRN-playmaker/dsh-wallpaper_share](https://github.com/YRN-playmaker/dsh-wallpaper_share) - Plugin đồng bộ một nhấp các loại hình nền cảnh động của wallpaper engine, thiết…
-- [AskTheWay/dsh-jev-interceptor](https://github.com/AskTheWay/dsh-jev-interceptor) - ⚡ Millisecond System-1 judgement for every tool call in DeepSeek Harness…
+- [AskTheWay/dsh-jev-interceptor](https://github.com/AskTheWay/dsh-jev-interceptor) - ⚡ Phán đoán System-1 trong vài mili giây cho mọi lệnh gọi công cụ trong…
 - [wingsky-1/dsh-plugin-hub](https://github.com/wingsky-1/dsh-plugin-hub) - Bộ sưu tập plugin GUI web DSH (DeepSeek Harness) — thông báo nhiệm vụ, mức sử…
 - [HaoyueQin/dsh-usage-statistics-panel](https://github.com/HaoyueQin/dsh-usage-statistics-panel) - Plugin web DSH: thống kê mức dùng token theo ngày với heatmap hoạt động kiểu…
-- [StvLi/dsh-ros2](https://github.com/StvLi/dsh-ros2) - The Deepseek Harness ROS 2 plugin can be used to efficiently diagnose issues…
-- [zp-home/dsh-recommend](https://github.com/zp-home/dsh-recommend) - Xếp hạng và đề xuất minh bạch cho hệ sinh thái plugin DSH: hằng ngày tự động…
+- [pigeon189/zcode-fox-widget](https://github.com/pigeon189/zcode-fox-widget) - ZCode狐娘小挂件 —— ZCode 桌面余额挂件：DeepSeek 峰谷计价 · GLM Plan · CommandCode 三重额度多账号池 ·…
+- [StvLi/dsh-ros2](https://github.com/StvLi/dsh-ros2) - Plugin ROS 2 của Deepseek Harness có thể được sử dụng để chẩn đoán sự cố và…
 - [liustack/pptwise](https://github.com/liustack/pptwise) - PowerPoint thực sự, không phải HTML. Cho AI biết bạn muốn trình bày gì và…
 - [PerryLink/dsh-session-sync](https://github.com/PerryLink/dsh-session-sync) - Đồng bộ phiên DeepSeek Harness đa thiết bị: một git mirror chuyên dụng với giải…
 - [Roarpeng/GraphFlow](https://github.com/Roarpeng/GraphFlow) - Đồ thị tri thức mã nguồn cục bộ và harness ngữ cảnh ưu tiên cục bộ dành cho các…
+- [YELEBAI/dsh-plugin-marketplace](https://github.com/YELEBAI/dsh-plugin-marketplace) - Verified plugin marketplace and autonomous registry for DeepSeek Harness.
+- [KCNyu/clawock](https://github.com/KCNyu/clawock) - AI argues. Code settles. The losses stay on the page.
 - [KannaKuron/dsh-better-workspace](https://github.com/KannaKuron/dsh-better-workspace) - Plugin web DSH: cây workspace phân cấp cho thanh bên — tiêu đề chứa / được nhóm…
+- [dshworks/awesome-dsh-plugins](https://github.com/dshworks/awesome-dsh-plugins) - Spam-filtered, open-data registry of DeepSeek Harness (dsh) plugins, bundles…
+- [billLiao/awesome-dsh-plugin](https://github.com/billLiao/awesome-dsh-plugin) - A curated list of plugins for DeepSeek Harness (dsh) — 精选 DeepSeek Harness 插件列表.
 - [ddtcorex/govard](https://github.com/ddtcorex/govard) - Bộ điều phối phát triển cục bộ dựa trên Go cho Magento, Laravel, Symfony…
 - [Ianzhyh/workbuddy-to-dsh](https://github.com/Ianzhyh/workbuddy-to-dsh) - Biến các mô hình đã đăng nhập trên ứng dụng desktop WorkBuddy cục bộ.
 - [PerryLink/dsh-translate](https://github.com/PerryLink/dsh-translate) - Dịch tham số nhà cung cấp và sửa JSON xác định cho DeepSeek Harness: /translate…
 - [HackSing/dsh-plugins](https://github.com/HackSing/dsh-plugins) - Danh mục plugin DeepSeek Harness (DSH) song ngữ, được duy trì liên tục.
+- [muyuanjin/dsh-ptc-plus](https://github.com/muyuanjin/dsh-ptc-plus) - A session-bound agent-native REPL for DeepSeek Harness PTC mode.
 - [PerryLink/dsh-score](https://github.com/PerryLink/dsh-score) - Chấm điểm chất lượng đa chiều cho plugin DeepSeek Harness: chấm một repo hoặc…
 - [PerryLink/dsh-test-drive](https://github.com/PerryLink/dsh-test-drive) - Các lượt chạy thử cài đặt và smoke test cô lập cho plugin DeepSeek Harness: cài…
 - [wycto/dsh-dock](https://github.com/wycto/dsh-dock) - dsh-dock · Plugin bến chức năng DeepSeek Harness: một panel đăng ký/bật tắt…
 - [MicroMilo/upstream-radar](https://github.com/MicroMilo/upstream-radar) - Kiểm thử tương thích luôn bật cho các plugin DeepSeek Harness: bản phát hành…
-- [liang-today/dsh-liangxiang](https://github.com/liang-today/dsh-liangxiang) - 众香成势，梁子显相。DeepSeek Harness 的 WebUI 插件，欢迎一起打梁.
-- [vecnode/vncode](https://github.com/vecnode/vncode) - vncode 🤖 Agent-Human IDE ⌨️ Web and Desktop versions, bundles Plugins, Skills…
+- [liang-today/dsh-liangxiang](https://github.com/liang-today/dsh-liangxiang) - Góp nhiều hương thành thế, hiện rõ hình hài của Liangzi.
+- [vecnode/vncode](https://github.com/vecnode/vncode) - vncode 🤖 IDE Agent-Người ⌨️ phiên bản Web và Desktop, tích hợp Plugins, Skills…
 - [bonerush/dsh-obsidian-mem](https://github.com/bonerush/dsh-obsidian-mem) - Plugin host DeepSeek Harness lưu tài liệu dự án và bộ nhớ dài hạn dưới dạng…
-- [cccakeee/awesome-dsh-plugins](https://github.com/cccakeee/awesome-dsh-plugins) - Danh mục plugin DeepSeek Harness (DSH) được tuyển chọn dựa trên bằng chứng: các…
+- [Icather/dsh-clean-desktop-shell](https://github.com/Icather/dsh-clean-desktop-shell) - DSH 纯净桌面壳：双击像普通软件一样一键启动，后端活性实时监测 + 托盘快捷启停，零视觉改造.
 - [unStone/dsh-xray](https://github.com/unStone/dsh-xray) - X-quang cho plugin DeepSeek Harness: khả năng được khai báo so với hành vi thực…
-- [ayingQAQ/dsh-web-launcher](https://github.com/ayingQAQ/dsh-web-launcher) - Windows 上的 DeepSeek Harness Web 一键启动器｜One-click launcher with background…
+- [ayingQAQ/dsh-web-launcher](https://github.com/ayingQAQ/dsh-web-launcher) - Trình khởi chạy DeepSeek Harness Web một cú nhấp trên Windows｜Trình khởi chạy…
 - [cherrchen/dsh-plugin-multi-root-workspace](https://github.com/cherrchen/dsh-plugin-multi-root-workspace) - Không gian làm việc nhiều thư mục: cho phép Agent của DSH (DeepSeek Harness)…
-- [Exagone313/dsh-podman](https://github.com/Exagone313/dsh-podman) - Thực thi DeepSeek Harness (dsh) dựa trên Podman.
+- [chnjames/dsh-plugin-market](https://github.com/chnjames/dsh-plugin-market) - DSH 插件市场 — DeepSeek Harness 设置内一键安装社区插件，并提供公开目录站（浏览 / 复制安装命令）.
 - [kelemiao/dsh-animation-optimization](https://github.com/kelemiao/dsh-animation-optimization) - Tối ưu hóa hoạt ảnh DSH: plugin xuất hoạt ảnh dạng luồng và giao diện phong…
 - [wads-dev/dsh-live-voice](https://github.com/wads-dev/dsh-live-voice) - Hội thoại bằng giọng nói ưu tiên cục bộ cho DSH.
 - [KannaKuron/dsh-ide-git](https://github.com/KannaKuron/dsh-ide-git) - Plugin DSH: cửa sổ công cụ Git cấp IDE dưới dạng tab dsh-better-sidebar gốc…
 - [KannaKuron/dsh-ptc-cordis-preset](https://github.com/KannaKuron/dsh-ptc-cordis-preset) - Chế độ sáng tạo dựa trên chế độ PTC: plugin DSH, kết hợp điều phối công cụ Code…
-- [zhouzhencheng07/dsh-kit](https://github.com/zhouzhencheng07/dsh-kit) - Bộ công cụ khả năng cho trang của DeepSeek Harness (dsh): dock terminal, cây…
+- [ywsldxk/dsh-plugin-stars](https://github.com/ywsldxk/dsh-plugin-stars) - DeepSeek Harness (DSH) plugin leaderboard &amp; directory｜DeepSeek…
 - [ItQianChen/dsh-github-flow](https://github.com/ItQianChen/dsh-github-flow) - Cho DeepSeek Harness Agent có tay chân gốc để thao tác với GitHub! Tái sử dụng…
+- [majiayu000/dsh-plugin-registry](https://github.com/majiayu000/dsh-plugin-registry) - Searchable DeepSeek Harness plugin registry with curated listings and…
 - [PerryLink/dsh-plugin-doctor](https://github.com/PerryLink/dsh-plugin-doctor) - Tiêu chuẩn xác minh không phụ thuộc cho plugin DeepSeek Harness (dsh) — các…
 - [PerryLink/perrylink](https://github.com/PerryLink/perrylink) - Hệ sinh thái plugin DeepSeek Harness: 86 plugin mã nguồn mở trong một họ gồm…
 - [TheYoungChen/dsh-plugin-market](https://github.com/TheYoungChen/dsh-plugin-market) - Chợ plugin DeepSeek Harness - duyệt, tìm kiếm và cài đặt các plugin chủ đề…
@@ -3256,19 +3220,20 @@ Plugin chủ đề Catppuccin cho DeepSeek Harness Web GUI: chuyển đổi tứ
 - [Atelyx/Atelyx](https://github.com/Atelyx/Atelyx) - Atelyx là một workspace máy tính để bàn có thể mở rộng, lấy con người làm trung…
 - [Djokovical5294/DeepSeek-Harness-Token-Free](https://github.com/Djokovical5294/DeepSeek-Harness-Token-Free) - Chạy DeepSeek Harness trên máy tính để bàn với chi phí token bằng không — GUI…
 - [dushaobindoudou/dsh-bots](https://github.com/dushaobindoudou/dsh-bots) - Workbench dsh Bots: plugin Cordis kết nối gateway điều phối sdk-bots vào shell…
+- [LeiSureYu/dsh-smart-download](https://github.com/LeiSureYu/dsh-smart-download) - DSH 多线程下载插件已适配dsh0.2,0：内置 aria2，智能探测文件大小自动选择下载策略.
 - [lmzhen/dsh-evolution](https://github.com/lmzhen/dsh-evolution) - Họ plugin tự tiến hóa của tác nhân lấy cảm hứng từ Hermes, được xây dựng chuyên…
 - [sakanamaru/dsh-minato](https://github.com/sakanamaru/dsh-minato) - dsh-minato — bộ công cụ triển khai và vận hành cục bộ phiên bản cộng đồng cho…
+- [skkjkk/dsh-usage-dashboard](https://github.com/skkjkk/dsh-usage-dashboard) - DSH (DeepSeek Harness) usage statistics dashboard plugin: token / cost /…
 - [tianyagk/dsh-tradewatcher](https://github.com/tianyagk/dsh-tradewatcher) - Plugin web DeepSeek Harness (DSH): tab sidebar market-dashboard theo dõi thị…
 - [Wanbinyu/wanbinyu-harness-toolbox](https://github.com/Wanbinyu/wanbinyu-harness-toolbox) - Các plugin và công cụ độc lập của bên thứ ba cho DeepSeek Harness, do Wanbinyu…
 - [x5427876/dsh-opencode-free](https://github.com/x5427876/dsh-opencode-free) - Dùng các mô hình miễn phí OpenCode Zen trong DeepSeek Harness với quyền truy…
-- [yangzhe1991/dsh-web-enhance](https://github.com/yangzhe1991/dsh-web-enhance) - Plugin nâng cao DSH Web UI: mặc định mở rộng chuỗi suy nghĩ, thống kê giá phiên…
 - [argszero/cordis-plugin-sandbox-grant-advisor](https://github.com/argszero/cordis-plugin-sandbox-grant-advisor) - Plugin DeepSeek Harness: biến lỗi cấp quyền ACL sandbox Windows…
 - [argszero/cordis-plugin-tool-deadline-guard](https://github.com/argszero/cordis-plugin-tool-deadline-guard) - Deadline ở cấp triển khai cho các lệnh gọi tool dsh không khai báo deadline…
-- [validation-engineering/cordis-verus](https://github.com/validation-engineering/cordis-verus) - Một runtime plugin Rust với kernel vòng đời được Verus xác minh và các bộ điều…
 - [xinvxueyuan/cordis-plugin-github](https://github.com/xinvxueyuan/cordis-plugin-github) - Plugin Cordis / DeepSeek Harness — các tool GitHub API được chuẩn hóa cho AI…
-- [YOU-SHOULD-KNOW-ME/antigrative-dashboard](https://github.com/YOU-SHOULD-KNOW-ME/antigrative-dashboard) - Bảng điều khiển Antigravity inline: tok/s, tỷ lệ cache hit kiểu DSH, hạn mức…
-- [helloHupc/dsh-plugin-hub](https://github.com/helloHupc/dsh-plugin-hub) - DSH 插件聚合站:全网 DeepSeek Harness 插件聚合检索,多源自动去重分类,每小时刷新 |…
-- [arkme-senx/arkme-dsh-plugin](https://github.com/arkme-senx/arkme-dsh-plugin) - Arkme account, records, chat and interwoven-moments integration for DeepSeek…
+- [KunoLu/sbtd-plugins](https://github.com/KunoLu/sbtd-plugins) - SBTD host plugins (OMP + DSH) and shared workflow kit.
+- [helloHupc/dsh-plugin-hub](https://github.com/helloHupc/dsh-plugin-hub) - Trang tổng hợp plugin DSH: tổng hợp và tìm kiếm plugin DeepSeek Harness trên…
+- [tellmewhattodo/dsh-serenity-plugin](https://github.com/tellmewhattodo/dsh-serenity-plugin) - dsh-serenity-plugin.
+- [arkme-senx/arkme-dsh-plugin](https://github.com/arkme-senx/arkme-dsh-plugin) - Tích hợp tài khoản, bản ghi, trò chuyện và các khoảnh khắc đan xen của Arkme…
 - [SCP-008-1/dshop](https://github.com/SCP-008-1/dshop) - Chợ plugin dsh - tự động phát hiện và đồng bộ định kỳ mỗi giờ dựa trên GitHub…
 
 </details>
@@ -3324,7 +3289,7 @@ Không có mô tả từ nguồn gốc nào được công bố.
 </details>
 
 <details>
-<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49999983">A Claude Code mod plays MIDI music when it works</a></b> · ⭐3 · 👁️ observed · 4 天</summary>
+<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49999983">A Claude Code mod plays MIDI music when it works</a></b> · ⭐3 · 👁️ observed · 5 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -3456,7 +3421,7 @@ Không có mô tả từ nguồn gốc nào được công bố.
 </details>
 
 <details>
-<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49940121">Getting started with Claude Code mods</a></b> · ⭐2 · 👁️ observed · 9 天</summary>
+<summary>📰 <b><a href="https://news.ycombinator.com/item?id=49940121">Getting started with Claude Code mods</a></b> · ⭐2 · 👁️ observed · 10 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -3529,17 +3494,18 @@ Hệ sinh thái tập trung ở Python và TypeScript, nhưng các client có ki
 
 | Ngôn ngữ   | Mục | Dự án mẫu                                                                                                       |
 | ---------- | --- | --------------------------------------------------------------------------------------------------------------- |
-| TypeScript | 378 | `anthropics/claude-code`, `anthropics/claude-code-action`, `PerryLink/dsh-mcp-panel`                            |
-| JavaScript | 78  | `fschmutz/claude-usage-panel`, `karanb192/awesome-claude-code-mods`, `karanb192/claude-code-mods`               |
+| TypeScript | 372 | `anthropics/claude-code`, `anthropics/claude-code-action`, `PerryLink/dsh-mcp-panel`                            |
+| JavaScript | 81  | `karanb192/awesome-claude-code-mods`, `karanb192/claude-code-mods`, `ucsandman/claude-harness`                  |
 | Python     | 40  | `anthropics/claude-agent-sdk-python`, `anthropics/claude-code-security-review`, `alexgreensh/token-optimizer`   |
-| Shell      | 26  | `anthropics/claude-agent-sdk-typescript`, `0xDarkMatter/claude-mods`, `BeLazy167/claude-mods-skill`             |
-| HTML       | 15  | `darrell-tw/darrelltw-mods`, `omarcevi/claudemods`, `testy-cool/awesome-claude-code-mods`                       |
-| Rust       | 5   | `persiyanov/herdr-reviewr`, `cc-friend/ccost`, `arcships/rutis`                                                 |
+| Shell      | 27  | `anthropics/claude-agent-sdk-typescript`, `0xDarkMatter/claude-mods`, `BeLazy167/claude-mods-skill`             |
+| HTML       | 14  | `darrell-tw/darrelltw-mods`, `omarcevi/claudemods`, `testy-cool/awesome-claude-code-mods`                       |
+| Rust       | 5   | `persiyanov/herdr-reviewr`, `cc-friend/ccost`, `ericbust/namedrop`                                              |
 | Go         | 4   | `mitre/claude-statusline`, `esengine/DeepSeek-Reasonix`, `vshulcz/deja-vu`                                      |
 | PowerShell | 3   | `Gabriel-Dalton/claude-statusline-tokens`, `markallisongit/claude-statusline`, `rainyfei/claude-statusline-win` |
 | C          | 2   | `reporails/arcade`, `tylergraydev/cc-mods`                                                                      |
 | C#         | 1   | `sakanamaru/dsh-minato`                                                                                         |
-| Lua        | 1   | `crafts69guy/claude-statusline.nvim`                                                                            |
+| Kotlin     | 1   | `platonai/Browser4`                                                                                             |
+| MDX        | 1   | `jkf87/mod-guide`                                                                                               |
 | Swift      | 1   | `peaceinitiativemenhadenoil263/claude-status-bar`                                                               |
 
 <sub>Chỉ các mục khai báo ngôn ngữ mới được tính. Các mục tài liệu và thảo luận không được đưa vào bảng này.</sub>
@@ -3552,4 +3518,4 @@ Hoan nghênh mọi góp ý sửa lỗi và đây là cách nhanh nhất để c�
 
 <sub>Dự án cộng đồng độc lập. Không liên kết, không được chứng thực hoặc đánh giá bởi Anthropic. Claude Code, Claude và Anthropic là các nhãn hiệu của Anthropic. Hành vi của sản phẩm có thể thay đổi mà không báo trước; hãy kiểm chứng mọi thông tin quan trọng dựa trên tài liệu chính thức. Tài sản vẫn thuộc về các dự án upstream tương ứng và chỉ được sao chép khi giấy phép cho phép.</sub>
 
-<sub>Cập nhật lần cuối · 2026-10-13T06:19:35+08:00</sub>
+<sub>Cập nhật lần cuối · 2026-10-13T08:29:52+08:00</sub>
