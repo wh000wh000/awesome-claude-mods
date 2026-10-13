@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T14:56:44+08:00",
+ "generated_at": "2026-10-13T17:09:12+08:00",
  "entries": {
   "gh:anthropics/claude-code": {
    "bundled": false,
@@ -32,7 +32,7 @@
     "poster": ""
    },
    "source": "link-list (no own media)",
-   "pushed_at": "2026-10-13T04:00:20Z"
+   "pushed_at": "2026-10-13T07:52:45Z"
   },
   "gh:karanb192/claude-code-mods": {
    "bundled": false,
@@ -162,7 +162,7 @@
     "poster": ""
    },
    "source": "link-list (no own media)",
-   "pushed_at": "2026-10-13T06:20:37Z"
+   "pushed_at": "2026-10-13T08:55:27Z"
   },
   "gh:jarrodwatts/claude-hud": {
    "bundled": true,
@@ -366,7 +366,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T02:25:21Z"
+   "pushed_at": "2026-10-13T08:41:50Z"
   },
   "gh:ruvnet/ruflo": {
    "bundled": true,
@@ -407,7 +407,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:49:00Z"
+   "pushed_at": "2026-10-13T09:03:16Z"
   },
   "gh:tt-a1i/archify": {
    "bundled": true,
@@ -448,7 +448,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-12T12:37:48Z"
+   "pushed_at": "2026-10-13T09:05:12Z"
   },
   "gh:hashgraph-online/awesome-ai-plugins": {
    "bundled": false,
@@ -501,7 +501,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T05:46:18Z"
+   "pushed_at": "2026-10-13T08:37:21Z"
   },
   "gh:PerryLink/dsh-plugin-doctor": {
    "bundled": true,
@@ -542,7 +542,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:24:46Z"
+   "pushed_at": "2026-10-13T07:37:42Z"
   },
   "gh:NarenDawar/narens-claude-toolkit": {
    "bundled": false,
@@ -622,7 +622,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:54:30Z"
+   "pushed_at": "2026-10-13T09:07:19Z"
   },
   "gh:whyihaveyou/dsh-suite": {
    "bundled": true,
@@ -675,7 +675,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:53:08Z"
+   "pushed_at": "2026-10-13T09:04:23Z"
   },
   "gh:kejixiaoliang/awesome-dsh-plugins": {
    "bundled": false,
@@ -970,7 +970,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:36:11Z"
+   "pushed_at": "2026-10-13T08:35:37Z"
   },
   "gh:aloki-alok/omni-cat": {
    "bundled": true,
@@ -1771,27 +1771,6 @@
    },
    "pushed_at": "2026-10-09T21:16:57Z"
   },
-  "gh:ChaseWNorton/claude-doom": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "GPL-2.0",
-   "image": "media/chasewnorton--claude-doom/0761bd577716e6ae.gif",
-   "image_alt": "ChaseWNorton/claude-doom screenshot",
-   "image_source": "https://raw.githubusercontent.com/ChaseWNorton/claude-doom/main/docs/gameplay.gif",
-   "video": {
-    "state": "animated",
-    "src": "media/chasewnorton--claude-doom/0761bd577716e6ae.gif",
-    "poster": "",
-    "source_url": "https://raw.githubusercontent.com/ChaseWNorton/claude-doom/main/docs/gameplay.gif"
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 1,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-09-20T02:14:19Z"
-  },
   "gh:davidurco/cc-tamagotchi": {
    "bundled": true,
    "license_ok": true,
@@ -2399,7 +2378,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-12T13:14:38Z"
+   "pushed_at": "2026-10-13T07:51:45Z"
   },
   "gh:varunmoka7/layman": {
    "bundled": true,
@@ -2460,26 +2439,6 @@
     "external": 0
    },
    "pushed_at": "2026-10-13T00:03:22Z"
-  },
-  "gh:pradyb/claude-mods": {
-   "bundled": false,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-11T04:02:38Z"
   },
   "gh:Tanish-Dev/claude-usage-band": {
    "bundled": true,
@@ -2581,7 +2540,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-12T15:00:20Z"
+   "pushed_at": "2026-10-13T07:55:18Z"
   },
   "gh:NovusEdge/glowup": {
    "bundled": true,
@@ -2603,7 +2562,7 @@
     "external": 0
    },
    "image_reencoded": "gif pass 1 (0.6 MB)",
-   "pushed_at": "2026-10-13T06:49:26Z"
+   "pushed_at": "2026-10-13T08:43:51Z"
   },
   "gh:gregdotca/ccmod-the-machine": {
    "bundled": false,
@@ -2705,26 +2664,6 @@
    },
    "pushed_at": "2026-10-12T19:41:19Z"
   },
-  "gh:dot-agi/arrester": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "media/dot-agi--arrester/95670db84bbcba5a.png",
-   "image_alt": "dot-agi/arrester screenshot",
-   "image_source": "https://raw.githubusercontent.com/dot-agi/arrester/main/docs/images/header.png",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 3,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-12T10:24:37Z"
-  },
   "gh:cherrchen/dsh-plugin-multi-root-workspace": {
    "bundled": false,
    "license_ok": true,
@@ -2743,7 +2682,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T04:51:33Z"
+   "pushed_at": "2026-10-13T09:01:17Z"
   },
   "gh:tianyagk/dsh-tradewatcher": {
    "bundled": false,
@@ -2783,7 +2722,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:28:01Z"
+   "pushed_at": "2026-10-13T07:55:05Z"
   },
   "gh:rashedInt32/glass": {
    "bundled": false,
@@ -2987,26 +2926,6 @@
     "external": 0
    },
    "pushed_at": "2026-10-12T18:41:30Z"
-  },
-  "gh:ymoud/claude-code-statusline": {
-   "bundled": false,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-12T08:42:18Z"
   },
   "gh:anthropics/claude-code-action": {
    "bundled": true,
@@ -4759,27 +4678,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:21:31Z"
-  },
-  "gh:oMaN-Rod/claude-code-widgets": {
-   "bundled": false,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-12T18:39:28Z"
+   "pushed_at": "2026-10-13T08:36:57Z"
   },
   "gh:rezzminator/tool-visibility-controller": {
    "bundled": false,
@@ -4800,26 +4699,6 @@
     "external": 0
    },
    "pushed_at": "2026-10-11T23:16:38Z"
-  },
-  "gh:pvjbuilds/crab-buddy": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "media/pvjbuilds--crab-buddy/87b9ce3b444c6f14.png",
-   "image_alt": "pvjbuilds/crab-buddy screenshot",
-   "image_source": "https://raw.githubusercontent.com/pvjbuilds/crab-buddy/main/docs/hero.png",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 6,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-12T07:49:34Z"
   },
   "gh:lucasmm96/claude-statusline": {
    "bundled": false,
@@ -4899,7 +4778,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:52:30Z"
+   "pushed_at": "2026-10-13T08:49:55Z"
   },
   "gh:modmyclaude/claude-code-mods": {
    "bundled": false,
@@ -5040,27 +4919,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:44:59Z"
-  },
-  "gh:LupusMalusDeviant/mod-box": {
-   "bundled": false,
-   "license_ok": false,
-   "license": "NOASSERTION",
-   "image": "https://raw.githubusercontent.com/LupusMalusDeviant/mod-box/main/docs/images/mods.png",
-   "image_alt": "",
-   "image_source": "https://raw.githubusercontent.com/LupusMalusDeviant/mod-box/main/docs/images/mods.png",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme+hotlink(license)",
-   "candidates": {
-    "images": 11,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-12T19:34:30Z"
+   "pushed_at": "2026-10-13T08:36:29Z"
   },
   "gh:elijah-rou/agent-kit": {
    "bundled": false,
@@ -5080,7 +4939,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T02:08:51Z"
+   "pushed_at": "2026-10-13T08:48:23Z"
   },
   "gh:malinfossum/mango-buddy": {
    "bundled": false,
@@ -5100,27 +4959,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:50:06Z"
-  },
-  "gh:zach-source/claude-factory": {
-   "bundled": false,
-   "license_ok": false,
-   "license": "unknown",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T05:06:07Z"
+   "pushed_at": "2026-10-13T07:03:27Z"
   },
   "gh:ray-amjad/claude-code-mods": {
    "bundled": false,
@@ -5160,7 +4999,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-12T19:17:07Z"
+   "pushed_at": "2026-10-13T08:18:50Z"
   },
   "gh:andrewbakercloudscale/claude-code-cost-sidebar": {
    "bundled": false,
@@ -5202,27 +5041,6 @@
    },
    "pushed_at": "2026-10-12T07:44:24Z"
   },
-  "gh:g761007/hudcade": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "media/g761007--hudcade/0a9ca65f04bb093d.gif",
-   "image_alt": "g761007/hudcade screenshot",
-   "image_source": "https://raw.githubusercontent.com/g761007/hudcade/main/assets/demo.gif",
-   "video": {
-    "state": "animated",
-    "src": "media/g761007--hudcade/0a9ca65f04bb093d.gif",
-    "poster": "",
-    "source_url": "https://raw.githubusercontent.com/g761007/hudcade/main/assets/demo.gif"
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 2,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-12T08:28:50Z"
-  },
   "gh:jasonXiao422/drawing2sw": {
    "bundled": true,
    "license_ok": true,
@@ -5263,26 +5081,6 @@
    },
    "pushed_at": "2026-10-12T08:22:33Z"
   },
-  "gh:kgdemir/claude-agentic-os": {
-   "bundled": false,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-12T07:27:33Z"
-  },
   "gh:Kimmihappy793/claude-status-line": {
    "bundled": false,
    "license_ok": false,
@@ -5301,27 +5099,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T05:15:04Z"
-  },
-  "gh:naughty00shortie/claude-statusline": {
-   "bundled": false,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-12T08:28:39Z"
+   "pushed_at": "2026-10-13T07:08:00Z"
   },
   "gh:peaceinitiativemenhadenoil263/claude-status-bar": {
    "bundled": false,
@@ -5341,7 +5119,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T05:17:05Z"
+   "pushed_at": "2026-10-13T07:10:10Z"
   },
   "gh:Undone-drawknife974/claude-code-statusline": {
    "bundled": false,
@@ -5361,7 +5139,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T05:19:53Z"
+   "pushed_at": "2026-10-13T07:13:00Z"
   },
   "gh:PolinniZhong/dsh-knit": {
    "bundled": true,
@@ -5398,31 +5176,11 @@
    },
    "source": "readme",
    "candidates": {
-    "images": 6,
+    "images": 10,
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:33:23Z"
-  },
-  "gh:ruslanshchuchkin/claude-techno-mod": {
-   "bundled": false,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-12T13:25:55Z"
+   "pushed_at": "2026-10-13T08:16:13Z"
   },
   "gh:gaius-codius/ostrakon": {
    "bundled": true,
@@ -5444,29 +5202,6 @@
    },
    "pushed_at": "2026-10-13T00:40:11Z"
   },
-  "gh:timoncool/slapbox": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "media/timoncool--slapbox/b07d46b8ff687a88.png",
-   "image_alt": "timoncool/slapbox screenshot",
-   "image_source": "https://raw.githubusercontent.com/timoncool/slapbox/main/docs/screenshots/tools-en.png",
-   "video": {
-    "state": "animated",
-    "src": "media/timoncool--slapbox/eb608665aec2f207.gif",
-    "poster": "media/timoncool--slapbox/b07d46b8ff687a88.png",
-    "full_quality": "https://raw.githubusercontent.com/timoncool/slapbox/main/docs/teaser.mp4",
-    "source_url": "https://raw.githubusercontent.com/timoncool/slapbox/main/docs/teaser.mp4",
-    "note": "gif pass 1 (0.4 MB)"
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 5,
-    "videos": 1,
-    "external": 0
-   },
-   "pushed_at": "2026-10-12T10:55:09Z"
-  },
   "gh:Ma1achy/claude-statusline": {
    "bundled": true,
    "license_ok": true,
@@ -5487,26 +5222,6 @@
     "external": 0
    },
    "pushed_at": "2026-10-12T09:53:40Z"
-  },
-  "gh:IdoSagiv/claude-config": {
-   "bundled": false,
-   "license_ok": false,
-   "license": "unknown",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-12T09:25:26Z"
   },
   "gh:LounisBou/claude-statusbar": {
    "bundled": false,
@@ -5566,7 +5281,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:49:16Z"
+   "pushed_at": "2026-10-13T08:15:57Z"
   },
   "gh:KannaKuron/dsh-gitbash-shell": {
    "bundled": false,
@@ -5586,7 +5301,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T05:03:27Z"
+   "pushed_at": "2026-10-13T06:54:35Z"
   },
   "gh:ItQianChen/dsh-github-flow": {
    "bundled": true,
@@ -5606,7 +5321,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T04:16:38Z"
+   "pushed_at": "2026-10-13T07:53:18Z"
   },
   "gh:BrianHuang813/clawd-actor": {
    "bundled": true,
@@ -5627,27 +5342,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:36:43Z"
-  },
-  "gh:soulrocha/Claude-code-hero-journey": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "media/soulrocha--claude-code-hero-journey/0befa899e72f3f41.png",
-   "image_alt": "soulrocha/Claude-code-hero-journey screenshot",
-   "image_source": "https://raw.githubusercontent.com/soulrocha/Claude-code-hero-journey/main/docs/assets/telas/palco.png",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 27,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-12T16:33:43Z"
+   "pushed_at": "2026-10-13T08:31:01Z"
   },
   "gh:0xctx/sysop": {
    "bundled": false,
@@ -5669,28 +5364,6 @@
    },
    "pushed_at": "2026-10-12T23:30:04Z"
   },
-  "gh:404Mayank/cachebeat": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "media/404mayank--cachebeat/2f0b17962bd2cf19.gif",
-   "image_alt": "404Mayank/cachebeat screenshot",
-   "image_source": "https://raw.githubusercontent.com/404Mayank/cachebeat/main/assets/demo.gif",
-   "video": {
-    "state": "animated",
-    "src": "media/404mayank--cachebeat/47f32f560208dfba.gif",
-    "poster": "",
-    "source_url": "https://raw.githubusercontent.com/404Mayank/cachebeat/main/assets/demo.gif"
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 2,
-    "videos": 0,
-    "external": 0
-   },
-   "image_reencoded": "gif pass 1 (0.2 MB)",
-   "pushed_at": "2026-10-13T05:32:13Z"
-  },
   "gh:connectwithub/loopkeeper": {
    "bundled": false,
    "license_ok": false,
@@ -5710,26 +5383,6 @@
     "external": 0
    },
    "pushed_at": "2026-10-12T15:24:03Z"
-  },
-  "gh:drolosoft/taskrail": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "media/drolosoft--taskrail/bf7c16ee7560ffa8.png",
-   "image_alt": "drolosoft/taskrail screenshot",
-   "image_source": "https://raw.githubusercontent.com/drolosoft/taskrail/main/assets/icon.png",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 2,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-12T13:00:11Z"
   },
   "gh:fllag/claude-mods": {
    "bundled": false,
@@ -5771,46 +5424,6 @@
     "external": 0
    },
    "pushed_at": "2026-10-12T13:37:48Z"
-  },
-  "gh:Joseph-Ayoub/claude-mods": {
-   "bundled": false,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-12T17:43:45Z"
-  },
-  "gh:Nasrallah-Adel/claude-delegate-launcher": {
-   "bundled": false,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-12T13:29:22Z"
   },
   "gh:Ross-cripto/modshelf": {
    "bundled": false,
@@ -6085,7 +5698,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:52:28Z"
+   "pushed_at": "2026-10-13T06:54:27Z"
   },
   "gh:midudev/better-claude": {
    "bundled": false,
@@ -6159,26 +5772,6 @@
     "external": 0
    },
    "pushed_at": "2026-10-12T20:42:54Z"
-  },
-  "gh:cch-agent/claude-mods": {
-   "bundled": false,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-12T17:40:47Z"
   },
   "gh:DannyW618/What-skills-am-i-using": {
    "bundled": false,
@@ -6360,27 +5953,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:43:36Z"
-  },
-  "gh:monkfrodo/claude-mods": {
-   "bundled": false,
-   "license_ok": false,
-   "license": "unknown",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-12T21:57:57Z"
+   "pushed_at": "2026-10-13T08:04:15Z"
   },
   "gh:mtami/terminal-tab-title": {
    "bundled": false,
@@ -6421,26 +5994,6 @@
     "external": 0
    },
    "pushed_at": "2026-10-12T18:46:00Z"
-  },
-  "gh:ohade/claude-mods": {
-   "bundled": false,
-   "license_ok": false,
-   "license": "unknown",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-12T23:55:51Z"
   },
   "gh:olioskar/megamaid-claude-plugin": {
    "bundled": false,
@@ -6584,19 +6137,6 @@
    },
    "pushed_at": "2026-10-12T16:17:55Z"
   },
-  "gh:Xabilimon1/EMCC": {
-   "bundled": false,
-   "license_ok": true,
-   "image": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "link-list (no own media)",
-   "pushed_at": "2026-10-12T22:28:33Z"
-  },
   "gh:Vincentwei1021/video-shotcraft": {
    "bundled": true,
    "license_ok": true,
@@ -6605,17 +6145,18 @@
    "image_alt": "Vincentwei1021/video-shotcraft screenshot",
    "image_source": "https://raw.githubusercontent.com/Vincentwei1021/video-shotcraft/main/assets/readme/cover.webp",
    "video": {
-    "state": "external",
-    "src": "https://youtu.be/iShab28B_ak",
-    "poster": "media/vincentwei1021--video-shotcraft/032b96337fe47084.webp"
+    "state": "animated",
+    "src": "media/vincentwei1021--video-shotcraft/7515df43817a6874.gif",
+    "poster": "",
+    "source_url": "https://raw.githubusercontent.com/Vincentwei1021/video-shotcraft/main/assets/readme/workflow.gif"
    },
    "source": "readme",
    "candidates": {
-    "images": 15,
+    "images": 18,
     "videos": 0,
-    "external": 2
+    "external": 0
    },
-   "pushed_at": "2026-10-12T09:44:09Z"
+   "pushed_at": "2026-10-13T07:09:41Z"
   },
   "gh:devrim-1283/claude-code-statusline": {
    "bundled": false,
@@ -6831,26 +6372,6 @@
    },
    "pushed_at": "2026-10-13T04:41:27Z"
   },
-  "gh:cv-superding/dsh-deepseek-web-login": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "Apache-2.0",
-   "image": "media/cv-superding--dsh-deepseek-web-login/b95392c45786ce03.png",
-   "image_alt": "cv-superding/dsh-deepseek-web-login screenshot",
-   "image_source": "https://raw.githubusercontent.com/cv-superding/dsh-deepseek-web-login/main/docs/assets/screenshot-settings.png",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 8,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-12T13:21:56Z"
-  },
   "gh:acryldev/acryl": {
    "bundled": true,
    "license_ok": true,
@@ -6911,7 +6432,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-12T23:05:38Z"
+   "pushed_at": "2026-10-13T08:29:19Z"
   },
   "gh:ayagmar/claude-mods": {
    "bundled": false,
@@ -6993,27 +6514,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-12T20:52:27Z"
-  },
-  "gh:alan-oliv/claude-mods": {
-   "bundled": false,
-   "license_ok": false,
-   "license": "unknown",
-   "image": "https://raw.githubusercontent.com/alan-oliv/claude-mods/main/docs/session-stats.png",
-   "image_alt": "",
-   "image_source": "https://raw.githubusercontent.com/alan-oliv/claude-mods/main/docs/session-stats.png",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme+hotlink(license)",
-   "candidates": {
-    "images": 1,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-12T18:50:24Z"
+   "pushed_at": "2026-10-13T08:45:18Z"
   },
   "gh:aott33/model-router": {
    "bundled": false,
@@ -7035,33 +6536,13 @@
    },
    "pushed_at": "2026-10-12T18:00:41Z"
   },
-  "gh:barmoshe/bar-mods": {
-   "bundled": false,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-12T18:32:26Z"
-  },
   "gh:Barncore/agent-watch": {
-   "bundled": false,
+   "bundled": true,
    "license_ok": true,
    "license": "MIT",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
+   "image": "media/barncore--agent-watch/473ce42523ed7103.png",
+   "image_alt": "Barncore/agent-watch screenshot",
+   "image_source": "https://raw.githubusercontent.com/Barncore/agent-watch/main/docs/images/bar.png",
    "video": {
     "state": "none",
     "src": "",
@@ -7069,11 +6550,11 @@
    },
    "source": "readme",
    "candidates": {
-    "images": 0,
+    "images": 3,
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-12T18:13:01Z"
+   "pushed_at": "2026-10-13T09:04:04Z"
   },
   "gh:Barncore/turn-timer": {
    "bundled": true,
@@ -7093,7 +6574,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T03:58:14Z"
+   "pushed_at": "2026-10-13T08:38:26Z"
   },
   "gh:cprentice9/ccmods": {
    "bundled": false,
@@ -7175,26 +6656,6 @@
    },
    "pushed_at": "2026-10-12T19:34:34Z"
   },
-  "gh:MathysRaw/claude-mods": {
-   "bundled": false,
-   "license_ok": false,
-   "license": "unknown",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-12T19:42:47Z"
-  },
   "gh:T-AI-Labs/claude-code-mods": {
    "bundled": false,
    "license_ok": true,
@@ -7215,46 +6676,6 @@
    },
    "pushed_at": "2026-10-12T19:21:17Z"
   },
-  "gh:wesleystagg/model-router": {
-   "bundled": false,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-12T18:50:47Z"
-  },
-  "gh:wisbech/molt": {
-   "bundled": false,
-   "license_ok": false,
-   "license": "unknown",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T02:06:32Z"
-  },
   "gh:jcdendrite/claude-config": {
    "bundled": false,
    "license_ok": true,
@@ -7273,7 +6694,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T04:55:03Z"
+   "pushed_at": "2026-10-13T08:22:22Z"
   },
   "gh:mkalkere/claude-statusline": {
    "bundled": false,
@@ -7356,68 +6777,6 @@
    },
    "pushed_at": "2026-10-12T19:30:44Z"
   },
-  "gh:Fishsb/dsh-prompt-enhancer": {
-   "bundled": false,
-   "license_ok": false,
-   "license": "unknown",
-   "image": "https://raw.githubusercontent.com/Fishsb/dsh-prompt-enhancer/main/docs/screenshots/voice-main.png",
-   "image_alt": "",
-   "image_source": "https://raw.githubusercontent.com/Fishsb/dsh-prompt-enhancer/main/docs/screenshots/voice-main.png",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme+hotlink(license)",
-   "candidates": {
-    "images": 2,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T06:42:47Z"
-  },
-  "gh:PerryLink/dsh-fund-research": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "Apache-2.0",
-   "image": "media/perrylink--dsh-fund-research/9a258f42b5375ed7.png",
-   "image_alt": "PerryLink/dsh-fund-research screenshot",
-   "image_source": "https://raw.githubusercontent.com/PerryLink/dsh-fund-research/main/docs/assets/dsh-fund-research-demo.png",
-   "video": {
-    "state": "animated",
-    "src": "media/perrylink--dsh-fund-research/c127c0b5eda50892.gif",
-    "poster": "",
-    "source_url": "https://raw.githubusercontent.com/PerryLink/dsh-fund-research/main/docs/assets/dsh-fund-research-demo.gif"
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 5,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-12T13:52:15Z"
-  },
-  "gh:PerryLink/dsh-data-quality": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "Apache-2.0",
-   "image": "media/perrylink--dsh-data-quality/057dcb13ac3237e2.png",
-   "image_alt": "PerryLink/dsh-data-quality screenshot",
-   "image_source": "https://raw.githubusercontent.com/PerryLink/dsh-data-quality/main/docs/assets/dsh-data-quality-demo.png",
-   "video": {
-    "state": "animated",
-    "src": "media/perrylink--dsh-data-quality/e051237ea63a04df.gif",
-    "poster": "",
-    "source_url": "https://raw.githubusercontent.com/PerryLink/dsh-data-quality/main/docs/assets/dsh-data-quality-demo.gif"
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 6,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-12T13:52:01Z"
-  },
   "gh:PerryLink/dsh-plugin-guide": {
    "bundled": true,
    "license_ok": true,
@@ -7457,7 +6816,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T03:14:44Z"
+   "pushed_at": "2026-10-13T07:05:26Z"
   },
   "gh:HaoyueQin/dsh-usage-statistics-panel": {
    "bundled": true,
@@ -7579,7 +6938,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:39:10Z"
+   "pushed_at": "2026-10-13T07:23:18Z"
   },
   "gh:lmzhen/dsh-evolution": {
    "bundled": false,
@@ -7599,7 +6958,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:53:01Z"
+   "pushed_at": "2026-10-13T08:40:09Z"
   },
   "gh:argszero/cordis-plugin-tool-deadline-guard": {
    "bundled": false,
@@ -7744,26 +7103,6 @@
     "external": 0
    },
    "pushed_at": "2026-10-12T20:48:13Z"
-  },
-  "gh:dookers-code/dooks-mods": {
-   "bundled": false,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-12T20:56:30Z"
   },
   "gh:finalpantasy/claude-mod-hider": {
    "bundled": true,
@@ -7923,7 +7262,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-12T20:23:52Z"
+   "pushed_at": "2026-10-13T08:56:20Z"
   },
   "gh:tomfluff/claude-read-along": {
    "bundled": true,
@@ -7964,7 +7303,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-12T20:35:24Z"
+   "pushed_at": "2026-10-13T08:55:26Z"
   },
   "gh:jeancarlo-javier/claude-status-bar": {
    "bundled": true,
@@ -8265,7 +7604,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-12T22:40:14Z"
+   "pushed_at": "2026-10-13T08:35:41Z"
   },
   "gh:mkiselyow/diff-lens": {
    "bundled": true,
@@ -8430,26 +7769,6 @@
    },
    "pushed_at": "2026-10-13T02:00:36Z"
   },
-  "gh:AdamPlatin123/dsh-plugin-radar": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "media/adamplatin123--dsh-plugin-radar/fb6ad7eb8891212c.jpg",
-   "image_alt": "AdamPlatin123/dsh-plugin-radar screenshot",
-   "image_source": "https://raw.githubusercontent.com/AdamPlatin123/dsh-plugin-radar/main/assets/banner-radar.jpg",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 3,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T05:30:58Z"
-  },
   "gh:xiajiajun516/dsh-config-manager": {
    "bundled": true,
    "license_ok": true,
@@ -8470,46 +7789,6 @@
    },
    "pushed_at": "2026-10-13T00:48:46Z"
   },
-  "gh:KCNyu/clawock": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "media/kcnyu--clawock/5b1588e62c78c492.png",
-   "image_alt": "KCNyu/clawock screenshot",
-   "image_source": "https://raw.githubusercontent.com/KCNyu/clawock/refs/heads/master/site/assets/decision-card-example.png",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 29,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T06:40:15Z"
-  },
-  "gh:KevinYu1580/jcGearbox": {
-   "bundled": false,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 1,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T02:23:56Z"
-  },
   "gh:0r0loo/claude-mods": {
    "bundled": false,
    "license_ok": false,
@@ -8529,26 +7808,6 @@
     "external": 0
    },
    "pushed_at": "2026-10-13T03:08:17Z"
-  },
-  "gh:AnnihilationWizard/chrome-close": {
-   "bundled": false,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 1,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T03:10:50Z"
   },
   "gh:d3nims/d3nim-claude-mods": {
    "bundled": false,
@@ -8571,26 +7830,6 @@
     "external": 0
    },
    "pushed_at": "2026-10-13T06:02:01Z"
-  },
-  "gh:dglasgal/usage-rings": {
-   "bundled": false,
-   "license_ok": false,
-   "license": "unknown",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T02:00:10Z"
   },
   "gh:gugahoi/claude-mods": {
    "bundled": false,
@@ -8632,66 +7871,6 @@
    },
    "pushed_at": "2026-10-13T02:24:21Z"
   },
-  "gh:jackmel030/claude-session-notes": {
-   "bundled": false,
-   "license_ok": false,
-   "license": "unknown",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T03:57:09Z"
-  },
-  "gh:liangRXdev/phi-guard-tw": {
-   "bundled": false,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T02:02:16Z"
-  },
-  "gh:s-0-a-r/session-meter": {
-   "bundled": false,
-   "license_ok": false,
-   "license": "unknown",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T02:20:33Z"
-  },
   "gh:shawnbotha/claude-mods": {
    "bundled": false,
    "license_ok": false,
@@ -8731,26 +7910,6 @@
     "external": 0
    },
    "pushed_at": "2026-10-13T02:59:03Z"
-  },
-  "gh:skryvets/claude-status-bar-mod": {
-   "bundled": false,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 1,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T02:02:45Z"
   },
   "gh:varunmoka7/disk-sweep": {
    "bundled": false,
@@ -8924,7 +8083,7 @@
     "poster": ""
    },
    "source": "link-list (no own media)",
-   "pushed_at": "2026-10-12T19:14:44Z"
+   "pushed_at": "2026-10-13T08:44:24Z"
   },
   "gh:barkleesanders/claude-hud": {
    "bundled": true,
@@ -9142,7 +8301,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T03:40:52Z"
+   "pushed_at": "2026-10-13T08:24:58Z"
   },
   "gh:cv-superding/dsh-webin": {
    "bundled": false,
@@ -9162,7 +8321,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:36:51Z"
+   "pushed_at": "2026-10-13T09:05:53Z"
   },
   "gh:nsodhi-cmu/claude-code-ripple": {
    "bundled": false,
@@ -9202,7 +8361,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T05:23:05Z"
+   "pushed_at": "2026-10-13T07:55:45Z"
   },
   "gh:helenlin0621/tea-egg": {
    "bundled": false,
@@ -9336,7 +8495,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:05:31Z"
+   "pushed_at": "2026-10-13T09:01:26Z"
   },
   "gh:drnic/claude-mods": {
    "bundled": false,
@@ -9358,27 +8517,6 @@
    },
    "pushed_at": "2026-10-13T02:45:11Z"
   },
-  "gh:fbwndrud/tidia": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "media/fbwndrud--tidia/c3c8d4fd1104dcd1.gif",
-   "image_alt": "fbwndrud/tidia screenshot",
-   "image_source": "https://raw.githubusercontent.com/fbwndrud/tidia/main/docs/demo.gif",
-   "video": {
-    "state": "animated",
-    "src": "media/fbwndrud--tidia/c3c8d4fd1104dcd1.gif",
-    "poster": "",
-    "source_url": "https://raw.githubusercontent.com/fbwndrud/tidia/main/docs/demo.gif"
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 2,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T03:32:02Z"
-  },
   "gh:gyoomun/claude-mods": {
    "bundled": false,
    "license_ok": true,
@@ -9398,26 +8536,6 @@
     "external": 0
    },
    "pushed_at": "2026-10-13T04:55:40Z"
-  },
-  "gh:its-coughfee/pulse-file-tree": {
-   "bundled": false,
-   "license_ok": false,
-   "license": "unknown",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T03:18:23Z"
   },
   "gh:kamalpreet11/claude-mods": {
    "bundled": false,
@@ -9459,7 +8577,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T03:32:36Z"
+   "pushed_at": "2026-10-13T08:05:16Z"
   },
   "gh:phatjam98/claude-mods": {
    "bundled": false,
@@ -9602,7 +8720,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T03:48:33Z"
+   "pushed_at": "2026-10-13T07:13:36Z"
   },
   "gh:k-hide10/claude-code-plugins": {
    "bundled": true,
@@ -9704,46 +8822,6 @@
    },
    "pushed_at": "2026-10-13T04:34:49Z"
   },
-  "gh:dsh-market/dsh-market": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "media/dsh-market--dsh-market/06b60aace017dab8.png",
-   "image_alt": "dsh-market/dsh-market screenshot",
-   "image_source": "https://raw.githubusercontent.com/dsh-market/dsh-market/main/assets/demo-en.png",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 2,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T06:04:13Z"
-  },
-  "gh:QingYunA/answer-me-with-html": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "media/qingyuna--answer-me-with-html/d42d80099fe6e672.png",
-   "image_alt": "QingYunA/answer-me-with-html screenshot",
-   "image_source": "https://raw.githubusercontent.com/QingYunA/answer-me-with-html/main/docs/images/tcp-en.png",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 8,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T06:10:47Z"
-  },
   "gh:bowenliang123/dsh-context": {
    "bundled": true,
    "license_ok": true,
@@ -9762,20 +8840,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:48:19Z"
-  },
-  "gh:imsai-sh/awesome-deepseek-harness-plugins": {
-   "bundled": false,
-   "license_ok": true,
-   "image": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "link-list (no own media)",
-   "pushed_at": "2026-10-13T05:42:10Z"
+   "pushed_at": "2026-10-13T08:52:00Z"
   },
   "gh:luobosibing2/dsh-jev-plugin": {
    "bundled": true,
@@ -9797,46 +8862,6 @@
    },
    "pushed_at": "2026-10-13T04:14:25Z"
   },
-  "gh:MichengAI/dsh-skills-manager": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "Apache-2.0",
-   "image": "media/michengai--dsh-skills-manager/da8d2487a70e4bc0.webp",
-   "image_alt": "MichengAI/dsh-skills-manager screenshot",
-   "image_source": "https://raw.githubusercontent.com/MichengAI/dsh-skills-manager/master/assets/branding/dsh-banner-en.webp",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 20,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T06:44:58Z"
-  },
-  "gh:dsh-wsl-workspace-maintainers/dsh-wsl-workspace": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "media/dsh-wsl-workspace-maintainers--dsh-wsl-workspace/252926072330fff2.png",
-   "image_alt": "dsh-wsl-workspace-maintainers/dsh-wsl-workspace screenshot",
-   "image_source": "https://raw.githubusercontent.com/dsh-wsl-workspace-maintainers/dsh-wsl-workspace/HEAD/image-3.png",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 4,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T05:45:11Z"
-  },
   "gh:Imzl-zl/dsh-toolbox-ui": {
    "bundled": true,
    "license_ok": true,
@@ -9857,26 +8882,6 @@
    },
    "pushed_at": "2026-10-13T03:02:19Z"
   },
-  "gh:dhicoc/dsh-theme-mineradio": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "media/dhicoc--dsh-theme-mineradio/6964445cd4c1e80e.png",
-   "image_alt": "dhicoc/dsh-theme-mineradio screenshot",
-   "image_source": "https://raw.githubusercontent.com/dhicoc/dsh-theme-mineradio/main/docs/screenshot-dark.png",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 4,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T06:25:42Z"
-  },
   "gh:shenhuanageshei/dsh-team-link": {
    "bundled": false,
    "license_ok": true,
@@ -9895,7 +8900,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:40:14Z"
+   "pushed_at": "2026-10-13T08:07:39Z"
   },
   "gh:songoao25/dsh-chatgpt-sub": {
    "bundled": false,
@@ -9915,7 +8920,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:52:10Z"
+   "pushed_at": "2026-10-13T08:48:34Z"
   },
   "gh:petekp/inbox": {
    "bundled": false,
@@ -9935,7 +8940,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:21:48Z"
+   "pushed_at": "2026-10-13T07:09:24Z"
   },
   "gh:jkf87/ide-mod": {
    "bundled": true,
@@ -10336,7 +9341,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:46:02Z"
+   "pushed_at": "2026-10-13T06:54:34Z"
   },
   "gh:sushant-kum/ccstatus": {
    "bundled": false,
@@ -10476,7 +9481,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:48:50Z"
+   "pushed_at": "2026-10-13T06:57:56Z"
   },
   "gh:Chy-Zaber-Bin-Zahid/claude-code-statusline": {
    "bundled": false,
@@ -10496,27 +9501,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:51:05Z"
-  },
-  "gh:CosminBd/claude-git-file-tree": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "media/cosminbd--claude-git-file-tree/2990b15aaa663275.png",
-   "image_alt": "CosminBd/claude-git-file-tree screenshot",
-   "image_source": "https://raw.githubusercontent.com/CosminBd/claude-git-file-tree/main/docs/screenshots/tree.png",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 4,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T06:27:20Z"
+   "pushed_at": "2026-10-13T07:54:15Z"
   },
   "gh:divramod/divramod-claude-code-plugins": {
    "bundled": false,
@@ -10576,7 +9561,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:41:21Z"
+   "pushed_at": "2026-10-13T07:08:10Z"
   },
   "gh:anywhere-labs/dsh-desktop": {
    "bundled": true,
@@ -10596,80 +9581,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:45:07Z"
-  },
-  "gh:awesome-dsh-plugin/awesome-dsh-plugin": {
-   "bundled": false,
-   "license_ok": true,
-   "image": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "link-list (no own media)",
-   "pushed_at": "2026-10-13T06:18:01Z"
-  },
-  "gh:EthanYoQ/AI-Novel-Writer": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "GPL-3.0",
-   "image": "media/ethanyoq--ai-novel-writer/97081b4a6febc6aa.png",
-   "image_alt": "EthanYoQ/AI-Novel-Writer screenshot",
-   "image_source": "https://raw.githubusercontent.com/EthanYoQ/AI-Novel-Writer/master/docs/assets/readme/ui-zh-v085-project-config.png",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 2,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T06:50:09Z"
-  },
-  "gh:Ikalus1988/MisakaNet": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "Apache-2.0",
-   "image": "media/ikalus1988--misakanet/f6853900d49aba17.jpg",
-   "image_alt": "Ikalus1988/MisakaNet screenshot",
-   "image_source": "https://raw.githubusercontent.com/Ikalus1988/MisakaNet/main/promotional/misaka-compare.jpg",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 12,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T06:20:59Z"
-  },
-  "gh:Clarklevis1995/dsh-mobile": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "media/clarklevis1995--dsh-mobile/b7ef26df82cda351.png",
-   "image_alt": "Clarklevis1995/dsh-mobile screenshot",
-   "image_source": "https://raw.githubusercontent.com/Clarklevis1995/dsh-mobile/main/Docs/images/screenshots/home.png",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 14,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T06:30:39Z"
+   "pushed_at": "2026-10-13T08:49:02Z"
   },
   "gh:morluto/jacobian": {
    "bundled": false,
@@ -10691,66 +9603,6 @@
    },
    "pushed_at": "2026-10-13T02:58:44Z"
   },
-  "gh:Hilbert-beinghappy/seektty": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "media/hilbert-beinghappy--seektty/c8ebb5a8f31f3724.png",
-   "image_alt": "Hilbert-beinghappy/seektty screenshot",
-   "image_source": "https://raw.githubusercontent.com/Hilbert-beinghappy/seektty/main/assets/seektty-tui.png",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 7,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T06:04:40Z"
-  },
-  "gh:WSL043/dsh-codex-subscription": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "media/wsl043--dsh-codex-subscription/0c3daa4061aa684e.webp",
-   "image_alt": "WSL043/dsh-codex-subscription screenshot",
-   "image_source": "https://raw.githubusercontent.com/WSL043/dsh-codex-subscription/main/docs/assets/readme-demo.webp",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 24,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T06:32:37Z"
-  },
-  "gh:franksong2702/dsh-codex-connect": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "Apache-2.0",
-   "image": "media/franksong2702--dsh-codex-connect/4cbf6ea0bc489916.jpg",
-   "image_alt": "franksong2702/dsh-codex-connect screenshot",
-   "image_source": "https://raw.githubusercontent.com/franksong2702/dsh-codex-connect/main/docs/assets/en/hero.jpg",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 2,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T06:45:25Z"
-  },
   "gh:FeatherHunter/dsh-mattpocock-skills-deck": {
    "bundled": true,
    "license_ok": true,
@@ -10769,48 +9621,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:54:27Z"
-  },
-  "gh:Duskriver/dsh-opencode-go": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "media/duskriver--dsh-opencode-go/345a83c2d9a3f143.png",
-   "image_alt": "Duskriver/dsh-opencode-go screenshot",
-   "image_source": "https://raw.githubusercontent.com/Duskriver/dsh-opencode-go/main/image.png",
-   "video": {
-    "state": "animated",
-    "src": "media/duskriver--dsh-opencode-go/d75a597695831f54.gif",
-    "poster": "",
-    "source_url": "https://raw.githubusercontent.com/Duskriver/dsh-opencode-go/main/docs/assets/install-via-dsh.gif"
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 2,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T06:36:13Z"
-  },
-  "gh:Clarklevis1995/dsh-plugin-mobile-gateway": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "media/clarklevis1995--dsh-plugin-mobile-gateway/b7ef26df82cda351.png",
-   "image_alt": "Clarklevis1995/dsh-plugin-mobile-gateway screenshot",
-   "image_source": "https://raw.githubusercontent.com/Clarklevis1995/dsh-mobile/main/Docs/images/screenshots/home.png",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 5,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T06:41:35Z"
+   "pushed_at": "2026-10-13T08:29:25Z"
   },
   "gh:BotHarness/DeepSeekBot": {
    "bundled": true,
@@ -10831,7 +9642,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:49:34Z"
+   "pushed_at": "2026-10-13T09:00:50Z"
   },
   "gh:songoao25/dsh-bottom-info-bar": {
    "bundled": true,
@@ -10851,50 +9662,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T05:47:50Z"
-  },
-  "gh:lhh010/dsh-ui-whale": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "BSD-3-Clause",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "animated",
-    "src": "media/lhh010--dsh-ui-whale/632406072f4a9e30.gif",
-    "poster": "",
-    "full_quality": "https://raw.githubusercontent.com/lhh010/dsh-ui-whale/main/docs/dsh-ui-whale-demo.mp4",
-    "source_url": "https://raw.githubusercontent.com/lhh010/dsh-ui-whale/main/docs/dsh-ui-whale-demo.mp4",
-    "note": "gif pass 1 (0.6 MB)"
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 7,
-    "videos": 1,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T06:53:18Z"
-  },
-  "gh:Lixiaoyiao/deepseek-harness-action": {
-   "bundled": false,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T06:53:47Z"
+   "pushed_at": "2026-10-13T08:38:20Z"
   },
   "gh:Y1X1n/dsh-prompt-optimizer": {
    "bundled": true,
@@ -10914,27 +9682,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:00:58Z"
-  },
-  "gh:ArvinQi/dsh-mcp": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "media/arvinqi--dsh-mcp/2ef9e834f7e6d4ad.webp",
-   "image_alt": "ArvinQi/dsh-mcp screenshot",
-   "image_source": "https://raw.githubusercontent.com/ArvinQi/dsh-mcp/main/static/snapshot.webp",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 3,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T05:57:27Z"
+   "pushed_at": "2026-10-13T07:07:03Z"
   },
   "gh:EternalNight996/memory-eternal": {
    "bundled": true,
@@ -10955,27 +9703,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T05:55:45Z"
-  },
-  "gh:lhh010/dsh-paste-input": {
-   "bundled": false,
-   "license_ok": false,
-   "license": "NOASSERTION",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T06:50:54Z"
+   "pushed_at": "2026-10-13T08:59:07Z"
   },
   "gh:jiangnanquan/dsh-ux": {
    "bundled": true,
@@ -10997,46 +9725,6 @@
    },
    "pushed_at": "2026-10-13T05:44:32Z"
   },
-  "gh:goodrain/rainskills": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "Apache-2.0",
-   "image": "media/goodrain--rainskills/1724f40712b7b38d.png",
-   "image_alt": "goodrain/rainskills screenshot",
-   "image_source": "https://grstatic.tos-cn-beijing.volces.com/wechat/rainskills/rainskills-deploy.png",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 1,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T06:29:21Z"
-  },
-  "gh:lhh010/dsh-ui-progress": {
-   "bundled": false,
-   "license_ok": true,
-   "license": "BSD-3-Clause",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T06:51:52Z"
-  },
   "gh:alone-tree/dsh-skill-mcp-manager": {
    "bundled": true,
    "license_ok": true,
@@ -11056,26 +9744,6 @@
     "external": 0
    },
    "pushed_at": "2026-10-13T05:26:36Z"
-  },
-  "gh:chnjames/dsh-plugin-market": {
-   "bundled": false,
-   "license_ok": false,
-   "license": "unknown",
-   "image": "https://raw.githubusercontent.com/chnjames/dsh-plugin-market/main/website/public/images/settings-market.png",
-   "image_alt": "",
-   "image_source": "https://raw.githubusercontent.com/chnjames/dsh-plugin-market/main/website/public/images/settings-market.png",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme+hotlink(license)",
-   "candidates": {
-    "images": 1,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T06:45:41Z"
   },
   "gh:henlii/dsh-plugins": {
    "bundled": false,
@@ -11097,106 +9765,6 @@
    },
    "pushed_at": "2026-10-13T06:11:27Z"
   },
-  "gh:2861292267/dsh-prompt-forge": {
-   "bundled": false,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T06:46:11Z"
-  },
-  "gh:iluluyu/dsh-ui-outline": {
-   "bundled": false,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 4,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T06:46:45Z"
-  },
-  "gh:lhh010/dsh-input-history": {
-   "bundled": false,
-   "license_ok": true,
-   "license": "BSD-3-Clause",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T06:51:24Z"
-  },
-  "gh:omdsh-dev/dsh-file-trace": {
-   "bundled": false,
-   "license_ok": true,
-   "license": "BSD-3-Clause",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T06:53:00Z"
-  },
-  "gh:omdsh-dev/dsh-paste-input": {
-   "bundled": false,
-   "license_ok": false,
-   "license": "NOASSERTION",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T06:51:04Z"
-  },
   "gh:sakanamaru/dsh-minato": {
    "bundled": true,
    "license_ok": true,
@@ -11215,7 +9783,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:00:18Z"
+   "pushed_at": "2026-10-13T08:08:01Z"
   },
   "gh:fshoocn/cordis-port": {
    "bundled": false,
@@ -11237,26 +9805,6 @@
    },
    "pushed_at": "2026-10-13T05:58:46Z"
   },
-  "gh:YOU-SHOULD-KNOW-ME/antigrative-dashboard": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "media/you-should-know-me--antigrative-dashboard/29d83b1f70fe21e9.png",
-   "image_alt": "YOU-SHOULD-KNOW-ME/antigrative-dashboard screenshot",
-   "image_source": "https://raw.githubusercontent.com/YOU-SHOULD-KNOW-ME/antigrative-dashboard/main/docs/assets/hero.png?v=0.8.0",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 8,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-13T05:49:42Z"
-  },
   "gh:majiayu000/dsh-desk": {
    "bundled": true,
    "license_ok": true,
@@ -11275,31 +9823,1666 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T06:42:10Z"
+   "pushed_at": "2026-10-13T08:44:28Z"
   },
-  "gh:elysia395/elysia395": {
+  "gh:DDDMUC/dsh-edit-turn": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:20:56Z"
+  },
+  "gh:iamumeransari/claude-show-your-work": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/iamumeransari--claude-show-your-work/7a0af2143a7dfd15.jpg",
+   "image_alt": "iamumeransari/claude-show-your-work screenshot",
+   "image_source": "https://raw.githubusercontent.com/iamumeransari/claude-show-your-work/main/docs/reel.jpg",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 7,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:17:29Z"
+  },
+  "gh:SaM-runtime/claude-console": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/sam-runtime--claude-console/7502a46951d79adb.gif",
+   "image_alt": "SaM-runtime/claude-console screenshot",
+   "image_source": "https://raw.githubusercontent.com/SaM-runtime/claude-console/main/docs/demo.gif",
+   "video": {
+    "state": "animated",
+    "src": "media/sam-runtime--claude-console/7502a46951d79adb.gif",
+    "poster": "",
+    "source_url": "https://raw.githubusercontent.com/SaM-runtime/claude-console/main/docs/demo.gif"
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 1,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T07:24:31Z"
+  },
+  "gh:Arjun0014/project-sentinel": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/arjun0014--project-sentinel/cd63c979e03573e7.png",
+   "image_alt": "Arjun0014/project-sentinel screenshot",
+   "image_source": "https://raw.githubusercontent.com/Arjun0014/project-sentinel/main/docs/images/desktop-operations-preview.png",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 18,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:16:46Z"
+  },
+  "gh:lorenzh/rabe": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/lorenzh--rabe/1c67cab3774edaee.gif",
+   "image_alt": "lorenzh/rabe screenshot",
+   "image_source": "https://raw.githubusercontent.com/lorenzh/rabe/main/docs/assets/demo.gif",
+   "video": {
+    "state": "animated",
+    "src": "media/lorenzh--rabe/1c67cab3774edaee.gif",
+    "poster": "",
+    "source_url": "https://raw.githubusercontent.com/lorenzh/rabe/main/docs/assets/demo.gif"
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 6,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:23:21Z"
+  },
+  "gh:HyunjunJeon/claude-workflow-mods": {
    "bundled": false,
    "license_ok": false,
    "license": "unknown",
-   "image": "https://raw.githubusercontent.com/elysia395/elysia395/main/image/miku.jpeg",
+   "image": "https://raw.githubusercontent.com/HyunjunJeon/claude-workflow-mods/main/docs/images/run-overview.png",
    "image_alt": "",
-   "image_source": "https://raw.githubusercontent.com/elysia395/elysia395/main/image/miku.jpeg",
+   "image_source": "https://raw.githubusercontent.com/HyunjunJeon/claude-workflow-mods/main/docs/images/run-overview.png",
    "video": {
-    "state": "animated",
-    "src": "https://raw.githubusercontent.com/elysia395/elysia395/main/image/spacer.gif",
-    "poster": "",
-    "source_url": "https://raw.githubusercontent.com/elysia395/elysia395/main/image/spacer.gif",
-    "hotlink": true
+    "state": "none",
+    "src": "",
+    "poster": ""
    },
    "source": "readme+hotlink(license)",
+   "candidates": {
+    "images": 1,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:46:51Z"
+  },
+  "gh:joeldg/claude-mods": {
+   "bundled": false,
+   "license_ok": false,
+   "license": "unknown",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:33:57Z"
+  },
+  "gh:martin-macak/claude-code-mod-tracking": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/martin-macak--claude-code-mod-tracking/fa3cf26b2cdc1ea2.gif",
+   "image_alt": "martin-macak/claude-code-mod-tracking screenshot",
+   "image_source": "https://raw.githubusercontent.com/martin-macak/claude-code-mod-tracking/main/docs/assets/demo.gif",
+   "video": {
+    "state": "animated",
+    "src": "media/martin-macak--claude-code-mod-tracking/fa3cf26b2cdc1ea2.gif",
+    "poster": "",
+    "source_url": "https://raw.githubusercontent.com/martin-macak/claude-code-mod-tracking/main/docs/assets/demo.gif"
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 1,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:21:24Z"
+  },
+  "gh:Orfila-antoine/claude-mods": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T07:41:57Z"
+  },
+  "gh:partalemre/MODZ": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/partalemre--modz/8e4c634ce11111d4.webp",
+   "image_alt": "partalemre/MODZ screenshot",
+   "image_source": "https://raw.githubusercontent.com/partalemre/MODZ/main/docs/img/film-preview.webp",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 6,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:56:09Z"
+  },
+  "gh:PedroLaRosa/claude-code": {
+   "bundled": false,
+   "license_ok": false,
+   "license": "unknown",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:28:40Z"
+  },
+  "gh:Xabilimon1/emcc-claude-code-mods": {
+   "bundled": false,
+   "license_ok": true,
+   "image": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "link-list (no own media)",
+   "pushed_at": "2026-10-13T08:55:25Z"
+  },
+  "gh:bahaospanov/skills": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T07:24:32Z"
+  },
+  "gh:daxium/claude-plugins": {
+   "bundled": false,
+   "license_ok": false,
+   "license": "unknown",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:16:23Z"
+  },
+  "gh:dimakotov1c/tickturn": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/dimakotov1c--tickturn/e21d0bc01f3ed86f.png",
+   "image_alt": "dimakotov1c/tickturn screenshot",
+   "image_source": "https://raw.githubusercontent.com/dimakotov1c/tickturn/main/docs/screenshots/mock-running.png",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 6,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T09:04:35Z"
+  },
+  "gh:Eiyuo/Claude-Mods": {
+   "bundled": false,
+   "license_ok": false,
+   "license": "unknown",
+   "image": "https://raw.githubusercontent.com/Eiyuo/Claude-Mods/main/docs/images/bande.png",
+   "image_alt": "",
+   "image_source": "https://raw.githubusercontent.com/Eiyuo/Claude-Mods/main/docs/images/bande.png",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme+hotlink(license)",
+   "candidates": {
+    "images": 9,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:45:14Z"
+  },
+  "gh:GuillermoAlbert/claude-mods": {
+   "bundled": false,
+   "license_ok": false,
+   "license": "unknown",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T07:38:23Z"
+  },
+  "gh:iampramod43/claude-mods": {
+   "bundled": false,
+   "license_ok": false,
+   "license": "unknown",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T07:21:40Z"
+  },
+  "gh:jiangnanquan/claude-code-zh": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T07:30:28Z"
+  },
+  "gh:kadaliao/claude-mods": {
+   "bundled": false,
+   "license_ok": false,
+   "license": "unknown",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T07:54:32Z"
+  },
+  "gh:LouiSvon/claude-code-mods": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:47:23Z"
+  },
+  "gh:MDmubarak786/claude-mods": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T09:02:29Z"
+  },
+  "gh:partalemre/transceiver": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/partalemre--transceiver/0c11f1cb9100f255.jpg",
+   "image_alt": "partalemre/transceiver screenshot",
+   "image_source": "https://raw.githubusercontent.com/partalemre/MODZ/main/docs/img/team.jpg",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 1,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-12T23:30:47Z"
+  },
+  "gh:polatmurat/temsa-claude-mods": {
+   "bundled": false,
+   "license_ok": false,
+   "license": "unknown",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T06:57:41Z"
+  },
+  "gh:Ron-Nefyodov/security-poc-mod": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:59:24Z"
+  },
+  "gh:sohi2212/claude-agent-radar": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/sohi2212--claude-agent-radar/adb00236f2b2f3e2.png",
+   "image_alt": "sohi2212/claude-agent-radar screenshot",
+   "image_source": "https://raw.githubusercontent.com/sohi2212/claude-agent-radar/main/docs/canvas.png",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 1,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:49:35Z"
+  },
+  "gh:StalicJi/my-mods": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:20:15Z"
+  },
+  "gh:StarHawkMK1/cc-mods": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "Apache-2.0",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:50:38Z"
+  },
+  "gh:SummerRiversound/review-inbox": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/summerriversound--review-inbox/02439059d1b783d3.png",
+   "image_alt": "SummerRiversound/review-inbox screenshot",
+   "image_source": "https://raw.githubusercontent.com/SummerRiversound/review-inbox/main/docs/images/en/my-prs.png",
+   "video": {
+    "state": "animated",
+    "src": "media/summerriversound--review-inbox/b1816a2e81a2a0ca.gif",
+    "poster": "",
+    "source_url": "https://raw.githubusercontent.com/SummerRiversound/review-inbox/main/docs/images/en/review.gif"
+   },
+   "source": "readme",
    "candidates": {
     "images": 5,
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-10-13T05:43:35Z"
+   "pushed_at": "2026-10-13T08:45:05Z"
+  },
+  "gh:Toshkee/clawd-usage": {
+   "bundled": false,
+   "license_ok": false,
+   "license": "unknown",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:58:53Z"
+  },
+  "gh:UlongChaS2/learn-trail-mods": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T07:51:25Z"
+  },
+  "gh:vmlinuz82/claude-mods": {
+   "bundled": false,
+   "license_ok": false,
+   "license": "unknown",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:03:35Z"
+  },
+  "gh:Wvduijn/wd-claude-mods": {
+   "bundled": false,
+   "license_ok": false,
+   "image": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "no-readme",
+   "pushed_at": "2026-10-13T07:05:18Z"
+  },
+  "gh:yodakaEngineer/claude-mods": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T07:00:57Z"
+  },
+  "gh:Kuddev/pebrel": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "GPL-3.0",
+   "image": "media/kuddev--pebrel/f8031403d4da402a.png",
+   "image_alt": "Kuddev/pebrel screenshot",
+   "image_source": "https://raw.githubusercontent.com/Kuddev/pebrel/main/docs/screenshots/themes.png",
+   "video": {
+    "state": "animated",
+    "src": "media/kuddev--pebrel/8d45b2f8a6ba14ba.gif",
+    "poster": "",
+    "source_url": "https://raw.githubusercontent.com/Kuddev/pebrel/main/docs/screenshots/ssh.gif"
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 11,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T09:02:46Z"
+  },
+  "gh:aiedwardyi/claude-usage-monitor": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/aiedwardyi--claude-usage-monitor/360ab5275d3a8b6e.gif",
+   "image_alt": "aiedwardyi/claude-usage-monitor screenshot",
+   "image_source": "https://raw.githubusercontent.com/aiedwardyi/claude-usage-monitor/main/assets/demo-animated.gif",
+   "video": {
+    "state": "animated",
+    "src": "media/aiedwardyi--claude-usage-monitor/360ab5275d3a8b6e.gif",
+    "poster": "",
+    "source_url": "https://raw.githubusercontent.com/aiedwardyi/claude-usage-monitor/main/assets/demo-animated.gif"
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 5,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:31:36Z"
+  },
+  "gh:vtmocanu/cc-statusline": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/vtmocanu--cc-statusline/d41bbc6d923ac59a.png",
+   "image_alt": "vtmocanu/cc-statusline screenshot",
+   "image_source": "https://raw.githubusercontent.com/vtmocanu/cc-statusline/main/images/screenshot.png",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 1,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T07:25:59Z"
+  },
+  "gh:abdullahkavakli/let-them-talk": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "Apache-2.0",
+   "image": "media/abdullahkavakli--let-them-talk/503e475b777df419.gif",
+   "image_alt": "abdullahkavakli/let-them-talk screenshot",
+   "image_source": "https://raw.githubusercontent.com/abdullahkavakli/let-them-talk/main/docs/demo/demo.gif",
+   "video": {
+    "state": "animated",
+    "src": "media/abdullahkavakli--let-them-talk/503e475b777df419.gif",
+    "poster": "",
+    "source_url": "https://raw.githubusercontent.com/abdullahkavakli/let-them-talk/main/docs/demo/demo.gif"
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 1,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:49:22Z"
+  },
+  "gh:hopp1395/cc-outline": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/hopp1395--cc-outline/4af1a6f127c0a3c6.gif",
+   "image_alt": "hopp1395/cc-outline screenshot",
+   "image_source": "https://raw.githubusercontent.com/hopp1395/cc-outline/main/docs/demo.gif",
+   "video": {
+    "state": "animated",
+    "src": "media/hopp1395--cc-outline/4af1a6f127c0a3c6.gif",
+    "poster": "",
+    "source_url": "https://raw.githubusercontent.com/hopp1395/cc-outline/main/docs/demo.gif"
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 7,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:37:49Z"
+  },
+  "gh:alexscemo/tessera-claude-usage": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T09:02:50Z"
+  },
+  "gh:crafts69guy/claude-statusline.nvim": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/crafts69guy--claude-statusline.nvim/4acb0a13485d36e2.gif",
+   "image_alt": "crafts69guy/claude-statusline.nvim screenshot",
+   "image_source": "https://raw.githubusercontent.com/crafts69guy/claude-statusline.nvim/main/assets/demo.gif",
+   "video": {
+    "state": "animated",
+    "src": "media/crafts69guy--claude-statusline.nvim/4acb0a13485d36e2.gif",
+    "poster": "",
+    "source_url": "https://raw.githubusercontent.com/crafts69guy/claude-statusline.nvim/main/assets/demo.gif"
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 4,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T07:34:13Z"
+  },
+  "gh:drewkhouryorg/claude-statusline": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/drewkhouryorg--claude-statusline/9d40d70bccf59039.png",
+   "image_alt": "drewkhouryorg/claude-statusline screenshot",
+   "image_source": "https://raw.githubusercontent.com/drewkhouryorg/claude-statusline/main/docs/images/hero.png",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 2,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:12:16Z"
+  },
+  "gh:KitchenSink4AI/claude-code-statusline": {
+   "bundled": false,
+   "license_ok": false,
+   "license": "NOASSERTION",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T07:43:57Z"
+  },
+  "gh:TomTandem/claude-auto-model": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:58:27Z"
+  },
+  "gh:cordiverse/cordis": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:36:52Z"
+  },
+  "gh:anbeime/skill": {
+   "bundled": false,
+   "license_ok": false,
+   "license": "unknown",
+   "image": "https://raw.githubusercontent.com/anbeime/skill/main/images/wechat-qr.jpg",
+   "image_alt": "",
+   "image_source": "https://raw.githubusercontent.com/anbeime/skill/main/images/wechat-qr.jpg",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme+hotlink(license)",
+   "candidates": {
+    "images": 2,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T09:03:28Z"
+  },
+  "gh:strukto-ai/mirage": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "Apache-2.0",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 73,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T09:01:37Z"
+  },
+  "gh:anywhere-labs/Agents-Anywhere": {
+   "bundled": false,
+   "license_ok": false,
+   "license": "unknown",
+   "image": "https://raw.githubusercontent.com/anywhere-labs/Agents-Anywhere/main/docs/images/readme-hero-zh.webp",
+   "image_alt": "",
+   "image_source": "https://raw.githubusercontent.com/anywhere-labs/Agents-Anywhere/main/docs/images/readme-hero-zh.webp",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme+hotlink(license)",
+   "candidates": {
+    "images": 7,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T09:04:16Z"
+  },
+  "gh:LivXue/dsh-plugin-shop": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "Apache-2.0",
+   "image": "media/livxue--dsh-plugin-shop/0cd59c71bcc6f86e.png",
+   "image_alt": "LivXue/dsh-plugin-shop screenshot",
+   "image_source": "https://raw.githubusercontent.com/LivXue/dsh-plugin-shop/main/docs/images/gate-light.png",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 3,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:56:26Z"
+  },
+  "gh:tingly-dev/tingly-box": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MPL-2.0",
+   "image": "media/tingly-dev--tingly-box/54666b3bdc5c6195.png",
+   "image_alt": "tingly-dev/tingly-box screenshot",
+   "image_source": "https://raw.githubusercontent.com/tingly-dev/tingly-box/main/docs/hero.png",
+   "video": {
+    "state": "animated",
+    "src": "media/tingly-dev--tingly-box/0ef2aa2f5bc4239d.gif",
+    "poster": "",
+    "source_url": "https://raw.githubusercontent.com/tingly-dev/tingly-box/main/docs/images/output.gif"
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 19,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:45:52Z"
+  },
+  "gh:shengsheng90/DSH-taskboard": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "Apache-2.0",
+   "image": "media/shengsheng90--dsh-taskboard/641e63303f0eed9c.png",
+   "image_alt": "shengsheng90/DSH-taskboard screenshot",
+   "image_source": "https://raw.githubusercontent.com/shengsheng90/DSH-taskboard/main/docs/assets/taskboard-demo.gif",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 1,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T07:32:18Z"
+  },
+  "gh:mexiaosqwq/dsh-web-mobile": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/mexiaosqwq--dsh-web-mobile/0edd0e3313404adf.jpg",
+   "image_alt": "mexiaosqwq/dsh-web-mobile screenshot",
+   "image_source": "https://raw.githubusercontent.com/mexiaosqwq/dsh-web-mobile/main/assets/hero.png",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 5,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:06:52Z"
+  },
+  "gh:Aik358/dsh-auto-memory": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "BSD-3-Clause",
+   "image": "media/aik358--dsh-auto-memory/ba11cddac1ec16d1.png",
+   "image_alt": "Aik358/dsh-auto-memory screenshot",
+   "image_source": "https://raw.githubusercontent.com/Aik358/dsh-auto-memory/main/docs/screenshots/tour-core.png",
+   "video": {
+    "state": "animated",
+    "src": "media/aik358--dsh-auto-memory/a44325f737275ef4.gif",
+    "poster": "",
+    "source_url": "https://raw.githubusercontent.com/Aik358/dsh-auto-memory/main/docs/skin-figures/skin-theme-compare.gif"
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 24,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T07:50:11Z"
+  },
+  "gh:Noob-stupid/dsh-plugin-gating-hub": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/noob-stupid--dsh-plugin-gating-hub/0b18270cf916dc1c.png",
+   "image_alt": "Noob-stupid/dsh-plugin-gating-hub screenshot",
+   "image_source": "https://raw.githubusercontent.com/Noob-stupid/dsh-plugin-gating-hub/main/docs/images/compat-gate-detail.png",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 10,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:51:34Z"
+  },
+  "gh:ZASENJC/dsh-plugins-store": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/zasenjc--dsh-plugins-store/e83b24d43eca5912.png",
+   "image_alt": "ZASENJC/dsh-plugins-store screenshot",
+   "image_source": "https://img.qunq.de/file/1786921693044_Screenshot%202026-08-17%20at%2006-31-01.png",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 8,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T07:55:21Z"
+  },
+  "gh:NoNameLeGo/dsh-catppuccin-theme": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/nonamelego--dsh-catppuccin-theme/c3d2472cfd609d68.png",
+   "image_alt": "NoNameLeGo/dsh-catppuccin-theme screenshot",
+   "image_source": "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin-theme/main/assets/previews/latte.png",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 8,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T09:04:52Z"
+  },
+  "gh:niiang/dsh-kimino-theme": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/niiang--dsh-kimino-theme/39080628bbd4798e.png",
+   "image_alt": "niiang/dsh-kimino-theme screenshot",
+   "image_source": "https://raw.githubusercontent.com/niiang/dsh-kimino-theme/main/docs/screenshots/sidebar.png",
+   "video": {
+    "state": "animated",
+    "src": "media/niiang--dsh-kimino-theme/ed569248aaac8c03.gif",
+    "poster": "",
+    "source_url": "https://raw.githubusercontent.com/niiang/dsh-kimino-theme/main/docs/screenshots/live-wallpaper.gif"
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 7,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T07:45:10Z"
+  },
+  "gh:AskTheWay/dsh-jev-interceptor": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/asktheway--dsh-jev-interceptor/c15be979285c2dc5.png",
+   "image_alt": "AskTheWay/dsh-jev-interceptor screenshot",
+   "image_source": "https://raw.githubusercontent.com/AskTheWay/dsh-jev-interceptor/main/imgs/screenshot-01.jpeg",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 1,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:48:51Z"
+  },
+  "gh:dphmoblie/deepseek-harness-android": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/dphmoblie--deepseek-harness-android/7c44419e48099c30.png",
+   "image_alt": "dphmoblie/deepseek-harness-android screenshot",
+   "image_source": "https://raw.githubusercontent.com/dphmoblie/deepseek-harness-android/main/docs/images/app-icon-512.png",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 1,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:59:21Z"
+  },
+  "gh:FeatherHunter/dsh-im-companion": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 16,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:26:46Z"
+  },
+  "gh:zp-home/dsh-recommend": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/zp-home--dsh-recommend/fbc10141cf0df5b3.png",
+   "image_alt": "zp-home/dsh-recommend screenshot",
+   "image_source": "https://raw.githubusercontent.com/zp-home/dsh-recommend/main/docs/images/site-1.png",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 3,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T07:50:59Z"
+  },
+  "gh:klarkxy/zhihu-search": {
+   "bundled": false,
+   "license_ok": false,
+   "license": "NOASSERTION",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:10:21Z"
+  },
+  "gh:suntianc/dsh-antigravity-auth": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 1,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T09:03:29Z"
+  },
+  "gh:lemoncat7/dsh-knowledge": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 1,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:21:31Z"
+  },
+  "gh:LAU-MARS/dsh-cad": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "Apache-2.0",
+   "image": "media/lau-mars--dsh-cad/bcd28f0332602486.png",
+   "image_alt": "LAU-MARS/dsh-cad screenshot",
+   "image_source": "https://raw.githubusercontent.com/LAU-MARS/dsh-cad/main/docs/img/assembly-preview.png",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 3,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T07:47:23Z"
+  },
+  "gh:billLiao/awesome-dsh-plugin": {
+   "bundled": false,
+   "license_ok": true,
+   "image": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "link-list (no own media)",
+   "pushed_at": "2026-10-13T08:01:23Z"
+  },
+  "gh:biedongbin/dsh-claude-compat": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 1,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T09:00:49Z"
+  },
+  "gh:dabaicai001/star-dsh-desktop": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/dabaicai001--star-dsh-desktop/63ddd6013a3efa9b.png",
+   "image_alt": "dabaicai001/star-dsh-desktop screenshot",
+   "image_source": "https://raw.githubusercontent.com/dabaicai001/star-dsh-desktop/main/docs/assets/starhub-logo.png",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 1,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T07:50:33Z"
+  },
+  "gh:EdwinZDZ/dsh-api-balance-ring": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/edwinzdz--dsh-api-balance-ring/655a1c3152d86681.png",
+   "image_alt": "EdwinZDZ/dsh-api-balance-ring screenshot",
+   "image_source": "https://raw.githubusercontent.com/EdwinZDZ/dsh-api-balance-ring/main/assets/hero-strip.png",
+   "video": {
+    "state": "animated",
+    "src": "media/edwinzdz--dsh-api-balance-ring/ab8d73a8308a8675.gif",
+    "poster": "",
+    "source_url": "https://raw.githubusercontent.com/EdwinZDZ/dsh-api-balance-ring/main/assets/demo.gif"
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 3,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:41:59Z"
+  },
+  "gh:YunongDai2005/dsh-theone": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/yunongdai2005--dsh-theone/0fd79d0a6b31d928.webp",
+   "image_alt": "YunongDai2005/dsh-theone screenshot",
+   "image_source": "https://raw.githubusercontent.com/YunongDai2005/dsh-theone/main/docs/images/theone-demo-en.webp",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 3,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:47:33Z"
+  },
+  "gh:mjylfz/dsh-subagent-codex": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:38:19Z"
+  },
+  "gh:yu502950715yang/dsh-use-wallpaper": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/yu502950715yang--dsh-use-wallpaper/fecd78be6bd50a76.gif",
+   "image_alt": "yu502950715yang/dsh-use-wallpaper screenshot",
+   "image_source": "https://raw.githubusercontent.com/yu502950715yang/dsh-use-wallpaper/master/docs/videos/yuki-koizuka-dsh.gif",
+   "video": {
+    "state": "animated",
+    "src": "media/yu502950715yang--dsh-use-wallpaper/a115b71fb57231e2.gif",
+    "poster": "media/yu502950715yang--dsh-use-wallpaper/fecd78be6bd50a76.gif",
+    "full_quality": "https://raw.githubusercontent.com/yu502950715yang/dsh-use-wallpaper/master/docs/videos/yuki-koizuka-dsh.mp4",
+    "source_url": "https://raw.githubusercontent.com/yu502950715yang/dsh-use-wallpaper/master/docs/videos/yuki-koizuka-dsh.mp4",
+    "note": "gif pass 1 (2.4 MB)"
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 2,
+    "videos": 2,
+    "external": 0
+   },
+   "image_reencoded": "gif pass 1 (2.9 MB)",
+   "pushed_at": "2026-10-13T08:27:02Z"
+  },
+  "gh:z7ping/agent-lens": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 1,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T09:06:23Z"
+  },
+  "gh:zkforge/dsh-claude-desktop-theme": {
+   "bundled": false,
+   "license_ok": false,
+   "license": "NOASSERTION",
+   "image": "https://raw.githubusercontent.com/zkforge/dsh-claude-desktop-theme/main/assets/screenshots/chat-dark.png",
+   "image_alt": "",
+   "image_source": "https://raw.githubusercontent.com/zkforge/dsh-claude-desktop-theme/main/assets/screenshots/chat-dark.png",
+   "video": {
+    "state": "animated",
+    "src": "https://raw.githubusercontent.com/zkforge/dsh-claude-desktop-theme/main/assets/pet/pet-hop.gif",
+    "poster": "",
+    "source_url": "https://raw.githubusercontent.com/zkforge/dsh-claude-desktop-theme/main/assets/pet/pet-hop.gif",
+    "hotlink": true
+   },
+   "source": "readme+hotlink(license)",
+   "candidates": {
+    "images": 11,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T07:52:08Z"
+  },
+  "gh:Aliuyanfeng/dsh-soul": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/aliuyanfeng--dsh-soul/12c86b919efb8989.png",
+   "image_alt": "Aliuyanfeng/dsh-soul screenshot",
+   "image_source": "https://raw.githubusercontent.com/Aliuyanfeng/dsh-soul/main/screenshots/image0.png",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 4,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:36:50Z"
+  },
+  "gh:Flan246/dsh-lit-search": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:52:45Z"
+  },
+  "gh:pure-craft/dsh-actions": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/pure-craft--dsh-actions/d4740b871fa59243.png",
+   "image_alt": "pure-craft/dsh-actions screenshot",
+   "image_source": "https://raw.githubusercontent.com/pure-craft/dsh-actions/main/docs/assets/run-output.png",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 6,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:36:39Z"
+  },
+  "gh:TheYoungChen/dsh-plugin-market": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/theyoungchen--dsh-plugin-market/cbea1cc3a1cf3444.png",
+   "image_alt": "TheYoungChen/dsh-plugin-market screenshot",
+   "image_source": "https://raw.githubusercontent.com/TheYoungChen/dsh-plugin-market/main/docs/screenshots/market-modal.png",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 3,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:46:39Z"
+  },
+  "gh:DDDMUC/dsh-chat-export": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/dddmuc--dsh-chat-export/4fae8347b18a5143.png",
+   "image_alt": "DDDMUC/dsh-chat-export screenshot",
+   "image_source": "https://raw.githubusercontent.com/DDDMUC/dsh-chat-export/main/docs/screenshots/01-header-button.png",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 3,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:19:37Z"
+  },
+  "gh:dsh-cc/dsh-cc": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "Apache-2.0",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:36:36Z"
+  },
+  "gh:Luaphes/dsh-plugins-market": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T08:43:42Z"
+  },
+  "gh:skkjkk/dsh-usage-dashboard": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "Apache-2.0",
+   "image": "media/skkjkk--dsh-usage-dashboard/f971dff8d302ce93.png",
+   "image_alt": "skkjkk/dsh-usage-dashboard screenshot",
+   "image_source": "https://raw.githubusercontent.com/skkjkk/dsh-usage-dashboard/main/picture/radar-cache.png",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 6,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T07:55:57Z"
+  },
+  "gh:arkme-senx/arkme-dsh-plugin": {
+   "bundled": false,
+   "license_ok": false,
+   "license": "unknown",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-10-13T09:02:20Z"
   }
  },
- "bundled_bytes": 219256514,
- "bundled_files": 298
+ "bundled_bytes": 228339325,
+ "bundled_files": 309
 }

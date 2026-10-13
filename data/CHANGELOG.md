@@ -1743,3 +1743,32 @@
 - `+` [lhh010/dsh-paste-input](https://github.com/lhh010/dsh-paste-input) — inferred / dsh-cordis — ⭐9
 - `+` [jiangnanquan/dsh-ux](https://github.com/jiangnanquan/dsh-ux) — inferred / dsh-cordis — ⭐8
 - …另有 45 条新增
+
+## 2026-10-13T17:09:09+08:00
+- 收录总数 **594**；本次更新新增 **83**
+- `+` [cordiverse/cordis](https://github.com/cordiverse/cordis) — inferred / dsh-cordis — ⭐9156
+- `+` [anbeime/skill](https://github.com/anbeime/skill) — inferred / dsh-cordis — ⭐7951
+- `+` [strukto-ai/mirage](https://github.com/strukto-ai/mirage) — inferred / dsh-cordis — ⭐3683
+- `+` [Kuddev/pebrel](https://github.com/Kuddev/pebrel) — inferred / mods — ⭐3344
+- `+` [anywhere-labs/Agents-Anywhere](https://github.com/anywhere-labs/Agents-Anywhere) — inferred / dsh-cordis — ⭐1636
+- `+` [LivXue/dsh-plugin-shop](https://github.com/LivXue/dsh-plugin-shop) — inferred / dsh-cordis — ⭐1009
+- `+` [tingly-dev/tingly-box](https://github.com/tingly-dev/tingly-box) — inferred / dsh-cordis — ⭐351
+- `+` [shengsheng90/DSH-taskboard](https://github.com/shengsheng90/DSH-taskboard) — inferred / dsh-cordis — ⭐334
+- `+` [iamumeransari/claude-show-your-work](https://github.com/iamumeransari/claude-show-your-work) — observed / mods — ⭐164
+- `+` [mexiaosqwq/dsh-web-mobile](https://github.com/mexiaosqwq/dsh-web-mobile) — inferred / dsh-cordis — ⭐132
+- `+` [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory) — inferred / dsh-cordis — ⭐116
+- `+` [Noob-stupid/dsh-plugin-gating-hub](https://github.com/Noob-stupid/dsh-plugin-gating-hub) — inferred / dsh-cordis — ⭐100
+- `+` [SaM-runtime/claude-console](https://github.com/SaM-runtime/claude-console) — observed / mods — ⭐75
+- `+` [ZASENJC/dsh-plugins-store](https://github.com/ZASENJC/dsh-plugins-store) — inferred / dsh-cordis — ⭐69
+- `+` [NoNameLeGo/dsh-catppuccin-theme](https://github.com/NoNameLeGo/dsh-catppuccin-theme) — inferred / dsh-cordis — ⭐60
+- `+` [aiedwardyi/claude-usage-monitor](https://github.com/aiedwardyi/claude-usage-monitor) — inferred / mods — ⭐57
+- `+` [Arjun0014/project-sentinel](https://github.com/Arjun0014/project-sentinel) — observed / mods — ⭐46
+- `+` [niiang/dsh-kimino-theme](https://github.com/niiang/dsh-kimino-theme) — inferred / dsh-cordis — ⭐40
+- `+` [AskTheWay/dsh-jev-interceptor](https://github.com/AskTheWay/dsh-jev-interceptor) — inferred / dsh-cordis — ⭐29
+- `+` [dphmoblie/deepseek-harness-android](https://github.com/dphmoblie/deepseek-harness-android) — inferred / dsh-cordis — ⭐26
+- `+` [FeatherHunter/dsh-im-companion](https://github.com/FeatherHunter/dsh-im-companion) — inferred / dsh-cordis — ⭐23
+- `+` [zp-home/dsh-recommend](https://github.com/zp-home/dsh-recommend) — inferred / dsh-cordis — ⭐22
+- `+` [suntianc/dsh-antigravity-auth](https://github.com/suntianc/dsh-antigravity-auth) — inferred / dsh-cordis — ⭐19
+- `+` [klarkxy/zhihu-search](https://github.com/klarkxy/zhihu-search) — inferred / dsh-cordis — ⭐19
+- `+` [lemoncat7/dsh-knowledge](https://github.com/lemoncat7/dsh-knowledge) — inferred / dsh-cordis — ⭐17
+- …另有 58 条新增
