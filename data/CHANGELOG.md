@@ -1772,3 +1772,32 @@
 - `+` [klarkxy/zhihu-search](https://github.com/klarkxy/zhihu-search) — inferred / dsh-cordis — ⭐19
 - `+` [lemoncat7/dsh-knowledge](https://github.com/lemoncat7/dsh-knowledge) — inferred / dsh-cordis — ⭐17
 - …另有 58 条新增
+
+## 2026-10-13T19:22:33+08:00
+- 收录总数 **494**；本次更新新增 **46**
+- `+` [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) — inferred / dsh-cordis — ⭐8691
+- `+` [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) — inferred / dsh-cordis — ⭐3422
+- `+` [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) — inferred / dsh-cordis — ⭐3251
+- `+` [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) — inferred / dsh-cordis — ⭐526
+- `+` [aqua5230/usage](https://github.com/aqua5230/usage) — observed / mods — ⭐339
+- `+` [RevolutionLA/dsh-dream-skin](https://github.com/RevolutionLA/dsh-dream-skin) — inferred / dsh-cordis — ⭐231
+- `+` [FishBottle7/opencode2dsh](https://github.com/FishBottle7/opencode2dsh) — inferred / dsh-cordis — ⭐184
+- `+` [daha1216/dsh-adult-tension](https://github.com/daha1216/dsh-adult-tension) — inferred / dsh-cordis — ⭐172
+- `+` [Sutera-Diffusus/dsh-whale-musume](https://github.com/Sutera-Diffusus/dsh-whale-musume) — inferred / dsh-cordis — ⭐124
+- `+` [JingbiaoMei/Tokdash](https://github.com/JingbiaoMei/Tokdash) — inferred / dsh-cordis — ⭐85
+- `+` [dsh-wsl-workspace-maintainers/dsh-wsl-workspace](https://github.com/dsh-wsl-workspace-maintainers/dsh-wsl-workspace) — inferred / dsh-cordis — ⭐80
+- `+` [HOWILLMAKEIT/dsh-model-context-catalog](https://github.com/HOWILLMAKEIT/dsh-model-context-catalog) — inferred / dsh-cordis — ⭐34
+- `+` [gjj-star/dsh-conversation-navigator](https://github.com/gjj-star/dsh-conversation-navigator) — inferred / dsh-cordis — ⭐23
+- `+` [KCNyu/clawock](https://github.com/KCNyu/clawock) — inferred / dsh-cordis — ⭐19
+- `+` [00080000/dsh-project-memory](https://github.com/00080000/dsh-project-memory) — inferred / dsh-cordis — ⭐18
+- `+` [dshworks/awesome-dsh-plugins](https://github.com/dshworks/awesome-dsh-plugins) — inferred / dsh-cordis — ⭐16
+- `+` [realguan/dsh-dock](https://github.com/realguan/dsh-dock) — inferred / dsh-cordis — ⭐14
+- `+` [dsh-plugin-lab/dsh-zhihu-search](https://github.com/dsh-plugin-lab/dsh-zhihu-search) — inferred / dsh-cordis — ⭐12
+- `+` [xiaoshenming/dsh-session-surgeon](https://github.com/xiaoshenming/dsh-session-surgeon) — inferred / dsh-cordis — ⭐11
+- `+` [xbzbing/dsh-git-panel](https://github.com/xbzbing/dsh-git-panel) — inferred / dsh-cordis — ⭐9
+- `+` [vvlife/awesome-deepseek-harness-plugins](https://github.com/vvlife/awesome-deepseek-harness-plugins) — inferred / dsh-cordis — ⭐9
+- `+` [tellmewhattodo/dsh-serenity-plugin](https://github.com/tellmewhattodo/dsh-serenity-plugin) — unverified / dsh-cordis — ⭐8
+- `+` [vecnode/vncode](https://github.com/vecnode/vncode) — inferred / dsh-cordis — ⭐8
+- `+` [unStone/dsh-xray](https://github.com/unStone/dsh-xray) — inferred / dsh-cordis — ⭐7
+- `+` [dsh-plugin-lab/dsh-workbuddy-bridge](https://github.com/dsh-plugin-lab/dsh-workbuddy-bridge) — inferred / dsh-cordis — ⭐7
+- …另有 21 条新增
