@@ -1859,3 +1859,32 @@
 - `+` [CLICGGER-TYPES/dsh-piggy](https://github.com/CLICGGER-TYPES/dsh-piggy) — inferred / dsh-cordis — ⭐26
 - `+` [lizhiyao/oh-my-knowledge](https://github.com/lizhiyao/oh-my-knowledge) — inferred / dsh-cordis — ⭐23
 - …另有 58 条新增
+
+## 2026-10-16T03:37:26+08:00
+- 收录总数 **502**；本次更新新增 **51**
+- `+` [liustack/modlens](https://github.com/liustack/modlens) — inferred / dsh-cordis — ⭐4270
+- `+` [strukto-ai/mirage](https://github.com/strukto-ai/mirage) — inferred / dsh-cordis — ⭐3690
+- `+` [liustack/modsearch](https://github.com/liustack/modsearch) — inferred / dsh-cordis — ⭐703
+- `+` [vibeinging/dsh-desktop](https://github.com/vibeinging/dsh-desktop) — inferred / dsh-cordis — ⭐483
+- `+` [bruc3van/awesome-dsh-plugin](https://github.com/bruc3van/awesome-dsh-plugin) — inferred / dsh-cordis — ⭐416
+- `+` [hellosverre/claude-skins](https://github.com/hellosverre/claude-skins) — observed / mods — ⭐151
+- `+` [Duskriver/dsh-opencode-go](https://github.com/Duskriver/dsh-opencode-go) — inferred / dsh-cordis — ⭐133
+- `+` [Fishsb/dsh-prompt-enhancer](https://github.com/Fishsb/dsh-prompt-enhancer) — inferred / dsh-cordis — ⭐92
+- `+` [adamkhalile/luau-docs-oracle](https://github.com/adamkhalile/luau-docs-oracle) — inferred / dsh-cordis — ⭐72
+- `+` [ZASENJC/dsh-plugins-store](https://github.com/ZASENJC/dsh-plugins-store) — inferred / dsh-cordis — ⭐70
+- `+` [Fengze233/dsh-vscode](https://github.com/Fengze233/dsh-vscode) — inferred / dsh-cordis — ⭐38
+- `+` [GooDAnDReaDY/dsh-russian-lang](https://github.com/GooDAnDReaDY/dsh-russian-lang) — inferred / dsh-cordis — ⭐36
+- `+` [zaofan-make/dsh-qqbot](https://github.com/zaofan-make/dsh-qqbot) — inferred / dsh-cordis — ⭐34
+- `+` [UncleK/dsh-think-translate](https://github.com/UncleK/dsh-think-translate) — inferred / dsh-cordis — ⭐32
+- `+` [zp-home/dsh-recommend](https://github.com/zp-home/dsh-recommend) — inferred / dsh-cordis — ⭐22
+- `+` [YELEBAI/dsh-plugin-marketplace](https://github.com/YELEBAI/dsh-plugin-marketplace) — inferred / dsh-cordis — ⭐20
+- `+` [dshworks/awesome-dsh-plugins](https://github.com/dshworks/awesome-dsh-plugins) — inferred / dsh-cordis — ⭐18
+- `+` [ouli-1242/dsh-plugin-tool-management](https://github.com/ouli-1242/dsh-plugin-tool-management) — inferred / dsh-cordis — ⭐14
+- `+` [xbzbing/dsh-git-panel](https://github.com/xbzbing/dsh-git-panel) — inferred / dsh-cordis — ⭐11
+- `+` [GooDAnDReaDY/dsh-key-rotation](https://github.com/GooDAnDReaDY/dsh-key-rotation) — inferred / dsh-cordis — ⭐8
+- `+` [cccakeee/awesome-dsh-plugins](https://github.com/cccakeee/awesome-dsh-plugins) — inferred / dsh-cordis — ⭐7
+- `+` [devnix/burnbar](https://github.com/devnix/burnbar) — unverified / mods — ⭐5
+- `+` [ywsldxk/dsh-plugin-stars](https://github.com/ywsldxk/dsh-plugin-stars) — inferred / dsh-cordis — ⭐5
+- `+` [ogxo-io/plugins](https://github.com/ogxo-io/plugins) — inferred / mods — ⭐4
+- `+` [rapita/claude-grammar](https://github.com/rapita/claude-grammar) — inferred / mods — ⭐4
+- …另有 26 条新增
