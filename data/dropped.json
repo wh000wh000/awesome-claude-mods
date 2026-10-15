@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-13T19:22:34+08:00",
- "count": 127,
+ "updated_at": "2026-10-15T23:06:03+08:00",
+ "count": 129,
  "policy": {
   "min_stars": 5,
   "min_description_chars": 40
@@ -40,7 +40,19 @@
    "description_chars": 39,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-10T18:58:53+08:00",
-   "last_seen_dropped": "2026-10-13T19:22:34+08:00"
+   "last_seen_dropped": "2026-10-15T23:06:03+08:00"
+  },
+  {
+   "at": "2026-10-15T23:06:01+08:00",
+   "id": "gh:AdamHuaTI/claude-code-deepseek-statusline",
+   "name": "AdamHuaTI/claude-code-deepseek-statusline",
+   "url": "https://github.com/AdamHuaTI/claude-code-deepseek-statusline",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-10-15T23:06:01+08:00",
+   "last_seen_dropped": "2026-10-15T23:06:03+08:00"
   },
   {
    "at": "2026-10-09T20:58:12+08:00",
@@ -243,7 +255,7 @@
    "description_chars": 31,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-04T22:03:03+08:00",
-   "last_seen_dropped": "2026-10-13T14:56:44+08:00"
+   "last_seen_dropped": "2026-10-15T23:06:03+08:00"
   },
   {
    "at": "2026-10-05T00:33:04+08:00",
@@ -351,7 +363,7 @@
    "description_chars": 36,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-06T02:13:19+08:00",
-   "last_seen_dropped": "2026-10-06T22:46:32+08:00"
+   "last_seen_dropped": "2026-10-15T23:06:03+08:00"
   },
   {
    "at": "2026-10-05T05:54:46+08:00",
@@ -711,7 +723,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-04T22:03:03+08:00",
-   "last_seen_dropped": "2026-10-13T19:22:34+08:00"
+   "last_seen_dropped": "2026-10-15T23:06:03+08:00"
   },
   {
    "at": "2026-10-04T22:04:33+08:00",
@@ -807,7 +819,7 @@
    "description_chars": 32,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-13T01:48:30+08:00",
-   "last_seen_dropped": "2026-10-13T19:22:34+08:00"
+   "last_seen_dropped": "2026-10-15T23:06:03+08:00"
   },
   {
    "at": "2026-10-09T20:58:12+08:00",
@@ -819,7 +831,7 @@
    "description_chars": 31,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-09T20:58:12+08:00",
-   "last_seen_dropped": "2026-10-12T16:56:44+08:00"
+   "last_seen_dropped": "2026-10-15T23:06:03+08:00"
   },
   {
    "at": "2026-10-09T16:31:11+08:00",
@@ -831,7 +843,7 @@
    "description_chars": 28,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-09T16:31:11+08:00",
-   "last_seen_dropped": "2026-10-13T19:22:34+08:00"
+   "last_seen_dropped": "2026-10-15T23:06:03+08:00"
   },
   {
    "at": "2026-10-09T16:31:11+08:00",
@@ -1098,6 +1110,18 @@
    "last_seen_dropped": "2026-10-05T12:41:53+08:00"
   },
   {
+   "at": "2026-10-15T23:06:01+08:00",
+   "id": "gh:oshablovskyy/claude-statusline",
+   "name": "oshablovskyy/claude-statusline",
+   "url": "https://github.com/oshablovskyy/claude-statusline",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 37,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-10-15T23:06:01+08:00",
+   "last_seen_dropped": "2026-10-15T23:06:03+08:00"
+  },
+  {
    "at": "2026-10-04T22:03:03+08:00",
    "id": "gh:osteel/agent-skills",
    "name": "osteel/agent-skills",
@@ -1346,7 +1370,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-12T14:43:34+08:00",
-   "last_seen_dropped": "2026-10-12T21:21:59+08:00"
+   "last_seen_dropped": "2026-10-15T23:06:03+08:00"
   },
   {
    "at": "2026-10-07T07:52:50+08:00",
@@ -1442,7 +1466,7 @@
    "description_chars": 35,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-08T10:39:21+08:00",
-   "last_seen_dropped": "2026-10-13T19:22:34+08:00"
+   "last_seen_dropped": "2026-10-15T23:06:03+08:00"
   },
   {
    "at": "2026-10-06T02:13:19+08:00",

@@ -1801,3 +1801,32 @@
 - `+` [unStone/dsh-xray](https://github.com/unStone/dsh-xray) — inferred / dsh-cordis — ⭐7
 - `+` [dsh-plugin-lab/dsh-workbuddy-bridge](https://github.com/dsh-plugin-lab/dsh-workbuddy-bridge) — inferred / dsh-cordis — ⭐7
 - …另有 21 条新增
+
+## 2026-10-15T23:06:01+08:00
+- 收录总数 **610**；本次更新新增 **318**
+- `+` [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) — observed / dsh-cordis — ⭐250275
+- `+` [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) — inferred / dsh-cordis — ⭐18872
+- `+` [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) — inferred / dsh-cordis — ⭐17546
+- `+` [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) — inferred / dsh-cordis — ⭐6633
+- `+` [dsh-tauri/deepseek-harness-desktop](https://github.com/dsh-tauri/deepseek-harness-desktop) — inferred / dsh-cordis — ⭐3010
+- `+` [AdamPlatin123/dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) — inferred / dsh-cordis — ⭐1473
+- `+` [ysr666/dsh-vision-router](https://github.com/ysr666/dsh-vision-router) — inferred / dsh-cordis — ⭐1151
+- `+` [YeonwooSung/my-claude-code-mods](https://github.com/YeonwooSung/my-claude-code-mods) — observed / mods — ⭐820
+- `+` [Han-1413141/dsh-cost-meter](https://github.com/Han-1413141/dsh-cost-meter) — inferred / dsh-cordis — ⭐424
+- `+` [imsai-sh/awesome-deepseek-harness-plugins](https://github.com/imsai-sh/awesome-deepseek-harness-plugins) — inferred / dsh-cordis — ⭐294
+- `+` [cv-superding/dsh-deepseek-web-login](https://github.com/cv-superding/dsh-deepseek-web-login) — inferred / dsh-cordis — ⭐274
+- `+` [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) — inferred / dsh-cordis — ⭐233
+- `+` [HeyCubit/effortless](https://github.com/HeyCubit/effortless) — observed / mods — ⭐204
+- `+` [awesomezun/claude-statusline](https://github.com/awesomezun/claude-statusline) — inferred / mods — ⭐197
+- `+` [WSL043/dsh-codex-subscription](https://github.com/WSL043/dsh-codex-subscription) — inferred / dsh-cordis — ⭐179
+- `+` [Nwflower/dsh-claude-style](https://github.com/Nwflower/dsh-claude-style) — inferred / dsh-cordis — ⭐164
+- `+` [Totoro-qaq/dsh-plugin-bridge](https://github.com/Totoro-qaq/dsh-plugin-bridge) — inferred / dsh-cordis — ⭐163
+- `+` [01Virex/dsh-status-rotator](https://github.com/01Virex/dsh-status-rotator) — inferred / dsh-cordis — ⭐145
+- `+` [Duskriver/dsh-opencode-go](https://github.com/Duskriver/dsh-opencode-go) — inferred / dsh-cordis — ⭐133
+- `+` [SiriLee/dsh-rewind](https://github.com/SiriLee/dsh-rewind) — inferred / dsh-cordis — ⭐131
+- `+` [Microqian2th/dsh-codex-effort-slider](https://github.com/Microqian2th/dsh-codex-effort-slider) — inferred / dsh-cordis — ⭐122
+- `+` [WestFox-AwA/dsh-prompt-optimizer](https://github.com/WestFox-AwA/dsh-prompt-optimizer) — inferred / dsh-cordis — ⭐119
+- `+` [ilia-pluzhnikov/claude-code-statusline](https://github.com/ilia-pluzhnikov/claude-code-statusline) — inferred / mods — ⭐118
+- `+` [amlyczz/dsh-agy-link](https://github.com/amlyczz/dsh-agy-link) — inferred / dsh-cordis — ⭐112
+- `+` [cablate/ctx-handoff-mod](https://github.com/cablate/ctx-handoff-mod) — observed / mods — ⭐97
+- …另有 293 条新增
