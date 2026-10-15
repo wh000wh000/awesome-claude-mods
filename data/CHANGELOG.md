@@ -1830,3 +1830,32 @@
 - `+` [amlyczz/dsh-agy-link](https://github.com/amlyczz/dsh-agy-link) — inferred / dsh-cordis — ⭐112
 - `+` [cablate/ctx-handoff-mod](https://github.com/cablate/ctx-handoff-mod) — observed / mods — ⭐97
 - …另有 293 条新增
+
+## 2026-10-16T01:21:58+08:00
+- 收录总数 **612**；本次更新新增 **83**
+- `+` [loopx-project/loopx](https://github.com/loopx-project/loopx) — inferred / dsh-cordis — ⭐6317
+- `+` [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) — inferred / dsh-cordis — ⭐4193
+- `+` [edison7009/EchoBird](https://github.com/edison7009/EchoBird) — inferred / dsh-cordis — ⭐3305
+- `+` [EthanYoQ/AI-Novel-Writer](https://github.com/EthanYoQ/AI-Novel-Writer) — inferred / dsh-cordis — ⭐1563
+- `+` [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui) — inferred / dsh-cordis — ⭐600
+- `+` [DDDMUC/dsh-free-search](https://github.com/DDDMUC/dsh-free-search) — inferred / dsh-cordis — ⭐433
+- `+` [yexi-by/dsh-unrestricted](https://github.com/yexi-by/dsh-unrestricted) — inferred / dsh-cordis — ⭐257
+- `+` [acryldev/acryl](https://github.com/acryldev/acryl) — inferred / dsh-cordis — ⭐256
+- `+` [dshplugin/dsh-plugin-hub](https://github.com/dshplugin/dsh-plugin-hub) — inferred / dsh-cordis — ⭐229
+- `+` [wenbin-wb/dsh-bridge](https://github.com/wenbin-wb/dsh-bridge) — inferred / dsh-cordis — ⭐199
+- `+` [MichengAI/dsh-skills-manager](https://github.com/MichengAI/dsh-skills-manager) — inferred / dsh-cordis — ⭐176
+- `+` [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) — inferred / dsh-cordis — ⭐141
+- `+` [YOU-SHOULD-KNOW-ME/antigrative-dashboard](https://github.com/YOU-SHOULD-KNOW-ME/antigrative-dashboard) — unverified / dsh-cordis — ⭐113
+- `+` [EricWang1358/dsh-web-studyhub](https://github.com/EricWang1358/dsh-web-studyhub) — inferred / dsh-cordis — ⭐107
+- `+` [Noob-stupid/dsh-plugin-gating-hub](https://github.com/Noob-stupid/dsh-plugin-gating-hub) — inferred / dsh-cordis — ⭐101
+- `+` [sageox/ox](https://github.com/sageox/ox) — inferred / mods — ⭐63
+- `+` [eleckoi/ElecKoi](https://github.com/eleckoi/ElecKoi) — inferred / dsh-cordis — ⭐58
+- `+` [KongFangXun/sofagent](https://github.com/KongFangXun/sofagent) — inferred / dsh-cordis — ⭐53
+- `+` [lhh010/dsh-ui-whale](https://github.com/lhh010/dsh-ui-whale) — inferred / dsh-cordis — ⭐41
+- `+` [limbo947/dsh-recall-plugin](https://github.com/limbo947/dsh-recall-plugin) — inferred / dsh-cordis — ⭐40
+- `+` [Lxiayu/DshCockpit](https://github.com/Lxiayu/DshCockpit) — inferred / dsh-cordis — ⭐39
+- `+` [lhh010/dsh-minigames](https://github.com/lhh010/dsh-minigames) — inferred / dsh-cordis — ⭐34
+- `+` [dphmoblie/deepseek-harness-android](https://github.com/dphmoblie/deepseek-harness-android) — inferred / dsh-cordis — ⭐31
+- `+` [CLICGGER-TYPES/dsh-piggy](https://github.com/CLICGGER-TYPES/dsh-piggy) — inferred / dsh-cordis — ⭐26
+- `+` [lizhiyao/oh-my-knowledge](https://github.com/lizhiyao/oh-my-knowledge) — inferred / dsh-cordis — ⭐23
+- …另有 58 条新增
