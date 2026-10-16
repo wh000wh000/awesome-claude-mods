@@ -2062,3 +2062,32 @@
 - `+` [morlay/dsh-plugin](https://github.com/morlay/dsh-plugin) — inferred / dsh-cordis — ⭐8
 - `+` [mytianyi0712/dsh-tui-plugin-OhMyPi](https://github.com/mytianyi0712/dsh-tui-plugin-OhMyPi) — inferred / dsh-cordis — ⭐7
 - …另有 36 条新增
+
+## 2026-10-16T21:24:04+08:00
+- 收录总数 **588**；本次更新新增 **74**
+- `+` [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) — observed / dsh-cordis — ⭐250954
+- `+` [Q00/ouroboros](https://github.com/Q00/ouroboros) — inferred / dsh-cordis — ⭐6232
+- `+` [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) — inferred / dsh-cordis — ⭐6175
+- `+` [dsh-tauri/deepseek-harness-desktop](https://github.com/dsh-tauri/deepseek-harness-desktop) — inferred / dsh-cordis — ⭐3072
+- `+` [0xsline/awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) — inferred / dsh-cordis — ⭐1187
+- `+` [ysr666/dsh-vision-router](https://github.com/ysr666/dsh-vision-router) — inferred / dsh-cordis — ⭐1153
+- `+` [Han-1413141/dsh-cost-meter](https://github.com/Han-1413141/dsh-cost-meter) — inferred / dsh-cordis — ⭐433
+- `+` [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) — inferred / dsh-cordis — ⭐381
+- `+` [tingly-dev/tingly-box](https://github.com/tingly-dev/tingly-box) — inferred / dsh-cordis — ⭐354
+- `+` [SiriLee/dsh-rewind](https://github.com/SiriLee/dsh-rewind) — inferred / dsh-cordis — ⭐135
+- `+` [like-study1/Oh-My-DSH](https://github.com/like-study1/Oh-My-DSH) — inferred / dsh-cordis — ⭐91
+- `+` [adamkhalile/luau-docs-oracle](https://github.com/adamkhalile/luau-docs-oracle) — inferred / dsh-cordis — ⭐72
+- `+` [ZASENJC/dsh-plugins-store](https://github.com/ZASENJC/dsh-plugins-store) — inferred / dsh-cordis — ⭐70
+- `+` [eleckoi/ElecKoi](https://github.com/eleckoi/ElecKoi) — inferred / dsh-cordis — ⭐59
+- `+` [jingyi0605/Codingns4DSH](https://github.com/jingyi0605/Codingns4DSH) — inferred / dsh-cordis — ⭐48
+- `+` [dphmoblie/deepseek-harness-android](https://github.com/dphmoblie/deepseek-harness-android) — inferred / dsh-cordis — ⭐34
+- `+` [ZhangFengshun/dsh-remote-ssh](https://github.com/ZhangFengshun/dsh-remote-ssh) — inferred / dsh-cordis — ⭐32
+- `+` [masknull/dsh-qoder-connect](https://github.com/masknull/dsh-qoder-connect) — inferred / dsh-cordis — ⭐26
+- `+` [pearjelly/deep-blend](https://github.com/pearjelly/deep-blend) — inferred / dsh-cordis — ⭐24
+- `+` [zp-home/dsh-recommend](https://github.com/zp-home/dsh-recommend) — inferred / dsh-cordis — ⭐22
+- `+` [rezon-aki/dsh-streamfold](https://github.com/rezon-aki/dsh-streamfold) — inferred / dsh-cordis — ⭐21
+- `+` [zhu1090093659/dsh-pet](https://github.com/zhu1090093659/dsh-pet) — inferred / dsh-cordis — ⭐19
+- `+` [GooDAnDReaDY/dsh-subscriptions](https://github.com/GooDAnDReaDY/dsh-subscriptions) — inferred / dsh-cordis — ⭐13
+- `+` [xbzbing/dsh-git-panel](https://github.com/xbzbing/dsh-git-panel) — inferred / dsh-cordis — ⭐11
+- `+` [tellmewhattodo/dsh-serenity-plugin](https://github.com/tellmewhattodo/dsh-serenity-plugin) — unverified / dsh-cordis — ⭐8
+- …另有 49 条新增
