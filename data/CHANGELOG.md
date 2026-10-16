@@ -1946,3 +1946,32 @@
 - `+` [q253595422/dsh-imagegen-video](https://github.com/q253595422/dsh-imagegen-video) — unverified / dsh-cordis — ⭐13
 - `+` [yuezengwu/dsh-explain](https://github.com/yuezengwu/dsh-explain) — inferred / dsh-cordis — ⭐12
 - …另有 31 条新增
+
+## 2026-10-16T12:30:33+08:00
+- 收录总数 **553**；本次更新新增 **50**
+- `+` [hyhmrright/brooks-lint](https://github.com/hyhmrright/brooks-lint) — inferred / dsh-cordis — ⭐1530
+- `+` [TencentCloudBase/CloudBase-AI-Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) — inferred / dsh-cordis — ⭐1137
+- `+` [aqua5230/usage](https://github.com/aqua5230/usage) — inferred / mods — ⭐340
+- `+` [luobosibing2/dsh-jev-plugin](https://github.com/luobosibing2/dsh-jev-plugin) — inferred / dsh-cordis — ⭐205
+- `+` [wqty123/dsh-browser](https://github.com/wqty123/dsh-browser) — inferred / dsh-cordis — ⭐115
+- `+` [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit) — inferred / official — ⭐66
+- `+` [398894496-arch/KRouter](https://github.com/398894496-arch/KRouter) — inferred / dsh-cordis — ⭐46
+- `+` [awesome-deepseekharness/awesome-deepseek-harness](https://github.com/awesome-deepseekharness/awesome-deepseek-harness) — inferred / dsh-cordis — ⭐21
+- `+` [WTStarMark/dsh-plugin-mesh](https://github.com/WTStarMark/dsh-plugin-mesh) — inferred / dsh-cordis — ⭐19
+- `+` [huangziyuan-general/dsh-novel-forge](https://github.com/huangziyuan-general/dsh-novel-forge) — inferred / dsh-cordis — ⭐19
+- `+` [qinyre/dsh-plugin-capabilities](https://github.com/qinyre/dsh-plugin-capabilities) — inferred / dsh-cordis — ⭐17
+- `+` [ouli-1242/dsh-plugin-tool-management](https://github.com/ouli-1242/dsh-plugin-tool-management) — inferred / dsh-cordis — ⭐14
+- `+` [0x7A7A6572/dsh-forge-studio](https://github.com/0x7A7A6572/dsh-forge-studio) — inferred / dsh-cordis — ⭐8
+- `+` [IT-coder-Yy/dsh-lazygit-plugin](https://github.com/IT-coder-Yy/dsh-lazygit-plugin) — inferred / dsh-cordis — ⭐7
+- `+` [nsodhi-cmu/claude-code-ripple](https://github.com/nsodhi-cmu/claude-code-ripple) — observed / mods — ⭐6
+- `+` [ywsldxk/dsh-plugin-stars](https://github.com/ywsldxk/dsh-plugin-stars) — inferred / dsh-cordis — ⭐5
+- `+` [dsh-plugin-lab/dsh-plugin-debugging](https://github.com/dsh-plugin-lab/dsh-plugin-debugging) — inferred / dsh-cordis — ⭐4
+- `+` [Aliuyanfeng/dsh-soul](https://github.com/Aliuyanfeng/dsh-soul) — inferred / dsh-cordis — ⭐4
+- `+` [arkme-senx/arkme-dsh-plugin](https://github.com/arkme-senx/arkme-dsh-plugin) — unverified / dsh-cordis — ⭐4
+- `+` [rajivpoddar/master-of-panes](https://github.com/rajivpoddar/master-of-panes) — unverified / mods — ⭐3
+- `+` [27painter/dsh-moli](https://github.com/27painter/dsh-moli) — inferred / dsh-cordis — ⭐3
+- `+` [sakuraqqq/dsh-auto-paste](https://github.com/sakuraqqq/dsh-auto-paste) — inferred / dsh-cordis — ⭐3
+- `+` [HaydenSmith1121/dsh-plugins](https://github.com/HaydenSmith1121/dsh-plugins) — unverified / dsh-cordis — ⭐3
+- `+` [exoticknight/dsh-plugin-template](https://github.com/exoticknight/dsh-plugin-template) — inferred / dsh-cordis — ⭐3
+- `+` [magiccreator-ai/awesome-claude-code-mods](https://github.com/magiccreator-ai/awesome-claude-code-mods) — observed / mods — ⭐1
+- …另有 25 条新增

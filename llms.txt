@@ -6,8 +6,8 @@
 > grade saying how much was actually verified. Rebuilt every two hours in
 > twenty languages.
 
-Last generated: 2026-10-16T10:23:38+08:00
-Entries: 594
+Last generated: 2026-10-16T12:36:29+08:00
+Entries: 553
 
 ## What a Claude Code mod is
 
@@ -29,10 +29,10 @@ The grade describes how much was verified, not how good a project is.
 
 ## Sections
 
-- mods: 480 entries
-- dsh-cordis: 87 entries
-- official: 19 entries
-- writing: 8 entries
+- mods: 470 entries
+- dsh-cordis: 58 entries
+- official: 18 entries
+- writing: 7 entries
 
 ## Pages
 
