@@ -2004,3 +2004,32 @@
 - `+` [Nwflower/dsh-claude-style](https://github.com/Nwflower/dsh-claude-style) — inferred / dsh-cordis — ⭐167
 - `+` [FeatherHunter/dsh-mattpocock-skills-deck](https://github.com/FeatherHunter/dsh-mattpocock-skills-deck) — inferred / dsh-cordis — ⭐153
 - …另有 69 条新增
+
+## 2026-10-16T16:55:59+08:00
+- 收录总数 **607**；本次更新新增 **87**
+- `+` [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) — inferred / dsh-cordis — ⭐18533
+- `+` [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) — inferred / dsh-cordis — ⭐13446
+- `+` [loopx-project/loopx](https://github.com/loopx-project/loopx) — inferred / dsh-cordis — ⭐6334
+- `+` [Q00/ouroboros](https://github.com/Q00/ouroboros) — inferred / dsh-cordis — ⭐6231
+- `+` [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) — inferred / dsh-cordis — ⭐4206
+- `+` [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) — inferred / dsh-cordis — ⭐3458
+- `+` [dsh-tauri/deepseek-harness-desktop](https://github.com/dsh-tauri/deepseek-harness-desktop) — inferred / dsh-cordis — ⭐3056
+- `+` [TencentCloudBase/CloudBase-AI-Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) — inferred / dsh-cordis — ⭐1138
+- `+` [zenstory-ai/oh-story-dsh](https://github.com/zenstory-ai/oh-story-dsh) — inferred / dsh-cordis — ⭐526
+- `+` [dshplugin/dsh-plugin-hub](https://github.com/dshplugin/dsh-plugin-hub) — inferred / dsh-cordis — ⭐232
+- `+` [yannicksong0106/dsh-550c-boot](https://github.com/yannicksong0106/dsh-550c-boot) — inferred / dsh-cordis — ⭐152
+- `+` [MichengAI/dsh-agency-agents](https://github.com/MichengAI/dsh-agency-agents) — inferred / dsh-cordis — ⭐131
+- `+` [Sutera-Diffusus/dsh-whale-musume](https://github.com/Sutera-Diffusus/dsh-whale-musume) — inferred / dsh-cordis — ⭐130
+- `+` [Fishsb/dsh-prompt-enhancer](https://github.com/Fishsb/dsh-prompt-enhancer) — inferred / dsh-cordis — ⭐93
+- `+` [morluto/leantoken](https://github.com/morluto/leantoken) — inferred / dsh-cordis — ⭐83
+- `+` [HOWILLMAKEIT/dsh-model-context-catalog](https://github.com/HOWILLMAKEIT/dsh-model-context-catalog) — inferred / dsh-cordis — ⭐34
+- `+` [naodeng/dsh-qa](https://github.com/naodeng/dsh-qa) — inferred / dsh-cordis — ⭐31
+- `+` [gjj-star/dsh-conversation-navigator](https://github.com/gjj-star/dsh-conversation-navigator) — inferred / dsh-cordis — ⭐22
+- `+` [liustack/pptwise](https://github.com/liustack/pptwise) — inferred / dsh-cordis — ⭐21
+- `+` [EternalNight996/memory-eternal](https://github.com/EternalNight996/memory-eternal) — inferred / dsh-cordis — ⭐20
+- `+` [tancheng33/dsh-ontology](https://github.com/tancheng33/dsh-ontology) — inferred / dsh-cordis — ⭐18
+- `+` [Lenonss/DSH_VsCodeMode](https://github.com/Lenonss/DSH_VsCodeMode) — inferred / dsh-cordis — ⭐18
+- `+` [dshworks/awesome-dsh-plugins](https://github.com/dshworks/awesome-dsh-plugins) — inferred / dsh-cordis — ⭐18
+- `+` [qinyre/dsh-plugin-capabilities](https://github.com/qinyre/dsh-plugin-capabilities) — inferred / dsh-cordis — ⭐17
+- `+` [Ianzhyh/workbuddy-to-dsh](https://github.com/Ianzhyh/workbuddy-to-dsh) — inferred / dsh-cordis — ⭐17
+- …另有 62 条新增

@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-16T14:42:37+08:00",
- "count": 131,
+ "updated_at": "2026-10-16T16:56:02+08:00",
+ "count": 133,
  "policy": {
   "min_stars": 5,
   "min_description_chars": 40
@@ -40,7 +40,7 @@
    "description_chars": 39,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-10T18:58:53+08:00",
-   "last_seen_dropped": "2026-10-16T14:42:37+08:00"
+   "last_seen_dropped": "2026-10-16T16:56:02+08:00"
   },
   {
    "at": "2026-10-15T23:06:01+08:00",
@@ -52,7 +52,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-15T23:06:01+08:00",
-   "last_seen_dropped": "2026-10-16T14:42:37+08:00"
+   "last_seen_dropped": "2026-10-16T16:56:02+08:00"
   },
   {
    "at": "2026-10-09T20:58:12+08:00",
@@ -423,7 +423,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-05T08:10:00+08:00",
-   "last_seen_dropped": "2026-10-16T14:42:37+08:00"
+   "last_seen_dropped": "2026-10-16T16:56:02+08:00"
   },
   {
    "at": "2026-10-09T18:44:01+08:00",
@@ -484,6 +484,18 @@
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-04T22:04:33+08:00",
    "last_seen_dropped": "2026-10-05T12:41:53+08:00"
+  },
+  {
+   "at": "2026-10-16T16:55:59+08:00",
+   "id": "gh:a1141171521/dsh-plugin-memfuse",
+   "name": "a1141171521/dsh-plugin-memfuse",
+   "url": "https://github.com/a1141171521/dsh-plugin-memfuse",
+   "stars": 3,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-10-16T16:55:59+08:00",
+   "last_seen_dropped": "2026-10-16T16:56:02+08:00"
   },
   {
    "at": "2026-10-05T10:26:03+08:00",
@@ -735,7 +747,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-04T22:03:03+08:00",
-   "last_seen_dropped": "2026-10-16T14:42:37+08:00"
+   "last_seen_dropped": "2026-10-16T16:56:02+08:00"
   },
   {
    "at": "2026-10-04T22:04:33+08:00",
@@ -759,7 +771,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-16T10:17:37+08:00",
-   "last_seen_dropped": "2026-10-16T14:42:37+08:00"
+   "last_seen_dropped": "2026-10-16T16:56:02+08:00"
   },
   {
    "at": "2026-10-05T13:50:38+08:00",
@@ -843,7 +855,7 @@
    "description_chars": 32,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-13T01:48:30+08:00",
-   "last_seen_dropped": "2026-10-16T14:42:37+08:00"
+   "last_seen_dropped": "2026-10-16T16:56:02+08:00"
   },
   {
    "at": "2026-10-09T20:58:12+08:00",
@@ -867,7 +879,7 @@
    "description_chars": 28,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-09T16:31:11+08:00",
-   "last_seen_dropped": "2026-10-16T14:42:37+08:00"
+   "last_seen_dropped": "2026-10-16T16:56:02+08:00"
   },
   {
    "at": "2026-10-09T16:31:11+08:00",
@@ -1143,7 +1155,7 @@
    "description_chars": 37,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-15T23:06:01+08:00",
-   "last_seen_dropped": "2026-10-16T14:42:37+08:00"
+   "last_seen_dropped": "2026-10-16T16:56:02+08:00"
   },
   {
    "at": "2026-10-04T22:03:03+08:00",
@@ -1394,7 +1406,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-12T14:43:34+08:00",
-   "last_seen_dropped": "2026-10-16T14:42:37+08:00"
+   "last_seen_dropped": "2026-10-16T16:56:02+08:00"
   },
   {
    "at": "2026-10-07T07:52:50+08:00",
@@ -1466,7 +1478,7 @@
    "description_chars": 30,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-05T00:33:04+08:00",
-   "last_seen_dropped": "2026-10-16T08:03:18+08:00"
+   "last_seen_dropped": "2026-10-16T16:56:02+08:00"
   },
   {
    "at": "2026-10-04T22:03:03+08:00",
@@ -1490,7 +1502,7 @@
    "description_chars": 35,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-08T10:39:21+08:00",
-   "last_seen_dropped": "2026-10-16T14:42:37+08:00"
+   "last_seen_dropped": "2026-10-16T16:56:02+08:00"
   },
   {
    "at": "2026-10-06T02:13:19+08:00",
@@ -1575,6 +1587,18 @@
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-09T20:58:12+08:00",
    "last_seen_dropped": "2026-10-09T20:58:13+08:00"
+  },
+  {
+   "at": "2026-10-16T16:55:59+08:00",
+   "id": "gh:zsxh1990/pr-genius",
+   "name": "zsxh1990/pr-genius",
+   "url": "https://github.com/zsxh1990/pr-genius",
+   "stars": 3,
+   "evidence": "inferred",
+   "description_chars": 35,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-10-16T16:55:59+08:00",
+   "last_seen_dropped": "2026-10-16T16:56:02+08:00"
   }
  ]
 }
