@@ -2091,3 +2091,32 @@
 - `+` [xbzbing/dsh-git-panel](https://github.com/xbzbing/dsh-git-panel) — inferred / dsh-cordis — ⭐11
 - `+` [tellmewhattodo/dsh-serenity-plugin](https://github.com/tellmewhattodo/dsh-serenity-plugin) — unverified / dsh-cordis — ⭐8
 - …另有 49 条新增
+
+## 2026-10-16T23:35:52+08:00
+- 收录总数 **597**；本次更新新增 **87**
+- `+` [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) — inferred / mods — ⭐5412
+- `+` [T-Auto/dsh-ops](https://github.com/T-Auto/dsh-ops) — inferred / dsh-cordis — ⭐2524
+- `+` [TencentCloudBase/CloudBase-AI-Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) — inferred / dsh-cordis — ⭐1138
+- `+` [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) — inferred / dsh-cordis — ⭐527
+- `+` [aqua5230/usage](https://github.com/aqua5230/usage) — inferred / mods — ⭐340
+- `+` [daha1216/dsh-adult-tension](https://github.com/daha1216/dsh-adult-tension) — inferred / dsh-cordis — ⭐210
+- `+` [WSL043/dsh-codex-subscription](https://github.com/WSL043/dsh-codex-subscription) — inferred / dsh-cordis — ⭐182
+- `+` [a86582751/dsh-nexttavern](https://github.com/a86582751/dsh-nexttavern) — inferred / mods — ⭐176
+- `+` [franksong2702/dsh-codex-connect](https://github.com/franksong2702/dsh-codex-connect) — inferred / dsh-cordis — ⭐150
+- `+` [01Virex/dsh-status-rotator](https://github.com/01Virex/dsh-status-rotator) — inferred / dsh-cordis — ⭐146
+- `+` [MichengAI/dsh-agency-agents](https://github.com/MichengAI/dsh-agency-agents) — inferred / dsh-cordis — ⭐131
+- `+` [wqty123/dsh-browser](https://github.com/wqty123/dsh-browser) — inferred / dsh-cordis — ⭐117
+- `+` [Fishsb/dsh-prompt-enhancer](https://github.com/Fishsb/dsh-prompt-enhancer) — inferred / dsh-cordis — ⭐93
+- `+` [songoao25/dsh-bottom-info-bar](https://github.com/songoao25/dsh-bottom-info-bar) — inferred / dsh-cordis — ⭐49
+- `+` [lhh010/dsh-ui-whale](https://github.com/lhh010/dsh-ui-whale) — inferred / dsh-cordis — ⭐41
+- `+` [FeatherHunter/dsh-prompt](https://github.com/FeatherHunter/dsh-prompt) — inferred / dsh-cordis — ⭐41
+- `+` [lhh010/dsh-minigames](https://github.com/lhh010/dsh-minigames) — inferred / dsh-cordis — ⭐34
+- `+` [q253595422/dsh-imagegen-video](https://github.com/q253595422/dsh-imagegen-video) — inferred / dsh-cordis — ⭐29
+- `+` [omdsh-dev/dsh-advisor](https://github.com/omdsh-dev/dsh-advisor) — inferred / dsh-cordis — ⭐27
+- `+` [CLICGGER-TYPES/dsh-piggy](https://github.com/CLICGGER-TYPES/dsh-piggy) — inferred / dsh-cordis — ⭐24
+- `+` [lizhiyao/oh-my-knowledge](https://github.com/lizhiyao/oh-my-knowledge) — inferred / dsh-cordis — ⭐23
+- `+` [omdsh-dev/dsh-llm-fallbacks](https://github.com/omdsh-dev/dsh-llm-fallbacks) — inferred / dsh-cordis — ⭐21
+- `+` [KCNyu/clawock](https://github.com/KCNyu/clawock) — inferred / dsh-cordis — ⭐20
+- `+` [helloHupc/dsh-plugin-hub](https://github.com/helloHupc/dsh-plugin-hub) — unverified / dsh-cordis — ⭐19
+- `+` [xyrrrrr-r/dsh-eval-control](https://github.com/xyrrrrr-r/dsh-eval-control) — inferred / dsh-cordis — ⭐17
+- …另有 62 条新增
