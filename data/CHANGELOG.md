@@ -2033,3 +2033,32 @@
 - `+` [qinyre/dsh-plugin-capabilities](https://github.com/qinyre/dsh-plugin-capabilities) — inferred / dsh-cordis — ⭐17
 - `+` [Ianzhyh/workbuddy-to-dsh](https://github.com/Ianzhyh/workbuddy-to-dsh) — inferred / dsh-cordis — ⭐17
 - …另有 62 条新增
+
+## 2026-10-16T19:11:37+08:00
+- 收录总数 **587**；本次更新新增 **61**
+- `+` [strukto-ai/mirage](https://github.com/strukto-ai/mirage) — inferred / dsh-cordis — ⭐3694
+- `+` [AdamPlatin123/dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) — inferred / dsh-cordis — ⭐1474
+- `+` [aqua5230/usage](https://github.com/aqua5230/usage) — inferred / mods — ⭐340
+- `+` [tmck-code/yet-another-statusline](https://github.com/tmck-code/yet-another-statusline) — inferred / mods — ⭐242
+- `+` [WSL043/dsh-codex-subscription](https://github.com/WSL043/dsh-codex-subscription) — inferred / dsh-cordis — ⭐181
+- `+` [amlyczz/dsh-agy-link](https://github.com/amlyczz/dsh-agy-link) — inferred / dsh-cordis — ⭐114
+- `+` [BotHarness/DeepSeekBot](https://github.com/BotHarness/DeepSeekBot) — inferred / dsh-cordis — ⭐112
+- `+` [Noob-stupid/dsh-plugin-gating-hub](https://github.com/Noob-stupid/dsh-plugin-gating-hub) — inferred / dsh-cordis — ⭐102
+- `+` [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu) — inferred / dsh-cordis — ⭐87
+- `+` [cloader/dsh-taskboard](https://github.com/cloader/dsh-taskboard) — inferred / dsh-cordis — ⭐66
+- `+` [KongFangXun/sofagent](https://github.com/KongFangXun/sofagent) — inferred / dsh-cordis — ⭐53
+- `+` [cosyncing/cosyncing](https://github.com/cosyncing/cosyncing) — inferred / dsh-cordis — ⭐49
+- `+` [skyf0xx/hedgehog](https://github.com/skyf0xx/hedgehog) — inferred / dsh-cordis — ⭐45
+- `+` [NekroAI/nekro-nxt](https://github.com/NekroAI/nekro-nxt) — inferred / dsh-cordis — ⭐37
+- `+` [pigeon189/zcode-fox-widget](https://github.com/pigeon189/zcode-fox-widget) — inferred / dsh-cordis — ⭐28
+- `+` [Dalizi2026/dsh-factory-provider](https://github.com/Dalizi2026/dsh-factory-provider) — inferred / dsh-cordis — ⭐22
+- `+` [ppy-web/dsh-plugin-xiaomi-mimo-tts](https://github.com/ppy-web/dsh-plugin-xiaomi-mimo-tts) — inferred / dsh-cordis — ⭐20
+- `+` [helloHupc/dsh-plugin-hub](https://github.com/helloHupc/dsh-plugin-hub) — unverified / dsh-cordis — ⭐19
+- `+` [jiesou/dsh-opencode-zen-free-provider](https://github.com/jiesou/dsh-opencode-zen-free-provider) — inferred / dsh-cordis — ⭐15
+- `+` [muyuanjin/dsh-ptc-plus](https://github.com/muyuanjin/dsh-ptc-plus) — inferred / dsh-cordis — ⭐14
+- `+` [cv-superding/dsh-webin](https://github.com/cv-superding/dsh-webin) — inferred / dsh-cordis — ⭐10
+- `+` [WaterTian/cc-hud](https://github.com/WaterTian/cc-hud) — inferred / mods — ⭐9
+- `+` [michalstrnadel/AgentBar](https://github.com/michalstrnadel/AgentBar) — observed / mods — ⭐9
+- `+` [morlay/dsh-plugin](https://github.com/morlay/dsh-plugin) — inferred / dsh-cordis — ⭐8
+- `+` [mytianyi0712/dsh-tui-plugin-OhMyPi](https://github.com/mytianyi0712/dsh-tui-plugin-OhMyPi) — inferred / dsh-cordis — ⭐7
+- …另有 36 条新增
