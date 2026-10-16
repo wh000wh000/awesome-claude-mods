@@ -2149,3 +2149,32 @@
 - `+` [zp-home/dsh-recommend](https://github.com/zp-home/dsh-recommend) — inferred / dsh-cordis — ⭐22
 - `+` [YELEBAI/dsh-plugin-marketplace](https://github.com/YELEBAI/dsh-plugin-marketplace) — inferred / dsh-cordis — ⭐20
 - …另有 82 条新增
+
+## 2026-10-17T06:20:01+08:00
+- 收录总数 **439**；本次更新新增 **40**
+- `+` [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) — inferred / dsh-cordis — ⭐3460
+- `+` [dsh-tauri/deepseek-harness-desktop](https://github.com/dsh-tauri/deepseek-harness-desktop) — inferred / dsh-cordis — ⭐3100
+- `+` [T-Auto/dsh-ops](https://github.com/T-Auto/dsh-ops) — inferred / dsh-cordis — ⭐2561
+- `+` [AdamPlatin123/dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) — inferred / dsh-cordis — ⭐1475
+- `+` [yjh051108/dsh-super-injector](https://github.com/yjh051108/dsh-super-injector) — inferred / dsh-cordis — ⭐168
+- `+` [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) — inferred / dsh-cordis — ⭐143
+- `+` [Noob-stupid/dsh-plugin-gating-hub](https://github.com/Noob-stupid/dsh-plugin-gating-hub) — inferred / dsh-cordis — ⭐102
+- `+` [adamkhalile/luau-docs-oracle](https://github.com/adamkhalile/luau-docs-oracle) — inferred / dsh-cordis — ⭐72
+- `+` [thissensen/dsh-agent-studio](https://github.com/thissensen/dsh-agent-studio) — inferred / dsh-cordis — ⭐38
+- `+` [xiaoyuyu6420/dsh-backup](https://github.com/xiaoyuyu6420/dsh-backup) — inferred / dsh-cordis — ⭐27
+- `+` [Icather/dsh-clean-desktop-shell](https://github.com/Icather/dsh-clean-desktop-shell) — inferred / dsh-cordis — ⭐7
+- `+` [cyanseek/dsh-landscape](https://github.com/cyanseek/dsh-landscape) — inferred / dsh-cordis — ⭐6
+- `+` [dsh-pub/dsh-pub](https://github.com/dsh-pub/dsh-pub) — inferred / dsh-cordis — ⭐6
+- `+` [majiayu000/dsh-plugin-registry](https://github.com/majiayu000/dsh-plugin-registry) — inferred / dsh-cordis — ⭐4
+- `+` [Fish-under-sea/dsh-fish](https://github.com/Fish-under-sea/dsh-fish) — inferred / dsh-cordis — ⭐4
+- `+` [chaybits/ai-session-usage](https://github.com/chaybits/ai-session-usage) — inferred / mods — ⭐3
+- `+` [HaydenSmith1121/dsh-plugins](https://github.com/HaydenSmith1121/dsh-plugins) — unverified / dsh-cordis — ⭐3
+- `+` [moonbowterfly/dsh-bio-genie](https://github.com/moonbowterfly/dsh-bio-genie) — inferred / dsh-cordis — ⭐3
+- `+` [Fish-under-sea/dsh-agent-teams-fish](https://github.com/Fish-under-sea/dsh-agent-teams-fish) — inferred / dsh-cordis — ⭐3
+- `+` [kuehn-lars/cc-graph](https://github.com/kuehn-lars/cc-graph) — observed / mods — ⭐1
+- `+` [Henner4746/claude-code-api-cost](https://github.com/Henner4746/claude-code-api-cost) — inferred / mods — ⭐1
+- `+` [joaquinsalinas06/crabbus](https://github.com/joaquinsalinas06/crabbus) — observed / mods — ⭐1
+- `+` [PinkOctopusLabs/claude-simple-usage](https://github.com/PinkOctopusLabs/claude-simple-usage) — observed / mods — ⭐0
+- `+` [evertonalves-ai/mod-forge](https://github.com/evertonalves-ai/mod-forge) — observed / mods — ⭐0
+- `+` [fabiopbarbieri/agents-progress](https://github.com/fabiopbarbieri/agents-progress) — observed / mods — ⭐0
+- …另有 15 条新增
