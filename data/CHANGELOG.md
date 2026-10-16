@@ -1975,3 +1975,32 @@
 - `+` [exoticknight/dsh-plugin-template](https://github.com/exoticknight/dsh-plugin-template) — inferred / dsh-cordis — ⭐3
 - `+` [magiccreator-ai/awesome-claude-code-mods](https://github.com/magiccreator-ai/awesome-claude-code-mods) — observed / mods — ⭐1
 - …另有 25 条新增
+
+## 2026-10-16T14:42:35+08:00
+- 收录总数 **597**；本次更新新增 **94**
+- `+` [nexu-io/open-design](https://github.com/nexu-io/open-design) — inferred / dsh-cordis — ⭐101415
+- `+` [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) — inferred / dsh-cordis — ⭐35813
+- `+` [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) — inferred / dsh-cordis — ⭐31016
+- `+` [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) — inferred / dsh-cordis — ⭐18927
+- `+` [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) — inferred / mods — ⭐13301
+- `+` [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) — inferred / mods — ⭐12924
+- `+` [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) — inferred / mods — ⭐12111
+- `+` [anbeime/skill](https://github.com/anbeime/skill) — inferred / dsh-cordis — ⭐8132
+- `+` [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) — inferred / dsh-cordis — ⭐6687
+- `+` [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) — inferred / dsh-cordis — ⭐3484
+- `+` [T-Auto/dsh-ops](https://github.com/T-Auto/dsh-ops) — inferred / dsh-cordis — ⭐2373
+- `+` [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context) — inferred / dsh-cordis — ⭐2178
+- `+` [xmanrui/dsh-im](https://github.com/xmanrui/dsh-im) — inferred / dsh-cordis — ⭐2037
+- `+` [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) — inferred / dsh-cordis — ⭐526
+- `+` [Clarklevis1995/dsh-mobile](https://github.com/Clarklevis1995/dsh-mobile) — inferred / dsh-cordis — ⭐519
+- `+` [Han-1413141/dsh-cost-meter](https://github.com/Han-1413141/dsh-cost-meter) — inferred / dsh-cordis — ⭐429
+- `+` [tingly-dev/tingly-box](https://github.com/tingly-dev/tingly-box) — inferred / dsh-cordis — ⭐352
+- `+` [imsai-sh/awesome-deepseek-harness-plugins](https://github.com/imsai-sh/awesome-deepseek-harness-plugins) — inferred / dsh-cordis — ⭐294
+- `+` [sixtysevenlf/dsh-blender-plugin](https://github.com/sixtysevenlf/dsh-blender-plugin) — inferred / dsh-cordis — ⭐266
+- `+` [acryldev/acryl](https://github.com/acryldev/acryl) — inferred / dsh-cordis — ⭐256
+- `+` [RevolutionLA/dsh-dream-skin](https://github.com/RevolutionLA/dsh-dream-skin) — inferred / dsh-cordis — ⭐247
+- `+` [wenbin-wb/dsh-bridge](https://github.com/wenbin-wb/dsh-bridge) — inferred / dsh-cordis — ⭐199
+- `+` [a86582751/dsh-nexttavern](https://github.com/a86582751/dsh-nexttavern) — inferred / mods — ⭐176
+- `+` [Nwflower/dsh-claude-style](https://github.com/Nwflower/dsh-claude-style) — inferred / dsh-cordis — ⭐167
+- `+` [FeatherHunter/dsh-mattpocock-skills-deck](https://github.com/FeatherHunter/dsh-mattpocock-skills-deck) — inferred / dsh-cordis — ⭐153
+- …另有 69 条新增

@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-16T12:30:34+08:00",
- "count": 130,
+ "updated_at": "2026-10-16T14:42:37+08:00",
+ "count": 131,
  "policy": {
   "min_stars": 5,
   "min_description_chars": 40
@@ -40,7 +40,7 @@
    "description_chars": 39,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-10T18:58:53+08:00",
-   "last_seen_dropped": "2026-10-16T12:30:34+08:00"
+   "last_seen_dropped": "2026-10-16T14:42:37+08:00"
   },
   {
    "at": "2026-10-15T23:06:01+08:00",
@@ -52,7 +52,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-15T23:06:01+08:00",
-   "last_seen_dropped": "2026-10-16T12:30:34+08:00"
+   "last_seen_dropped": "2026-10-16T14:42:37+08:00"
   },
   {
    "at": "2026-10-09T20:58:12+08:00",
@@ -330,6 +330,18 @@
    "last_seen_dropped": "2026-10-05T01:24:47+08:00"
   },
   {
+   "at": "2026-10-16T14:42:35+08:00",
+   "id": "gh:Karylcode/claude-grill-mod",
+   "name": "Karylcode/claude-grill-mod",
+   "url": "https://github.com/Karylcode/claude-grill-mod",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 39,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-10-16T14:42:35+08:00",
+   "last_seen_dropped": "2026-10-16T14:42:37+08:00"
+  },
+  {
    "at": "2026-10-05T05:54:46+08:00",
    "id": "gh:LiamKarlMitchell/liams-claude-plugins",
    "name": "LiamKarlMitchell/liams-claude-plugins",
@@ -411,7 +423,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-05T08:10:00+08:00",
-   "last_seen_dropped": "2026-10-16T12:30:34+08:00"
+   "last_seen_dropped": "2026-10-16T14:42:37+08:00"
   },
   {
    "at": "2026-10-09T18:44:01+08:00",
@@ -723,7 +735,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-04T22:03:03+08:00",
-   "last_seen_dropped": "2026-10-16T12:30:34+08:00"
+   "last_seen_dropped": "2026-10-16T14:42:37+08:00"
   },
   {
    "at": "2026-10-04T22:04:33+08:00",
@@ -747,7 +759,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-16T10:17:37+08:00",
-   "last_seen_dropped": "2026-10-16T12:30:34+08:00"
+   "last_seen_dropped": "2026-10-16T14:42:37+08:00"
   },
   {
    "at": "2026-10-05T13:50:38+08:00",
@@ -831,7 +843,7 @@
    "description_chars": 32,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-13T01:48:30+08:00",
-   "last_seen_dropped": "2026-10-16T12:30:34+08:00"
+   "last_seen_dropped": "2026-10-16T14:42:37+08:00"
   },
   {
    "at": "2026-10-09T20:58:12+08:00",
@@ -855,7 +867,7 @@
    "description_chars": 28,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-09T16:31:11+08:00",
-   "last_seen_dropped": "2026-10-16T12:30:34+08:00"
+   "last_seen_dropped": "2026-10-16T14:42:37+08:00"
   },
   {
    "at": "2026-10-09T16:31:11+08:00",
@@ -1131,7 +1143,7 @@
    "description_chars": 37,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-15T23:06:01+08:00",
-   "last_seen_dropped": "2026-10-16T12:30:34+08:00"
+   "last_seen_dropped": "2026-10-16T14:42:37+08:00"
   },
   {
    "at": "2026-10-04T22:03:03+08:00",
@@ -1382,7 +1394,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-12T14:43:34+08:00",
-   "last_seen_dropped": "2026-10-16T10:17:39+08:00"
+   "last_seen_dropped": "2026-10-16T14:42:37+08:00"
   },
   {
    "at": "2026-10-07T07:52:50+08:00",
@@ -1478,7 +1490,7 @@
    "description_chars": 35,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-08T10:39:21+08:00",
-   "last_seen_dropped": "2026-10-16T08:03:18+08:00"
+   "last_seen_dropped": "2026-10-16T14:42:37+08:00"
   },
   {
    "at": "2026-10-06T02:13:19+08:00",
