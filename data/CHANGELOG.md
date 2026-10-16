@@ -1917,3 +1917,32 @@
 - `+` [Claude Code Mods](https://news.ycombinator.com/item?id=49925102) — observed / writing — ⭐6
 - `+` [AI enthusiast mods BIOS with Claude Code, defeats RSA-2048 signature checks](https://news.ycombinator.com/item?id=49156779) — observed / writing — ⭐5
 - …另有 128 条新增
+
+## 2026-10-16T10:17:37+08:00
+- 收录总数 **594**；本次更新新增 **56**
+- `+` [nexu-io/open-design](https://github.com/nexu-io/open-design) — inferred / dsh-cordis — ⭐101373
+- `+` [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) — observed / dsh-cordis — ⭐4639
+- `+` [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) — inferred / dsh-cordis — ⭐3463
+- `+` [EthanYoQ/AI-Novel-Writer](https://github.com/EthanYoQ/AI-Novel-Writer) — inferred / dsh-cordis — ⭐1569
+- `+` [PC2005-cloud/dsh-pet](https://github.com/PC2005-cloud/dsh-pet) — inferred / dsh-cordis — ⭐1521
+- `+` [Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins](https://github.com/Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins) — inferred / dsh-cordis — ⭐574
+- `+` [bruc3van/awesome-dsh-plugin](https://github.com/bruc3van/awesome-dsh-plugin) — inferred / dsh-cordis — ⭐416
+- `+` [Mars-Sea/dsh-commandcode-provider](https://github.com/Mars-Sea/dsh-commandcode-provider) — inferred / dsh-cordis — ⭐393
+- `+` [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) — inferred / dsh-cordis — ⭐378
+- `+` [imsai-sh/awesome-deepseek-harness-plugins](https://github.com/imsai-sh/awesome-deepseek-harness-plugins) — inferred / dsh-cordis — ⭐294
+- `+` [amirfish1/claude-command-center](https://github.com/amirfish1/claude-command-center) — inferred / mods — ⭐189
+- `+` [Clarklevis1995/dsh-plugin-mobile-gateway](https://github.com/Clarklevis1995/dsh-plugin-mobile-gateway) — inferred / dsh-cordis — ⭐78
+- `+` [PolinniZhong/dsh-knit](https://github.com/PolinniZhong/dsh-knit) — inferred / dsh-cordis — ⭐54
+- `+` [walkinglabs/awesome-deepseek-harness-plugins](https://github.com/walkinglabs/awesome-deepseek-harness-plugins) — inferred / official — ⭐44
+- `+` [FNOSP/fnos-dsh](https://github.com/FNOSP/fnos-dsh) — inferred / dsh-cordis — ⭐34
+- `+` [lizhiyao/oh-my-knowledge](https://github.com/lizhiyao/oh-my-knowledge) — inferred / dsh-cordis — ⭐23
+- `+` [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub) — inferred / official — ⭐20
+- `+` [ZK-Andy/dsh-continual-evolve](https://github.com/ZK-Andy/dsh-continual-evolve) — inferred / dsh-cordis — ⭐20
+- `+` [zhu1090093659/dsh-skins](https://github.com/zhu1090093659/dsh-skins) — inferred / dsh-cordis — ⭐18
+- `+` [Lenonss/DSH_VsCodeMode](https://github.com/Lenonss/DSH_VsCodeMode) — inferred / dsh-cordis — ⭐18
+- `+` [zhu1090093659/dsh-pet](https://github.com/zhu1090093659/dsh-pet) — inferred / dsh-cordis — ⭐17
+- `+` [a903067276-rgb/dsh-file-mentions](https://github.com/a903067276-rgb/dsh-file-mentions) — inferred / dsh-cordis — ⭐15
+- `+` [baosfeng/my-dsh-plugins](https://github.com/baosfeng/my-dsh-plugins) — inferred / dsh-cordis — ⭐15
+- `+` [q253595422/dsh-imagegen-video](https://github.com/q253595422/dsh-imagegen-video) — unverified / dsh-cordis — ⭐13
+- `+` [yuezengwu/dsh-explain](https://github.com/yuezengwu/dsh-explain) — inferred / dsh-cordis — ⭐12
+- …另有 31 条新增
