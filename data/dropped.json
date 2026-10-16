@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-16T23:35:53+08:00",
- "count": 136,
+ "updated_at": "2026-10-17T04:04:29+08:00",
+ "count": 138,
  "policy": {
   "min_stars": 5,
   "min_description_chars": 40
@@ -40,7 +40,7 @@
    "description_chars": 39,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-10T18:58:53+08:00",
-   "last_seen_dropped": "2026-10-16T23:35:53+08:00"
+   "last_seen_dropped": "2026-10-17T04:04:29+08:00"
   },
   {
    "at": "2026-10-15T23:06:01+08:00",
@@ -65,6 +65,18 @@
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-09T20:58:12+08:00",
    "last_seen_dropped": "2026-10-12T21:21:59+08:00"
+  },
+  {
+   "at": "2026-10-17T04:04:28+08:00",
+   "id": "gh:Asaiuta/dsh-custom-header",
+   "name": "Asaiuta/dsh-custom-header",
+   "url": "https://github.com/Asaiuta/dsh-custom-header",
+   "stars": 3,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-10-17T04:04:28+08:00",
+   "last_seen_dropped": "2026-10-17T04:04:29+08:00"
   },
   {
    "at": "2026-10-05T05:54:46+08:00",
@@ -255,7 +267,7 @@
    "description_chars": 31,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-04T22:03:03+08:00",
-   "last_seen_dropped": "2026-10-15T23:06:03+08:00"
+   "last_seen_dropped": "2026-10-17T04:04:29+08:00"
   },
   {
    "at": "2026-10-05T00:33:04+08:00",
@@ -378,6 +390,18 @@
    "last_seen_dropped": "2026-10-16T12:30:34+08:00"
   },
   {
+   "at": "2026-10-17T04:04:28+08:00",
+   "id": "gh:LorenzoNu/carbonero-statusline-claude",
+   "name": "LorenzoNu/carbonero-statusline-claude",
+   "url": "https://github.com/LorenzoNu/carbonero-statusline-claude",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 21,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-10-17T04:04:28+08:00",
+   "last_seen_dropped": "2026-10-17T04:04:29+08:00"
+  },
+  {
    "at": "2026-10-05T05:54:46+08:00",
    "id": "gh:Mheaus/claude-skills",
    "name": "Mheaus/claude-skills",
@@ -423,7 +447,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-05T08:10:00+08:00",
-   "last_seen_dropped": "2026-10-16T23:35:53+08:00"
+   "last_seen_dropped": "2026-10-17T04:04:29+08:00"
   },
   {
    "at": "2026-10-09T18:44:01+08:00",
@@ -759,7 +783,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-04T22:03:03+08:00",
-   "last_seen_dropped": "2026-10-16T23:35:53+08:00"
+   "last_seen_dropped": "2026-10-17T04:04:29+08:00"
   },
   {
    "at": "2026-10-04T22:04:33+08:00",
@@ -867,7 +891,7 @@
    "description_chars": 32,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-13T01:48:30+08:00",
-   "last_seen_dropped": "2026-10-16T23:35:53+08:00"
+   "last_seen_dropped": "2026-10-17T04:04:29+08:00"
   },
   {
    "at": "2026-10-09T20:58:12+08:00",
@@ -891,7 +915,7 @@
    "description_chars": 28,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-09T16:31:11+08:00",
-   "last_seen_dropped": "2026-10-16T23:35:53+08:00"
+   "last_seen_dropped": "2026-10-17T04:04:29+08:00"
   },
   {
    "at": "2026-10-09T16:31:11+08:00",
@@ -1047,7 +1071,7 @@
    "description_chars": 38,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-16T19:11:37+08:00",
-   "last_seen_dropped": "2026-10-16T23:35:53+08:00"
+   "last_seen_dropped": "2026-10-17T04:04:29+08:00"
   },
   {
    "at": "2026-10-11T21:07:20+08:00",
@@ -1071,7 +1095,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-16T23:35:52+08:00",
-   "last_seen_dropped": "2026-10-16T23:35:53+08:00"
+   "last_seen_dropped": "2026-10-17T04:04:29+08:00"
   },
   {
    "at": "2026-10-06T17:49:39+08:00",
@@ -1226,7 +1250,7 @@
    "description_chars": 20,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-12T03:45:35+08:00",
-   "last_seen_dropped": "2026-10-16T23:35:53+08:00"
+   "last_seen_dropped": "2026-10-17T04:04:29+08:00"
   },
   {
    "at": "2026-10-04T22:04:33+08:00",
@@ -1442,7 +1466,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-12T14:43:34+08:00",
-   "last_seen_dropped": "2026-10-16T23:35:53+08:00"
+   "last_seen_dropped": "2026-10-17T04:04:29+08:00"
   },
   {
    "at": "2026-10-07T07:52:50+08:00",
@@ -1514,7 +1538,7 @@
    "description_chars": 30,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-05T00:33:04+08:00",
-   "last_seen_dropped": "2026-10-16T21:24:07+08:00"
+   "last_seen_dropped": "2026-10-17T04:04:29+08:00"
   },
   {
    "at": "2026-10-04T22:03:03+08:00",
@@ -1538,7 +1562,7 @@
    "description_chars": 35,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-08T10:39:21+08:00",
-   "last_seen_dropped": "2026-10-16T23:35:53+08:00"
+   "last_seen_dropped": "2026-10-17T04:04:29+08:00"
   },
   {
    "at": "2026-10-06T02:13:19+08:00",

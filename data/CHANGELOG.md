@@ -2120,3 +2120,32 @@
 - `+` [helloHupc/dsh-plugin-hub](https://github.com/helloHupc/dsh-plugin-hub) — unverified / dsh-cordis — ⭐19
 - `+` [xyrrrrr-r/dsh-eval-control](https://github.com/xyrrrrr-r/dsh-eval-control) — inferred / dsh-cordis — ⭐17
 - …另有 62 条新增
+
+## 2026-10-17T04:04:28+08:00
+- 收录总数 **596**；本次更新新增 **107**
+- `+` [nexu-io/open-design](https://github.com/nexu-io/open-design) — inferred / dsh-cordis — ⭐101587
+- `+` [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) — inferred / dsh-cordis — ⭐19235
+- `+` [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) — inferred / dsh-cordis — ⭐19007
+- `+` [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) — inferred / dsh-cordis — ⭐6762
+- `+` [EthanYoQ/AI-Novel-Writer](https://github.com/EthanYoQ/AI-Novel-Writer) — inferred / dsh-cordis — ⭐1578
+- `+` [devswha/herdr-web-ui](https://github.com/devswha/herdr-web-ui) — inferred / mods — ⭐1093
+- `+` [ling-stack-org/ling-stack](https://github.com/ling-stack-org/ling-stack) — inferred / mods — ⭐524
+- `+` [vibeinging/dsh-desktop](https://github.com/vibeinging/dsh-desktop) — inferred / dsh-cordis — ⭐483
+- `+` [bruc3van/awesome-dsh-plugin](https://github.com/bruc3van/awesome-dsh-plugin) — inferred / dsh-cordis — ⭐418
+- `+` [Mars-Sea/dsh-commandcode-provider](https://github.com/Mars-Sea/dsh-commandcode-provider) — inferred / dsh-cordis — ⭐394
+- `+` [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) — inferred / dsh-cordis — ⭐235
+- `+` [FeatherHunter/dsh-mattpocock-skills-deck](https://github.com/FeatherHunter/dsh-mattpocock-skills-deck) — inferred / dsh-cordis — ⭐157
+- `+` [2BingLing/dsh-market](https://github.com/2BingLing/dsh-market) — inferred / dsh-cordis — ⭐154
+- `+` [amlyczz/dsh-agy-link](https://github.com/amlyczz/dsh-agy-link) — inferred / dsh-cordis — ⭐115
+- `+` [like-study1/Oh-My-DSH](https://github.com/like-study1/Oh-My-DSH) — inferred / dsh-cordis — ⭐91
+- `+` [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu) — inferred / dsh-cordis — ⭐88
+- `+` [kukucaiCndy/Corum-Harness](https://github.com/kukucaiCndy/Corum-Harness) — inferred / dsh-cordis — ⭐77
+- `+` [ZASENJC/dsh-plugins-store](https://github.com/ZASENJC/dsh-plugins-store) — inferred / dsh-cordis — ⭐70
+- `+` [Anthropic Console overcharged my card 100x due to internationalization input bug](https://news.ycombinator.com/item?id=50121562) — observed / writing — ⭐53
+- `+` [cheshireez/dsh-skill-hub](https://github.com/cheshireez/dsh-skill-hub) — inferred / official — ⭐30
+- `+` [AskTheWay/dsh-jev-interceptor](https://github.com/AskTheWay/dsh-jev-interceptor) — inferred / dsh-cordis — ⭐29
+- `+` [ZSeven-W/dsh-harbor](https://github.com/ZSeven-W/dsh-harbor) — inferred / dsh-cordis — ⭐24
+- `+` [Roarpeng/GraphFlow](https://github.com/Roarpeng/GraphFlow) — inferred / dsh-cordis — ⭐22
+- `+` [zp-home/dsh-recommend](https://github.com/zp-home/dsh-recommend) — inferred / dsh-cordis — ⭐22
+- `+` [YELEBAI/dsh-plugin-marketplace](https://github.com/YELEBAI/dsh-plugin-marketplace) — inferred / dsh-cordis — ⭐20
+- …另有 82 条新增
