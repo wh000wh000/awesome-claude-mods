@@ -1888,3 +1888,32 @@
 - `+` [ogxo-io/plugins](https://github.com/ogxo-io/plugins) — inferred / mods — ⭐4
 - `+` [rapita/claude-grammar](https://github.com/rapita/claude-grammar) — inferred / mods — ⭐4
 - …另有 26 条新增
+
+## 2026-10-16T08:03:16+08:00
+- 收录总数 **611**；本次更新新增 **153**
+- `+` [xing-shuyin/pi-web-ui](https://github.com/xing-shuyin/pi-web-ui) — inferred / dsh-cordis — ⭐300
+- `+` [sixtysevenlf/dsh-blender-plugin](https://github.com/sixtysevenlf/dsh-blender-plugin) — inferred / dsh-cordis — ⭐235
+- `+` [HeyCubit/effortless](https://github.com/HeyCubit/effortless) — observed / mods — ⭐205
+- `+` [daha1216/dsh-adult-tension](https://github.com/daha1216/dsh-adult-tension) — inferred / dsh-cordis — ⭐197
+- `+` [xiajiajun516/dsh-config-manager](https://github.com/xiajiajun516/dsh-config-manager) — inferred / dsh-cordis — ⭐191
+- `+` [KunoLu/sbtd-plugins](https://github.com/KunoLu/sbtd-plugins) — unverified / dsh-cordis — ⭐190
+- `+` [2BingLing/dsh-market](https://github.com/2BingLing/dsh-market) — inferred / dsh-cordis — ⭐153
+- `+` [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) — inferred / dsh-cordis — ⭐141
+- `+` [mexiaosqwq/dsh-web-mobile](https://github.com/mexiaosqwq/dsh-web-mobile) — inferred / dsh-cordis — ⭐136
+- `+` [Noob-stupid/dsh-plugin-gating-hub](https://github.com/Noob-stupid/dsh-plugin-gating-hub) — inferred / dsh-cordis — ⭐101
+- `+` [like-study1/Oh-My-DSH](https://github.com/like-study1/Oh-My-DSH) — inferred / dsh-cordis — ⭐91
+- `+` [REMvisual/claude-handoff](https://github.com/REMvisual/claude-handoff) — observed / mods — ⭐64
+- `+` [universe-st/dsh-game-material-master](https://github.com/universe-st/dsh-game-material-master) — inferred / dsh-cordis — ⭐51
+- `+` [codecast-sh/codecast](https://github.com/codecast-sh/codecast) — inferred / mods — ⭐40
+- `+` [magian1127/deepseek-harness-zh_pro](https://github.com/magian1127/deepseek-harness-zh_pro) — inferred / dsh-cordis — ⭐36
+- `+` [aklnaaw/dsh-claude-theme](https://github.com/aklnaaw/dsh-claude-theme) — inferred / dsh-cordis — ⭐21
+- `+` [helloHupc/dsh-plugin-hub](https://github.com/helloHupc/dsh-plugin-hub) — unverified / dsh-cordis — ⭐19
+- `+` [vecnode/vncode](https://github.com/vecnode/vncode) — inferred / dsh-cordis — ⭐8
+- `+` [mokuyoaxis/dsh-iris](https://github.com/mokuyoaxis/dsh-iris) — inferred / dsh-cordis — ⭐8
+- `+` [YangShen-SWE/dsh-plugin-simple-pet](https://github.com/YangShen-SWE/dsh-plugin-simple-pet) — inferred / dsh-cordis — ⭐7
+- `+` [Icather/dsh-clean-desktop-shell](https://github.com/Icather/dsh-clean-desktop-shell) — inferred / dsh-cordis — ⭐7
+- `+` [ryanclark/statusline](https://github.com/ryanclark/statusline) — unverified / mods — ⭐6
+- `+` [dsh-pub/dsh-pub](https://github.com/dsh-pub/dsh-pub) — inferred / dsh-cordis — ⭐6
+- `+` [Claude Code Mods](https://news.ycombinator.com/item?id=49925102) — observed / writing — ⭐6
+- `+` [AI enthusiast mods BIOS with Claude Code, defeats RSA-2048 signature checks](https://news.ycombinator.com/item?id=49156779) — observed / writing — ⭐5
+- …另有 128 条新增
