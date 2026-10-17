@@ -2178,3 +2178,32 @@
 - `+` [evertonalves-ai/mod-forge](https://github.com/evertonalves-ai/mod-forge) — observed / mods — ⭐0
 - `+` [fabiopbarbieri/agents-progress](https://github.com/fabiopbarbieri/agents-progress) — observed / mods — ⭐0
 - …另有 15 条新增
+
+## 2026-10-17T08:29:42+08:00
+- 收录总数 **597**；本次更新新增 **182**
+- `+` [alexgreensh/token-optimizer](https://github.com/alexgreensh/token-optimizer) — observed / mods — ⭐2579
+- `+` [iamumeransari/claude-show-your-work](https://github.com/iamumeransari/claude-show-your-work) — observed / mods — ⭐223
+- `+` [karanb192/cache-tax](https://github.com/karanb192/cache-tax) — observed / mods — ⭐200
+- `+` [wenbin-wb/dsh-bridge](https://github.com/wenbin-wb/dsh-bridge) — inferred / dsh-cordis — ⭐199
+- `+` [jaccen/Awesome-Gaussian-Skills](https://github.com/jaccen/Awesome-Gaussian-Skills) — inferred / dsh-cordis — ⭐162
+- `+` [hellosverre/claude-skins](https://github.com/hellosverre/claude-skins) — observed / mods — ⭐154
+- `+` [scasella/claude-flightdeck](https://github.com/scasella/claude-flightdeck) — observed / mods — ⭐96
+- `+` [JingbiaoMei/Tokdash](https://github.com/JingbiaoMei/Tokdash) — inferred / dsh-cordis — ⭐86
+- `+` [NovusEdge/glowup](https://github.com/NovusEdge/glowup) — observed / mods — ⭐30
+- `+` [tzafrir/human-in-the-loop](https://github.com/tzafrir/human-in-the-loop) — observed / mods — ⭐30
+- `+` [lizhiyao/oh-my-knowledge](https://github.com/lizhiyao/oh-my-knowledge) — inferred / dsh-cordis — ⭐23
+- `+` [aklnaaw/dsh-claude-theme](https://github.com/aklnaaw/dsh-claude-theme) — inferred / dsh-cordis — ⭐22
+- `+` [Gui-Gou/claude-statusline-burnrate](https://github.com/Gui-Gou/claude-statusline-burnrate) — inferred / mods — ⭐21
+- `+` [BrianHuang813/clawd-actor](https://github.com/BrianHuang813/clawd-actor) — observed / mods — ⭐21
+- `+` [pan17/dsh-wechat](https://github.com/pan17/dsh-wechat) — inferred / dsh-cordis — ⭐20
+- `+` [billLiao/awesome-dsh-plugin](https://github.com/billLiao/awesome-dsh-plugin) — inferred / dsh-cordis — ⭐15
+- `+` [S3K926/dsh-memory-board](https://github.com/S3K926/dsh-memory-board) — inferred / dsh-cordis — ⭐13
+- `+` [furqan-khan07/pixelband](https://github.com/furqan-khan07/pixelband) — observed / mods — ⭐12
+- `+` [xuanji86/claude-statuspane](https://github.com/xuanji86/claude-statuspane) — observed / mods — ⭐12
+- `+` [xuanji86/claude-agentpane](https://github.com/xuanji86/claude-agentpane) — observed / mods — ⭐12
+- `+` [letswritetw/claude-mod-open-todos](https://github.com/letswritetw/claude-mod-open-todos) — observed / mods — ⭐12
+- `+` [letswritetw/claude-mod-token-usage](https://github.com/letswritetw/claude-mod-token-usage) — observed / mods — ⭐12
+- `+` [bruw/workflow-conductor](https://github.com/bruw/workflow-conductor) — observed / mods — ⭐10
+- `+` [eighteyes/cactus](https://github.com/eighteyes/cactus) — observed / mods — ⭐9
+- `+` [omarcevi/claudemods](https://github.com/omarcevi/claudemods) — observed / mods — ⭐9
+- …另有 157 条新增
