@@ -3423,6 +3423,10 @@ The ecosystem is concentrated in Python and TypeScript, but typed clients keep a
 
 <sub>Only entries that declare a language are counted. Documentation and discussion entries are excluded from this table.</sub>
 
+## Related MCP Servers
+
+- **[No Stairs Please MCP](https://nostairsplease.com/mcp)** — Remote MCP server for querying US small live-music venues and booking contacts ([directory](https://nostairsplease.com/), [venues](https://nostairsplease.com/venues)).
+
 ## Contributing
 
 Corrections are welcome and are the fastest way to improve this list. Open an issue or a pull request if an entry is misfiled, mis-graded, or if a project has been wrongly excluded as a name collision — that last category is where automated filters are most likely to be wrong.
